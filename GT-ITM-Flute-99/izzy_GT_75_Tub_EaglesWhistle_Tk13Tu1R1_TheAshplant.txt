@@ -1,268 +1,268 @@
-1	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	0.68878	1.2286	0.5398	NOTE	G4	391.29	1
-2	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	1.249	1.4561	0.20714	NOTE	A4	435.322	1
-3	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	1.4633	1.6765	0.21327	NOTE	B4	490.305	1
-4	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	1.6969	1.8653	0.16837	NOTE	E4	330.726	1
-5	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	1.8724	1.9173	0.044898	ct	F4	341.758	2
-6	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	1.9214	2.2031	0.28163	NOTE	E4	328.698	1
-7	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	2.2071	2.2622	0.055102	ct	F#4	368.698	2
-8	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	2.2663	2.4622	0.19592	NOTE	F#4	363.155	1
-9	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	2.4765	2.6327	0.15612	NOTE	E4	331.968	1
-10	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	2.65	2.8245	0.17449	NOTE	D4	293.158	1
-11	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	2.8245	2.9582	0.13367	NOTE	F#4	360.655	1
-12	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	2.9582	3.1735	0.21531	NOTE	B4	495.539	1
-13	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	3.1939	3.2908	0.096939	shRoll_ct	E4	329.683	5
-14	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	3.2949	3.3612	0.066327	shRoll_nt	E4	338.918	1
-15	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	3.3673	3.4276	0.060204	shRoll_str	E4	331.968	3
-16	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	3.4286	3.4827	0.054082	shRoll_nt	E4	325.16	1
-17	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	3.4867	3.6184	0.13163	ct	E4	331.968	2
-18	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	3.6265	3.6939	0.067347	NOTE	G#4	408.401	1
-19	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	3.701	3.8337	0.13265	NOTE	F#4	360.655	1
-20	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	3.8408	4.0061	0.16531	NOTE	E4	331.968	1
-21	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.0082	4.0847	0.076531	BREATH	BREATH	0	4
-22	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.0898	4.2531	0.16327	NOTE	D4	292.147	1
-23	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.2531	4.4837	0.23061	NOTE	B4	493.831	1
-24	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.4969	4.6214	0.12449	shRoll_ct	E4	329.683	5
-25	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.6245	4.6633	0.038776	shRoll_nt	F4	348.412	1
-26	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.6673	4.7112	0.043878	shRoll_str	E4	337.75	3
-27	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.7204	4.75	0.029592	shRoll_nt	E4	322.922	1
-28	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.7612	4.898	0.13673	ct	E4	335.425	2
-29	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.9041	4.9378	0.033673	NOTE	A4	433.096	1
-30	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.9398	5.1224	0.18265	NOTE	F4	359.412	1
-31	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.1276	5.2531	0.12551	NOTE	E4	337.75	1
-32	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.2622	5.4051	0.14286	NOTE	D4	293.158	1
-33	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.4051	5.4878	0.082653	NOTE	F#4	365.672	1
-34	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.4898	5.7122	0.22245	NOTE	B4	497.253	1
-35	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.7163	5.8204	0.10408	NOTE	E4	329.683	1
-36	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.8245	5.8592	0.034694	shRoll_ct	E4	338.918	5
-37	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.8612	5.9347	0.073469	shRoll_nt	E4	329.683	1
-38	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.9408	5.9724	0.031633	shRoll_str	Eb4	319.593	3
-39	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.9786	6.0541	0.07551	shRoll_nt	E4	330.823	1
-40	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	6.0648	6.2926	0.22785	NOTE	F#4	361.903	1
-41	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	6.2941	6.3913	0.097234	NOTE	E4	327.413	1
-42	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	6.4	6.4827	0.082721	NOTE	D4	294.172	1
-43	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	6.4929	6.6873	0.19447	BREATH	BREATH	0	4
-44	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	6.6975	6.847	0.14948	NOTE	B4	497.253	1
-45	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	6.8673	6.9616	0.094331	NOTE	E4	330.823	1
-46	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	6.966	7.0284	0.062404	NOTE	E4	335.425	1
-47	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	7.0342	7.1169	0.082721	NOTE	E4	329.683	1
-48	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	7.1169	7.2577	0.14077	NOTE	D5	582.869	1
-49	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	7.262	7.3636	0.10159	NOTE	B4	493.831	1
-50	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	7.3752	7.4913	0.1161	NOTE	A4	445.228	1
-51	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	7.4986	7.664	0.16544	NOTE	G4	387.783	1
-52	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	7.6756	7.8019	0.12626	NOTE	A4	437.606	1
-53	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	7.8019	7.9398	0.13787	NOTE	B4	493.831	1
-54	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	7.947	8.037	0.089977	NOTE	E5	655.489	1
-55	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.0486	8.0791	0.030476	ct	E5	676.183	2
-56	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.0936	8.1691	0.075465	NOTE	E5	660.032	1
-57	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.172	8.3156	0.14367	NOTE	D5	582.869	1
-58	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.3229	8.455	0.13206	lngRoll_nt	G4	389.125	
-59	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.4622	8.4956	0.033379	lngRoll_ct	G4	395.902	
-60	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.513	8.5812	0.068209	lngRoll_nt	G4	390.471	
-61	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.5957	8.619	0.02322	lngRoll_str	F#4	378.521	
-62	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.6248	8.7147	0.089977	lngRoll_nt	G4	386.446	
-63	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.722	8.8686	0.14658	NOTE	A4	439.12	1
-64	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.8694	8.999	0.12959	NOTE	B4	493.998	1
-65	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.0082	9.1041	0.095918	NOTE	E5	659.83	1
-66	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.1112	9.1602	0.04898	ct	G5	765.865	2
-67	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.1633	9.2408	0.077551	NOTE	E5	659.83	1
-68	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.251	9.398	0.14694	NOTE	D5	579.995	1
-69	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.401	9.5735	0.17245	NOTE	B4	496.838	1
-70	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.5745	9.6847	0.1102	NOTE	A4	439.234	1
-71	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.6898	9.852	0.16224	NOTE	G4	392.786	1
-72	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.852	9.9724	0.12041	NOTE	A4	436.724	1
-73	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.9776	10.1245	0.14694	NOTE	B4	499.694	1
-74	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	10.1327	10.2173	0.084694	NOTE	E5	663.623	1
-75	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	10.2173	10.3592	0.14184	NOTE	D5	581.66	1
-76	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	10.3684	10.5	0.13163	NOTE	B4	493.998	1
-77	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	10.5143	10.601	0.086735	NOTE	A4	448.135	1
-78	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	10.6163	10.7755	0.15918	BREATH	BREATH	0	4
-79	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	10.7888	10.951	0.16224	NOTE	G4	393.913	1
-80	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	10.9531	11.0357	0.082653	NOTE	A4	437.977	1
-81	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.0418	11.1837	0.14184	NOTE	B4	498.264	1
-82	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.1888	11.2898	0.10102	NOTE	E5	663.623	1
-83	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.3041	11.3449	0.040816	ct	A5	876.294	2
-84	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.3602	11.4235	0.063265	NOTE	E5	661.724	1
-85	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.4286	11.5714	0.14286	NOTE	D5	578.335	1
-86	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.5765	11.7286	0.15204	NOTE	B4	496.838	1
-87	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.7286	11.8469	0.11837	NOTE	A4	436.724	1
-88	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.8469	11.9939	0.14694	NOTE	G4	395.044	1
-89	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.9939	12.1184	0.12449	NOTE	A4	441.759	1
-90	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.1224	12.2643	0.14184	NOTE	B4	499.694	1
-91	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.2684	12.3541	0.085714	NOTE	E5	657.942	1
-92	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.3602	12.4071	0.046939	NOTE	A5	871.285	1
-93	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.4133	12.5184	0.1051	NOTE	E5	663.623	1
-94	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.5224	12.6459	0.12347	NOTE	D5	581.66	1
-95	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.6582	12.7735	0.11531	lngRoll_nt	G4	393.913	
-96	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.7765	12.798	0.021429	lngRoll_ct	A4	431.746	
-97	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.8082	12.902	0.093878	lngRoll_nt	G4	395.044	
-98	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.9071	12.9347	0.027551	lngRoll_str	G4	389.423	
-99	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.9469	13.052	0.1051	lngRoll_nt	G4	396.178	
-100	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.052	13.1867	0.13469	NOTE	A4	441.759	1
-101	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.1918	13.2408	0.04898	NOTE	B4	502.252	1
-102	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.249	13.452	0.20306	BREATH	BREATH	0	4
-103	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.4663	13.4888	0.022449	ct	C#5	554.992	2
-104	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.4915	13.5873	0.095782	NOTE	B4	496.022	1
-105	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.5902	13.6998	0.10957	NOTE	A4	441.248	1
-106	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.7049	13.8289	0.12408	NOTE	B4	496.797	1
-107	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.8289	13.9762	0.1473	NOTE	D5	589.811	1
-108	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.9799	14.1141	0.13424	NOTE	E5	663.027	1
-109	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.1163	14.1939	0.077642	NOTE	F#5	733.793	1
-110	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.2084	14.2505	0.042086	ct	A5	869.821	2
-111	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.2571	14.3927	0.13569	NOTE	G5	778.613	1
-112	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.3993	14.4987	0.09941	NOTE	E5	660.961	1
-113	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.4987	14.6141	0.11537	NOTE	D5	587.973	1
-114	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.6315	14.7556	0.12408	NOTE	B4	495.249	1
-115	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.7592	14.8346	0.075465	NOTE	A4	443.318	1
-116	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.8361	14.9014	0.065306	NOTE	C5	523.862	1
-117	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.9087	15.0102	0.10159	NOTE	A4	443.318	1
-118	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.0161	15.1786	0.16254	NOTE	G4	393.749	1
-119	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.1786	15.2715	0.09288	NOTE	A4	439.873	1
-120	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.2766	15.3868	0.11029	NOTE	B4	498.35	1
-121	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.3992	15.4725	0.073288	NOTE	C#5	543.849	1
-122	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.4732	15.5421	0.068934	NOTE	B4	496.022	1
-123	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.5421	15.6822	0.14005	NOTE	E5	660.961	1
-124	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.6938	15.8273	0.13351	NOTE	B4	500.688	1
-125	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.8273	15.9891	0.16181	NOTE	F#5	738.387	1
-126	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.9927	16.0791	0.086349	NOTE	B4	497.573	1
-127	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	16.0791	16.2358	0.15673	NOTE	E5	661.993	1
-128	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	16.246	16.3273	0.08127	NOTE	B4	501.469	1
-129	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	16.3352	16.4085	0.073288	NOTE	B4	501.469	1
-130	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	16.4143	16.5907	0.17633	BREATH	BREATH	0	4
-131	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	16.5965	16.73	0.13351	NOTE	E5	664.062	1
-132	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	16.73	16.8483	0.11828	NOTE	D5	580.68	1
-133	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	16.8584	17.0101	0.15166	NOTE	B4	496.797	1
-134	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.013	17.1385	0.12553	NOTE	A4	439.188	1
-135	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.1443	17.2713	0.12698	NOTE	G4	392.523	1
-136	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.2735	17.3729	0.09941	NOTE	A4	442.627	1
-137	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.3729	17.4737	0.10086	NOTE	B4	496.022	1
-138	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.4766	17.518	0.041361	NOTE	B4	508.561	1
-139	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.5216	17.6493	0.12771	NOTE	B4	496.022	1
-140	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.658	17.7654	0.10739	NOTE	E5	664.062	1
-141	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.7785	17.8975	0.119	NOTE	B4	494.477	1
-142	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.9055	18.0165	0.11102	lngRoll_nt	F#5	734.939	
-143	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.023	18.0608	0.037732	lngRoll_ct	G#5	848.376	
-144	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.0746	18.1645	0.089977	lngRoll_nt	F#5	738.387	
-145	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.1703	18.1921	0.021769	lngRoll_str	F#5	723.561	
-146	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.2044	18.322	0.11755	lngRoll_nt	F#5	736.086	
-147	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.3256	18.4548	0.12916	NOTE	D5	586.141	1
-148	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.4548	18.5912	0.13642	NOTE	E5	664.062	1
-149	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.5912	18.6921	0.10086	NOTE	G5	782.266	1
-150	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.6986	18.8045	0.10594	NOTE	D5	586.141	1
-151	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.8198	18.9736	0.15383	NOTE	B4	495.249	1
-152	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.9794	19.0425	0.063129	NOTE	Bb4	458.799	1
-153	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.0534	19.0962	0.042812	NOTE	C5	528.789	1
-154	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.1028	19.1913	0.088526	NOTE	A4	443.318	1
-155	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.1971	19.3422	0.14512	NOTE	G4	391.911	1
-156	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.3538	19.4736	0.11973	NOTE	A4	437.82	1
-157	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.4815	19.5519	0.070385	NOTE	B4	501.469	1
-158	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.5577	19.7377	0.17995	BREATH	BREATH	0	4
-159	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.7428	19.8436	0.10086	NOTE	E5	671.354	1
-160	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.8545	19.9677	0.1132	NOTE	B4	499.907	1
-161	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.9677	20.1288	0.16109	NOTE	F#5	739.539	1
-162	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	20.1368	20.25	0.1132	NOTE	B4	501.469	1
-163	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	20.25	20.3864	0.13642	NOTE	E5	668.219	1
-164	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	20.4024	20.4706	0.068209	NOTE	B4	506.976	1
-165	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	20.4873	20.5475	0.060227	NOTE	B4	505.397	1
-166	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	20.554	20.7586	0.20463	BREATH	BREATH	0	4
-167	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	20.7673	20.8893	0.1219	NOTE	E5	661.993	1
-168	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	20.8907	21.0155	0.12481	NOTE	D5	588.891	1
-169	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.0191	21.1599	0.14077	NOTE	B4	496.797	1
-170	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.1701	21.2738	0.10376	NOTE	A4	441.248	1
-171	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.2876	21.4044	0.11683	NOTE	G4	394.364	1
-172	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.4102	21.5068	0.096508	NOTE	A4	438.503	1
-173	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.5082	21.58	0.071837	NOTE	B4	502.252	1
-174	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.5873	21.6395	0.052245	NOTE	C#5	544.698	1
-175	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.6424	21.7796	0.13714	NOTE	D5	582.495	1
-176	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.7796	21.9153	0.13569	NOTE	E5	666.137	1
-177	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.9167	22.0147	0.097959	NOTE	F#5	731.507	1
-178	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.0183	22.1235	0.10522	lngRoll_nt	G5	784.71	
-179	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.1264	22.1526	0.026122	lngRoll_ct	A5	865.759	
-180	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.1671	22.2621	0.095057	lngRoll_nt	G5	781.046	
-181	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.2672	22.2897	0.022494	lngRoll_str	G5	768.955	
-182	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.2933	22.3913	0.097959	lngRoll_nt	G5	788.392	
-183	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.3956	22.503	0.10739	NOTE	A5	873.901	1
-184	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.5125	22.6017	0.089252	NOTE	G5	788.392	1
-185	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.6061	22.6416	0.035556	ct	G5	805.802	2
-186	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.6438	22.7091	0.065306	NOTE	G5	787.163	1
-187	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.7091	22.8071	0.097959	NOTE	E5	665.099	1
-188	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.8071	22.9232	0.1161	NOTE	D5	582.495	1
-189	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.9275	23.0436	0.1161	NOTE	B4	499.907	1
-190	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.0487	23.1394	0.090703	NOTE	A4	448.886	1
-191	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.1474	23.3092	0.16181	BREATH	BREATH	0	4
-192	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.3136	23.4877	0.17415	NOTE	G4	392.523	1
-193	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.4877	23.5632	0.075465	NOTE	A4	448.186	1
-194	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.5661	23.7105	0.1444	NOTE	B4	498.35	1
-195	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.7243	23.8324	0.10812	NOTE	E5	661.993	1
-196	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.8353	23.8571	0.021769	ct	A5	865.759	2
-197	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.8701	23.9804	0.11029	NOTE	E5	664.062	1
-198	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.9819	24.0951	0.1132	NOTE	D5	587.056	1
-199	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	24.1081	24.2474	0.13932	NOTE	B4	496.797	1
-200	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	24.2511	24.3759	0.12481	NOTE	A4	441.937	1
-201	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	24.3824	24.521	0.13859	NOTE	G4	395.597	1
-202	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	24.521	24.6211	0.10014	NOTE	A4	442.627	1
-203	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	24.6233	24.7822	0.15891	NOTE	B4	502.252	1
-204	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	24.7822	24.8751	0.09288	NOTE	E4	334.774	1
-205	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	24.8816	24.907	0.025397	ct	A4	447.488	2
-206	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	24.9121	25.018	0.10594	NOTE	E4	334.774	1
-207	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.0231	25.1487	0.12553	NOTE	D4	293.653	1
-208	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.1501	25.235	0.084898	lngRoll_nt	G4	395.597	
-209	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.2459	25.2793	0.033379	lngRoll_ct	A4	435.775	
-210	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.2844	25.4005	0.1161	lngRoll_nt	G4	396.214	
-211	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.4055	25.4331	0.027574	lngRoll_str	G4	387.049	
-212	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.4418	25.5332	0.091429	lngRoll_nt	G4	396.833	
-213	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.5507	25.637	0.086349	NOTE	A4	444.704	1
-214	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.6493	25.7792	0.12989	NOTE	B4	500.688	1
-215	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.7872	25.8772	0.089977	NOTE	E5	665.099	1
-216	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.8844	25.9135	0.029025	ct	A5	863.062	2
-217	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.9258	26.0129	0.087075	NOTE	E5	663.027	1
-218	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	26.0165	26.1551	0.13859	NOTE	D5	587.056	1
-219	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	26.1616	26.3017	0.14005	NOTE	B4	496.797	1
-220	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	26.3017	26.4033	0.10159	NOTE	A4	441.937	1
-221	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	26.4141	26.5615	0.1473	NOTE	G4	395.597	1
-222	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	26.5673	26.6768	0.10957	NOTE	A4	443.318	1
-223	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	26.6797	26.8227	0.14295	NOTE	B4	499.907	1
-224	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	26.8227	26.9337	0.11102	NOTE	E5	659.931	1
-225	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	26.9337	27.0433	0.10957	NOTE	D5	587.056	1
-226	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.0563	27.1702	0.11392	NOTE	B4	501.469	1
-227	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.1724	27.2668	0.094331	NOTE	Bb4	454.524	1
-228	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.2718	27.446	0.17415	BREATH	BREATH	0	4
-229	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.4467	27.5984	0.15166	NOTE	G4	394.98	1
-230	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.6049	27.6833	0.078367	NOTE	A4	442.627	1
-231	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.6854	27.7631	0.077642	NOTE	B4	507.768	1
-232	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.7689	27.9445	0.1756	BREATH	BREATH	0	4
-233	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.9452	27.9699	0.024671	ct	G5	772.563	2
-234	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.9771	28.0657	0.088526	NOTE	E5	669.262	1
-235	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.0737	28.2064	0.13279	NOTE	D5	587.056	1
-236	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.213	28.3523	0.13932	NOTE	B4	497.573	1
-237	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.3545	28.4713	0.11683	NOTE	A4	442.627	1
-238	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.4742	28.6106	0.13642	NOTE	G4	393.749	1
-239	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.6106	28.71	0.09941	NOTE	A4	440.56	1
-240	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.7122	28.8522	0.14005	NOTE	B4	496.797	1
-241	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.853	28.9546	0.10159	NOTE	E5	658.902	1
-242	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.9582	28.9887	0.030476	ct	E5	678.726	2
-243	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.9916	29.0641	0.072562	NOTE	E5	660.961	1
-244	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.0779	29.2274	0.14948	NOTE	D4	291.371	1
-245	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.2383	29.3587	0.12045	lngRoll_nt	G4	391.911	
-246	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.3587	29.3812	0.022494	lngRoll_ct	A4	432.389	
-247	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.3849	29.4973	0.11247	lngRoll_nt	G4	394.98	
-248	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.5039	29.53	0.026122	lngRoll_str	G4	384.641	
-249	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.5409	29.6287	0.0878	lngRoll_nt	G4	394.98	
-250	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.6287	29.7324	0.10376	NOTE	A4	443.318	1
-251	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.7419	29.8108	0.068934	NOTE	B4	499.128	1
-252	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.8173	30.0053	0.18794	NOTE	B4	499.128	1
-253	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.0089	30.0328	0.023946	ct	C#5	556.727	2
-254	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.0328	30.1293	0.096508	NOTE	B4	496.797	1
-255	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.1351	30.2607	0.12553	NOTE	A4	440.56	1
-256	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.265	30.3906	0.12553	NOTE	B4	503.037	1
-257	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.3927	30.5284	0.13569	NOTE	D5	587.973	1
-258	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.5335	30.6511	0.11755	NOTE	E5	663.027	1
-259	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.6649	30.7512	0.086349	NOTE	F#5	738.387	1
-260	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.7686	30.7962	0.027574	NOTE	A5	879.372	1
-261	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.8085	30.9145	0.10594	NOTE	G5	778.613	1
-262	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.9319	31.0306	0.098685	NOTE	E5	665.099	1
-263	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	31.0306	31.1394	0.10884	NOTE	D5	592.578	1
-264	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	31.167	31.2468	0.079819	NOTE	B4	496.797	1
-265	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	31.2555	31.3368	0.08127	NOTE	A4	444.704	1
-266	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	31.344	31.4079	0.063855	NOTE	Bb4	459.515	1
-267	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	31.4108	31.524	0.1132	NOTE	A4	444.01	1
-268	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	31.5378	31.6778	0.14005	ct	G4	393.749	2
+1	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	0.68878	1.2286	0.5398	NOTE	G4	391.29
+2	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	1.249	1.4561	0.20714	NOTE	A4	435.322
+3	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	1.4633	1.6765	0.21327	NOTE	B4	490.305
+4	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	1.6969	1.8653	0.16837	NOTE	E4	330.726
+5	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	1.8724	1.9173	0.044898	ct	F4	341.758
+6	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	1.9214	2.2031	0.28163	NOTE	E4	328.698
+7	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	2.2071	2.2622	0.055102	ct	F#4	368.698
+8	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	2.2663	2.4622	0.19592	NOTE	F#4	363.155
+9	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	2.4765	2.6327	0.15612	NOTE	E4	331.968
+10	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	2.65	2.8245	0.17449	NOTE	D4	293.158
+11	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	2.8245	2.9582	0.13367	NOTE	F#4	360.655
+12	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	2.9582	3.1735	0.21531	NOTE	B4	495.539
+13	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	3.1939	3.2908	0.096939	shRoll_ct	E4	329.683
+14	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	3.2949	3.3612	0.066327	shRoll_nt	E4	338.918
+15	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	3.3673	3.4276	0.060204	shRoll_str	E4	331.968
+16	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	3.4286	3.4827	0.054082	shRoll_nt	E4	325.16
+17	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	3.4867	3.6184	0.13163	ct	E4	331.968
+18	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	3.6265	3.6939	0.067347	NOTE	G#4	408.401
+19	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	3.701	3.8337	0.13265	NOTE	F#4	360.655
+20	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	3.8408	4.0061	0.16531	NOTE	E4	331.968
+21	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.0082	4.0847	0.076531	BREATH	BREATH	0
+22	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.0898	4.2531	0.16327	NOTE	D4	292.147
+23	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.2531	4.4837	0.23061	NOTE	B4	493.831
+24	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.4969	4.6214	0.12449	shRoll_ct	E4	329.683
+25	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.6245	4.6633	0.038776	shRoll_nt	F4	348.412
+26	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.6673	4.7112	0.043878	shRoll_str	E4	337.75
+27	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.7204	4.75	0.029592	shRoll_nt	E4	322.922
+28	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.7612	4.898	0.13673	ct	E4	335.425
+29	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.9041	4.9378	0.033673	NOTE	A4	433.096
+30	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	4.9398	5.1224	0.18265	NOTE	F4	359.412
+31	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.1276	5.2531	0.12551	NOTE	E4	337.75
+32	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.2622	5.4051	0.14286	NOTE	D4	293.158
+33	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.4051	5.4878	0.082653	NOTE	F#4	365.672
+34	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.4898	5.7122	0.22245	NOTE	B4	497.253
+35	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.7163	5.8204	0.10408	NOTE	E4	329.683
+36	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.8245	5.8592	0.034694	shRoll_ct	E4	338.918
+37	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.8612	5.9347	0.073469	shRoll_nt	E4	329.683
+38	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.9408	5.9724	0.031633	shRoll_str	Eb4	319.593
+39	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	5.9786	6.0541	0.07551	shRoll_nt	E4	330.823
+40	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	6.0648	6.2926	0.22785	NOTE	F#4	361.903
+41	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	6.2941	6.3913	0.097234	NOTE	E4	327.413
+42	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	6.4	6.4827	0.082721	NOTE	D4	294.172
+43	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	6.4929	6.6873	0.19447	BREATH	BREATH	0
+44	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	6.6975	6.847	0.14948	NOTE	B4	497.253
+45	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	6.8673	6.9616	0.094331	NOTE	E4	330.823
+46	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	6.966	7.0284	0.062404	NOTE	E4	335.425
+47	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	7.0342	7.1169	0.082721	NOTE	E4	329.683
+48	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	7.1169	7.2577	0.14077	NOTE	D5	582.869
+49	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	7.262	7.3636	0.10159	NOTE	B4	493.831
+50	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	7.3752	7.4913	0.1161	NOTE	A4	445.228
+51	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	7.4986	7.664	0.16544	NOTE	G4	387.783
+52	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	7.6756	7.8019	0.12626	NOTE	A4	437.606
+53	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	7.8019	7.9398	0.13787	NOTE	B4	493.831
+54	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	7.947	8.037	0.089977	NOTE	E5	655.489
+55	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.0486	8.0791	0.030476	ct	E5	676.183
+56	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.0936	8.1691	0.075465	NOTE	E5	660.032
+57	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.172	8.3156	0.14367	NOTE	D5	582.869
+58	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.3229	8.455	0.13206	lngRoll_nt	G4	389.125
+59	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.4622	8.4956	0.033379	lngRoll_ct	G4	395.902
+60	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.513	8.5812	0.068209	lngRoll_nt	G4	390.471
+61	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.5957	8.619	0.02322	lngRoll_str	F#4	378.521
+62	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.6248	8.7147	0.089977	lngRoll_nt	G4	386.446
+63	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.722	8.8686	0.14658	NOTE	A4	439.12
+64	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	8.8694	8.999	0.12959	NOTE	B4	493.998
+65	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.0082	9.1041	0.095918	NOTE	E5	659.83
+66	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.1112	9.1602	0.04898	ct	G5	765.865
+67	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.1633	9.2408	0.077551	NOTE	E5	659.83
+68	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.251	9.398	0.14694	NOTE	D5	579.995
+69	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.401	9.5735	0.17245	NOTE	B4	496.838
+70	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.5745	9.6847	0.1102	NOTE	A4	439.234
+71	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.6898	9.852	0.16224	NOTE	G4	392.786
+72	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.852	9.9724	0.12041	NOTE	A4	436.724
+73	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	9.9776	10.1245	0.14694	NOTE	B4	499.694
+74	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	10.1327	10.2173	0.084694	NOTE	E5	663.623
+75	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	10.2173	10.3592	0.14184	NOTE	D5	581.66
+76	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	10.3684	10.5	0.13163	NOTE	B4	493.998
+77	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	10.5143	10.601	0.086735	NOTE	A4	448.135
+78	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	10.6163	10.7755	0.15918	BREATH	BREATH	0
+79	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	10.7888	10.951	0.16224	NOTE	G4	393.913
+80	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	10.9531	11.0357	0.082653	NOTE	A4	437.977
+81	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.0418	11.1837	0.14184	NOTE	B4	498.264
+82	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.1888	11.2898	0.10102	NOTE	E5	663.623
+83	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.3041	11.3449	0.040816	ct	A5	876.294
+84	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.3602	11.4235	0.063265	NOTE	E5	661.724
+85	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.4286	11.5714	0.14286	NOTE	D5	578.335
+86	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.5765	11.7286	0.15204	NOTE	B4	496.838
+87	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.7286	11.8469	0.11837	NOTE	A4	436.724
+88	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.8469	11.9939	0.14694	NOTE	G4	395.044
+89	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	11.9939	12.1184	0.12449	NOTE	A4	441.759
+90	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.1224	12.2643	0.14184	NOTE	B4	499.694
+91	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.2684	12.3541	0.085714	NOTE	E5	657.942
+92	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.3602	12.4071	0.046939	NOTE	A5	871.285
+93	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.4133	12.5184	0.1051	NOTE	E5	663.623
+94	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.5224	12.6459	0.12347	NOTE	D5	581.66
+95	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.6582	12.7735	0.11531	lngRoll_nt	G4	393.913
+96	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.7765	12.798	0.021429	lngRoll_ct	A4	431.746
+97	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.8082	12.902	0.093878	lngRoll_nt	G4	395.044
+98	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.9071	12.9347	0.027551	lngRoll_str	G4	389.423
+99	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	12.9469	13.052	0.1051	lngRoll_nt	G4	396.178
+100	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.052	13.1867	0.13469	NOTE	A4	441.759
+101	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.1918	13.2408	0.04898	NOTE	B4	502.252
+102	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.249	13.452	0.20306	BREATH	BREATH	0
+103	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.4663	13.4888	0.022449	ct	C#5	554.992
+104	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.4915	13.5873	0.095782	NOTE	B4	496.022
+105	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.5902	13.6998	0.10957	NOTE	A4	441.248
+106	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.7049	13.8289	0.12408	NOTE	B4	496.797
+107	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.8289	13.9762	0.1473	NOTE	D5	589.811
+108	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	13.9799	14.1141	0.13424	NOTE	E5	663.027
+109	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.1163	14.1939	0.077642	NOTE	F#5	733.793
+110	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.2084	14.2505	0.042086	ct	A5	869.821
+111	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.2571	14.3927	0.13569	NOTE	G5	778.613
+112	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.3993	14.4987	0.09941	NOTE	E5	660.961
+113	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.4987	14.6141	0.11537	NOTE	D5	587.973
+114	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.6315	14.7556	0.12408	NOTE	B4	495.249
+115	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.7592	14.8346	0.075465	NOTE	A4	443.318
+116	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.8361	14.9014	0.065306	NOTE	C5	523.862
+117	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	14.9087	15.0102	0.10159	NOTE	A4	443.318
+118	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.0161	15.1786	0.16254	NOTE	G4	393.749
+119	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.1786	15.2715	0.09288	NOTE	A4	439.873
+120	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.2766	15.3868	0.11029	NOTE	B4	498.35
+121	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.3992	15.4725	0.073288	NOTE	C#5	543.849
+122	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.4732	15.5421	0.068934	NOTE	B4	496.022
+123	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.5421	15.6822	0.14005	NOTE	E5	660.961
+124	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.6938	15.8273	0.13351	NOTE	B4	500.688
+125	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.8273	15.9891	0.16181	NOTE	F#5	738.387
+126	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	15.9927	16.0791	0.086349	NOTE	B4	497.573
+127	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	16.0791	16.2358	0.15673	NOTE	E5	661.993
+128	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	16.246	16.3273	0.08127	NOTE	B4	501.469
+129	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	16.3352	16.4085	0.073288	NOTE	B4	501.469
+130	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	16.4143	16.5907	0.17633	BREATH	BREATH	0
+131	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	16.5965	16.73	0.13351	NOTE	E5	664.062
+132	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	16.73	16.8483	0.11828	NOTE	D5	580.68
+133	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	16.8584	17.0101	0.15166	NOTE	B4	496.797
+134	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.013	17.1385	0.12553	NOTE	A4	439.188
+135	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.1443	17.2713	0.12698	NOTE	G4	392.523
+136	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.2735	17.3729	0.09941	NOTE	A4	442.627
+137	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.3729	17.4737	0.10086	NOTE	B4	496.022
+138	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.4766	17.518	0.041361	NOTE	B4	508.561
+139	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.5216	17.6493	0.12771	NOTE	B4	496.022
+140	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.658	17.7654	0.10739	NOTE	E5	664.062
+141	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.7785	17.8975	0.119	NOTE	B4	494.477
+142	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	17.9055	18.0165	0.11102	lngRoll_nt	F#5	734.939
+143	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.023	18.0608	0.037732	lngRoll_ct	G#5	848.376
+144	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.0746	18.1645	0.089977	lngRoll_nt	F#5	738.387
+145	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.1703	18.1921	0.021769	lngRoll_str	F#5	723.561
+146	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.2044	18.322	0.11755	lngRoll_nt	F#5	736.086
+147	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.3256	18.4548	0.12916	NOTE	D5	586.141
+148	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.4548	18.5912	0.13642	NOTE	E5	664.062
+149	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.5912	18.6921	0.10086	NOTE	G5	782.266
+150	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.6986	18.8045	0.10594	NOTE	D5	586.141
+151	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.8198	18.9736	0.15383	NOTE	B4	495.249
+152	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	18.9794	19.0425	0.063129	NOTE	Bb4	458.799
+153	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.0534	19.0962	0.042812	NOTE	C5	528.789
+154	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.1028	19.1913	0.088526	NOTE	A4	443.318
+155	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.1971	19.3422	0.14512	NOTE	G4	391.911
+156	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.3538	19.4736	0.11973	NOTE	A4	437.82
+157	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.4815	19.5519	0.070385	NOTE	B4	501.469
+158	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.5577	19.7377	0.17995	BREATH	BREATH	0
+159	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.7428	19.8436	0.10086	NOTE	E5	671.354
+160	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.8545	19.9677	0.1132	NOTE	B4	499.907
+161	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	19.9677	20.1288	0.16109	NOTE	F#5	739.539
+162	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	20.1368	20.25	0.1132	NOTE	B4	501.469
+163	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	20.25	20.3864	0.13642	NOTE	E5	668.219
+164	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	20.4024	20.4706	0.068209	NOTE	B4	506.976
+165	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	20.4873	20.5475	0.060227	NOTE	B4	505.397
+166	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	20.554	20.7586	0.20463	BREATH	BREATH	0
+167	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	20.7673	20.8893	0.1219	NOTE	E5	661.993
+168	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	20.8907	21.0155	0.12481	NOTE	D5	588.891
+169	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.0191	21.1599	0.14077	NOTE	B4	496.797
+170	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.1701	21.2738	0.10376	NOTE	A4	441.248
+171	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.2876	21.4044	0.11683	NOTE	G4	394.364
+172	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.4102	21.5068	0.096508	NOTE	A4	438.503
+173	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.5082	21.58	0.071837	NOTE	B4	502.252
+174	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.5873	21.6395	0.052245	NOTE	C#5	544.698
+175	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.6424	21.7796	0.13714	NOTE	D5	582.495
+176	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.7796	21.9153	0.13569	NOTE	E5	666.137
+177	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	21.9167	22.0147	0.097959	NOTE	F#5	731.507
+178	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.0183	22.1235	0.10522	lngRoll_nt	G5	784.71
+179	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.1264	22.1526	0.026122	lngRoll_ct	A5	865.759
+180	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.1671	22.2621	0.095057	lngRoll_nt	G5	781.046
+181	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.2672	22.2897	0.022494	lngRoll_str	G5	768.955
+182	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.2933	22.3913	0.097959	lngRoll_nt	G5	788.392
+183	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.3956	22.503	0.10739	NOTE	A5	873.901
+184	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.5125	22.6017	0.089252	NOTE	G5	788.392
+185	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.6061	22.6416	0.035556	ct	G5	805.802
+186	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.6438	22.7091	0.065306	NOTE	G5	787.163
+187	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.7091	22.8071	0.097959	NOTE	E5	665.099
+188	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.8071	22.9232	0.1161	NOTE	D5	582.495
+189	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	22.9275	23.0436	0.1161	NOTE	B4	499.907
+190	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.0487	23.1394	0.090703	NOTE	A4	448.886
+191	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.1474	23.3092	0.16181	BREATH	BREATH	0
+192	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.3136	23.4877	0.17415	NOTE	G4	392.523
+193	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.4877	23.5632	0.075465	NOTE	A4	448.186
+194	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.5661	23.7105	0.1444	NOTE	B4	498.35
+195	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.7243	23.8324	0.10812	NOTE	E5	661.993
+196	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.8353	23.8571	0.021769	ct	A5	865.759
+197	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.8701	23.9804	0.11029	NOTE	E5	664.062
+198	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	23.9819	24.0951	0.1132	NOTE	D5	587.056
+199	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	24.1081	24.2474	0.13932	NOTE	B4	496.797
+200	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	24.2511	24.3759	0.12481	NOTE	A4	441.937
+201	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	24.3824	24.521	0.13859	NOTE	G4	395.597
+202	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	24.521	24.6211	0.10014	NOTE	A4	442.627
+203	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	24.6233	24.7822	0.15891	NOTE	B4	502.252
+204	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	24.7822	24.8751	0.09288	NOTE	E4	334.774
+205	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	24.8816	24.907	0.025397	ct	A4	447.488
+206	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	24.9121	25.018	0.10594	NOTE	E4	334.774
+207	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.0231	25.1487	0.12553	NOTE	D4	293.653
+208	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.1501	25.235	0.084898	lngRoll_nt	G4	395.597
+209	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.2459	25.2793	0.033379	lngRoll_ct	A4	435.775
+210	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.2844	25.4005	0.1161	lngRoll_nt	G4	396.214
+211	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.4055	25.4331	0.027574	lngRoll_str	G4	387.049
+212	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.4418	25.5332	0.091429	lngRoll_nt	G4	396.833
+213	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.5507	25.637	0.086349	NOTE	A4	444.704
+214	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.6493	25.7792	0.12989	NOTE	B4	500.688
+215	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.7872	25.8772	0.089977	NOTE	E5	665.099
+216	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.8844	25.9135	0.029025	ct	A5	863.062
+217	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	25.9258	26.0129	0.087075	NOTE	E5	663.027
+218	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	26.0165	26.1551	0.13859	NOTE	D5	587.056
+219	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	26.1616	26.3017	0.14005	NOTE	B4	496.797
+220	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	26.3017	26.4033	0.10159	NOTE	A4	441.937
+221	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	26.4141	26.5615	0.1473	NOTE	G4	395.597
+222	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	26.5673	26.6768	0.10957	NOTE	A4	443.318
+223	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	26.6797	26.8227	0.14295	NOTE	B4	499.907
+224	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	26.8227	26.9337	0.11102	NOTE	E5	659.931
+225	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	26.9337	27.0433	0.10957	NOTE	D5	587.056
+226	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.0563	27.1702	0.11392	NOTE	B4	501.469
+227	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.1724	27.2668	0.094331	NOTE	Bb4	454.524
+228	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.2718	27.446	0.17415	BREATH	BREATH	0
+229	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.4467	27.5984	0.15166	NOTE	G4	394.98
+230	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.6049	27.6833	0.078367	NOTE	A4	442.627
+231	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.6854	27.7631	0.077642	NOTE	B4	507.768
+232	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.7689	27.9445	0.1756	BREATH	BREATH	0
+233	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.9452	27.9699	0.024671	ct	G5	772.563
+234	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	27.9771	28.0657	0.088526	NOTE	E5	669.262
+235	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.0737	28.2064	0.13279	NOTE	D5	587.056
+236	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.213	28.3523	0.13932	NOTE	B4	497.573
+237	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.3545	28.4713	0.11683	NOTE	A4	442.627
+238	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.4742	28.6106	0.13642	NOTE	G4	393.749
+239	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.6106	28.71	0.09941	NOTE	A4	440.56
+240	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.7122	28.8522	0.14005	NOTE	B4	496.797
+241	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.853	28.9546	0.10159	NOTE	E5	658.902
+242	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.9582	28.9887	0.030476	ct	E5	678.726
+243	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	28.9916	29.0641	0.072562	NOTE	E5	660.961
+244	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.0779	29.2274	0.14948	NOTE	D4	291.371
+245	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.2383	29.3587	0.12045	lngRoll_nt	G4	391.911
+246	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.3587	29.3812	0.022494	lngRoll_ct	A4	432.389
+247	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.3849	29.4973	0.11247	lngRoll_nt	G4	394.98
+248	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.5039	29.53	0.026122	lngRoll_str	G4	384.641
+249	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.5409	29.6287	0.0878	lngRoll_nt	G4	394.98
+250	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.6287	29.7324	0.10376	NOTE	A4	443.318
+251	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.7419	29.8108	0.068934	NOTE	B4	499.128
+252	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	29.8173	30.0053	0.18794	NOTE	B4	499.128
+253	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.0089	30.0328	0.023946	ct	C#5	556.727
+254	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.0328	30.1293	0.096508	NOTE	B4	496.797
+255	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.1351	30.2607	0.12553	NOTE	A4	440.56
+256	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.265	30.3906	0.12553	NOTE	B4	503.037
+257	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.3927	30.5284	0.13569	NOTE	D5	587.973
+258	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.5335	30.6511	0.11755	NOTE	E5	663.027
+259	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.6649	30.7512	0.086349	NOTE	F#5	738.387
+260	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.7686	30.7962	0.027574	NOTE	A5	879.372
+261	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.8085	30.9145	0.10594	NOTE	G5	778.613
+262	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	30.9319	31.0306	0.098685	NOTE	E5	665.099
+263	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	31.0306	31.1394	0.10884	NOTE	D5	592.578
+264	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	31.167	31.2468	0.079819	NOTE	B4	496.797
+265	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	31.2555	31.3368	0.08127	NOTE	A4	444.704
+266	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	31.344	31.4079	0.063855	NOTE	Bb4	459.515
+267	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	31.4108	31.524	0.1132	NOTE	A4	444.01
+268	Tub_EaglesWhistle_Tk13Tu1R1_TheAshplant.txt	31.5378	31.6778	0.14005	ct	G4	393.749

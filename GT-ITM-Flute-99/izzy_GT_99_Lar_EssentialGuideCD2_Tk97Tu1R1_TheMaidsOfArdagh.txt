@@ -1,184 +1,184 @@
-1	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	0.18163	0.57143	0.3898	NOTE	F#4	365.534	1
-2	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	0.57143	0.6898	0.11837	NOTE	A4	438.836	1
-3	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	0.70204	0.74694	0.044898	ct	C#5	539.626	2
-4	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	0.74694	0.95102	0.20408	NOTE	B4	480.068	1
-5	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	0.9551	1.1939	0.23878	NOTE	A4	434.255	1
-6	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	1.1939	1.4469	0.25306	NOTE	D5	594.602	1
-7	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	1.4592	1.5714	0.11224	NOTE	C5	535.044	1
-8	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	1.5816	1.6898	0.10816	NOTE	D5	585.439	1
-9	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	1.702	2.1653	0.46327	NOTE	F#5	732.043	1
-10	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.1694	2.2041	0.034694	shRoll_ct	G#5	814.507	5
-11	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.2082	2.302	0.093878	shRoll_nt	F#5	729.752	1
-12	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.3061	2.3265	0.020408	shRoll_str	F5	709.586	3
-13	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.3388	2.4306	0.091837	shRoll_nt	F#5	729.752	1
-14	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.4408	2.551	0.1102	NOTE	E5	654.16	1
-15	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.5612	2.6796	0.11837	NOTE	F#5	727.461	1
-16	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.6796	2.7122	0.032653	ct	G5	800.763	2
-17	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.7163	2.9224	0.20612	NOTE	G5	773.275	1
-18	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.9265	3.1735	0.24694	NOTE	C5	530.463	1
-19	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	3.1796	3.4245	0.2449	NOTE	E5	663.322	1
-20	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	3.4286	3.6673	0.23878	NOTE	D5	585.439	1
-21	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	3.6755	3.8939	0.21837	NOTE	B4	489.231	1
-22	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	3.9041	4.1612	0.25714	NOTE	G4	388.441	1
-23	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	4.1673	4.5204	0.35306	NOTE	F#4	360.953	1
-24	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	4.5204	4.6367	0.11633	NOTE	A4	434.255	1
-25	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	4.6367	4.6755	0.038776	ct	C5	535.044	2
-26	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	4.6755	4.8776	0.20204	NOTE	B4	489.231	1
-27	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	4.8898	5.1347	0.2449	NOTE	A4	438.836	1
-28	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	5.1347	5.4143	0.27959	NOTE	D5	571.695	1
-29	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	5.4245	5.5388	0.11429	NOTE	C5	525.882	1
-30	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	5.5429	5.649	0.10612	NOTE	D5	594.602	1
-31	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	5.6633	5.8878	0.22449	NOTE	F#5	727.461	1
-32	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	5.895	6.0822	0.18721	BREATH	BREATH	0	4
-33	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.0857	6.1347	0.04898	shRoll_ct	G#5	846.576	5
-34	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.1367	6.2265	0.089796	shRoll_nt	F#5	741.205	1
-35	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.2327	6.249	0.016327	shRoll_str	F5	681.648	3
-36	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.2612	6.3735	0.11224	shRoll_nt	F#5	736.624	1
-37	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.3776	6.4878	0.1102	NOTE	E5	654.16	1
-38	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.4939	6.5796	0.085714	NOTE	F#5	741.205	1
-39	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.5918	6.6143	0.022449	ct	Bb5	938.203	2
-40	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.6204	6.8224	0.20204	NOTE	G5	787.019	1
-41	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.8429	7.0796	0.23673	NOTE	C5	535.044	1
-42	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	7.0816	7.3367	0.2551	NOTE	E5	658.741	1
-43	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	7.3367	7.5469	0.2102	NOTE	D5	580.858	1
-44	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	7.549	7.5898	0.040816	ct	F5	718.299	2
-45	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	7.5898	7.8184	0.22857	NOTE	D5	590.021	1
-46	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	7.828	8.0414	0.21333	BREATH	BREATH	0	4
-47	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	8.0571	8.4245	0.36735	NOTE	F#4	365.534	1
-48	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	8.4245	8.5388	0.11429	NOTE	A4	438.836	1
-49	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	8.5469	8.5857	0.038776	ct	C5	530.463	2
-50	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	8.5918	8.7837	0.19184	NOTE	B4	480.068	1
-51	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	8.7918	9.0408	0.24898	NOTE	A4	438.836	1
-52	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	9.0531	9.3102	0.25714	NOTE	D5	585.439	1
-53	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	9.3184	9.4408	0.12245	NOTE	C#5	544.207	1
-54	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	9.451	9.5367	0.085714	NOTE	D5	580.858	1
-55	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	9.5469	10.0224	0.47551	NOTE	F#5	724.711	1
-56	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.0286	10.0551	0.026531	shRoll_ct	F#5	744.876	5
-57	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.0694	10.1429	0.073469	shRoll_nt	F#5	729.752	1
-58	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.1551	10.1735	0.018367	shRoll_str	F5	690.81	3
-59	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.1857	10.3082	0.12245	shRoll_nt	F#5	727.461	1
-60	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.3143	10.4143	0.1	NOTE	E5	644.997	1
-61	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.4143	10.5082	0.093878	NOTE	F#5	736.624	1
-62	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.5184	10.5408	0.022449	ct	Bb5	910.715	2
-63	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.5469	10.7551	0.20816	NOTE	G5	782.437	1
-64	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.7551	10.9939	0.23878	NOTE	C#5	539.626	1
-65	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.998	11.2347	0.23673	NOTE	E5	649.578	1
-66	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	11.2449	11.4469	0.20204	NOTE	D5	571.695	1
-67	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	11.449	11.6061	0.15714	NOTE	B4	484.65	1
-68	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	11.6082	11.7531	0.1449	NOTE	A4	429.673	1
-69	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	11.7551	11.9939	0.23878	NOTE	G4	383.86	1
-70	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	11.9939	12.3429	0.34898	NOTE	F#4	360.953	1
-71	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	12.3469	12.4551	0.10816	NOTE	A4	429.673	1
-72	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	12.4633	12.4939	0.030612	ct	C5	515.492	2
-73	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	12.5041	12.6898	0.18571	NOTE	B4	487.765	1
-74	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	12.6939	12.9429	0.24898	NOTE	A4	438.836	1
-75	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	12.9449	13.2041	0.25918	NOTE	D5	590.021	1
-76	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	13.2041	13.3245	0.12041	NOTE	C5	525.882	1
-77	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	13.3265	13.4408	0.11429	NOTE	D5	585.439	1
-78	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	13.451	13.949	0.49796	NOTE	F#5	727.461	1
-79	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	13.9551	13.9816	0.026531	shRoll_ct	A5	860.32	5
-80	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	13.9816	14.0673	0.085714	shRoll_nt	F#5	727.461	1
-81	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	14.0735	14.0898	0.016327	shRoll_str	F5	695.392	3
-82	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	14.1041	14.2122	0.10816	shRoll_nt	F#5	727.461	1
-83	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	14.2184	14.3265	0.10816	NOTE	E5	654.16	1
-84	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	14.3286	14.4531	0.12449	NOTE	F#5	722.88	1
-85	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	14.4531	14.6286	0.17551	NOTE	G5	777.856	1
-86	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	14.6796	14.8959	0.21633	NOTE	C#5	539.626	1
-87	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	14.8959	15.149	0.25306	NOTE	E5	654.16	1
-88	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	15.151	15.3571	0.20612	NOTE	D5	585.439	1
-89	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	15.3612	15.3959	0.034694	ct	F5	699.973	2
-90	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	15.3959	15.6082	0.21224	NOTE	D5	576.277	1
-91	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	15.6169	15.8563	0.23946	BREATH	BREATH	0	4
-92	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	15.8592	16.1408	0.28163	NOTE	E5	649.578	1
-93	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	16.151	16.198	0.046939	NOTE	F5	709.136	1
-94	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	16.198	16.3327	0.13469	NOTE	E5	644.997	1
-95	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	16.3469	16.5959	0.24898	NOTE	C5	530.463	1
-96	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	16.6041	16.8347	0.23061	NOTE	E5	649.578	1
-97	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	16.8347	16.8776	0.042857	ct	G#5	841.995	2
-98	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	16.8776	17.0694	0.19184	NOTE	F#5	727.461	1
-99	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	17.0694	17.2878	0.21837	NOTE	E5	658.741	1
-100	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	17.2939	17.3286	0.034694	ct	B5	997.761	2
-101	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	17.3286	17.5388	0.2102	NOTE	A5	892.39	1
-102	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	17.5478	17.7785	0.23075	BREATH	BREATH	0	4
-103	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	17.7857	18.102	0.31633	NOTE	E5	644.997	1
-104	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	18.1041	18.1531	0.04898	NOTE	F#5	722.88	1
-105	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	18.1571	18.2939	0.13673	NOTE	E5	649.578	1
-106	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	18.2939	18.5184	0.22449	NOTE	C5	535.044	1
-107	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	18.5184	18.749	0.23061	NOTE	E5	658.741	1
-108	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	18.749	18.7816	0.032653	ct	G#5	841.995	2
-109	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	18.7837	19.0082	0.22449	NOTE	F#5	732.043	1
-110	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	19.0082	19.2204	0.21224	NOTE	E5	658.741	1
-111	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	19.2286	19.2755	0.046939	NOTE	C5	533.137	1
-112	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	19.2898	19.4755	0.18571	NOTE	B4	484.65	1
-113	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	19.4776	19.7367	0.25918	NOTE	A4	432.309	1
-114	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	19.7429	20.0061	0.26327	NOTE	E5	654.16	1
-115	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	20.0061	20.0735	0.067347	NOTE	F5	709.136	1
-116	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	20.0878	20.2265	0.13878	NOTE	E5	649.578	1
-117	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	20.2265	20.4612	0.23469	NOTE	C5	538.179	1
-118	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	20.4673	20.6918	0.22449	NOTE	Eb5	640.416	1
-119	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	20.7	20.7408	0.040816	ct	G#5	814.507	2
-120	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	20.7408	20.9653	0.22449	NOTE	F#5	727.461	1
-121	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	20.9857	21.1755	0.1898	NOTE	E5	654.16	1
-122	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	21.2082	21.4408	0.23265	sl	A5	878.646	
-123	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	21.4408	21.4735	0.032653	ct	B5	974.854	2
-124	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	21.4776	21.6837	0.20612	NOTE	A5	869.483	1
-125	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	21.6939	21.8878	0.19388	NOTE	E5	654.16	1
-126	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	21.8939	21.949	0.055102	ct	F5	713.717	2
-127	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	21.9531	21.9755	0.022449	NOTE	E5	663.322	1
-128	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	21.9776	22.0122	0.034694	ct	F#5	745.787	2
-129	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	22.0265	22.1388	0.11224	NOTE	E5	654.16	1
-130	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	22.1469	22.3918	0.2449	NOTE	D5	576.277	1
-131	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	22.4	22.6143	0.21429	NOTE	B4	489.231	1
-132	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	22.6163	22.6531	0.036735	ct	C5	535.044	2
-133	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	22.6592	22.8816	0.22245	NOTE	B4	498.394	1
-134	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	22.9122	23.1184	0.20612	NOTE	A4	434.255	1
-135	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	23.1204	23.1429	0.022449	ct	B4	498.394	2
-136	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	23.151	23.3633	0.21224	NOTE	A4	438.836	1
-137	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	23.3709	23.6089	0.238	BREATH	BREATH	0	4
-138	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	23.6122	23.8898	0.27755	NOTE	E5	658.741	1
-139	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	23.8898	23.9633	0.073469	NOTE	F#5	722.88	1
-140	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	23.9714	24.1061	0.13469	NOTE	E5	658.741	1
-141	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	24.1081	24.2561	0.14803	NOTE	C#5	540.699	1
-142	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	24.2707	24.3551	0.084444	BREATH	BREATH	0	4
-143	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	24.3551	24.5857	0.23061	NOTE	E5	663.322	1
-144	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	24.5878	24.6367	0.04898	ct	G#5	841.995	2
-145	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	24.6367	24.8469	0.2102	NOTE	F#5	722.88	1
-146	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	24.8571	25.0673	0.2102	NOTE	E5	663.322	1
-147	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	25.0694	25.1102	0.040816	ct	B5	993.18	2
-148	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	25.1182	25.3446	0.22639	NOTE	A5	878.473	1
-149	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	25.3591	25.571	0.21188	BREATH	BREATH	0	4
-150	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	25.5837	25.851	0.26735	NOTE	E5	644.997	1
-151	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	25.8612	25.9347	0.073469	NOTE	F5	718.299	1
-152	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	25.9388	26.0776	0.13878	NOTE	E5	654.16	1
-153	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	26.0898	26.3245	0.23469	NOTE	C5	535.044	1
-154	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	26.3306	26.5245	0.19388	NOTE	E5	663.322	1
-155	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	26.5347	26.5755	0.040816	shRoll_ct	G#5	846.576	5
-156	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	26.5796	26.6612	0.081633	shRoll_nt	F#5	722.88	1
-157	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	26.6653	26.6776	0.012245	shRoll_str	F5	695.392	3
-158	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	26.698	26.7918	0.093878	shRoll_nt	F#5	722.88	1
-159	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	26.8	27.0184	0.21837	NOTE	E5	649.578	1
-160	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	27.0184	27.0878	0.069388	NOTE	C5	535.044	1
-161	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	27.0939	27.249	0.1551	NOTE	B4	487.765	1
-162	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	27.2551	27.5184	0.26327	NOTE	A4	434.255	1
-163	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	27.5204	27.7837	0.26327	NOTE	E5	644.997	1
-164	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	27.7857	27.8653	0.079592	NOTE	F5	713.717	1
-165	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	27.8857	28.002	0.11633	NOTE	E5	649.578	1
-166	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	28.002	28.2796	0.27755	NOTE	C#5	550.782	1
-167	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	28.2837	28.4959	0.21224	NOTE	E5	644.997	1
-168	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	28.502	28.5286	0.026531	ct	G#5	837.414	2
-169	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	28.5367	28.7367	0.2	NOTE	F#5	722.88	1
-170	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	28.7469	28.9653	0.21837	NOTE	E5	654.16	1
-171	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	28.9755	29.2551	0.27959	NOTE	A5	878.646	1
-172	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	29.2571	29.2816	0.02449	ct	Bb5	956.529	2
-173	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	29.2959	29.4959	0.2	NOTE	A5	874.064	1
-174	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	29.5184	29.7041	0.18571	NOTE	E5	649.578	1
-175	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	29.7122	29.7612	0.04898	NOTE	F#5	722.88	1
-176	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	29.7898	29.9408	0.15102	NOTE	E5	644.997	1
-177	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	29.9449	30.2102	0.26531	NOTE	C#5	567.114	1
-178	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	30.2143	30.4347	0.22041	NOTE	B4	480.068	1
-179	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	30.4429	30.4755	0.032653	ct	C5	525.882	2
-180	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	30.4918	30.6796	0.18776	NOTE	B4	489.231	1
-181	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	30.698	30.9245	0.22653	NOTE	A4	438.836	1
-182	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	30.9286	30.9571	0.028571	ct	C5	516.719	2
-183	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	30.9837	31.1898	0.20612	NOTE	A4	429.673	1
-184	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	31.2041	31.4571	0.25306	NOTE	G4	383.86	1
+1	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	0.18163	0.57143	0.3898	NOTE	F#4	365.534
+2	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	0.57143	0.6898	0.11837	NOTE	A4	438.836
+3	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	0.70204	0.74694	0.044898	ct	C#5	539.626
+4	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	0.74694	0.95102	0.20408	NOTE	B4	480.068
+5	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	0.9551	1.1939	0.23878	NOTE	A4	434.255
+6	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	1.1939	1.4469	0.25306	NOTE	D5	594.602
+7	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	1.4592	1.5714	0.11224	NOTE	C5	535.044
+8	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	1.5816	1.6898	0.10816	NOTE	D5	585.439
+9	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	1.702	2.1653	0.46327	NOTE	F#5	732.043
+10	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.1694	2.2041	0.034694	shRoll_ct	G#5	814.507
+11	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.2082	2.302	0.093878	shRoll_nt	F#5	729.752
+12	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.3061	2.3265	0.020408	shRoll_str	F5	709.586
+13	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.3388	2.4306	0.091837	shRoll_nt	F#5	729.752
+14	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.4408	2.551	0.1102	NOTE	E5	654.16
+15	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.5612	2.6796	0.11837	NOTE	F#5	727.461
+16	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.6796	2.7122	0.032653	ct	G5	800.763
+17	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.7163	2.9224	0.20612	NOTE	G5	773.275
+18	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	2.9265	3.1735	0.24694	NOTE	C5	530.463
+19	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	3.1796	3.4245	0.2449	NOTE	E5	663.322
+20	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	3.4286	3.6673	0.23878	NOTE	D5	585.439
+21	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	3.6755	3.8939	0.21837	NOTE	B4	489.231
+22	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	3.9041	4.1612	0.25714	NOTE	G4	388.441
+23	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	4.1673	4.5204	0.35306	NOTE	F#4	360.953
+24	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	4.5204	4.6367	0.11633	NOTE	A4	434.255
+25	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	4.6367	4.6755	0.038776	ct	C5	535.044
+26	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	4.6755	4.8776	0.20204	NOTE	B4	489.231
+27	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	4.8898	5.1347	0.2449	NOTE	A4	438.836
+28	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	5.1347	5.4143	0.27959	NOTE	D5	571.695
+29	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	5.4245	5.5388	0.11429	NOTE	C5	525.882
+30	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	5.5429	5.649	0.10612	NOTE	D5	594.602
+31	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	5.6633	5.8878	0.22449	NOTE	F#5	727.461
+32	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	5.895	6.0822	0.18721	BREATH	BREATH	0
+33	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.0857	6.1347	0.04898	shRoll_ct	G#5	846.576
+34	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.1367	6.2265	0.089796	shRoll_nt	F#5	741.205
+35	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.2327	6.249	0.016327	shRoll_str	F5	681.648
+36	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.2612	6.3735	0.11224	shRoll_nt	F#5	736.624
+37	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.3776	6.4878	0.1102	NOTE	E5	654.16
+38	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.4939	6.5796	0.085714	NOTE	F#5	741.205
+39	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.5918	6.6143	0.022449	ct	Bb5	938.203
+40	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.6204	6.8224	0.20204	NOTE	G5	787.019
+41	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	6.8429	7.0796	0.23673	NOTE	C5	535.044
+42	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	7.0816	7.3367	0.2551	NOTE	E5	658.741
+43	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	7.3367	7.5469	0.2102	NOTE	D5	580.858
+44	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	7.549	7.5898	0.040816	ct	F5	718.299
+45	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	7.5898	7.8184	0.22857	NOTE	D5	590.021
+46	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	7.828	8.0414	0.21333	BREATH	BREATH	0
+47	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	8.0571	8.4245	0.36735	NOTE	F#4	365.534
+48	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	8.4245	8.5388	0.11429	NOTE	A4	438.836
+49	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	8.5469	8.5857	0.038776	ct	C5	530.463
+50	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	8.5918	8.7837	0.19184	NOTE	B4	480.068
+51	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	8.7918	9.0408	0.24898	NOTE	A4	438.836
+52	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	9.0531	9.3102	0.25714	NOTE	D5	585.439
+53	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	9.3184	9.4408	0.12245	NOTE	C#5	544.207
+54	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	9.451	9.5367	0.085714	NOTE	D5	580.858
+55	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	9.5469	10.0224	0.47551	NOTE	F#5	724.711
+56	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.0286	10.0551	0.026531	shRoll_ct	F#5	744.876
+57	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.0694	10.1429	0.073469	shRoll_nt	F#5	729.752
+58	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.1551	10.1735	0.018367	shRoll_str	F5	690.81
+59	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.1857	10.3082	0.12245	shRoll_nt	F#5	727.461
+60	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.3143	10.4143	0.1	NOTE	E5	644.997
+61	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.4143	10.5082	0.093878	NOTE	F#5	736.624
+62	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.5184	10.5408	0.022449	ct	Bb5	910.715
+63	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.5469	10.7551	0.20816	NOTE	G5	782.437
+64	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.7551	10.9939	0.23878	NOTE	C#5	539.626
+65	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	10.998	11.2347	0.23673	NOTE	E5	649.578
+66	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	11.2449	11.4469	0.20204	NOTE	D5	571.695
+67	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	11.449	11.6061	0.15714	NOTE	B4	484.65
+68	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	11.6082	11.7531	0.1449	NOTE	A4	429.673
+69	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	11.7551	11.9939	0.23878	NOTE	G4	383.86
+70	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	11.9939	12.3429	0.34898	NOTE	F#4	360.953
+71	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	12.3469	12.4551	0.10816	NOTE	A4	429.673
+72	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	12.4633	12.4939	0.030612	ct	C5	515.492
+73	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	12.5041	12.6898	0.18571	NOTE	B4	487.765
+74	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	12.6939	12.9429	0.24898	NOTE	A4	438.836
+75	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	12.9449	13.2041	0.25918	NOTE	D5	590.021
+76	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	13.2041	13.3245	0.12041	NOTE	C5	525.882
+77	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	13.3265	13.4408	0.11429	NOTE	D5	585.439
+78	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	13.451	13.949	0.49796	NOTE	F#5	727.461
+79	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	13.9551	13.9816	0.026531	shRoll_ct	A5	860.32
+80	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	13.9816	14.0673	0.085714	shRoll_nt	F#5	727.461
+81	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	14.0735	14.0898	0.016327	shRoll_str	F5	695.392
+82	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	14.1041	14.2122	0.10816	shRoll_nt	F#5	727.461
+83	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	14.2184	14.3265	0.10816	NOTE	E5	654.16
+84	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	14.3286	14.4531	0.12449	NOTE	F#5	722.88
+85	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	14.4531	14.6286	0.17551	NOTE	G5	777.856
+86	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	14.6796	14.8959	0.21633	NOTE	C#5	539.626
+87	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	14.8959	15.149	0.25306	NOTE	E5	654.16
+88	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	15.151	15.3571	0.20612	NOTE	D5	585.439
+89	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	15.3612	15.3959	0.034694	ct	F5	699.973
+90	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	15.3959	15.6082	0.21224	NOTE	D5	576.277
+91	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	15.6169	15.8563	0.23946	BREATH	BREATH	0
+92	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	15.8592	16.1408	0.28163	NOTE	E5	649.578
+93	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	16.151	16.198	0.046939	NOTE	F5	709.136
+94	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	16.198	16.3327	0.13469	NOTE	E5	644.997
+95	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	16.3469	16.5959	0.24898	NOTE	C5	530.463
+96	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	16.6041	16.8347	0.23061	NOTE	E5	649.578
+97	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	16.8347	16.8776	0.042857	ct	G#5	841.995
+98	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	16.8776	17.0694	0.19184	NOTE	F#5	727.461
+99	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	17.0694	17.2878	0.21837	NOTE	E5	658.741
+100	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	17.2939	17.3286	0.034694	ct	B5	997.761
+101	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	17.3286	17.5388	0.2102	NOTE	A5	892.39
+102	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	17.5478	17.7785	0.23075	BREATH	BREATH	0
+103	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	17.7857	18.102	0.31633	NOTE	E5	644.997
+104	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	18.1041	18.1531	0.04898	NOTE	F#5	722.88
+105	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	18.1571	18.2939	0.13673	NOTE	E5	649.578
+106	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	18.2939	18.5184	0.22449	NOTE	C5	535.044
+107	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	18.5184	18.749	0.23061	NOTE	E5	658.741
+108	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	18.749	18.7816	0.032653	ct	G#5	841.995
+109	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	18.7837	19.0082	0.22449	NOTE	F#5	732.043
+110	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	19.0082	19.2204	0.21224	NOTE	E5	658.741
+111	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	19.2286	19.2755	0.046939	NOTE	C5	533.137
+112	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	19.2898	19.4755	0.18571	NOTE	B4	484.65
+113	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	19.4776	19.7367	0.25918	NOTE	A4	432.309
+114	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	19.7429	20.0061	0.26327	NOTE	E5	654.16
+115	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	20.0061	20.0735	0.067347	NOTE	F5	709.136
+116	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	20.0878	20.2265	0.13878	NOTE	E5	649.578
+117	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	20.2265	20.4612	0.23469	NOTE	C5	538.179
+118	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	20.4673	20.6918	0.22449	NOTE	Eb5	640.416
+119	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	20.7	20.7408	0.040816	ct	G#5	814.507
+120	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	20.7408	20.9653	0.22449	NOTE	F#5	727.461
+121	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	20.9857	21.1755	0.1898	NOTE	E5	654.16
+122	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	21.2082	21.4408	0.23265	sl	A5	878.646
+123	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	21.4408	21.4735	0.032653	ct	B5	974.854
+124	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	21.4776	21.6837	0.20612	NOTE	A5	869.483
+125	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	21.6939	21.8878	0.19388	NOTE	E5	654.16
+126	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	21.8939	21.949	0.055102	ct	F5	713.717
+127	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	21.9531	21.9755	0.022449	NOTE	E5	663.322
+128	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	21.9776	22.0122	0.034694	ct	F#5	745.787
+129	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	22.0265	22.1388	0.11224	NOTE	E5	654.16
+130	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	22.1469	22.3918	0.2449	NOTE	D5	576.277
+131	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	22.4	22.6143	0.21429	NOTE	B4	489.231
+132	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	22.6163	22.6531	0.036735	ct	C5	535.044
+133	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	22.6592	22.8816	0.22245	NOTE	B4	498.394
+134	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	22.9122	23.1184	0.20612	NOTE	A4	434.255
+135	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	23.1204	23.1429	0.022449	ct	B4	498.394
+136	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	23.151	23.3633	0.21224	NOTE	A4	438.836
+137	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	23.3709	23.6089	0.238	BREATH	BREATH	0
+138	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	23.6122	23.8898	0.27755	NOTE	E5	658.741
+139	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	23.8898	23.9633	0.073469	NOTE	F#5	722.88
+140	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	23.9714	24.1061	0.13469	NOTE	E5	658.741
+141	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	24.1081	24.2561	0.14803	NOTE	C#5	540.699
+142	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	24.2707	24.3551	0.084444	BREATH	BREATH	0
+143	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	24.3551	24.5857	0.23061	NOTE	E5	663.322
+144	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	24.5878	24.6367	0.04898	ct	G#5	841.995
+145	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	24.6367	24.8469	0.2102	NOTE	F#5	722.88
+146	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	24.8571	25.0673	0.2102	NOTE	E5	663.322
+147	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	25.0694	25.1102	0.040816	ct	B5	993.18
+148	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	25.1182	25.3446	0.22639	NOTE	A5	878.473
+149	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	25.3591	25.571	0.21188	BREATH	BREATH	0
+150	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	25.5837	25.851	0.26735	NOTE	E5	644.997
+151	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	25.8612	25.9347	0.073469	NOTE	F5	718.299
+152	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	25.9388	26.0776	0.13878	NOTE	E5	654.16
+153	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	26.0898	26.3245	0.23469	NOTE	C5	535.044
+154	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	26.3306	26.5245	0.19388	NOTE	E5	663.322
+155	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	26.5347	26.5755	0.040816	shRoll_ct	G#5	846.576
+156	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	26.5796	26.6612	0.081633	shRoll_nt	F#5	722.88
+157	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	26.6653	26.6776	0.012245	shRoll_str	F5	695.392
+158	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	26.698	26.7918	0.093878	shRoll_nt	F#5	722.88
+159	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	26.8	27.0184	0.21837	NOTE	E5	649.578
+160	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	27.0184	27.0878	0.069388	NOTE	C5	535.044
+161	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	27.0939	27.249	0.1551	NOTE	B4	487.765
+162	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	27.2551	27.5184	0.26327	NOTE	A4	434.255
+163	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	27.5204	27.7837	0.26327	NOTE	E5	644.997
+164	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	27.7857	27.8653	0.079592	NOTE	F5	713.717
+165	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	27.8857	28.002	0.11633	NOTE	E5	649.578
+166	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	28.002	28.2796	0.27755	NOTE	C#5	550.782
+167	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	28.2837	28.4959	0.21224	NOTE	E5	644.997
+168	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	28.502	28.5286	0.026531	ct	G#5	837.414
+169	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	28.5367	28.7367	0.2	NOTE	F#5	722.88
+170	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	28.7469	28.9653	0.21837	NOTE	E5	654.16
+171	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	28.9755	29.2551	0.27959	NOTE	A5	878.646
+172	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	29.2571	29.2816	0.02449	ct	Bb5	956.529
+173	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	29.2959	29.4959	0.2	NOTE	A5	874.064
+174	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	29.5184	29.7041	0.18571	NOTE	E5	649.578
+175	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	29.7122	29.7612	0.04898	NOTE	F#5	722.88
+176	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	29.7898	29.9408	0.15102	NOTE	E5	644.997
+177	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	29.9449	30.2102	0.26531	NOTE	C#5	567.114
+178	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	30.2143	30.4347	0.22041	NOTE	B4	480.068
+179	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	30.4429	30.4755	0.032653	ct	C5	525.882
+180	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	30.4918	30.6796	0.18776	NOTE	B4	489.231
+181	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	30.698	30.9245	0.22653	NOTE	A4	438.836
+182	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	30.9286	30.9571	0.028571	ct	C5	516.719
+183	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	30.9837	31.1898	0.20612	NOTE	A4	429.673
+184	Lar_EssentialGuideCD2_Tk97Tu1R1_TheMaidsOfArdagh.txt	31.2041	31.4571	0.25306	NOTE	G4	383.86

@@ -1,187 +1,187 @@
-1	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	0.19229	0.68499	0.4927	NOTE	F#4	366.719	1
-2	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	0.70531	0.93388	0.22857	NOTE	E4	332.238	1
-3	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	0.94912	0.98685	0.037732	ct	F4	344.385	2
-4	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	0.98975	1.1929	0.20317	NOTE	E4	329.269	1
-5	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	1.2045	1.4367	0.2322	NOTE	D4	290.383	1
-6	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	1.4396	1.6776	0.238	NOTE	E4	323.411	1
-7	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	1.6834	2.1362	0.45279	NOTE	F#4	366.719	1
-8	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	2.1449	2.3742	0.2293	NOTE	D4	293.001	1
-9	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	2.3742	2.4178	0.043537	ct	F#4	363.442	2
-10	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	2.4294	2.679	0.24961	NOTE	D4	290.383	1
-11	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	2.6877	2.8822	0.19447	NOTE	E4	323.411	1
-12	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	2.8996	3.1637	0.26413	NOTE	D4	293.001	1
-13	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	3.1695	3.6659	0.49633	NOTE	F#4	363.442	1
-14	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	3.6746	3.9039	0.2293	NOTE	E4	332.238	1
-15	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	3.9097	3.9416	0.031927	ct	G4	383.554	2
-16	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	3.9561	4.1796	0.22349	NOTE	E4	329.269	1
-17	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	4.1796	4.3712	0.19156	NOTE	F#4	363.442	1
-18	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	4.3712	4.6208	0.24961	NOTE	A4	442.796	1
-19	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	4.6295	5.1055	0.47601	NOTE	D5	600.834	1
-20	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	5.1084	5.3348	0.22639	NOTE	E5	675.206	1
-21	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	5.3435	5.3841	0.040635	ct	G#5	837.532	2
-22	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	5.3899	5.5873	0.19737	NOTE	F#5	732.02	1
-23	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	5.596	5.7615	0.16544	NOTE	D5	590.143	1
-24	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	5.7905	6.0488	0.25832	NOTE	A4	434.917	1
-25	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	6.0488	6.5393	0.49052	NOTE	F#4	366.719	1
-26	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	6.5509	6.7686	0.21769	NOTE	E4	326.327	1
-27	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	6.7715	6.8151	0.043537	ct	G4	394.024	2
-28	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	6.8238	7.024	0.20027	NOTE	E4	326.327	1
-29	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	7.0269	7.2417	0.21478	NOTE	D4	293.001	1
-30	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	7.2475	7.4507	0.20317	NOTE	E4	332.238	1
-31	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	7.4594	7.5088	0.049342	ct	G#4	427.179	2
-32	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	7.5146	7.9267	0.41215	NOTE	F#4	360.194	1
-33	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	7.9412	8.1676	0.22639	NOTE	D4	293.001	1
-34	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	8.1676	8.217	0.049342	ct	F#4	363.442	2
-35	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	8.2344	8.455	0.22059	NOTE	D4	295.644	1
-36	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	8.455	8.6727	0.21769	NOTE	E4	329.269	1
-37	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	8.6814	8.9107	0.2293	NOTE	D4	293.001	1
-38	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	8.931	9.1545	0.22349	NOTE	A4	431.031	1
-39	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	9.169	9.3896	0.22059	NOTE	F#4	366.719	1
-40	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	9.3983	9.5985	0.20027	NOTE	E4	335.234	1
-41	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	9.6015	9.6305	0.029025	ct	F4	353.785	2
-42	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	9.6392	9.912	0.27283	NOTE	E4	332.238	1
-43	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	9.9265	10.0659	0.13932	NOTE	F#4	366.719	1
-44	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	10.0688	10.298	0.2293	NOTE	A4	438.839	1
-45	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	10.3068	11.0585	0.75175	NOTE	B4	497.605	1
-46	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	11.0788	11.4823	0.40345	NOTE	D5	595.465	1
-47	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	11.491	11.8857	0.39474	BREATH	BREATH	0	4
-48	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	11.8944	12.4053	0.51084	NOTE	F#4	370.026	1
-49	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	12.414	12.6665	0.25252	NOTE	E4	332.238	1
-50	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	12.6694	12.7042	0.03483	ct	F#4	380.127	2
-51	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	12.7158	12.89	0.17415	NOTE	E4	326.327	1
-52	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	12.8987	13.1106	0.21188	NOTE	D4	290.383	1
-53	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	13.1193	13.3921	0.27283	NOTE	E4	326.327	1
-54	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	13.395	13.8681	0.47311	NOTE	F#4	363.442	1
-55	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	13.871	14.1235	0.25252	NOTE	D4	290.383	1
-56	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	14.1264	14.1584	0.031927	ct	E4	332.238	2
-57	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	14.1671	14.408	0.24091	NOTE	D4	290.383	1
-58	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	14.4109	14.6024	0.19156	NOTE	E4	323.411	1
-59	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	14.617	14.913	0.29605	NOTE	D4	290.383	1
-60	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	14.9246	15.3919	0.4673	NOTE	F#4	366.719	1
-61	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	15.3948	15.6183	0.22349	NOTE	E4	332.238	1
-62	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	15.6183	15.659	0.040635	ct	G4	387.013	2
-63	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	15.6706	15.8912	0.22059	NOTE	E4	332.238	1
-64	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	15.8912	16.0769	0.18576	NOTE	F#4	366.719	1
-65	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	16.0827	16.3352	0.25252	NOTE	A4	442.796	1
-66	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	16.3381	16.8287	0.49052	NOTE	D5	595.465	1
-67	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	16.8287	17.0551	0.22639	NOTE	E5	651.391	1
-68	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	17.0638	17.1044	0.040635	ct	A5	868.152	2
-69	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	17.1131	17.325	0.21188	NOTE	F#5	732.02	1
-70	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	17.3366	17.4904	0.15383	NOTE	D5	590.143	1
-71	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	17.5107	17.7865	0.27574	NOTE	A4	442.796	1
-72	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	17.7952	17.9984	0.20317	NOTE	F#4	370.026	1
-73	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	18.0013	18.2944	0.29315	BREATH	BREATH	0	4
-74	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	18.2944	18.5092	0.21478	NOTE	E4	323.411	1
-75	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	18.5208	18.5556	0.03483	ct	F#4	380.127	2
-76	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	18.576	18.7762	0.20027	NOTE	E4	329.269	1
-77	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	18.782	19.0113	0.2293	NOTE	D4	290.383	1
-78	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	19.0113	19.229	0.21769	NOTE	E4	326.327	1
-79	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	19.229	19.2639	0.03483	ct	A4	434.917	2
-80	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	19.2726	19.6934	0.42086	NOTE	F#4	363.442	1
-81	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	19.6963	19.9314	0.2351	NOTE	D4	300.999	1
-82	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	19.9314	19.9721	0.040635	ct	F#4	366.719	2
-83	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	19.9924	20.2362	0.24381	NOTE	D4	287.788	1
-84	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	20.2362	20.419	0.18286	NOTE	E4	329.269	1
-85	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	20.4249	20.6774	0.25252	NOTE	D4	293.001	1
-86	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	20.6774	20.9212	0.24381	NOTE	A4	442.796	1
-87	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	20.9241	21.1418	0.21769	NOTE	F#4	363.442	1
-88	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	21.1505	21.3566	0.20608	NOTE	E4	326.327	1
-89	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	21.3682	21.4001	0.031927	ct	F#4	380.127	2
-90	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	21.4204	21.612	0.19156	NOTE	E4	323.411	1
-91	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	21.612	21.8355	0.22349	NOTE	F#4	366.719	1
-92	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	21.8384	22.1083	0.26993	NOTE	A4	438.839	1
-93	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	22.1141	22.8659	0.75175	NOTE	B4	497.605	1
-94	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	22.8775	23.2838	0.40635	NOTE	D5	590.143	1
-95	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	23.2896	23.6669	0.37732	BREATH	BREATH	0	4
-96	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	23.6727	23.9137	0.24091	NOTE	A4	446.789	1
-97	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	23.9137	24.1226	0.20898	NOTE	C5	511.188	1
-98	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	24.1459	24.4187	0.27283	NOTE	D5	600.834	1
-99	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	24.4187	24.8918	0.47311	NOTE	E5	657.265	1
-100	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	24.9005	25.1414	0.24091	NOTE	F#5	738.621	1
-101	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	25.1501	25.5942	0.44408	NOTE	D5	595.465	1
-102	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	25.5942	25.8873	0.29315	NOTE	C#5	554.201	1
-103	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	25.8873	26.3576	0.4702	NOTE	B4	497.605	1
-104	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	26.3663	26.5956	0.2293	NOTE	A4	442.796	1
-105	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	26.6014	26.6478	0.04644	ct	C5	525.142	2
-106	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	26.6565	26.8684	0.21188	NOTE	A4	442.796	1
-107	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	26.8684	27.0425	0.17415	NOTE	B4	497.605	1
-108	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	27.0541	27.3415	0.28735	NOTE	D5	584.87	1
-109	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	27.3415	27.7885	0.44698	NOTE	E5	669.172	1
-110	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	27.7885	28.0874	0.29896	NOTE	F#5	738.621	1
-111	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	28.0874	28.5083	0.42086	NOTE	D5	584.87	1
-112	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	28.517	28.7869	0.26993	NOTE	A4	442.796	1
-113	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	28.7927	28.8276	0.03483	ct	C#5	544.34	2
-114	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	28.8276	29.1991	0.37152	NOTE	B4	497.605	1
-115	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	29.2136	29.5329	0.31927	BREATH	BREATH	0	4
-116	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	29.5329	29.7564	0.22349	NOTE	A4	442.796	1
-117	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	29.7564	29.977	0.22059	NOTE	B4	493.158	1
-118	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	29.9857	30.2469	0.26122	NOTE	D5	595.465	1
-119	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	30.2469	30.4588	0.21188	NOTE	E5	669.172	1
-120	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	30.4588	30.6707	0.21188	NOTE	D5	584.87	1
-121	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	30.6707	30.9232	0.25252	NOTE	E5	669.172	1
-122	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	30.9348	31.1525	0.21769	NOTE	F#5	732.02	1
-123	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	31.1525	31.3789	0.22639	NOTE	D5	595.465	1
-124	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	31.3847	31.6198	0.2351	NOTE	B4	493.158	1
-125	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	31.6198	31.6604	0.040635	ct	C#5	544.34	2
-126	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	31.6778	31.8897	0.21188	NOTE	B4	493.158	1
-127	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	31.9071	32.1016	0.19447	NOTE	A4	450.818	1
-128	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	32.1103	32.3338	0.22349	NOTE	F#4	366.719	1
-129	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	32.3338	32.5602	0.22639	NOTE	A4	442.796	1
-130	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	32.5689	32.7924	0.22349	NOTE	F#4	366.719	1
-131	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	32.7982	33.0188	0.22059	NOTE	E4	329.269	1
-132	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	33.0217	33.071	0.049342	ct	G4	394.024	2
-133	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	33.0826	33.2742	0.19156	NOTE	E4	335.234	1
-134	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	33.2742	33.5035	0.2293	NOTE	F#4	370.026	1
-135	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	33.5093	33.7386	0.2293	NOTE	A4	442.796	1
-136	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	33.7386	33.7821	0.043537	ct	C#5	544.34	2
-137	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	33.7908	34.5223	0.73143	NOTE	B4	493.158	1
-138	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	34.5281	34.9431	0.41506	NOTE	D5	595.465	1
-139	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	34.9489	35.2885	0.33959	BREATH	BREATH	0	4
-140	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	35.2885	35.5381	0.24961	NOTE	A4	442.796	1
-141	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	35.5381	35.7268	0.18866	NOTE	B4	493.158	1
-142	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	35.7326	36.0171	0.28444	NOTE	D5	584.87	1
-143	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	36.0171	36.4466	0.42957	NOTE	E5	669.172	1
-144	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	36.4524	36.7166	0.26413	NOTE	F#5	725.479	1
-145	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	36.7311	37.1606	0.42957	NOTE	D5	584.87	1
-146	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	37.1606	37.4335	0.27283	NOTE	C#5	559.199	1
-147	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	37.4335	37.9153	0.48181	NOTE	B4	493.158	1
-148	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	37.9153	38.1417	0.22639	NOTE	A4	442.796	1
-149	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	38.1417	38.1881	0.04644	ct	C5	534.655	2
-150	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	38.1997	38.4116	0.21188	NOTE	A4	446.789	1
-151	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	38.4116	38.5887	0.17705	NOTE	B4	493.158	1
-152	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	38.6003	38.876	0.27574	NOTE	D5	579.643	1
-153	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	38.8847	39.3491	0.4644	NOTE	E5	651.391	1
-154	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	39.3491	39.5958	0.24671	NOTE	F#5	732.02	1
-155	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	39.6103	40.066	0.45569	NOTE	D5	590.143	1
-156	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	40.0805	40.3389	0.25832	NOTE	A4	442.796	1
-157	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	40.3389	40.3737	0.03483	ct	C#5	549.249	2
-158	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	40.3882	40.751	0.36281	NOTE	B4	497.605	1
-159	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	40.7626	41.0616	0.29896	BREATH	BREATH	0	4
-160	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	41.0703	41.3228	0.25252	NOTE	A4	438.839	1
-161	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	41.3228	41.5057	0.18286	NOTE	B4	502.092	1
-162	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	41.5202	41.7785	0.25832	NOTE	D5	579.643	1
-163	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	41.7785	41.9672	0.18866	NOTE	E5	657.265	1
-164	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	41.9672	42.1965	0.2293	NOTE	D5	579.643	1
-165	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	42.2023	42.42	0.21769	NOTE	E5	657.265	1
-166	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	42.4316	42.478	0.04644	ct	G#5	815.278	2
-167	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	42.478	42.6609	0.18286	NOTE	F#5	732.02	1
-168	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	42.6638	42.8815	0.21769	NOTE	D5	595.465	1
-169	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	42.8873	43.134	0.24671	NOTE	B4	493.158	1
-170	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	43.1485	43.1746	0.026122	ct	C#5	539.476	2
-171	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	43.1949	43.3778	0.18286	NOTE	B4	506.62	1
-172	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	43.3894	43.5664	0.17705	NOTE	A4	446.789	1
-173	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	43.5693	43.819	0.24961	NOTE	F#4	363.442	1
-174	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	43.819	44.0628	0.24381	NOTE	A4	442.796	1
-175	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	44.0715	44.2659	0.19447	NOTE	F#4	363.442	1
-176	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	44.2746	44.5068	0.2322	NOTE	E4	332.238	1
-177	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	44.5068	44.5359	0.029025	ct	G4	383.554	2
-178	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	44.5649	44.7332	0.16834	NOTE	E4	329.269	1
-179	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	44.7332	44.9509	0.21769	NOTE	F#4	363.442	1
-180	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	44.9654	45.2093	0.24381	NOTE	A4	442.796	1
-181	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	45.2267	45.6853	0.45859	NOTE	D5	590.143	1
-182	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	45.6882	45.9378	0.24961	NOTE	E5	657.265	1
-183	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	45.9378	45.9813	0.043537	ct	G#5	837.532	2
-184	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	45.9871	46.1874	0.20027	NOTE	F#5	738.621	1
-185	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	46.1932	46.3819	0.18866	NOTE	D5	595.465	1
-186	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	46.3877	46.7592	0.37152	NOTE	A4	434.917	1
-187	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	52.5758	52.5758	2.2675e-05	NOTE	Bb3	227.882	1
+1	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	0.19229	0.68499	0.4927	NOTE	F#4	366.719
+2	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	0.70531	0.93388	0.22857	NOTE	E4	332.238
+3	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	0.94912	0.98685	0.037732	ct	F4	344.385
+4	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	0.98975	1.1929	0.20317	NOTE	E4	329.269
+5	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	1.2045	1.4367	0.2322	NOTE	D4	290.383
+6	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	1.4396	1.6776	0.238	NOTE	E4	323.411
+7	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	1.6834	2.1362	0.45279	NOTE	F#4	366.719
+8	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	2.1449	2.3742	0.2293	NOTE	D4	293.001
+9	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	2.3742	2.4178	0.043537	ct	F#4	363.442
+10	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	2.4294	2.679	0.24961	NOTE	D4	290.383
+11	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	2.6877	2.8822	0.19447	NOTE	E4	323.411
+12	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	2.8996	3.1637	0.26413	NOTE	D4	293.001
+13	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	3.1695	3.6659	0.49633	NOTE	F#4	363.442
+14	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	3.6746	3.9039	0.2293	NOTE	E4	332.238
+15	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	3.9097	3.9416	0.031927	ct	G4	383.554
+16	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	3.9561	4.1796	0.22349	NOTE	E4	329.269
+17	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	4.1796	4.3712	0.19156	NOTE	F#4	363.442
+18	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	4.3712	4.6208	0.24961	NOTE	A4	442.796
+19	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	4.6295	5.1055	0.47601	NOTE	D5	600.834
+20	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	5.1084	5.3348	0.22639	NOTE	E5	675.206
+21	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	5.3435	5.3841	0.040635	ct	G#5	837.532
+22	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	5.3899	5.5873	0.19737	NOTE	F#5	732.02
+23	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	5.596	5.7615	0.16544	NOTE	D5	590.143
+24	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	5.7905	6.0488	0.25832	NOTE	A4	434.917
+25	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	6.0488	6.5393	0.49052	NOTE	F#4	366.719
+26	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	6.5509	6.7686	0.21769	NOTE	E4	326.327
+27	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	6.7715	6.8151	0.043537	ct	G4	394.024
+28	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	6.8238	7.024	0.20027	NOTE	E4	326.327
+29	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	7.0269	7.2417	0.21478	NOTE	D4	293.001
+30	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	7.2475	7.4507	0.20317	NOTE	E4	332.238
+31	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	7.4594	7.5088	0.049342	ct	G#4	427.179
+32	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	7.5146	7.9267	0.41215	NOTE	F#4	360.194
+33	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	7.9412	8.1676	0.22639	NOTE	D4	293.001
+34	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	8.1676	8.217	0.049342	ct	F#4	363.442
+35	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	8.2344	8.455	0.22059	NOTE	D4	295.644
+36	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	8.455	8.6727	0.21769	NOTE	E4	329.269
+37	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	8.6814	8.9107	0.2293	NOTE	D4	293.001
+38	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	8.931	9.1545	0.22349	NOTE	A4	431.031
+39	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	9.169	9.3896	0.22059	NOTE	F#4	366.719
+40	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	9.3983	9.5985	0.20027	NOTE	E4	335.234
+41	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	9.6015	9.6305	0.029025	ct	F4	353.785
+42	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	9.6392	9.912	0.27283	NOTE	E4	332.238
+43	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	9.9265	10.0659	0.13932	NOTE	F#4	366.719
+44	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	10.0688	10.298	0.2293	NOTE	A4	438.839
+45	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	10.3068	11.0585	0.75175	NOTE	B4	497.605
+46	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	11.0788	11.4823	0.40345	NOTE	D5	595.465
+47	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	11.491	11.8857	0.39474	BREATH	BREATH	0
+48	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	11.8944	12.4053	0.51084	NOTE	F#4	370.026
+49	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	12.414	12.6665	0.25252	NOTE	E4	332.238
+50	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	12.6694	12.7042	0.03483	ct	F#4	380.127
+51	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	12.7158	12.89	0.17415	NOTE	E4	326.327
+52	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	12.8987	13.1106	0.21188	NOTE	D4	290.383
+53	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	13.1193	13.3921	0.27283	NOTE	E4	326.327
+54	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	13.395	13.8681	0.47311	NOTE	F#4	363.442
+55	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	13.871	14.1235	0.25252	NOTE	D4	290.383
+56	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	14.1264	14.1584	0.031927	ct	E4	332.238
+57	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	14.1671	14.408	0.24091	NOTE	D4	290.383
+58	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	14.4109	14.6024	0.19156	NOTE	E4	323.411
+59	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	14.617	14.913	0.29605	NOTE	D4	290.383
+60	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	14.9246	15.3919	0.4673	NOTE	F#4	366.719
+61	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	15.3948	15.6183	0.22349	NOTE	E4	332.238
+62	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	15.6183	15.659	0.040635	ct	G4	387.013
+63	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	15.6706	15.8912	0.22059	NOTE	E4	332.238
+64	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	15.8912	16.0769	0.18576	NOTE	F#4	366.719
+65	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	16.0827	16.3352	0.25252	NOTE	A4	442.796
+66	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	16.3381	16.8287	0.49052	NOTE	D5	595.465
+67	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	16.8287	17.0551	0.22639	NOTE	E5	651.391
+68	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	17.0638	17.1044	0.040635	ct	A5	868.152
+69	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	17.1131	17.325	0.21188	NOTE	F#5	732.02
+70	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	17.3366	17.4904	0.15383	NOTE	D5	590.143
+71	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	17.5107	17.7865	0.27574	NOTE	A4	442.796
+72	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	17.7952	17.9984	0.20317	NOTE	F#4	370.026
+73	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	18.0013	18.2944	0.29315	BREATH	BREATH	0
+74	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	18.2944	18.5092	0.21478	NOTE	E4	323.411
+75	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	18.5208	18.5556	0.03483	ct	F#4	380.127
+76	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	18.576	18.7762	0.20027	NOTE	E4	329.269
+77	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	18.782	19.0113	0.2293	NOTE	D4	290.383
+78	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	19.0113	19.229	0.21769	NOTE	E4	326.327
+79	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	19.229	19.2639	0.03483	ct	A4	434.917
+80	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	19.2726	19.6934	0.42086	NOTE	F#4	363.442
+81	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	19.6963	19.9314	0.2351	NOTE	D4	300.999
+82	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	19.9314	19.9721	0.040635	ct	F#4	366.719
+83	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	19.9924	20.2362	0.24381	NOTE	D4	287.788
+84	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	20.2362	20.419	0.18286	NOTE	E4	329.269
+85	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	20.4249	20.6774	0.25252	NOTE	D4	293.001
+86	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	20.6774	20.9212	0.24381	NOTE	A4	442.796
+87	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	20.9241	21.1418	0.21769	NOTE	F#4	363.442
+88	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	21.1505	21.3566	0.20608	NOTE	E4	326.327
+89	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	21.3682	21.4001	0.031927	ct	F#4	380.127
+90	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	21.4204	21.612	0.19156	NOTE	E4	323.411
+91	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	21.612	21.8355	0.22349	NOTE	F#4	366.719
+92	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	21.8384	22.1083	0.26993	NOTE	A4	438.839
+93	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	22.1141	22.8659	0.75175	NOTE	B4	497.605
+94	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	22.8775	23.2838	0.40635	NOTE	D5	590.143
+95	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	23.2896	23.6669	0.37732	BREATH	BREATH	0
+96	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	23.6727	23.9137	0.24091	NOTE	A4	446.789
+97	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	23.9137	24.1226	0.20898	NOTE	C5	511.188
+98	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	24.1459	24.4187	0.27283	NOTE	D5	600.834
+99	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	24.4187	24.8918	0.47311	NOTE	E5	657.265
+100	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	24.9005	25.1414	0.24091	NOTE	F#5	738.621
+101	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	25.1501	25.5942	0.44408	NOTE	D5	595.465
+102	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	25.5942	25.8873	0.29315	NOTE	C#5	554.201
+103	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	25.8873	26.3576	0.4702	NOTE	B4	497.605
+104	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	26.3663	26.5956	0.2293	NOTE	A4	442.796
+105	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	26.6014	26.6478	0.04644	ct	C5	525.142
+106	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	26.6565	26.8684	0.21188	NOTE	A4	442.796
+107	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	26.8684	27.0425	0.17415	NOTE	B4	497.605
+108	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	27.0541	27.3415	0.28735	NOTE	D5	584.87
+109	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	27.3415	27.7885	0.44698	NOTE	E5	669.172
+110	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	27.7885	28.0874	0.29896	NOTE	F#5	738.621
+111	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	28.0874	28.5083	0.42086	NOTE	D5	584.87
+112	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	28.517	28.7869	0.26993	NOTE	A4	442.796
+113	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	28.7927	28.8276	0.03483	ct	C#5	544.34
+114	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	28.8276	29.1991	0.37152	NOTE	B4	497.605
+115	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	29.2136	29.5329	0.31927	BREATH	BREATH	0
+116	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	29.5329	29.7564	0.22349	NOTE	A4	442.796
+117	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	29.7564	29.977	0.22059	NOTE	B4	493.158
+118	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	29.9857	30.2469	0.26122	NOTE	D5	595.465
+119	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	30.2469	30.4588	0.21188	NOTE	E5	669.172
+120	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	30.4588	30.6707	0.21188	NOTE	D5	584.87
+121	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	30.6707	30.9232	0.25252	NOTE	E5	669.172
+122	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	30.9348	31.1525	0.21769	NOTE	F#5	732.02
+123	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	31.1525	31.3789	0.22639	NOTE	D5	595.465
+124	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	31.3847	31.6198	0.2351	NOTE	B4	493.158
+125	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	31.6198	31.6604	0.040635	ct	C#5	544.34
+126	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	31.6778	31.8897	0.21188	NOTE	B4	493.158
+127	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	31.9071	32.1016	0.19447	NOTE	A4	450.818
+128	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	32.1103	32.3338	0.22349	NOTE	F#4	366.719
+129	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	32.3338	32.5602	0.22639	NOTE	A4	442.796
+130	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	32.5689	32.7924	0.22349	NOTE	F#4	366.719
+131	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	32.7982	33.0188	0.22059	NOTE	E4	329.269
+132	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	33.0217	33.071	0.049342	ct	G4	394.024
+133	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	33.0826	33.2742	0.19156	NOTE	E4	335.234
+134	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	33.2742	33.5035	0.2293	NOTE	F#4	370.026
+135	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	33.5093	33.7386	0.2293	NOTE	A4	442.796
+136	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	33.7386	33.7821	0.043537	ct	C#5	544.34
+137	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	33.7908	34.5223	0.73143	NOTE	B4	493.158
+138	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	34.5281	34.9431	0.41506	NOTE	D5	595.465
+139	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	34.9489	35.2885	0.33959	BREATH	BREATH	0
+140	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	35.2885	35.5381	0.24961	NOTE	A4	442.796
+141	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	35.5381	35.7268	0.18866	NOTE	B4	493.158
+142	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	35.7326	36.0171	0.28444	NOTE	D5	584.87
+143	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	36.0171	36.4466	0.42957	NOTE	E5	669.172
+144	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	36.4524	36.7166	0.26413	NOTE	F#5	725.479
+145	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	36.7311	37.1606	0.42957	NOTE	D5	584.87
+146	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	37.1606	37.4335	0.27283	NOTE	C#5	559.199
+147	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	37.4335	37.9153	0.48181	NOTE	B4	493.158
+148	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	37.9153	38.1417	0.22639	NOTE	A4	442.796
+149	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	38.1417	38.1881	0.04644	ct	C5	534.655
+150	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	38.1997	38.4116	0.21188	NOTE	A4	446.789
+151	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	38.4116	38.5887	0.17705	NOTE	B4	493.158
+152	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	38.6003	38.876	0.27574	NOTE	D5	579.643
+153	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	38.8847	39.3491	0.4644	NOTE	E5	651.391
+154	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	39.3491	39.5958	0.24671	NOTE	F#5	732.02
+155	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	39.6103	40.066	0.45569	NOTE	D5	590.143
+156	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	40.0805	40.3389	0.25832	NOTE	A4	442.796
+157	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	40.3389	40.3737	0.03483	ct	C#5	549.249
+158	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	40.3882	40.751	0.36281	NOTE	B4	497.605
+159	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	40.7626	41.0616	0.29896	BREATH	BREATH	0
+160	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	41.0703	41.3228	0.25252	NOTE	A4	438.839
+161	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	41.3228	41.5057	0.18286	NOTE	B4	502.092
+162	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	41.5202	41.7785	0.25832	NOTE	D5	579.643
+163	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	41.7785	41.9672	0.18866	NOTE	E5	657.265
+164	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	41.9672	42.1965	0.2293	NOTE	D5	579.643
+165	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	42.2023	42.42	0.21769	NOTE	E5	657.265
+166	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	42.4316	42.478	0.04644	ct	G#5	815.278
+167	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	42.478	42.6609	0.18286	NOTE	F#5	732.02
+168	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	42.6638	42.8815	0.21769	NOTE	D5	595.465
+169	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	42.8873	43.134	0.24671	NOTE	B4	493.158
+170	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	43.1485	43.1746	0.026122	ct	C#5	539.476
+171	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	43.1949	43.3778	0.18286	NOTE	B4	506.62
+172	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	43.3894	43.5664	0.17705	NOTE	A4	446.789
+173	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	43.5693	43.819	0.24961	NOTE	F#4	363.442
+174	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	43.819	44.0628	0.24381	NOTE	A4	442.796
+175	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	44.0715	44.2659	0.19447	NOTE	F#4	363.442
+176	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	44.2746	44.5068	0.2322	NOTE	E4	332.238
+177	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	44.5068	44.5359	0.029025	ct	G4	383.554
+178	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	44.5649	44.7332	0.16834	NOTE	E4	329.269
+179	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	44.7332	44.9509	0.21769	NOTE	F#4	363.442
+180	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	44.9654	45.2093	0.24381	NOTE	A4	442.796
+181	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	45.2267	45.6853	0.45859	NOTE	D5	590.143
+182	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	45.6882	45.9378	0.24961	NOTE	E5	657.265
+183	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	45.9378	45.9813	0.043537	ct	G#5	837.532
+184	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	45.9871	46.1874	0.20027	NOTE	F#5	738.621
+185	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	46.1932	46.3819	0.18866	NOTE	D5	595.465
+186	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	46.3877	46.7592	0.37152	NOTE	A4	434.917
+187	Lar_EssentialGuideCD1_Tk10Tu1R1_TheLonesomeJig.txt	52.5758	52.5758	2.2675e-05	NOTE	Bb3	227.882

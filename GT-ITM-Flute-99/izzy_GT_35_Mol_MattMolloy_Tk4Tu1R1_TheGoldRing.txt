@@ -1,796 +1,796 @@
-1	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	1e-05	0.90848	0.90848	BREATH	BREATH	0	4
-2	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	0.90848	1.6747	0.76626	NOTE	C5	529.065	1
-3	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	1.6747	1.7212	0.04644	ct	C#5	561.734	2
-4	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	1.7212	1.8895	0.16834	NOTE	C5	526.205	1
-5	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	1.8895	2.049	0.15946	NOTE	Bb4	473.287	1
-6	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	2.049	2.2959	0.24694	NOTE	G#4	422.797	1
-7	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	2.2959	2.3735	0.077551	lngRoll_nt	Bb4	464.196	
-8	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	2.3735	2.4265	0.053061	lngRoll_ct	B4	500.604	
-9	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	2.4265	2.4755	0.04898	lngRoll_nt	Bb4	472.272	
-10	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	2.4755	2.5143	0.038776	lngRoll_str	Bb4	460.669	
-11	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	2.5143	2.6939	0.17959	lngRoll_nt	Bb4	470.218	
-12	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	2.6939	2.898	0.20408	NOTE	Eb5	631.352	1
-13	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	2.898	3.0755	0.17755	NOTE	D5	574.963	1
-14	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	3.0755	3.2388	0.16327	NOTE	Bb4	476.162	1
-15	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	3.2388	3.4327	0.19388	NOTE	G#4	423.583	1
-16	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	3.4327	3.4959	0.063265	shRoll_ct	Bb4	453.086	5
-17	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	3.4959	3.5735	0.077551	shRoll_nt	G#4	420.184	1
-18	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	3.5735	3.6204	0.046939	shRoll_str	G#4	412.708	3
-19	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	3.6204	3.7735	0.15306	shRoll_nt	G#4	421.242	1
-20	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	3.7735	3.9714	0.19796	NOTE	Eb4	312.992	1
-21	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	3.9714	4.0224	0.05102	ct	D5	583.655	2
-22	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.0224	4.1429	0.12041	NOTE	C5	531.64	1
-23	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.1429	4.2694	0.12653	NOTE	Bb4	473.942	1
-24	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.2694	4.449	0.17959	NOTE	G#4	425.684	1
-25	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.449	4.5347	0.085714	shRoll_ct	C#5	569.002	5
-26	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.5347	4.5857	0.05102	shRoll_nt	Bb4	469.511	1
-27	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.5857	4.6224	0.036735	shRoll_str	Bb4	461.133	3
-28	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.6224	4.7735	0.15102	shRoll_nt	Bb4	470.591	1
-29	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.7735	4.9592	0.18571	NOTE	Eb5	631.846	1
-30	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.9592	5.149	0.1898	NOTE	D5	575.013	1
-31	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.149	5.298	0.14898	NOTE	Bb4	473.263	1
-32	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.298	5.4592	0.16122	NOTE	Eb4	313.848	1
-33	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.4592	5.598	0.13878	NOTE	F4	353.206	1
-34	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.598	5.6551	0.057143	lngRoll_nt	G4	389.94	
-35	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.6551	5.6959	0.040816	lngRoll_ct	G#4	424.046	
-36	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.6959	5.7653	0.069388	lngRoll_nt	G4	392.861	
-37	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.7653	5.8	0.034694	lngRoll_str	G4	383.229	
-38	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.8	5.9653	0.16531	lngRoll_nt	G4	392.996	
-39	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.9653	6.0122	0.046939	ct	C#5	565.337	2
-40	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	6.0122	6.151	0.13878	NOTE	C5	529.578	1
-41	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	6.151	6.2816	0.13061	NOTE	Bb4	474.836	1
-42	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	6.2816	6.4673	0.18571	NOTE	G#4	421.409	1
-43	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	6.4673	6.6143	0.14694	NOTE	Bb4	465.56	1
-44	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	6.6143	6.8306	0.21633	BREATH	BREATH	0	4
-45	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	6.8306	6.9653	0.13469	NOTE	Eb5	633.428	1
-46	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	6.9653	7.1592	0.19388	NOTE	D5	573.696	1
-47	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	7.1592	7.2918	0.13265	NOTE	Bb4	474.273	1
-48	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	7.2918	7.4469	0.1551	NOTE	G#4	424.073	1
-49	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	7.4469	7.5061	0.059184	ct	A4	451.584	2
-50	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	7.5061	7.6102	0.10408	NOTE	G#4	426.693	1
-51	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	7.6102	7.6878	0.077551	NOTE	C5	525.368	1
-52	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	7.6878	7.7714	0.083673	NOTE	C#5	567.028	1
-53	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	7.7714	7.9306	0.15918	NOTE	Eb5	632.239	1
-54	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	7.9306	8.0694	0.13878	NOTE	G5	787.848	1
-55	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	8.0694	8.2735	0.20408	NOTE	C6	1054.23	1
-56	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	8.2735	8.4837	0.2102	NOTE	G#5	841.052	1
-57	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	8.4837	8.6327	0.14898	NOTE	Bb5	935.629	1
-58	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	8.6327	8.7694	0.13673	NOTE	G#5	815.997	1
-59	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	8.7694	8.9102	0.14082	NOTE	Eb5	640.23	1
-60	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	8.9102	9.0857	0.17551	NOTE	D5	578.369	1
-61	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	9.0857	9.2449	0.15918	NOTE	Bb4	472.86	1
-62	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	9.2449	9.3796	0.13469	NOTE	G#4	422.502	1
-63	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	9.3796	9.6735	0.29388	NOTE	G#4	422.932	1
-64	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	9.6735	9.8816	0.20816	BREATH	BREATH	0	4
-65	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	9.8816	9.9327	0.05102	NOTE	D5	591.105	1
-66	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	9.9327	10.0633	0.13061	NOTE	C5	531.152	1
-67	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	10.0633	10.202	0.13878	NOTE	Bb4	479.527	1
-68	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	10.202	10.42	0.21791	NOTE	G#4	426.764	1
-69	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	10.42	10.4816	0.061678	shRoll_ct	C#5	562.959	5
-70	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	10.4816	10.5184	0.036735	shRoll_nt	Bb4	476.613	1
-71	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	10.5184	10.5531	0.034694	shRoll_str	A4	453.048	3
-72	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	10.5531	10.6939	0.14082	shRoll_nt	Bb4	470.925	1
-73	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	10.6939	10.8673	0.17347	NOTE	Eb5	633.729	1
-74	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	10.8673	11.0612	0.19388	NOTE	D5	573.046	1
-75	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	11.0612	11.1878	0.12653	NOTE	Bb4	474.16	1
-76	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	11.1878	11.3755	0.18776	NOTE	G#4	424.192	1
-77	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	11.3755	11.4204	0.044898	shRoll_ct	Bb4	456.995	5
-78	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	11.4204	11.5	0.079592	shRoll_nt	G#4	422.111	1
-79	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	11.5	11.5429	0.042857	shRoll_str	G#4	413.332	3
-80	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	11.5429	11.6837	0.14082	shRoll_nt	G#4	423.175	1
-81	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	11.6837	11.8571	0.17347	NOTE	Eb4	314.158	1
-82	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	11.8571	12.0306	0.17347	NOTE	C#5	543.096	1
-83	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	12.0306	12.1551	0.12449	NOTE	Bb4	475.256	1
-84	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	12.1551	12.3704	0.21533	NOTE	G#4	424.013	1
-85	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	12.3704	12.4286	0.058141	shRoll_ct	C#5	562.797	5
-86	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	12.4286	12.4551	0.026531	shRoll_nt	Bb4	473.614	1
-87	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	12.4551	12.4959	0.040816	shRoll_str	Bb4	461.024	3
-88	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	12.4959	12.651	0.1551	shRoll_nt	Bb4	472.625	1
-89	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	12.651	12.8286	0.17755	NOTE	Eb5	632.122	1
-90	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	12.8286	13.002	0.17347	NOTE	D5	572.847	1
-91	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.002	13.1551	0.15306	NOTE	Bb4	473.007	1
-92	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.1551	13.3102	0.1551	NOTE	Eb4	315.083	1
-93	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.3102	13.4306	0.12041	NOTE	F4	348.791	1
-94	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.4306	13.4939	0.063265	NOTE	G4	391.905	1
-95	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.4939	13.5367	0.042857	shRoll_ct	A4	427.857	5
-96	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.5367	13.6102	0.073469	shRoll_nt	G4	390.032	1
-97	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.6102	13.6449	0.034694	shRoll_str	G4	382.647	3
-98	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.6449	13.7857	0.14082	shRoll_nt	G4	391.288	1
-99	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.7857	13.8551	0.069388	ct	C#5	566.067	2
-100	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.8551	13.9714	0.11633	NOTE	C5	526.621	1
-101	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.9714	14.0878	0.11633	NOTE	Bb4	470.243	1
-102	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	14.0878	14.2776	0.1898	NOTE	G#4	422.41	1
-103	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	14.2776	14.4	0.12245	NOTE	Bb4	466.004	1
-104	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	14.4	14.6245	0.22449	BREATH	BREATH	0	4
-105	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	14.6245	14.7408	0.11633	NOTE	Eb5	634.175	1
-106	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	14.7408	14.9306	0.1898	NOTE	D5	575.816	1
-107	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	14.9306	15.0551	0.12449	NOTE	Bb4	473.538	1
-108	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	15.0551	15.202	0.14694	NOTE	G#4	423.864	1
-109	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	15.202	15.2551	0.053061	ct	A4	445.832	2
-110	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	15.2551	15.3837	0.12857	NOTE	G#4	426.076	1
-111	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	15.3837	15.451	0.067347	NOTE	C5	508.806	1
-112	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	15.451	15.5245	0.073469	NOTE	C#5	564.363	1
-113	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	15.5245	15.6857	0.16122	NOTE	Eb5	628.555	1
-114	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	15.6857	15.8653	0.17959	NOTE	G5	806.652	1
-115	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	15.8653	16.0327	0.16735	NOTE	C6	1028.62	1
-116	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	16.0327	16.1694	0.13673	NOTE	A5	868.354	1
-117	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	16.1694	16.2408	0.071429	ct	B5	1015.91	2
-118	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	16.2408	16.3571	0.11633	NOTE	Bb5	944.877	1
-119	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	16.3571	16.5041	0.14694	NOTE	G5	801.28	1
-120	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	16.5041	16.6551	0.15102	NOTE	E5	646.736	1
-121	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	16.6551	16.8327	0.17755	NOTE	D5	579.306	1
-122	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	16.8327	16.9735	0.14082	NOTE	Bb4	474.539	1
-123	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	16.9735	17.1224	0.14898	NOTE	G#4	422.242	1
-124	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.1224	17.1755	0.053061	shRoll_ct	Bb4	458.667	5
-125	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.1755	17.2224	0.046939	shRoll_nt	G#4	425.333	1
-126	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.2224	17.2592	0.036735	shRoll_str	G#4	417.642	3
-127	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.2592	17.3878	0.12857	shRoll_nt	G#4	422.966	1
-128	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.3878	17.649	0.26122	BREATH	BREATH	0	4
-129	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.649	17.8	0.15102	lngRoll_nt	C5	523.666	
-130	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.8	17.849	0.04898	lngRoll_ct	D5	572.027	
-131	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.849	17.9184	0.069388	lngRoll_nt	C5	530.886	
-132	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.9184	17.9571	0.038776	lngRoll_str	C5	525.877	
-133	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.9571	18.1122	0.1551	lngRoll_nt	C5	529.394	
-134	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.1122	18.1592	0.046939	ct	C#5	562.976	2
-135	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.1592	18.2694	0.1102	NOTE	C5	528.01	1
-136	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.2694	18.4102	0.14082	NOTE	Eb5	612.966	1
-137	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.4102	18.5857	0.17551	NOTE	D5	576.101	1
-138	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.5857	18.6612	0.07551	str	G#4	427.437	3
-139	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.6612	18.7653	0.10408	lngRoll_nt	Bb4	469.26	
-140	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.7653	18.8163	0.05102	lngRoll_ct	C5	535.575	
-141	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.8163	18.8694	0.053061	lngRoll_nt	Bb4	472.162	
-142	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.8694	18.9245	0.055102	lngRoll_str	Bb4	467.801	
-143	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.9245	19.0939	0.16939	lngRoll_nt	Bb4	469.417	
-144	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	19.0939	19.2306	0.13673	NOTE	Eb5	626.55	1
-145	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	19.2306	19.3837	0.15306	NOTE	C#5	570.541	1
-146	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	19.3837	19.549	0.16531	NOTE	Bb4	470.994	1
-147	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	19.549	19.7102	0.16122	lngRoll_nt	G#4	419.147	
-148	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	19.7102	19.7571	0.046939	lngRoll_ct	A4	452.374	
-149	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	19.7571	19.8286	0.071429	lngRoll_nt	G#4	419.198	
-150	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	19.8286	19.8673	0.038776	lngRoll_str	G#4	409.761	
-151	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	19.8673	20.0102	0.14286	lngRoll_nt	G#4	419.791	
-152	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.0102	20.0673	0.057143	ct	A4	451.712	2
-153	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.0673	20.1755	0.10816	NOTE	G#4	421.348	1
-154	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.1755	20.3224	0.14694	NOTE	G4	392.6	1
-155	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.3224	20.4878	0.16531	NOTE	G#4	421.664	1
-156	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.4878	20.5653	0.077551	NOTE	Bb4	471.936	1
-157	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.5653	20.6367	0.071429	NOTE	C#5	558.242	1
-158	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.6367	20.7939	0.15714	NOTE	Eb5	631.877	1
-159	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.7939	20.9959	0.20204	NOTE	C5	531.305	1
-160	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.9959	21.0469	0.05102	ct	C#5	565.54	2
-161	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	21.0469	21.1388	0.091837	NOTE	C5	528.428	1
-162	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	21.1388	21.2837	0.1449	NOTE	Bb4	475.513	1
-163	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	21.2837	21.4633	0.17959	NOTE	G#4	422.268	1
-164	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	21.4633	21.5857	0.12245	NOTE	C5	525.149	1
-165	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	21.5857	21.802	0.21633	NOTE	C5	526.78	1
-166	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	21.802	21.9367	0.13469	NOTE	C5	526.246	1
-167	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	21.9367	21.9837	0.046939	ct	D5	571.698	2
-168	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	21.9837	22.1571	0.17347	NOTE	C5	530.969	1
-169	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	22.1571	22.251	0.093878	NOTE	Eb5	610.183	1
-170	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	22.251	22.4245	0.17347	NOTE	D5	575.401	1
-171	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	22.4245	22.5735	0.14898	lngRoll_nt	Bb4	474.98	
-172	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	22.5735	22.6286	0.055102	lngRoll_ct	C5	531.663	
-173	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	22.6286	22.7	0.071429	lngRoll_nt	Bb4	471.931	
-174	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	22.7	22.7388	0.038776	lngRoll_str	Bb4	460.826	
-175	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	22.7388	22.9347	0.19592	lngRoll_nt	Bb4	468.743	
-176	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	22.9347	23.0878	0.15306	NOTE	Eb5	615	1
-177	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.0878	23.1796	0.091837	NOTE	Bb4	467.889	1
-178	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.1796	23.3429	0.16327	NOTE	G#4	419.968	1
-179	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.3429	23.4184	0.07551	ct	G#4	417.269	2
-180	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.4184	23.5347	0.11633	NOTE	G4	390.9	1
-181	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.5347	23.6653	0.13061	NOTE	Eb4	313.657	1
-182	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.6653	23.8429	0.17755	NOTE	F4	352.29	1
-183	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.8429	23.9082	0.065306	shRoll_ct	G#4	427.356	5
-184	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.9082	23.9694	0.061224	shRoll_nt	G4	394.203	1
-185	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.9694	24.0102	0.040816	shRoll_str	G4	384.661	3
-186	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	24.0102	24.1367	0.12653	shRoll_nt	G4	392.403	1
-187	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	24.1367	24.3265	0.1898	NOTE	Eb5	631.8	1
-188	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	24.3265	24.5041	0.17755	NOTE	D5	571.587	1
-189	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	24.5041	24.6408	0.13673	NOTE	Bb4	469.96	1
-190	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	24.6408	24.8061	0.16531	NOTE	G4	390.969	1
-191	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	24.8061	24.9571	0.15102	lngRoll_nt	G#4	420.708	
-192	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	24.9571	25.0041	0.046939	lngRoll_ct	A4	451.899	
-193	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.0041	25.0735	0.069388	lngRoll_nt	G#4	420.673	
-194	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.0735	25.1102	0.036735	lngRoll_str	G#4	411.714	
-195	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.1102	25.2735	0.16327	lngRoll_nt	G#4	420.819	
-196	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.2735	25.398	0.12449	NOTE	C5	523	1
-197	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.398	25.5816	0.18367	NOTE	C4	265.375	1
-198	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.5816	25.7429	0.16122	NOTE	C5	529.01	1
-199	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.7429	25.802	0.059184	ct	C#5	570.286	2
-200	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.802	25.9551	0.15306	NOTE	C5	535.298	1
-201	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.9551	26.0531	0.097959	NOTE	Eb5	610.021	1
-202	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.0531	26.2041	0.15102	NOTE	D5	574.79	1
-203	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.2041	26.2776	0.073469	str	A4	429.324	3
-204	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.2776	26.3898	0.11224	lngRoll_nt	Bb4	468.779	
-205	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.3898	26.449	0.059184	lngRoll_ct	C5	532.863	
-206	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.449	26.4959	0.046939	lngRoll_nt	Bb4	471.387	
-207	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.4959	26.5429	0.046939	lngRoll_str	Bb4	465.764	
-208	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.5429	26.6959	0.15306	lngRoll_nt	Bb4	469.858	
-209	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.6959	26.8551	0.15918	NOTE	Eb5	611.629	1
-210	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.8551	27.0265	0.17143	NOTE	D5	571.167	1
-211	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.0265	27.1551	0.12857	NOTE	Bb4	472.524	1
-212	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.1551	27.2122	0.057143	str	G4	396.594	3
-213	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.2122	27.3184	0.10612	lngRoll_nt	G#4	421.076	
-214	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.3184	27.3755	0.057143	lngRoll_ct	Bb4	455.195	
-215	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.3755	27.4408	0.065306	lngRoll_nt	G#4	422.068	
-216	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.4408	27.4857	0.044898	lngRoll_str	G#4	414.213	
-217	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.4857	27.6388	0.15306	lngRoll_nt	G#4	421.253	
-218	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.6388	27.7	0.061224	ct	Bb4	458.369	2
-219	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.7	27.8041	0.10408	NOTE	G#4	421.562	1
-220	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.8041	27.9592	0.1551	NOTE	G4	391.712	1
-221	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.9592	28.1265	0.16735	NOTE	G#4	418.938	1
-222	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	28.1265	28.2163	0.089796	NOTE	Bb4	468.64	1
-223	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	28.2163	28.2939	0.077551	NOTE	C#5	564.729	1
-224	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	28.2939	28.4327	0.13878	NOTE	Eb5	632.022	1
-225	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	28.4327	28.6245	0.19184	NOTE	C5	528.596	1
-226	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	28.6245	28.6776	0.053061	ct	C#5	550.521	2
-227	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	28.6776	28.7796	0.10204	NOTE	C5	525.135	1
-228	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	28.7796	28.9102	0.13061	NOTE	Bb4	471.465	1
-229	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	28.9102	29.0837	0.17347	NOTE	G#4	422.302	1
-230	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	29.0837	29.1755	0.091837	NOTE	C5	526.561	1
-231	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	29.1755	29.4	0.22449	BREATH	BREATH	0	4
-232	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	29.4	29.5694	0.16939	NOTE	C5	528.511	1
-233	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	29.5694	29.6224	0.053061	ct	D5	575.566	2
-234	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	29.6224	29.7347	0.11224	NOTE	C5	532.952	1
-235	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	29.7347	29.8857	0.15102	NOTE	D5	603.417	1
-236	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	29.8857	30.0571	0.17143	NOTE	C#5	570.45	1
-237	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.0571	30.1959	0.13878	lngRoll_nt	Bb4	471.743	
-238	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.1959	30.2673	0.071429	lngRoll_ct	C#5	539.41	
-239	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.2673	30.3265	0.059184	lngRoll_nt	Bb4	472.312	
-240	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.3265	30.3653	0.038776	lngRoll_str	Bb4	460.755	
-241	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.3653	30.551	0.18571	lngRoll_nt	Bb4	470.126	
-242	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.551	30.6898	0.13878	NOTE	Eb5	606	1
-243	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.6898	30.8082	0.11837	NOTE	Bb4	471.999	1
-244	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.8082	30.9755	0.16735	NOTE	G#4	422.349	1
-245	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.9755	31.0429	0.067347	ct	G#4	419.765	2
-246	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.0429	31.151	0.10816	NOTE	G4	392.397	1
-247	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.151	31.2959	0.1449	NOTE	Eb4	314.141	1
-248	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.2959	31.4673	0.17143	NOTE	F4	352.77	1
-249	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.4673	31.5429	0.07551	shRoll_ct	Bb4	460	5
-250	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.5429	31.6122	0.069388	shRoll_nt	G4	390.834	1
-251	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.6122	31.6531	0.040816	shRoll_str	G4	386.15	3
-252	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.6531	31.7694	0.11633	shRoll_nt	G4	391.914	1
-253	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.7694	31.9388	0.16939	NOTE	Eb5	635.931	1
-254	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.9388	32.1224	0.18367	NOTE	D5	571.142	1
-255	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	32.1224	32.2531	0.13061	NOTE	Bb4	472.924	1
-256	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	32.2531	32.451	0.19796	NOTE	G5	786.499	1
-257	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	32.451	32.5796	0.12857	lngRoll_nt	G#5	829.122	
-258	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	32.5796	32.6347	0.055102	lngRoll_ct	A5	904.63	
-259	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	32.6347	32.7327	0.097959	lngRoll_nt	G#5	849.336	
-260	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	32.7327	32.7816	0.04898	lngRoll_str	G#5	826.991	
-261	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	32.7816	32.8959	0.11429	lngRoll_nt	G#5	843.592	
-262	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	32.8959	33.0163	0.12041	NOTE	G5	797.908	1
-263	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	33.0163	33.2408	0.22449	BREATH	BREATH	0	4
-264	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	33.2408	33.3959	0.1551	NOTE	Eb5	637.953	1
-265	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	33.3959	33.4612	0.065306	ct	G5	802.604	2
-266	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	33.4612	33.5388	0.077551	NOTE	F5	705.152	1
-267	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	33.5388	33.6673	0.12857	NOTE	E5	649.728	1
-268	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	33.6673	33.8714	0.20408	NOTE	Eb5	638.194	1
-269	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	33.8714	33.9286	0.057143	NOTE	Bb5	932	1
-270	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	33.9286	34.0469	0.11837	NOTE	G5	793.291	1
-271	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.0469	34.1	0.053061	NOTE	F#5	723.899	1
-272	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.1	34.1633	0.063265	ct	F#5	760.093	2
-273	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.1633	34.2878	0.12449	NOTE	E5	649.385	1
-274	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.2878	34.3714	0.083605	NOTE	G#5	833	1
-275	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.3714	34.4673	0.095986	NOTE	F#5	727.687	1
-276	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.4673	34.5837	0.11633	NOTE	E5	646	1
-277	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.5837	34.7551	0.17143	NOTE	Eb5	634.207	1
-278	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.7551	34.8183	0.063243	ct	A5	900	2
-279	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.8183	35	0.1817	NOTE	G5	782	1
-280	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	35.002	35.0816	0.079592	NOTE	Eb5	625.972	1
-281	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	35.0816	35.1959	0.11429	NOTE	Eb5	623.306	1
-282	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	35.1959	35.2827	0.086825	ct	G#5	845	2
-283	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	35.2827	35.4367	0.15399	NOTE	Eb5	637.641	1
-284	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	35.4367	35.5286	0.091837	NOTE	Eb5	636.322	1
-285	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	35.5286	35.7041	0.17551	NOTE	D5	585.438	1
-286	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	35.7041	35.8714	0.16735	NOTE	Eb5	622.471	1
-287	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	35.8714	36.0102	0.13878	NOTE	C#5	569.685	1
-288	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.0102	36.1735	0.16327	NOTE	Bb4	469.715	1
-289	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.1735	36.3265	0.15306	NOTE	G#5	831.947	1
-290	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.3265	36.3694	0.042857	NOTE	A5	881.999	1
-291	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.3694	36.4469	0.077551	NOTE	G#5	850.292	1
-292	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.4469	36.4898	0.042857	NOTE	G#5	822.46	1
-293	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.4898	36.651	0.16122	NOTE	G#5	842.697	1
-294	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.651	36.7388	0.087755	NOTE	G5	796.243	1
-295	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.7388	36.9796	0.24082	BREATH	BREATH	0	4
-296	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.9796	37.1143	0.13469	NOTE	Eb5	638.107	1
-297	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	37.1143	37.1837	0.069388	ct	G5	784.685	2
-298	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	37.1837	37.2857	0.10204	NOTE	F5	696.325	1
-299	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	37.2857	37.4224	0.13673	NOTE	E5	647.863	1
-300	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	37.4224	37.5612	0.13878	NOTE	Eb5	635.784	1
-301	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	37.5612	37.6327	0.071429	ct	A5	888	2
-302	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	37.6327	37.7429	0.1102	NOTE	G5	786.501	1
-303	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	37.7429	37.8592	0.11633	NOTE	F5	709.66	1
-304	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	37.8592	38.0306	0.17143	NOTE	Eb5	634.008	1
-305	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	38.0306	38.0939	0.063265	NOTE	G#5	833	1
-306	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	38.0939	38.1816	0.087755	NOTE	F5	696.149	1
-307	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	38.1816	38.3163	0.13469	NOTE	Eb5	639.41	1
-308	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	38.3163	38.5082	0.19184	NOTE	D5	586.646	1
-309	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	38.5082	38.6571	0.14898	NOTE	Eb5	628.672	1
-310	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	38.6571	38.7939	0.13673	NOTE	F#5	752.523	1
-311	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	38.7939	38.9776	0.18367	NOTE	Bb5	931.595	1
-312	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	38.9776	39.1531	0.17551	NOTE	G#5	831.125	1
-313	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	39.1531	39.302	0.14898	NOTE	G5	795.087	1
-314	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	39.302	39.4367	0.13469	NOTE	E5	642.901	1
-315	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	39.4367	39.6061	0.16939	NOTE	C#5	569.481	1
-316	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	39.6061	39.7265	0.12041	NOTE	Bb4	467.852	1
-317	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	39.7265	39.8959	0.16939	NOTE	G#4	421.254	1
-318	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	39.8959	39.9469	0.05102	ct	A4	450.187	2
-319	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	39.9469	40.1286	0.18163	NOTE	G#4	424.26	1
-320	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	40.1286	40.3816	0.25306	BREATH	BREATH	0	4
-321	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	40.3816	40.6673	0.28571	NOTE	G5	784.146	1
-322	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	40.6673	40.7571	0.089796	NOTE	E5	647.216	1
-323	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	40.7571	40.8551	0.097959	NOTE	E5	644.88	1
-324	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	40.8551	40.9163	0.061224	ct	G5	800.525	2
-325	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	40.9163	41.0469	0.13061	NOTE	F5	700.323	1
-326	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.0469	41.1673	0.12041	NOTE	E5	643.809	1
-327	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.1673	41.3408	0.17347	NOTE	E5	641.995	1
-328	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.3408	41.4	0.059184	ct	Bb5	907	2
-329	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.4	41.5796	0.17959	NOTE	G5	780.367	1
-330	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.5796	41.6776	0.097959	NOTE	E5	646.734	1
-331	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.6776	41.798	0.12041	NOTE	Eb5	632.278	1
-332	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.798	41.8653	0.067347	ct	G#5	839	2
-333	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.8653	41.9653	0.1	NOTE	E5	677.464	1
-334	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.9653	42.0878	0.12245	NOTE	E5	643.78	1
-335	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	42.0878	42.2633	0.17551	NOTE	Eb5	637.258	1
-336	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	42.2633	42.3347	0.071429	ct	A5	900	2
-337	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	42.3347	42.4633	0.12857	NOTE	G5	763.709	1
-338	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	42.4633	42.5816	0.11837	NOTE	Eb5	630	1
-339	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	42.5816	42.7327	0.15102	NOTE	Eb5	630.74	1
-340	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	42.7327	42.8143	0.081633	ct	G#5	827	2
-341	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	42.8143	42.9122	0.097959	NOTE	E5	674.859	1
-342	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	42.9122	43.0612	0.14898	NOTE	Eb5	631.019	1
-343	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.0612	43.2122	0.15102	NOTE	D5	584.339	1
-344	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.2122	43.3347	0.12245	NOTE	Eb5	632.971	1
-345	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.3347	43.4898	0.1551	NOTE	D5	577.407	1
-346	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.4898	43.6551	0.16531	NOTE	Bb4	464.781	1
-347	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.6551	43.8	0.1449	lngRoll_nt	G#5	839.799	
-348	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.8	43.8755	0.07551	lngRoll_ct	Bb5	916.398	
-349	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.8755	43.9265	0.05102	lngRoll_nt	G#5	840.603	
-350	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.9265	43.9653	0.038776	lngRoll_str	G#5	825.902	
-351	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.9653	44.1041	0.13878	lngRoll_nt	G#5	842.451	
-352	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	44.1041	44.2204	0.11633	NOTE	G5	789.943	1
-353	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	44.2204	44.4429	0.22245	BREATH	BREATH	0	4
-354	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	44.4429	44.6102	0.16735	NOTE	Eb5	632.331	1
-355	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	44.6102	44.7592	0.14898	NOTE	F5	698.547	1
-356	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	44.7592	44.8918	0.13265	NOTE	Eb5	637.941	1
-357	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	44.8918	45.0714	0.17959	NOTE	Eb5	633.577	1
-358	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	45.0714	45.2694	0.19796	NOTE	G5	791.307	1
-359	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	45.2694	45.3959	0.12653	NOTE	E5	656.511	1
-360	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	45.3959	45.5327	0.13673	NOTE	Eb5	633.668	1
-361	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	45.5327	45.5939	0.061224	ct	G5	792.562	2
-362	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	45.5939	45.702	0.10816	NOTE	F5	685.965	1
-363	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	45.702	45.8429	0.14082	NOTE	Eb5	635.148	1
-364	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	45.8429	46.0122	0.16939	NOTE	D5	588.765	1
-365	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	46.0122	46.1714	0.15918	NOTE	Eb5	626.995	1
-366	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	46.1714	46.2816	0.1102	NOTE	G5	764.247	1
-367	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	46.2816	46.4776	0.19592	NOTE	Bb5	932.638	1
-368	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	46.4776	46.6367	0.15918	NOTE	G#5	837.295	1
-369	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	46.6367	46.7918	0.1551	NOTE	G5	789.02	1
-370	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	46.7918	46.9531	0.16122	NOTE	E5	641.623	1
-371	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	46.9531	47.1327	0.17959	NOTE	D5	573.088	1
-372	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	47.1327	47.3918	0.25918	NOTE	A4	432.902	1
-373	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	47.3918	47.4449	0.053061	ct	A4	445.494	2
-374	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	47.4449	47.6245	0.17959	NOTE	G#4	423.804	1
-375	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	47.6245	47.9469	0.32245	BREATH	BREATH	0	4
-376	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	47.9469	48.0735	0.12653	lngRoll_nt	G#5	838.193	
-377	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.0735	48.1612	0.087755	lngRoll_ct	B5	1015	
-378	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.1612	48.2061	0.044898	lngRoll_nt	G#5	849.988	
-379	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.2061	48.2429	0.036735	lngRoll_str	G#5	834.069	
-380	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.2429	48.4041	0.16122	lngRoll_nt	G#5	846.417	
-381	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.4041	48.5449	0.14082	NOTE	F#5	756.063	1
-382	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.5449	48.6041	0.059184	ct	Bb5	932.315	2
-383	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.6041	48.7408	0.13673	NOTE	G5	786.109	1
-384	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.7408	48.8816	0.14082	NOTE	E5	646.182	1
-385	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.8816	49.0429	0.16122	NOTE	C#5	564.318	1
-386	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.0429	49.1796	0.13673	NOTE	Bb4	470.344	1
-387	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.1796	49.3122	0.13265	NOTE	G#4	420.386	1
-388	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.3122	49.351	0.038776	shRoll_ct	A4	451.869	5
-389	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.351	49.4204	0.069388	shRoll_nt	G#4	422.582	1
-390	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.4204	49.451	0.030612	shRoll_str	G#4	411.989	3
-391	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.451	49.5	0.04898	shRoll_nt	G#4	422.409	1
-392	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.5	49.5571	0.057143	NOTE	B4	493.014	1
-393	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.5571	49.6408	0.083673	NOTE	C#5	562.488	1
-394	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.6408	49.8358	0.19501	NOTE	Eb5	628.736	1
-395	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.8358	49.9633	0.12744	lngRoll_nt	G#5	816.965	
-396	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.9633	50.0163	0.053061	lngRoll_ct	A5	893.783	
-397	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.0163	50.0898	0.073469	lngRoll_nt	G#5	848.833	
-398	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.0898	50.1265	0.036735	lngRoll_str	G#5	824.36	
-399	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.1265	50.3583	0.23175	lngRoll_nt	G#5	843.964	
-400	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.3583	50.4755	0.11723	NOTE	G5	776.923	1
-401	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.4755	50.5306	0.055102	NOTE	G#5	836.554	1
-402	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.5306	50.6184	0.087755	NOTE	G5	797.738	1
-403	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.6184	50.7878	0.16939	NOTE	E5	646.737	1
-404	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.7878	50.9327	0.1449	NOTE	D5	578.126	1
-405	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.9327	51.0939	0.16122	NOTE	Bb4	470.022	1
-406	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.0939	51.2857	0.19184	NOTE	Eb5	632.947	1
-407	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.2857	51.3755	0.089796	NOTE	F#5	724.041	1
-408	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.3755	51.4143	0.038776	lngRoll_nt	G5	767.619	
-409	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.4143	51.4755	0.061224	lngRoll_ct	G#5	825.204	
-410	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.4755	51.549	0.073469	lngRoll_nt	G5	790.23	
-411	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.549	51.5918	0.042857	lngRoll_str	G5	778.147	
-412	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.5918	51.6939	0.10204	lngRoll_nt	G5	782.53	
-413	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.6939	51.7837	0.089796	NOTE	G#5	848.005	1
-414	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.7837	52.0082	0.22449	BREATH	BREATH	0	4
-415	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.0082	52.1898	0.18163	NOTE	G#5	845.37	1
-416	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.1898	52.3122	0.12245	NOTE	G#5	816.086	1
-417	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.3122	52.4735	0.16122	NOTE	G#5	839	1
-418	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.4735	52.7245	0.25102	NOTE	Eb5	632	1
-419	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.7245	52.8122	0.087755	NOTE	G5	790.235	1
-420	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.8122	52.8347	0.022449	lngRoll_nt	G#5	835.661	
-421	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.8347	52.8857	0.05102	lngRoll_ct	A5	859.326	
-422	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.8857	52.9388	0.053061	lngRoll_nt	G#5	844.932	
-423	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.9388	52.9694	0.030612	lngRoll_str	G#5	818.532	
-424	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.9694	53.1122	0.14286	lngRoll_nt	G#5	845.63	
-425	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	53.1122	53.2714	0.15918	NOTE	F5	693	1
-426	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	53.2714	53.4163	0.1449	NOTE	G#5	807.614	1
-427	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	53.4163	53.5755	0.15918	NOTE	Eb5	639.311	1
-428	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	53.5755	53.7469	0.17143	NOTE	G5	786.483	1
-429	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	53.7469	53.8898	0.14286	NOTE	C6	1040.16	1
-430	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	53.8898	54.0388	0.14898	NOTE	Eb5	632	1
-431	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	54.0388	54.098	0.059184	ct	B5	989.583	2
-432	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	54.098	54.2061	0.10816	NOTE	Bb5	938.689	1
-433	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	54.2061	54.3592	0.15306	NOTE	G#5	824.818	1
-434	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	54.3592	54.5224	0.16327	NOTE	Eb5	635.309	1
-435	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	54.5224	54.6837	0.16122	NOTE	D5	572.373	1
-436	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	54.6837	54.8245	0.14082	NOTE	Bb4	470.206	1
-437	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	54.8245	54.9776	0.15306	NOTE	G#4	422.909	1
-438	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	54.9776	55.0306	0.053061	ct	Bb4	458.534	2
-439	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	55.0306	55.2041	0.17347	NOTE	G#4	422.323	1
-440	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	55.2041	55.5224	0.31837	BREATH	BREATH	0	4
-441	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	55.5224	55.6449	0.12245	NOTE	G#5	837.866	1
-442	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	55.6449	55.6939	0.04898	NOTE	A5	868.62	1
-443	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	55.6939	55.7816	0.087755	NOTE	G#5	850.99	1
-444	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	55.7816	55.8102	0.028571	NOTE	G#5	815.59	1
-445	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	55.8102	55.9653	0.1551	NOTE	G#5	845.568	1
-446	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	55.9653	56.1653	0.2	NOTE	F5	708	1
-447	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	56.1653	56.2776	0.11224	NOTE	G5	800.301	1
-448	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	56.2776	56.398	0.12041	NOTE	E5	649.772	1
-449	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	56.398	56.5939	0.19592	NOTE	D5	572.522	1
-450	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	56.5939	56.7245	0.13061	NOTE	Bb4	472.778	1
-451	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	56.7245	56.8694	0.1449	NOTE	G#4	425.642	1
-452	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	56.8694	56.9082	0.038776	shRoll_ct	Bb4	453.698	5
-453	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	56.9082	56.9816	0.073469	shRoll_nt	G#4	422.823	1
-454	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	56.9816	57.0163	0.034694	shRoll_str	G#4	416.51	3
-455	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.0163	57.0755	0.059184	shRoll_nt	G#4	424.587	1
-456	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.0755	57.1347	0.059184	NOTE	B4	499.833	1
-457	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.1347	57.2041	0.069388	NOTE	C#5	564.5	1
-458	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.2041	57.3571	0.15306	NOTE	Eb5	629.805	1
-459	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.3571	57.5	0.14286	NOTE	G5	790.397	1
-460	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.5	57.5408	0.040816	lngRoll_nt	G#5	816.254	
-461	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.5408	57.5918	0.05102	lngRoll_ct	A5	871.698	
-462	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.5918	57.6449	0.053061	lngRoll_nt	G#5	845.016	
-463	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.6449	57.6837	0.038776	lngRoll_str	G#5	810.349	
-464	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.6837	57.8531	0.16939	lngRoll_nt	G#5	841.105	
-465	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.8531	57.998	0.1449	NOTE	F5	703	1
-466	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.998	58.0388	0.040816	NOTE	G#5	844.609	1
-467	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	58.0388	58.1612	0.12245	NOTE	G5	787.887	1
-468	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	58.1612	58.3143	0.15306	NOTE	Eb5	640.433	1
-469	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	58.3143	58.4776	0.16327	NOTE	D5	572.638	1
-470	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	58.4776	58.6286	0.15102	NOTE	Bb4	470.31	1
-471	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	58.6286	58.798	0.16939	NOTE	Eb5	630.422	1
-472	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	58.798	58.9204	0.12245	NOTE	F5	719.181	1
-473	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	58.9204	58.9551	0.034694	lngRoll_nt	G5	771.371	
-474	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	58.9551	59.002	0.046939	lngRoll_ct	G#5	852.473	
-475	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.002	59.0612	0.059184	lngRoll_nt	G5	783.245	
-476	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.0612	59.1	0.038776	lngRoll_str	G5	786.447	
-477	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.1	59.2347	0.13469	lngRoll_nt	G5	780.979	
-478	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.2347	59.3245	0.089796	NOTE	G#5	840.118	1
-479	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.3245	59.5755	0.25102	BREATH	BREATH	0	4
-480	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.5755	59.6143	0.038776	ct	A5	896.836	2
-481	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.6143	59.7306	0.11633	NOTE	G#5	844.089	1
-482	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.7306	59.849	0.11837	NOTE	F5	703	1
-483	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.849	60.0347	0.18571	NOTE	G5	791.097	1
-484	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.0347	60.2	0.16531	NOTE	Eb5	637	1
-485	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.2	60.3347	0.13469	NOTE	G5	789.271	1
-486	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.3347	60.3796	0.044898	lngRoll_nt	G#5	830.705	
-487	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.3796	60.4286	0.04898	lngRoll_ct	A5	885.145	
-488	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.4286	60.4837	0.055102	lngRoll_nt	A5	866.396	
-489	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.4837	60.5327	0.04898	lngRoll_str	G#5	833.648	
-490	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.5327	60.6776	0.1449	lngRoll_nt	G#5	844.283	
-491	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.6776	60.8082	0.13061	NOTE	F5	703	1
-492	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.8082	60.9755	0.16735	NOTE	G5	788.19	1
-493	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.9755	61.1571	0.18163	NOTE	Eb5	639.047	1
-494	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	61.1571	61.2796	0.12245	NOTE	G#5	820.469	1
-495	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	61.2796	61.4408	0.16122	NOTE	C6	1045.64	1
-496	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	61.4408	61.5755	0.13469	NOTE	A5	866.369	1
-497	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	61.5755	61.6469	0.071429	ct	C6	1030.27	2
-498	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	61.6469	61.7673	0.12041	NOTE	Bb5	944.672	1
-499	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	61.7673	61.9143	0.14694	NOTE	G5	799.832	1
-500	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	61.9143	62.0714	0.15714	NOTE	Eb5	636.279	1
-501	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	62.0714	62.2469	0.17551	NOTE	D5	571.186	1
-502	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	62.2469	62.3694	0.12245	NOTE	Bb4	468.29	1
-503	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	62.3694	62.5347	0.16531	NOTE	G#4	421.345	1
-504	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	62.5347	62.5857	0.05102	ct	A4	444.225	2
-505	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	62.5857	62.7959	0.2102	NOTE	G#4	421.352	1
-506	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	62.7959	63.0347	0.23878	NOTE	G#4	424.551	1
-507	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.0347	63.2204	0.18571	NOTE	Eb5	627.506	1
-508	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.2204	63.3224	0.10204	NOTE	C5	537.221	1
-509	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.3224	63.3694	0.046939	ct	C#5	561.366	2
-510	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.3694	63.4878	0.11837	NOTE	C5	530.889	1
-511	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.4878	63.6633	0.17551	NOTE	Eb5	634.492	1
-512	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.6633	63.7878	0.12449	NOTE	C5	523.564	1
-513	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.7878	63.8429	0.055102	ct	C#5	565.857	2
-514	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.8429	63.9571	0.11429	NOTE	C5	525.043	1
-515	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.9571	64.1408	0.18367	NOTE	Eb5	633.894	1
-516	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.1408	64.2592	0.11837	NOTE	Bb4	471.372	1
-517	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.2592	64.3204	0.061224	ct	C5	516.302	2
-518	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.3204	64.4551	0.13469	NOTE	Bb4	467.985	1
-519	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.4551	64.6265	0.17143	NOTE	Eb5	631.948	1
-520	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.6265	64.7184	0.091837	NOTE	Bb4	469.917	1
-521	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.7184	64.7776	0.059184	ct	C5	524.128	2
-522	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.7776	64.9041	0.12653	NOTE	Bb4	464.906	1
-523	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.9041	64.9796	0.07551	str	G4	398.443	3
-524	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.9796	65.0796	0.1	lngRoll_nt	G#4	419.434	
-525	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.0796	65.1347	0.055102	lngRoll_ct	A4	445.47	
-526	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.1347	65.2061	0.071429	lngRoll_nt	G#4	421.192	
-527	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.2061	65.2449	0.038776	lngRoll_str	G#4	414.279	
-528	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.2449	65.351	0.10612	lngRoll_nt	G#4	421.995	
-529	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.351	65.4204	0.069388	ct	A4	439.383	2
-530	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.4204	65.5306	0.1102	NOTE	G#4	421.423	1
-531	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.5306	65.602	0.071429	NOTE	B4	504.767	1
-532	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.602	65.6857	0.083673	NOTE	C#5	556.463	1
-533	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.6857	65.8612	0.17551	NOTE	Eb5	617.06	1
-534	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.8612	66.0347	0.17347	NOTE	C#5	562.175	1
-535	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	66.0347	66.1571	0.12245	NOTE	Bb4	469.574	1
-536	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	66.1571	66.3327	0.17551	NOTE	G#4	418.874	1
-537	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	66.3327	66.4857	0.15306	NOTE	G4	390.053	1
-538	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	66.4857	66.6347	0.14898	NOTE	G#4	414.935	1
-539	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	66.6347	66.7939	0.15918	NOTE	Bb4	464.831	1
-540	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	66.7939	66.8755	0.081633	NOTE	Eb5	628	1
-541	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	66.8755	67.1184	0.24286	BREATH	BREATH	0	4
-542	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	67.1184	67.2816	0.16327	NOTE	C5	530.053	1
-543	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	67.2816	67.4531	0.17143	NOTE	Eb5	628	1
-544	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	67.4531	67.5653	0.11224	NOTE	C5	524.445	1
-545	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	67.5653	67.6122	0.046939	ct	C#5	549.449	2
-546	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	67.6122	67.7347	0.12245	NOTE	C5	521.996	1
-547	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	67.7347	67.9184	0.18367	NOTE	Eb5	628	1
-548	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	67.9184	68.0306	0.11224	NOTE	B4	483.535	1
-549	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.0306	68.0816	0.05102	ct	C5	531.209	2
-550	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.0816	68.2102	0.12857	NOTE	Bb4	465.672	1
-551	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.2102	68.3816	0.17143	NOTE	Eb5	629.58	1
-552	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.3816	68.4918	0.1102	NOTE	B4	487.55	1
-553	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.4918	68.5531	0.061224	NOTE	C5	525.2	1
-554	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.5531	68.6857	0.13265	NOTE	Bb4	465.513	1
-555	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.6857	68.7388	0.053061	str	G#4	408.195	3
-556	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.7388	68.8469	0.10816	lngRoll_nt	G#4	420.361	
-557	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.8469	68.9143	0.067347	lngRoll_ct	A4	448.227	
-558	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.9143	68.9898	0.07551	lngRoll_nt	G#4	421.33	
-559	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.9898	69.0286	0.038776	lngRoll_str	G#4	416.762	
-560	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.0286	69.1388	0.1102	lngRoll_nt	G#4	421.256	
-561	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.1388	69.1837	0.044898	shRoll_ct	Bb4	456.686	5
-562	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.1837	69.2429	0.059184	shRoll_nt	G#4	424.368	1
-563	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.2429	69.2776	0.034694	shRoll_str	G#4	416.492	3
-564	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.2776	69.3224	0.044898	shRoll_nt	G#4	424.514	1
-565	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.3224	69.3776	0.055102	NOTE	C5	520.12	1
-566	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.3776	69.449	0.071429	NOTE	C#5	556.344	1
-567	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.449	69.6143	0.16531	NOTE	Eb5	618.526	1
-568	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.6143	69.8	0.18571	NOTE	C#5	565.477	1
-569	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.8	69.9347	0.13469	NOTE	Bb4	469.137	1
-570	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.9347	70.098	0.16327	NOTE	G#4	418.701	1
-571	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	70.098	70.1571	0.059184	ct	A4	448.82	2
-572	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	70.1571	70.398	0.24082	NOTE	G#4	420.401	1
-573	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	70.398	70.6163	0.21837	BREATH	BREATH	0	4
-574	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	70.6163	70.7755	0.15918	NOTE	Eb4	313.42	1
-575	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	70.7755	70.8694	0.093878	NOTE	C5	531.794	1
-576	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	70.8694	71.0633	0.19388	NOTE	C5	525.535	1
-577	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	71.0633	71.2571	0.19388	NOTE	Eb5	624.012	1
-578	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	71.2571	71.3673	0.1102	NOTE	C5	528.038	1
-579	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	71.3673	71.5673	0.2	NOTE	C5	522.201	1
-580	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	71.5673	71.7143	0.14694	NOTE	Eb4	314.327	1
-581	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	71.7143	71.8653	0.15102	NOTE	Bb4	473.581	1
-582	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	71.8653	72.0122	0.14694	NOTE	Bb4	464.873	1
-583	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.0122	72.1694	0.15714	NOTE	Eb4	314.596	1
-584	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.1694	72.3245	0.1551	NOTE	Bb4	471.683	1
-585	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.3245	72.4531	0.12857	NOTE	Bb4	464.105	1
-586	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.4531	72.5184	0.065306	str	G4	398.171	3
-587	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.5184	72.6224	0.10408	lngRoll_nt	G#4	421.643	
-588	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.6224	72.6816	0.059184	lngRoll_ct	A4	451.808	
-589	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.6816	72.7551	0.073469	lngRoll_nt	G#4	421.828	
-590	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.7551	72.7898	0.034694	lngRoll_str	G#4	412.847	
-591	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.7898	72.9061	0.11633	lngRoll_nt	G#4	421.971	
-592	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.9061	72.9571	0.05102	ct	A4	441.879	2
-593	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.9571	73.0694	0.11224	NOTE	G#4	421.478	1
-594	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	73.0694	73.1327	0.063265	NOTE	C5	512.32	1
-595	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	73.1327	73.202	0.069388	NOTE	C#5	560.788	1
-596	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	73.202	73.3673	0.16531	NOTE	Eb5	626.512	1
-597	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	73.3673	73.5612	0.19388	NOTE	C#5	566.403	1
-598	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	73.5612	73.6959	0.13469	NOTE	Bb4	469.917	1
-599	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	73.6959	73.8531	0.15714	NOTE	G#4	422.635	1
-600	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	73.8531	74.0102	0.15714	NOTE	G4	392.273	1
-601	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	74.0102	74.1388	0.12857	NOTE	G#4	421.529	1
-602	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	74.1388	74.3143	0.17551	NOTE	Bb4	468.86	1
-603	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	74.3143	74.4143	0.1	NOTE	Eb5	632	1
-604	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	74.4143	74.6224	0.20816	BREATH	BREATH	0	4
-605	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	74.6224	74.7816	0.15918	NOTE	C5	525.752	1
-606	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	74.7816	74.9449	0.16327	NOTE	Eb5	628	1
-607	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	74.9449	75.0755	0.13061	NOTE	C5	526.373	1
-608	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	75.0755	75.2408	0.16531	NOTE	C5	521.763	1
-609	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	75.2408	75.4102	0.16939	NOTE	Eb5	631.738	1
-610	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	75.4102	75.5265	0.11633	NOTE	Bb4	471.083	1
-611	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	75.5265	75.7122	0.18571	NOTE	Bb4	466.475	1
-612	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	75.7122	75.8796	0.16735	NOTE	Eb5	631.384	1
-613	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	75.8796	76.0204	0.14082	NOTE	Bb4	472.851	1
-614	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.0204	76.1735	0.15306	NOTE	Bb4	464.464	1
-615	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.1735	76.2122	0.038776	str	G#4	414.021	3
-616	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.2122	76.3286	0.11633	lngRoll_nt	G#4	421.531	
-617	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.3286	76.3878	0.059184	lngRoll_ct	Bb4	455.395	
-618	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.3878	76.4429	0.055102	lngRoll_nt	G#4	421.141	
-619	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.4429	76.4898	0.046939	lngRoll_str	G#4	416.813	
-620	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.4898	76.6082	0.11837	lngRoll_nt	G#4	420.698	
-621	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.6082	76.6653	0.057143	ct	Bb4	453.208	2
-622	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.6653	76.7959	0.13061	NOTE	G#4	424.384	1
-623	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.7959	76.851	0.055102	NOTE	C5	513.589	1
-624	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.851	76.9265	0.07551	NOTE	C#5	561.534	1
-625	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.9265	77.1041	0.17755	NOTE	Eb5	621.166	1
-626	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	77.1041	77.2857	0.18163	NOTE	D5	571.009	1
-627	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	77.2857	77.4347	0.14898	NOTE	Bb4	468.021	1
-628	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	77.4347	77.5837	0.14898	NOTE	G#4	421.04	1
-629	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	77.5837	77.6347	0.05102	ct	A4	446.969	2
-630	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	77.6347	77.8551	0.22041	NOTE	G#4	423.535	1
-631	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	77.8551	78.0755	0.22041	BREATH	BREATH	0	4
-632	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.0755	78.2245	0.14898	lngRoll_nt	C5	524.957	
-633	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.2245	78.2898	0.065306	lngRoll_ct	D5	572.628	
-634	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.2898	78.3469	0.057143	lngRoll_nt	C5	529.82	
-635	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.3469	78.3857	0.038776	lngRoll_str	C5	524.853	
-636	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.3857	78.5367	0.15102	lngRoll_nt	C5	527.466	
-637	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.5367	78.6694	0.13265	crann_nt	Eb4	318.321	
-638	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.6694	78.7157	0.046281	crann_ct	G4	386	
-639	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.7157	78.7331	0.017415	crann_nt	Eb4	317.017	
-640	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.7331	78.7737	0.040635	crann_ct	G4	396	
-641	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.7737	78.8202	0.04644	crann_nt	Eb4	317.017	
-642	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.8202	78.863	0.042857	crann_ct	G4	386	
-643	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.863	79.0469	0.18392	crann_nt	Eb4	315.02	
-644	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.0469	79.2061	0.15918	lngRoll_nt	Bb4	469.807	
-645	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.2061	79.2633	0.057143	lngRoll_ct	C5	537.898	
-646	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.2633	79.3082	0.044898	lngRoll_nt	Bb4	469.755	
-647	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.3082	79.3388	0.030612	lngRoll_str	Bb4	462.028	
-648	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.3388	79.5184	0.17959	lngRoll_nt	Bb4	467.58	
-649	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.5184	79.6265	0.10816	crann_nt	Eb4	317.419	
-650	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.6265	79.6612	0.034694	crann_ct	G4	386	
-651	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.6612	79.702	0.040816	crann_nt	Eb4	317.741	
-652	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.702	79.7592	0.057143	crann_ct	G4	396	
-653	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.7592	79.807	0.047823	crann_nt	Eb4	319.281	
-654	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.8082	79.8476	0.039478	crann_ct	G4	386	
-655	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.8476	79.9776	0.12991	crann_nt	Eb4	315.126	
-656	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.9776	80.0633	0.085714	str	G#4	416.15	3
-657	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.0633	80.1245	0.061224	lngRoll_nt	G#4	418.812	
-658	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.1245	80.1837	0.059184	lngRoll_ct	A4	451.578	
-659	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.1837	80.249	0.065306	lngRoll_nt	G#4	419.534	
-660	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.249	80.2878	0.038776	lngRoll_str	G#4	417.196	
-661	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.2878	80.398	0.1102	lngRoll_nt	G#4	421.198	
-662	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.398	80.4633	0.065306	shRoll_ct	A4	437.607	5
-663	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.4633	80.4837	0.020408	shRoll_nt	G#4	425.6	1
-664	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.4837	80.5245	0.040816	shRoll_str	G#4	417.795	3
-665	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.5245	80.5776	0.053061	shRoll_nt	G#4	422.726	1
-666	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.5776	80.6347	0.057143	NOTE	C5	527.275	1
-667	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.6347	80.7102	0.07551	NOTE	C#5	558.352	1
-668	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.7102	80.8796	0.16939	NOTE	Eb5	624.073	1
-669	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.8796	81.0612	0.18163	NOTE	C#5	568.792	1
-670	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	81.0612	81.202	0.14082	NOTE	Bb4	470.948	1
-671	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	81.202	81.3816	0.17959	NOTE	G#4	421.637	1
-672	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	81.3816	81.5367	0.1551	NOTE	G4	392.231	1
-673	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	81.5367	81.6551	0.11837	NOTE	G#4	421.172	1
-674	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	81.6551	81.8449	0.1898	NOTE	Bb4	468.338	1
-675	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	81.8449	81.9204	0.07551	NOTE	C5	529.709	1
-676	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	81.9204	82.1429	0.22245	BREATH	BREATH	0	4
-677	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.1429	82.3388	0.19592	NOTE	C5	526.538	1
-678	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.3388	82.4306	0.091837	crann_nt	Eb4	316.142	
-679	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.4306	82.4831	0.052494	crann_ct	G4	386	
-680	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.4831	82.5295	0.04644	crann_nt	Eb4	315.023	
-681	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.5295	82.576	0.04644	crann_ct	G4	396	
-682	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.576	82.6108	0.03483	crann_nt	Eb4	315.843	
-683	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.6108	82.6747	0.063855	crann_ct	A4	438	
-684	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.6747	82.8163	0.14166	crann_nt	Eb4	315.351	
-685	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.8163	82.9673	0.15102	lngRoll_nt	Bb4	466.627	
-686	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.9673	83.0327	0.065306	lngRoll_ct	C#5	546.579	
-687	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.0327	83.0837	0.05102	lngRoll_nt	Bb4	468.872	
-688	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.0837	83.1204	0.036735	lngRoll_str	Bb4	460.934	
-689	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.1204	83.3	0.17959	lngRoll_nt	Bb4	467.973	
-690	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.3	83.3918	0.091837	crann_nt	Eb4	316.307	
-691	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.3918	83.4293	0.037483	crann_ct	G4	386	
-692	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.4293	83.47	0.040635	crann_nt	Eb4	317.801	
-693	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.47	83.5048	0.03483	crann_ct	G4	396	
-694	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.5048	83.5454	0.040635	crann_nt	Eb4	313.304	
-695	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.5454	83.6093	0.063855	crann_ct	A4	430	
-696	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.6093	83.7612	0.15195	crann_nt	Eb4	312.87	
-697	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.7612	83.8469	0.085714	str	G4	386.054	3
-698	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.8469	83.9204	0.073469	lngRoll_nt	G#4	413.76	
-699	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.9204	83.9816	0.061224	lngRoll_ct	A4	444.325	
-700	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.9816	84.0408	0.059184	lngRoll_nt	G#4	419.613	
-701	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.0408	84.0796	0.038776	lngRoll_str	G#4	414.598	
-702	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.0796	84.2102	0.13061	lngRoll_nt	G#4	421.675	
-703	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.2102	84.2653	0.055102	shRoll_ct	A4	441.996	5
-704	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.2653	84.3	0.034694	shRoll_nt	G#4	425.031	1
-705	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.3	84.3327	0.032653	shRoll_str	G#4	418.376	3
-706	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.3327	84.3816	0.04898	shRoll_nt	G#4	425.089	1
-707	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.3816	84.4327	0.05102	NOTE	C5	508.923	1
-708	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.4327	84.5245	0.091837	NOTE	C#5	560.94	1
-709	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.5245	84.6959	0.17143	NOTE	Eb5	622.443	1
-710	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.6959	84.8857	0.1898	NOTE	C#5	564.345	1
-711	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.8857	85.0061	0.12041	NOTE	Bb4	469.233	1
-712	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.0061	85.1531	0.14694	NOTE	G#4	423.02	1
-713	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.1531	85.2122	0.059184	ct	Bb4	456.52	2
-714	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.2122	85.3776	0.16531	NOTE	G#4	423.827	1
-715	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.3776	85.6469	0.26939	NOTE	G#4	425.279	1
-716	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.6469	85.7878	0.14082	lngRoll_nt	C5	523.426	
-717	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.7878	85.8469	0.059184	lngRoll_ct	C#5	569.357	
-718	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.8469	85.9163	0.069388	lngRoll_nt	C5	532.92	
-719	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.9163	85.9531	0.036735	lngRoll_str	C5	521.359	
-720	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.9531	86.1204	0.16735	lngRoll_nt	C5	526.836	
-721	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.1204	86.2347	0.11429	NOTE	Eb4	318.703	1
-722	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.2347	86.298	0.063265	NOTE	F#4	378	1
-723	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.298	86.3306	0.032653	NOTE	Eb4	316.774	1
-724	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.3306	86.3755	0.044898	NOTE	G#4	405	1
-725	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.3755	86.4082	0.032653	NOTE	Eb4	316.59	1
-726	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.4082	86.4612	0.053061	NOTE	Bb4	454	1
-727	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.4612	86.6041	0.14286	NOTE	Eb4	314.326	1
-728	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.6041	86.7694	0.16531	lngRoll_nt	Bb4	466.601	
-729	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.7694	86.8143	0.044898	lngRoll_ct	C5	535.609	
-730	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.8143	86.8633	0.04898	lngRoll_nt	Bb4	468.822	
-731	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.8633	86.9102	0.046939	lngRoll_str	Bb4	463.194	
-732	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.9102	87.0653	0.1551	lngRoll_nt	Bb4	467.712	
-733	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.0653	87.1612	0.095918	crann_nt	Eb4	317.28	
-734	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.1612	87.2265	0.065306	crann_ct	F#4	378	
-735	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.2265	87.2612	0.034694	crann_nt	Eb4	314.805	
-736	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.2612	87.3129	0.051633	crann_ct	G#4	405	
-737	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.3129	87.3571	0.044286	crann_nt	Eb4	315.782	
-738	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.3571	87.4041	0.046939	crann_ct	Bb4	454	
-739	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.4041	87.5694	0.16531	crann_nt	Eb4	314.259	
-740	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.5694	87.7082	0.13878	lngRoll_nt	G#4	413.245	
-741	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.7082	87.7673	0.059184	lngRoll_ct	A4	451.19	
-742	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.7673	87.8408	0.073469	lngRoll_nt	G#4	416.934	
-743	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.8408	87.8776	0.036735	lngRoll_str	G#4	413.258	
-744	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.8776	87.9918	0.11429	lngRoll_nt	G#4	422.106	
-745	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.9918	88.0347	0.042857	shRoll_ct	A4	442.277	5
-746	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.0347	88.0694	0.034694	shRoll_nt	G#4	425.284	1
-747	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.0694	88.1612	0.091837	shRoll_str	G#4	421.698	3
-748	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.1612	88.2143	0.053061	shRoll_nt	C5	523.398	1
-749	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.2143	88.3102	0.095918	NOTE	C#5	561.643	1
-750	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.3102	88.4714	0.16122	NOTE	Eb5	630.739	1
-751	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.4714	88.6469	0.17551	NOTE	D5	571.034	1
-752	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.6469	88.7878	0.14082	NOTE	Bb4	471.704	1
-753	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.7878	88.9694	0.18163	NOTE	G#4	423.187	1
-754	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.9694	89.1245	0.1551	NOTE	G4	392.828	1
-755	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	89.1245	89.2714	0.14694	NOTE	G#4	419.952	1
-756	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	89.2714	89.4551	0.18367	NOTE	Bb4	468.075	1
-757	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	89.4551	89.5286	0.073469	NOTE	C5	522.624	1
-758	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	89.5286	89.751	0.22245	BREATH	BREATH	0	4
-759	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	89.751	89.9184	0.16735	NOTE	C5	526.315	1
-760	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	89.9184	90.0367	0.11837	crann_nt	Eb4	318.95	
-761	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.0367	90.0876	0.050907	crann_ct	F#4	378	
-762	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.0876	90.1399	0.052245	crann_nt	Eb4	316.549	
-763	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.1399	90.1863	0.04644	crann_ct	G#4	405	
-764	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.1863	90.227	0.040635	crann_nt	Eb4	315.992	
-765	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.227	90.2755	0.048549	crann_ct	Bb4	454	
-766	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.2755	90.4122	0.13673	crann_nt	Eb4	316.784	
-767	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.4122	90.551	0.13878	lngRoll_nt	Bb4	471.003	
-768	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.551	90.6224	0.071429	lngRoll_ct	C#5	548.632	
-769	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.6224	90.6714	0.04898	lngRoll_nt	Bb4	470.429	
-770	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.6714	90.7041	0.032653	lngRoll_str	Bb4	458.158	
-771	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.7041	90.9224	0.21837	lngRoll_nt	Bb4	467.087	
-772	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.9224	91.0143	0.091837	crann_nt	Eb4	313	
-773	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.0143	91.0633	0.04898	crann_ct	F#4	378	
-774	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.0633	91.0857	0.022449	crann_nt	Eb4	315.401	
-775	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.0857	91.149	0.063265	crann_ct	G#4	405	
-776	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.149	91.1796	0.030612	crann_nt	Eb4	314.089	
-777	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.1796	91.2367	0.057143	crann_ct	Bb4	454	
-778	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.2367	91.3673	0.13061	crann_nt	Eb4	313.956	
-779	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.3673	91.4224	0.055102	str	G4	392.85	3
-780	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.4224	91.5184	0.095918	lngRoll_nt	G#4	415.695	
-781	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.5184	91.5735	0.055102	lngRoll_ct	A4	449.535	
-782	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.5735	91.6408	0.067347	lngRoll_nt	G#4	420.8	
-783	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.6408	91.6796	0.038776	lngRoll_str	G#4	416.737	
-784	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.6796	91.8184	0.13878	lngRoll_nt	G#4	423.242	
-785	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.8184	91.8796	0.061224	shRoll_ct	A4	441.371	5
-786	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.8796	91.9102	0.030612	shRoll_nt	G#4	425.575	1
-787	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.9102	91.9388	0.028571	shRoll_str	G#4	412.906	3
-788	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.9388	91.998	0.059184	shRoll_nt	G#4	422.959	1
-789	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.998	92.0449	0.046939	NOTE	C5	521.873	1
-790	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	92.0449	92.1286	0.083673	NOTE	C#5	563.565	1
-791	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	92.1286	92.2776	0.14898	NOTE	Eb5	620.627	1
-792	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	92.2776	92.4653	0.18776	NOTE	D5	571.423	1
-793	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	92.4653	92.5939	0.12857	NOTE	Bb4	471.641	1
-794	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	92.5939	92.7367	0.14286	NOTE	G#4	424.142	1
-795	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	92.7367	92.8082	0.071429	ct	Bb4	459.973	2
-796	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	92.8082	93	0.19184	NOTE	G#4	424.37	1
+1	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	1e-05	0.90848	0.90848	BREATH	BREATH	0
+2	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	0.90848	1.6747	0.76626	NOTE	C5	529.065
+3	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	1.6747	1.7212	0.04644	ct	C#5	561.734
+4	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	1.7212	1.8895	0.16834	NOTE	C5	526.205
+5	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	1.8895	2.049	0.15946	NOTE	Bb4	473.287
+6	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	2.049	2.2959	0.24694	NOTE	G#4	422.797
+7	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	2.2959	2.3735	0.077551	lngRoll_nt	Bb4	464.196
+8	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	2.3735	2.4265	0.053061	lngRoll_ct	B4	500.604
+9	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	2.4265	2.4755	0.04898	lngRoll_nt	Bb4	472.272
+10	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	2.4755	2.5143	0.038776	lngRoll_str	Bb4	460.669
+11	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	2.5143	2.6939	0.17959	lngRoll_nt	Bb4	470.218
+12	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	2.6939	2.898	0.20408	NOTE	Eb5	631.352
+13	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	2.898	3.0755	0.17755	NOTE	D5	574.963
+14	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	3.0755	3.2388	0.16327	NOTE	Bb4	476.162
+15	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	3.2388	3.4327	0.19388	NOTE	G#4	423.583
+16	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	3.4327	3.4959	0.063265	shRoll_ct	Bb4	453.086
+17	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	3.4959	3.5735	0.077551	shRoll_nt	G#4	420.184
+18	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	3.5735	3.6204	0.046939	shRoll_str	G#4	412.708
+19	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	3.6204	3.7735	0.15306	shRoll_nt	G#4	421.242
+20	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	3.7735	3.9714	0.19796	NOTE	Eb4	312.992
+21	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	3.9714	4.0224	0.05102	ct	D5	583.655
+22	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.0224	4.1429	0.12041	NOTE	C5	531.64
+23	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.1429	4.2694	0.12653	NOTE	Bb4	473.942
+24	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.2694	4.449	0.17959	NOTE	G#4	425.684
+25	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.449	4.5347	0.085714	shRoll_ct	C#5	569.002
+26	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.5347	4.5857	0.05102	shRoll_nt	Bb4	469.511
+27	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.5857	4.6224	0.036735	shRoll_str	Bb4	461.133
+28	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.6224	4.7735	0.15102	shRoll_nt	Bb4	470.591
+29	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.7735	4.9592	0.18571	NOTE	Eb5	631.846
+30	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	4.9592	5.149	0.1898	NOTE	D5	575.013
+31	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.149	5.298	0.14898	NOTE	Bb4	473.263
+32	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.298	5.4592	0.16122	NOTE	Eb4	313.848
+33	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.4592	5.598	0.13878	NOTE	F4	353.206
+34	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.598	5.6551	0.057143	lngRoll_nt	G4	389.94
+35	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.6551	5.6959	0.040816	lngRoll_ct	G#4	424.046
+36	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.6959	5.7653	0.069388	lngRoll_nt	G4	392.861
+37	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.7653	5.8	0.034694	lngRoll_str	G4	383.229
+38	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.8	5.9653	0.16531	lngRoll_nt	G4	392.996
+39	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	5.9653	6.0122	0.046939	ct	C#5	565.337
+40	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	6.0122	6.151	0.13878	NOTE	C5	529.578
+41	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	6.151	6.2816	0.13061	NOTE	Bb4	474.836
+42	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	6.2816	6.4673	0.18571	NOTE	G#4	421.409
+43	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	6.4673	6.6143	0.14694	NOTE	Bb4	465.56
+44	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	6.6143	6.8306	0.21633	BREATH	BREATH	0
+45	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	6.8306	6.9653	0.13469	NOTE	Eb5	633.428
+46	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	6.9653	7.1592	0.19388	NOTE	D5	573.696
+47	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	7.1592	7.2918	0.13265	NOTE	Bb4	474.273
+48	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	7.2918	7.4469	0.1551	NOTE	G#4	424.073
+49	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	7.4469	7.5061	0.059184	ct	A4	451.584
+50	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	7.5061	7.6102	0.10408	NOTE	G#4	426.693
+51	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	7.6102	7.6878	0.077551	NOTE	C5	525.368
+52	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	7.6878	7.7714	0.083673	NOTE	C#5	567.028
+53	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	7.7714	7.9306	0.15918	NOTE	Eb5	632.239
+54	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	7.9306	8.0694	0.13878	NOTE	G5	787.848
+55	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	8.0694	8.2735	0.20408	NOTE	C6	1054.23
+56	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	8.2735	8.4837	0.2102	NOTE	G#5	841.052
+57	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	8.4837	8.6327	0.14898	NOTE	Bb5	935.629
+58	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	8.6327	8.7694	0.13673	NOTE	G#5	815.997
+59	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	8.7694	8.9102	0.14082	NOTE	Eb5	640.23
+60	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	8.9102	9.0857	0.17551	NOTE	D5	578.369
+61	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	9.0857	9.2449	0.15918	NOTE	Bb4	472.86
+62	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	9.2449	9.3796	0.13469	NOTE	G#4	422.502
+63	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	9.3796	9.6735	0.29388	NOTE	G#4	422.932
+64	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	9.6735	9.8816	0.20816	BREATH	BREATH	0
+65	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	9.8816	9.9327	0.05102	NOTE	D5	591.105
+66	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	9.9327	10.0633	0.13061	NOTE	C5	531.152
+67	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	10.0633	10.202	0.13878	NOTE	Bb4	479.527
+68	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	10.202	10.42	0.21791	NOTE	G#4	426.764
+69	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	10.42	10.4816	0.061678	shRoll_ct	C#5	562.959
+70	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	10.4816	10.5184	0.036735	shRoll_nt	Bb4	476.613
+71	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	10.5184	10.5531	0.034694	shRoll_str	A4	453.048
+72	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	10.5531	10.6939	0.14082	shRoll_nt	Bb4	470.925
+73	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	10.6939	10.8673	0.17347	NOTE	Eb5	633.729
+74	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	10.8673	11.0612	0.19388	NOTE	D5	573.046
+75	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	11.0612	11.1878	0.12653	NOTE	Bb4	474.16
+76	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	11.1878	11.3755	0.18776	NOTE	G#4	424.192
+77	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	11.3755	11.4204	0.044898	shRoll_ct	Bb4	456.995
+78	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	11.4204	11.5	0.079592	shRoll_nt	G#4	422.111
+79	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	11.5	11.5429	0.042857	shRoll_str	G#4	413.332
+80	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	11.5429	11.6837	0.14082	shRoll_nt	G#4	423.175
+81	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	11.6837	11.8571	0.17347	NOTE	Eb4	314.158
+82	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	11.8571	12.0306	0.17347	NOTE	C#5	543.096
+83	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	12.0306	12.1551	0.12449	NOTE	Bb4	475.256
+84	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	12.1551	12.3704	0.21533	NOTE	G#4	424.013
+85	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	12.3704	12.4286	0.058141	shRoll_ct	C#5	562.797
+86	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	12.4286	12.4551	0.026531	shRoll_nt	Bb4	473.614
+87	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	12.4551	12.4959	0.040816	shRoll_str	Bb4	461.024
+88	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	12.4959	12.651	0.1551	shRoll_nt	Bb4	472.625
+89	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	12.651	12.8286	0.17755	NOTE	Eb5	632.122
+90	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	12.8286	13.002	0.17347	NOTE	D5	572.847
+91	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.002	13.1551	0.15306	NOTE	Bb4	473.007
+92	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.1551	13.3102	0.1551	NOTE	Eb4	315.083
+93	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.3102	13.4306	0.12041	NOTE	F4	348.791
+94	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.4306	13.4939	0.063265	NOTE	G4	391.905
+95	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.4939	13.5367	0.042857	shRoll_ct	A4	427.857
+96	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.5367	13.6102	0.073469	shRoll_nt	G4	390.032
+97	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.6102	13.6449	0.034694	shRoll_str	G4	382.647
+98	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.6449	13.7857	0.14082	shRoll_nt	G4	391.288
+99	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.7857	13.8551	0.069388	ct	C#5	566.067
+100	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.8551	13.9714	0.11633	NOTE	C5	526.621
+101	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	13.9714	14.0878	0.11633	NOTE	Bb4	470.243
+102	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	14.0878	14.2776	0.1898	NOTE	G#4	422.41
+103	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	14.2776	14.4	0.12245	NOTE	Bb4	466.004
+104	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	14.4	14.6245	0.22449	BREATH	BREATH	0
+105	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	14.6245	14.7408	0.11633	NOTE	Eb5	634.175
+106	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	14.7408	14.9306	0.1898	NOTE	D5	575.816
+107	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	14.9306	15.0551	0.12449	NOTE	Bb4	473.538
+108	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	15.0551	15.202	0.14694	NOTE	G#4	423.864
+109	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	15.202	15.2551	0.053061	ct	A4	445.832
+110	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	15.2551	15.3837	0.12857	NOTE	G#4	426.076
+111	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	15.3837	15.451	0.067347	NOTE	C5	508.806
+112	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	15.451	15.5245	0.073469	NOTE	C#5	564.363
+113	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	15.5245	15.6857	0.16122	NOTE	Eb5	628.555
+114	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	15.6857	15.8653	0.17959	NOTE	G5	806.652
+115	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	15.8653	16.0327	0.16735	NOTE	C6	1028.62
+116	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	16.0327	16.1694	0.13673	NOTE	A5	868.354
+117	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	16.1694	16.2408	0.071429	ct	B5	1015.91
+118	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	16.2408	16.3571	0.11633	NOTE	Bb5	944.877
+119	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	16.3571	16.5041	0.14694	NOTE	G5	801.28
+120	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	16.5041	16.6551	0.15102	NOTE	E5	646.736
+121	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	16.6551	16.8327	0.17755	NOTE	D5	579.306
+122	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	16.8327	16.9735	0.14082	NOTE	Bb4	474.539
+123	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	16.9735	17.1224	0.14898	NOTE	G#4	422.242
+124	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.1224	17.1755	0.053061	shRoll_ct	Bb4	458.667
+125	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.1755	17.2224	0.046939	shRoll_nt	G#4	425.333
+126	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.2224	17.2592	0.036735	shRoll_str	G#4	417.642
+127	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.2592	17.3878	0.12857	shRoll_nt	G#4	422.966
+128	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.3878	17.649	0.26122	BREATH	BREATH	0
+129	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.649	17.8	0.15102	lngRoll_nt	C5	523.666
+130	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.8	17.849	0.04898	lngRoll_ct	D5	572.027
+131	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.849	17.9184	0.069388	lngRoll_nt	C5	530.886
+132	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.9184	17.9571	0.038776	lngRoll_str	C5	525.877
+133	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	17.9571	18.1122	0.1551	lngRoll_nt	C5	529.394
+134	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.1122	18.1592	0.046939	ct	C#5	562.976
+135	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.1592	18.2694	0.1102	NOTE	C5	528.01
+136	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.2694	18.4102	0.14082	NOTE	Eb5	612.966
+137	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.4102	18.5857	0.17551	NOTE	D5	576.101
+138	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.5857	18.6612	0.07551	str	G#4	427.437
+139	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.6612	18.7653	0.10408	lngRoll_nt	Bb4	469.26
+140	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.7653	18.8163	0.05102	lngRoll_ct	C5	535.575
+141	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.8163	18.8694	0.053061	lngRoll_nt	Bb4	472.162
+142	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.8694	18.9245	0.055102	lngRoll_str	Bb4	467.801
+143	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	18.9245	19.0939	0.16939	lngRoll_nt	Bb4	469.417
+144	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	19.0939	19.2306	0.13673	NOTE	Eb5	626.55
+145	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	19.2306	19.3837	0.15306	NOTE	C#5	570.541
+146	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	19.3837	19.549	0.16531	NOTE	Bb4	470.994
+147	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	19.549	19.7102	0.16122	lngRoll_nt	G#4	419.147
+148	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	19.7102	19.7571	0.046939	lngRoll_ct	A4	452.374
+149	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	19.7571	19.8286	0.071429	lngRoll_nt	G#4	419.198
+150	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	19.8286	19.8673	0.038776	lngRoll_str	G#4	409.761
+151	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	19.8673	20.0102	0.14286	lngRoll_nt	G#4	419.791
+152	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.0102	20.0673	0.057143	ct	A4	451.712
+153	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.0673	20.1755	0.10816	NOTE	G#4	421.348
+154	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.1755	20.3224	0.14694	NOTE	G4	392.6
+155	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.3224	20.4878	0.16531	NOTE	G#4	421.664
+156	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.4878	20.5653	0.077551	NOTE	Bb4	471.936
+157	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.5653	20.6367	0.071429	NOTE	C#5	558.242
+158	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.6367	20.7939	0.15714	NOTE	Eb5	631.877
+159	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.7939	20.9959	0.20204	NOTE	C5	531.305
+160	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	20.9959	21.0469	0.05102	ct	C#5	565.54
+161	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	21.0469	21.1388	0.091837	NOTE	C5	528.428
+162	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	21.1388	21.2837	0.1449	NOTE	Bb4	475.513
+163	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	21.2837	21.4633	0.17959	NOTE	G#4	422.268
+164	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	21.4633	21.5857	0.12245	NOTE	C5	525.149
+165	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	21.5857	21.802	0.21633	NOTE	C5	526.78
+166	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	21.802	21.9367	0.13469	NOTE	C5	526.246
+167	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	21.9367	21.9837	0.046939	ct	D5	571.698
+168	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	21.9837	22.1571	0.17347	NOTE	C5	530.969
+169	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	22.1571	22.251	0.093878	NOTE	Eb5	610.183
+170	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	22.251	22.4245	0.17347	NOTE	D5	575.401
+171	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	22.4245	22.5735	0.14898	lngRoll_nt	Bb4	474.98
+172	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	22.5735	22.6286	0.055102	lngRoll_ct	C5	531.663
+173	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	22.6286	22.7	0.071429	lngRoll_nt	Bb4	471.931
+174	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	22.7	22.7388	0.038776	lngRoll_str	Bb4	460.826
+175	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	22.7388	22.9347	0.19592	lngRoll_nt	Bb4	468.743
+176	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	22.9347	23.0878	0.15306	NOTE	Eb5	615
+177	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.0878	23.1796	0.091837	NOTE	Bb4	467.889
+178	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.1796	23.3429	0.16327	NOTE	G#4	419.968
+179	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.3429	23.4184	0.07551	ct	G#4	417.269
+180	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.4184	23.5347	0.11633	NOTE	G4	390.9
+181	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.5347	23.6653	0.13061	NOTE	Eb4	313.657
+182	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.6653	23.8429	0.17755	NOTE	F4	352.29
+183	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.8429	23.9082	0.065306	shRoll_ct	G#4	427.356
+184	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.9082	23.9694	0.061224	shRoll_nt	G4	394.203
+185	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	23.9694	24.0102	0.040816	shRoll_str	G4	384.661
+186	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	24.0102	24.1367	0.12653	shRoll_nt	G4	392.403
+187	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	24.1367	24.3265	0.1898	NOTE	Eb5	631.8
+188	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	24.3265	24.5041	0.17755	NOTE	D5	571.587
+189	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	24.5041	24.6408	0.13673	NOTE	Bb4	469.96
+190	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	24.6408	24.8061	0.16531	NOTE	G4	390.969
+191	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	24.8061	24.9571	0.15102	lngRoll_nt	G#4	420.708
+192	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	24.9571	25.0041	0.046939	lngRoll_ct	A4	451.899
+193	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.0041	25.0735	0.069388	lngRoll_nt	G#4	420.673
+194	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.0735	25.1102	0.036735	lngRoll_str	G#4	411.714
+195	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.1102	25.2735	0.16327	lngRoll_nt	G#4	420.819
+196	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.2735	25.398	0.12449	NOTE	C5	523
+197	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.398	25.5816	0.18367	NOTE	C4	265.375
+198	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.5816	25.7429	0.16122	NOTE	C5	529.01
+199	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.7429	25.802	0.059184	ct	C#5	570.286
+200	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.802	25.9551	0.15306	NOTE	C5	535.298
+201	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	25.9551	26.0531	0.097959	NOTE	Eb5	610.021
+202	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.0531	26.2041	0.15102	NOTE	D5	574.79
+203	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.2041	26.2776	0.073469	str	A4	429.324
+204	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.2776	26.3898	0.11224	lngRoll_nt	Bb4	468.779
+205	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.3898	26.449	0.059184	lngRoll_ct	C5	532.863
+206	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.449	26.4959	0.046939	lngRoll_nt	Bb4	471.387
+207	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.4959	26.5429	0.046939	lngRoll_str	Bb4	465.764
+208	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.5429	26.6959	0.15306	lngRoll_nt	Bb4	469.858
+209	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.6959	26.8551	0.15918	NOTE	Eb5	611.629
+210	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	26.8551	27.0265	0.17143	NOTE	D5	571.167
+211	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.0265	27.1551	0.12857	NOTE	Bb4	472.524
+212	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.1551	27.2122	0.057143	str	G4	396.594
+213	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.2122	27.3184	0.10612	lngRoll_nt	G#4	421.076
+214	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.3184	27.3755	0.057143	lngRoll_ct	Bb4	455.195
+215	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.3755	27.4408	0.065306	lngRoll_nt	G#4	422.068
+216	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.4408	27.4857	0.044898	lngRoll_str	G#4	414.213
+217	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.4857	27.6388	0.15306	lngRoll_nt	G#4	421.253
+218	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.6388	27.7	0.061224	ct	Bb4	458.369
+219	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.7	27.8041	0.10408	NOTE	G#4	421.562
+220	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.8041	27.9592	0.1551	NOTE	G4	391.712
+221	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	27.9592	28.1265	0.16735	NOTE	G#4	418.938
+222	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	28.1265	28.2163	0.089796	NOTE	Bb4	468.64
+223	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	28.2163	28.2939	0.077551	NOTE	C#5	564.729
+224	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	28.2939	28.4327	0.13878	NOTE	Eb5	632.022
+225	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	28.4327	28.6245	0.19184	NOTE	C5	528.596
+226	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	28.6245	28.6776	0.053061	ct	C#5	550.521
+227	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	28.6776	28.7796	0.10204	NOTE	C5	525.135
+228	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	28.7796	28.9102	0.13061	NOTE	Bb4	471.465
+229	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	28.9102	29.0837	0.17347	NOTE	G#4	422.302
+230	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	29.0837	29.1755	0.091837	NOTE	C5	526.561
+231	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	29.1755	29.4	0.22449	BREATH	BREATH	0
+232	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	29.4	29.5694	0.16939	NOTE	C5	528.511
+233	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	29.5694	29.6224	0.053061	ct	D5	575.566
+234	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	29.6224	29.7347	0.11224	NOTE	C5	532.952
+235	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	29.7347	29.8857	0.15102	NOTE	D5	603.417
+236	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	29.8857	30.0571	0.17143	NOTE	C#5	570.45
+237	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.0571	30.1959	0.13878	lngRoll_nt	Bb4	471.743
+238	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.1959	30.2673	0.071429	lngRoll_ct	C#5	539.41
+239	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.2673	30.3265	0.059184	lngRoll_nt	Bb4	472.312
+240	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.3265	30.3653	0.038776	lngRoll_str	Bb4	460.755
+241	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.3653	30.551	0.18571	lngRoll_nt	Bb4	470.126
+242	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.551	30.6898	0.13878	NOTE	Eb5	606
+243	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.6898	30.8082	0.11837	NOTE	Bb4	471.999
+244	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.8082	30.9755	0.16735	NOTE	G#4	422.349
+245	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	30.9755	31.0429	0.067347	ct	G#4	419.765
+246	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.0429	31.151	0.10816	NOTE	G4	392.397
+247	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.151	31.2959	0.1449	NOTE	Eb4	314.141
+248	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.2959	31.4673	0.17143	NOTE	F4	352.77
+249	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.4673	31.5429	0.07551	shRoll_ct	Bb4	460
+250	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.5429	31.6122	0.069388	shRoll_nt	G4	390.834
+251	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.6122	31.6531	0.040816	shRoll_str	G4	386.15
+252	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.6531	31.7694	0.11633	shRoll_nt	G4	391.914
+253	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.7694	31.9388	0.16939	NOTE	Eb5	635.931
+254	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	31.9388	32.1224	0.18367	NOTE	D5	571.142
+255	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	32.1224	32.2531	0.13061	NOTE	Bb4	472.924
+256	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	32.2531	32.451	0.19796	NOTE	G5	786.499
+257	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	32.451	32.5796	0.12857	lngRoll_nt	G#5	829.122
+258	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	32.5796	32.6347	0.055102	lngRoll_ct	A5	904.63
+259	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	32.6347	32.7327	0.097959	lngRoll_nt	G#5	849.336
+260	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	32.7327	32.7816	0.04898	lngRoll_str	G#5	826.991
+261	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	32.7816	32.8959	0.11429	lngRoll_nt	G#5	843.592
+262	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	32.8959	33.0163	0.12041	NOTE	G5	797.908
+263	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	33.0163	33.2408	0.22449	BREATH	BREATH	0
+264	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	33.2408	33.3959	0.1551	NOTE	Eb5	637.953
+265	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	33.3959	33.4612	0.065306	ct	G5	802.604
+266	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	33.4612	33.5388	0.077551	NOTE	F5	705.152
+267	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	33.5388	33.6673	0.12857	NOTE	E5	649.728
+268	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	33.6673	33.8714	0.20408	NOTE	Eb5	638.194
+269	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	33.8714	33.9286	0.057143	NOTE	Bb5	932
+270	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	33.9286	34.0469	0.11837	NOTE	G5	793.291
+271	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.0469	34.1	0.053061	NOTE	F#5	723.899
+272	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.1	34.1633	0.063265	ct	F#5	760.093
+273	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.1633	34.2878	0.12449	NOTE	E5	649.385
+274	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.2878	34.3714	0.083605	NOTE	G#5	833
+275	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.3714	34.4673	0.095986	NOTE	F#5	727.687
+276	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.4673	34.5837	0.11633	NOTE	E5	646
+277	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.5837	34.7551	0.17143	NOTE	Eb5	634.207
+278	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.7551	34.8183	0.063243	ct	A5	900
+279	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	34.8183	35	0.1817	NOTE	G5	782
+280	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	35.002	35.0816	0.079592	NOTE	Eb5	625.972
+281	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	35.0816	35.1959	0.11429	NOTE	Eb5	623.306
+282	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	35.1959	35.2827	0.086825	ct	G#5	845
+283	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	35.2827	35.4367	0.15399	NOTE	Eb5	637.641
+284	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	35.4367	35.5286	0.091837	NOTE	Eb5	636.322
+285	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	35.5286	35.7041	0.17551	NOTE	D5	585.438
+286	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	35.7041	35.8714	0.16735	NOTE	Eb5	622.471
+287	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	35.8714	36.0102	0.13878	NOTE	C#5	569.685
+288	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.0102	36.1735	0.16327	NOTE	Bb4	469.715
+289	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.1735	36.3265	0.15306	NOTE	G#5	831.947
+290	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.3265	36.3694	0.042857	NOTE	A5	881.999
+291	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.3694	36.4469	0.077551	NOTE	G#5	850.292
+292	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.4469	36.4898	0.042857	NOTE	G#5	822.46
+293	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.4898	36.651	0.16122	NOTE	G#5	842.697
+294	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.651	36.7388	0.087755	NOTE	G5	796.243
+295	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.7388	36.9796	0.24082	BREATH	BREATH	0
+296	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	36.9796	37.1143	0.13469	NOTE	Eb5	638.107
+297	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	37.1143	37.1837	0.069388	ct	G5	784.685
+298	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	37.1837	37.2857	0.10204	NOTE	F5	696.325
+299	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	37.2857	37.4224	0.13673	NOTE	E5	647.863
+300	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	37.4224	37.5612	0.13878	NOTE	Eb5	635.784
+301	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	37.5612	37.6327	0.071429	ct	A5	888
+302	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	37.6327	37.7429	0.1102	NOTE	G5	786.501
+303	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	37.7429	37.8592	0.11633	NOTE	F5	709.66
+304	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	37.8592	38.0306	0.17143	NOTE	Eb5	634.008
+305	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	38.0306	38.0939	0.063265	NOTE	G#5	833
+306	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	38.0939	38.1816	0.087755	NOTE	F5	696.149
+307	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	38.1816	38.3163	0.13469	NOTE	Eb5	639.41
+308	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	38.3163	38.5082	0.19184	NOTE	D5	586.646
+309	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	38.5082	38.6571	0.14898	NOTE	Eb5	628.672
+310	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	38.6571	38.7939	0.13673	NOTE	F#5	752.523
+311	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	38.7939	38.9776	0.18367	NOTE	Bb5	931.595
+312	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	38.9776	39.1531	0.17551	NOTE	G#5	831.125
+313	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	39.1531	39.302	0.14898	NOTE	G5	795.087
+314	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	39.302	39.4367	0.13469	NOTE	E5	642.901
+315	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	39.4367	39.6061	0.16939	NOTE	C#5	569.481
+316	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	39.6061	39.7265	0.12041	NOTE	Bb4	467.852
+317	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	39.7265	39.8959	0.16939	NOTE	G#4	421.254
+318	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	39.8959	39.9469	0.05102	ct	A4	450.187
+319	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	39.9469	40.1286	0.18163	NOTE	G#4	424.26
+320	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	40.1286	40.3816	0.25306	BREATH	BREATH	0
+321	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	40.3816	40.6673	0.28571	NOTE	G5	784.146
+322	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	40.6673	40.7571	0.089796	NOTE	E5	647.216
+323	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	40.7571	40.8551	0.097959	NOTE	E5	644.88
+324	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	40.8551	40.9163	0.061224	ct	G5	800.525
+325	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	40.9163	41.0469	0.13061	NOTE	F5	700.323
+326	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.0469	41.1673	0.12041	NOTE	E5	643.809
+327	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.1673	41.3408	0.17347	NOTE	E5	641.995
+328	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.3408	41.4	0.059184	ct	Bb5	907
+329	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.4	41.5796	0.17959	NOTE	G5	780.367
+330	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.5796	41.6776	0.097959	NOTE	E5	646.734
+331	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.6776	41.798	0.12041	NOTE	Eb5	632.278
+332	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.798	41.8653	0.067347	ct	G#5	839
+333	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.8653	41.9653	0.1	NOTE	E5	677.464
+334	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	41.9653	42.0878	0.12245	NOTE	E5	643.78
+335	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	42.0878	42.2633	0.17551	NOTE	Eb5	637.258
+336	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	42.2633	42.3347	0.071429	ct	A5	900
+337	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	42.3347	42.4633	0.12857	NOTE	G5	763.709
+338	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	42.4633	42.5816	0.11837	NOTE	Eb5	630
+339	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	42.5816	42.7327	0.15102	NOTE	Eb5	630.74
+340	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	42.7327	42.8143	0.081633	ct	G#5	827
+341	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	42.8143	42.9122	0.097959	NOTE	E5	674.859
+342	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	42.9122	43.0612	0.14898	NOTE	Eb5	631.019
+343	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.0612	43.2122	0.15102	NOTE	D5	584.339
+344	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.2122	43.3347	0.12245	NOTE	Eb5	632.971
+345	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.3347	43.4898	0.1551	NOTE	D5	577.407
+346	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.4898	43.6551	0.16531	NOTE	Bb4	464.781
+347	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.6551	43.8	0.1449	lngRoll_nt	G#5	839.799
+348	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.8	43.8755	0.07551	lngRoll_ct	Bb5	916.398
+349	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.8755	43.9265	0.05102	lngRoll_nt	G#5	840.603
+350	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.9265	43.9653	0.038776	lngRoll_str	G#5	825.902
+351	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	43.9653	44.1041	0.13878	lngRoll_nt	G#5	842.451
+352	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	44.1041	44.2204	0.11633	NOTE	G5	789.943
+353	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	44.2204	44.4429	0.22245	BREATH	BREATH	0
+354	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	44.4429	44.6102	0.16735	NOTE	Eb5	632.331
+355	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	44.6102	44.7592	0.14898	NOTE	F5	698.547
+356	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	44.7592	44.8918	0.13265	NOTE	Eb5	637.941
+357	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	44.8918	45.0714	0.17959	NOTE	Eb5	633.577
+358	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	45.0714	45.2694	0.19796	NOTE	G5	791.307
+359	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	45.2694	45.3959	0.12653	NOTE	E5	656.511
+360	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	45.3959	45.5327	0.13673	NOTE	Eb5	633.668
+361	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	45.5327	45.5939	0.061224	ct	G5	792.562
+362	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	45.5939	45.702	0.10816	NOTE	F5	685.965
+363	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	45.702	45.8429	0.14082	NOTE	Eb5	635.148
+364	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	45.8429	46.0122	0.16939	NOTE	D5	588.765
+365	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	46.0122	46.1714	0.15918	NOTE	Eb5	626.995
+366	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	46.1714	46.2816	0.1102	NOTE	G5	764.247
+367	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	46.2816	46.4776	0.19592	NOTE	Bb5	932.638
+368	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	46.4776	46.6367	0.15918	NOTE	G#5	837.295
+369	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	46.6367	46.7918	0.1551	NOTE	G5	789.02
+370	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	46.7918	46.9531	0.16122	NOTE	E5	641.623
+371	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	46.9531	47.1327	0.17959	NOTE	D5	573.088
+372	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	47.1327	47.3918	0.25918	NOTE	A4	432.902
+373	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	47.3918	47.4449	0.053061	ct	A4	445.494
+374	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	47.4449	47.6245	0.17959	NOTE	G#4	423.804
+375	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	47.6245	47.9469	0.32245	BREATH	BREATH	0
+376	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	47.9469	48.0735	0.12653	lngRoll_nt	G#5	838.193
+377	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.0735	48.1612	0.087755	lngRoll_ct	B5	1015
+378	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.1612	48.2061	0.044898	lngRoll_nt	G#5	849.988
+379	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.2061	48.2429	0.036735	lngRoll_str	G#5	834.069
+380	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.2429	48.4041	0.16122	lngRoll_nt	G#5	846.417
+381	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.4041	48.5449	0.14082	NOTE	F#5	756.063
+382	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.5449	48.6041	0.059184	ct	Bb5	932.315
+383	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.6041	48.7408	0.13673	NOTE	G5	786.109
+384	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.7408	48.8816	0.14082	NOTE	E5	646.182
+385	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	48.8816	49.0429	0.16122	NOTE	C#5	564.318
+386	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.0429	49.1796	0.13673	NOTE	Bb4	470.344
+387	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.1796	49.3122	0.13265	NOTE	G#4	420.386
+388	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.3122	49.351	0.038776	shRoll_ct	A4	451.869
+389	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.351	49.4204	0.069388	shRoll_nt	G#4	422.582
+390	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.4204	49.451	0.030612	shRoll_str	G#4	411.989
+391	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.451	49.5	0.04898	shRoll_nt	G#4	422.409
+392	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.5	49.5571	0.057143	NOTE	B4	493.014
+393	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.5571	49.6408	0.083673	NOTE	C#5	562.488
+394	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.6408	49.8358	0.19501	NOTE	Eb5	628.736
+395	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.8358	49.9633	0.12744	lngRoll_nt	G#5	816.965
+396	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	49.9633	50.0163	0.053061	lngRoll_ct	A5	893.783
+397	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.0163	50.0898	0.073469	lngRoll_nt	G#5	848.833
+398	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.0898	50.1265	0.036735	lngRoll_str	G#5	824.36
+399	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.1265	50.3583	0.23175	lngRoll_nt	G#5	843.964
+400	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.3583	50.4755	0.11723	NOTE	G5	776.923
+401	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.4755	50.5306	0.055102	NOTE	G#5	836.554
+402	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.5306	50.6184	0.087755	NOTE	G5	797.738
+403	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.6184	50.7878	0.16939	NOTE	E5	646.737
+404	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.7878	50.9327	0.1449	NOTE	D5	578.126
+405	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	50.9327	51.0939	0.16122	NOTE	Bb4	470.022
+406	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.0939	51.2857	0.19184	NOTE	Eb5	632.947
+407	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.2857	51.3755	0.089796	NOTE	F#5	724.041
+408	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.3755	51.4143	0.038776	lngRoll_nt	G5	767.619
+409	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.4143	51.4755	0.061224	lngRoll_ct	G#5	825.204
+410	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.4755	51.549	0.073469	lngRoll_nt	G5	790.23
+411	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.549	51.5918	0.042857	lngRoll_str	G5	778.147
+412	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.5918	51.6939	0.10204	lngRoll_nt	G5	782.53
+413	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.6939	51.7837	0.089796	NOTE	G#5	848.005
+414	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	51.7837	52.0082	0.22449	BREATH	BREATH	0
+415	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.0082	52.1898	0.18163	NOTE	G#5	845.37
+416	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.1898	52.3122	0.12245	NOTE	G#5	816.086
+417	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.3122	52.4735	0.16122	NOTE	G#5	839
+418	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.4735	52.7245	0.25102	NOTE	Eb5	632
+419	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.7245	52.8122	0.087755	NOTE	G5	790.235
+420	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.8122	52.8347	0.022449	lngRoll_nt	G#5	835.661
+421	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.8347	52.8857	0.05102	lngRoll_ct	A5	859.326
+422	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.8857	52.9388	0.053061	lngRoll_nt	G#5	844.932
+423	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.9388	52.9694	0.030612	lngRoll_str	G#5	818.532
+424	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	52.9694	53.1122	0.14286	lngRoll_nt	G#5	845.63
+425	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	53.1122	53.2714	0.15918	NOTE	F5	693
+426	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	53.2714	53.4163	0.1449	NOTE	G#5	807.614
+427	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	53.4163	53.5755	0.15918	NOTE	Eb5	639.311
+428	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	53.5755	53.7469	0.17143	NOTE	G5	786.483
+429	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	53.7469	53.8898	0.14286	NOTE	C6	1040.16
+430	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	53.8898	54.0388	0.14898	NOTE	Eb5	632
+431	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	54.0388	54.098	0.059184	ct	B5	989.583
+432	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	54.098	54.2061	0.10816	NOTE	Bb5	938.689
+433	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	54.2061	54.3592	0.15306	NOTE	G#5	824.818
+434	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	54.3592	54.5224	0.16327	NOTE	Eb5	635.309
+435	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	54.5224	54.6837	0.16122	NOTE	D5	572.373
+436	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	54.6837	54.8245	0.14082	NOTE	Bb4	470.206
+437	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	54.8245	54.9776	0.15306	NOTE	G#4	422.909
+438	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	54.9776	55.0306	0.053061	ct	Bb4	458.534
+439	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	55.0306	55.2041	0.17347	NOTE	G#4	422.323
+440	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	55.2041	55.5224	0.31837	BREATH	BREATH	0
+441	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	55.5224	55.6449	0.12245	NOTE	G#5	837.866
+442	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	55.6449	55.6939	0.04898	NOTE	A5	868.62
+443	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	55.6939	55.7816	0.087755	NOTE	G#5	850.99
+444	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	55.7816	55.8102	0.028571	NOTE	G#5	815.59
+445	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	55.8102	55.9653	0.1551	NOTE	G#5	845.568
+446	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	55.9653	56.1653	0.2	NOTE	F5	708
+447	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	56.1653	56.2776	0.11224	NOTE	G5	800.301
+448	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	56.2776	56.398	0.12041	NOTE	E5	649.772
+449	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	56.398	56.5939	0.19592	NOTE	D5	572.522
+450	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	56.5939	56.7245	0.13061	NOTE	Bb4	472.778
+451	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	56.7245	56.8694	0.1449	NOTE	G#4	425.642
+452	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	56.8694	56.9082	0.038776	shRoll_ct	Bb4	453.698
+453	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	56.9082	56.9816	0.073469	shRoll_nt	G#4	422.823
+454	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	56.9816	57.0163	0.034694	shRoll_str	G#4	416.51
+455	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.0163	57.0755	0.059184	shRoll_nt	G#4	424.587
+456	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.0755	57.1347	0.059184	NOTE	B4	499.833
+457	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.1347	57.2041	0.069388	NOTE	C#5	564.5
+458	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.2041	57.3571	0.15306	NOTE	Eb5	629.805
+459	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.3571	57.5	0.14286	NOTE	G5	790.397
+460	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.5	57.5408	0.040816	lngRoll_nt	G#5	816.254
+461	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.5408	57.5918	0.05102	lngRoll_ct	A5	871.698
+462	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.5918	57.6449	0.053061	lngRoll_nt	G#5	845.016
+463	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.6449	57.6837	0.038776	lngRoll_str	G#5	810.349
+464	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.6837	57.8531	0.16939	lngRoll_nt	G#5	841.105
+465	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.8531	57.998	0.1449	NOTE	F5	703
+466	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	57.998	58.0388	0.040816	NOTE	G#5	844.609
+467	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	58.0388	58.1612	0.12245	NOTE	G5	787.887
+468	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	58.1612	58.3143	0.15306	NOTE	Eb5	640.433
+469	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	58.3143	58.4776	0.16327	NOTE	D5	572.638
+470	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	58.4776	58.6286	0.15102	NOTE	Bb4	470.31
+471	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	58.6286	58.798	0.16939	NOTE	Eb5	630.422
+472	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	58.798	58.9204	0.12245	NOTE	F5	719.181
+473	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	58.9204	58.9551	0.034694	lngRoll_nt	G5	771.371
+474	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	58.9551	59.002	0.046939	lngRoll_ct	G#5	852.473
+475	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.002	59.0612	0.059184	lngRoll_nt	G5	783.245
+476	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.0612	59.1	0.038776	lngRoll_str	G5	786.447
+477	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.1	59.2347	0.13469	lngRoll_nt	G5	780.979
+478	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.2347	59.3245	0.089796	NOTE	G#5	840.118
+479	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.3245	59.5755	0.25102	BREATH	BREATH	0
+480	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.5755	59.6143	0.038776	ct	A5	896.836
+481	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.6143	59.7306	0.11633	NOTE	G#5	844.089
+482	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.7306	59.849	0.11837	NOTE	F5	703
+483	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	59.849	60.0347	0.18571	NOTE	G5	791.097
+484	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.0347	60.2	0.16531	NOTE	Eb5	637
+485	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.2	60.3347	0.13469	NOTE	G5	789.271
+486	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.3347	60.3796	0.044898	lngRoll_nt	G#5	830.705
+487	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.3796	60.4286	0.04898	lngRoll_ct	A5	885.145
+488	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.4286	60.4837	0.055102	lngRoll_nt	A5	866.396
+489	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.4837	60.5327	0.04898	lngRoll_str	G#5	833.648
+490	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.5327	60.6776	0.1449	lngRoll_nt	G#5	844.283
+491	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.6776	60.8082	0.13061	NOTE	F5	703
+492	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.8082	60.9755	0.16735	NOTE	G5	788.19
+493	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	60.9755	61.1571	0.18163	NOTE	Eb5	639.047
+494	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	61.1571	61.2796	0.12245	NOTE	G#5	820.469
+495	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	61.2796	61.4408	0.16122	NOTE	C6	1045.64
+496	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	61.4408	61.5755	0.13469	NOTE	A5	866.369
+497	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	61.5755	61.6469	0.071429	ct	C6	1030.27
+498	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	61.6469	61.7673	0.12041	NOTE	Bb5	944.672
+499	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	61.7673	61.9143	0.14694	NOTE	G5	799.832
+500	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	61.9143	62.0714	0.15714	NOTE	Eb5	636.279
+501	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	62.0714	62.2469	0.17551	NOTE	D5	571.186
+502	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	62.2469	62.3694	0.12245	NOTE	Bb4	468.29
+503	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	62.3694	62.5347	0.16531	NOTE	G#4	421.345
+504	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	62.5347	62.5857	0.05102	ct	A4	444.225
+505	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	62.5857	62.7959	0.2102	NOTE	G#4	421.352
+506	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	62.7959	63.0347	0.23878	NOTE	G#4	424.551
+507	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.0347	63.2204	0.18571	NOTE	Eb5	627.506
+508	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.2204	63.3224	0.10204	NOTE	C5	537.221
+509	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.3224	63.3694	0.046939	ct	C#5	561.366
+510	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.3694	63.4878	0.11837	NOTE	C5	530.889
+511	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.4878	63.6633	0.17551	NOTE	Eb5	634.492
+512	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.6633	63.7878	0.12449	NOTE	C5	523.564
+513	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.7878	63.8429	0.055102	ct	C#5	565.857
+514	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.8429	63.9571	0.11429	NOTE	C5	525.043
+515	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	63.9571	64.1408	0.18367	NOTE	Eb5	633.894
+516	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.1408	64.2592	0.11837	NOTE	Bb4	471.372
+517	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.2592	64.3204	0.061224	ct	C5	516.302
+518	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.3204	64.4551	0.13469	NOTE	Bb4	467.985
+519	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.4551	64.6265	0.17143	NOTE	Eb5	631.948
+520	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.6265	64.7184	0.091837	NOTE	Bb4	469.917
+521	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.7184	64.7776	0.059184	ct	C5	524.128
+522	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.7776	64.9041	0.12653	NOTE	Bb4	464.906
+523	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.9041	64.9796	0.07551	str	G4	398.443
+524	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	64.9796	65.0796	0.1	lngRoll_nt	G#4	419.434
+525	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.0796	65.1347	0.055102	lngRoll_ct	A4	445.47
+526	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.1347	65.2061	0.071429	lngRoll_nt	G#4	421.192
+527	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.2061	65.2449	0.038776	lngRoll_str	G#4	414.279
+528	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.2449	65.351	0.10612	lngRoll_nt	G#4	421.995
+529	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.351	65.4204	0.069388	ct	A4	439.383
+530	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.4204	65.5306	0.1102	NOTE	G#4	421.423
+531	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.5306	65.602	0.071429	NOTE	B4	504.767
+532	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.602	65.6857	0.083673	NOTE	C#5	556.463
+533	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.6857	65.8612	0.17551	NOTE	Eb5	617.06
+534	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	65.8612	66.0347	0.17347	NOTE	C#5	562.175
+535	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	66.0347	66.1571	0.12245	NOTE	Bb4	469.574
+536	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	66.1571	66.3327	0.17551	NOTE	G#4	418.874
+537	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	66.3327	66.4857	0.15306	NOTE	G4	390.053
+538	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	66.4857	66.6347	0.14898	NOTE	G#4	414.935
+539	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	66.6347	66.7939	0.15918	NOTE	Bb4	464.831
+540	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	66.7939	66.8755	0.081633	NOTE	Eb5	628
+541	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	66.8755	67.1184	0.24286	BREATH	BREATH	0
+542	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	67.1184	67.2816	0.16327	NOTE	C5	530.053
+543	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	67.2816	67.4531	0.17143	NOTE	Eb5	628
+544	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	67.4531	67.5653	0.11224	NOTE	C5	524.445
+545	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	67.5653	67.6122	0.046939	ct	C#5	549.449
+546	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	67.6122	67.7347	0.12245	NOTE	C5	521.996
+547	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	67.7347	67.9184	0.18367	NOTE	Eb5	628
+548	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	67.9184	68.0306	0.11224	NOTE	B4	483.535
+549	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.0306	68.0816	0.05102	ct	C5	531.209
+550	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.0816	68.2102	0.12857	NOTE	Bb4	465.672
+551	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.2102	68.3816	0.17143	NOTE	Eb5	629.58
+552	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.3816	68.4918	0.1102	NOTE	B4	487.55
+553	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.4918	68.5531	0.061224	NOTE	C5	525.2
+554	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.5531	68.6857	0.13265	NOTE	Bb4	465.513
+555	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.6857	68.7388	0.053061	str	G#4	408.195
+556	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.7388	68.8469	0.10816	lngRoll_nt	G#4	420.361
+557	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.8469	68.9143	0.067347	lngRoll_ct	A4	448.227
+558	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.9143	68.9898	0.07551	lngRoll_nt	G#4	421.33
+559	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	68.9898	69.0286	0.038776	lngRoll_str	G#4	416.762
+560	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.0286	69.1388	0.1102	lngRoll_nt	G#4	421.256
+561	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.1388	69.1837	0.044898	shRoll_ct	Bb4	456.686
+562	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.1837	69.2429	0.059184	shRoll_nt	G#4	424.368
+563	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.2429	69.2776	0.034694	shRoll_str	G#4	416.492
+564	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.2776	69.3224	0.044898	shRoll_nt	G#4	424.514
+565	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.3224	69.3776	0.055102	NOTE	C5	520.12
+566	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.3776	69.449	0.071429	NOTE	C#5	556.344
+567	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.449	69.6143	0.16531	NOTE	Eb5	618.526
+568	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.6143	69.8	0.18571	NOTE	C#5	565.477
+569	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.8	69.9347	0.13469	NOTE	Bb4	469.137
+570	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	69.9347	70.098	0.16327	NOTE	G#4	418.701
+571	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	70.098	70.1571	0.059184	ct	A4	448.82
+572	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	70.1571	70.398	0.24082	NOTE	G#4	420.401
+573	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	70.398	70.6163	0.21837	BREATH	BREATH	0
+574	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	70.6163	70.7755	0.15918	NOTE	Eb4	313.42
+575	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	70.7755	70.8694	0.093878	NOTE	C5	531.794
+576	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	70.8694	71.0633	0.19388	NOTE	C5	525.535
+577	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	71.0633	71.2571	0.19388	NOTE	Eb5	624.012
+578	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	71.2571	71.3673	0.1102	NOTE	C5	528.038
+579	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	71.3673	71.5673	0.2	NOTE	C5	522.201
+580	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	71.5673	71.7143	0.14694	NOTE	Eb4	314.327
+581	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	71.7143	71.8653	0.15102	NOTE	Bb4	473.581
+582	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	71.8653	72.0122	0.14694	NOTE	Bb4	464.873
+583	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.0122	72.1694	0.15714	NOTE	Eb4	314.596
+584	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.1694	72.3245	0.1551	NOTE	Bb4	471.683
+585	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.3245	72.4531	0.12857	NOTE	Bb4	464.105
+586	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.4531	72.5184	0.065306	str	G4	398.171
+587	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.5184	72.6224	0.10408	lngRoll_nt	G#4	421.643
+588	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.6224	72.6816	0.059184	lngRoll_ct	A4	451.808
+589	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.6816	72.7551	0.073469	lngRoll_nt	G#4	421.828
+590	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.7551	72.7898	0.034694	lngRoll_str	G#4	412.847
+591	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.7898	72.9061	0.11633	lngRoll_nt	G#4	421.971
+592	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.9061	72.9571	0.05102	ct	A4	441.879
+593	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	72.9571	73.0694	0.11224	NOTE	G#4	421.478
+594	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	73.0694	73.1327	0.063265	NOTE	C5	512.32
+595	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	73.1327	73.202	0.069388	NOTE	C#5	560.788
+596	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	73.202	73.3673	0.16531	NOTE	Eb5	626.512
+597	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	73.3673	73.5612	0.19388	NOTE	C#5	566.403
+598	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	73.5612	73.6959	0.13469	NOTE	Bb4	469.917
+599	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	73.6959	73.8531	0.15714	NOTE	G#4	422.635
+600	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	73.8531	74.0102	0.15714	NOTE	G4	392.273
+601	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	74.0102	74.1388	0.12857	NOTE	G#4	421.529
+602	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	74.1388	74.3143	0.17551	NOTE	Bb4	468.86
+603	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	74.3143	74.4143	0.1	NOTE	Eb5	632
+604	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	74.4143	74.6224	0.20816	BREATH	BREATH	0
+605	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	74.6224	74.7816	0.15918	NOTE	C5	525.752
+606	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	74.7816	74.9449	0.16327	NOTE	Eb5	628
+607	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	74.9449	75.0755	0.13061	NOTE	C5	526.373
+608	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	75.0755	75.2408	0.16531	NOTE	C5	521.763
+609	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	75.2408	75.4102	0.16939	NOTE	Eb5	631.738
+610	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	75.4102	75.5265	0.11633	NOTE	Bb4	471.083
+611	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	75.5265	75.7122	0.18571	NOTE	Bb4	466.475
+612	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	75.7122	75.8796	0.16735	NOTE	Eb5	631.384
+613	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	75.8796	76.0204	0.14082	NOTE	Bb4	472.851
+614	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.0204	76.1735	0.15306	NOTE	Bb4	464.464
+615	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.1735	76.2122	0.038776	str	G#4	414.021
+616	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.2122	76.3286	0.11633	lngRoll_nt	G#4	421.531
+617	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.3286	76.3878	0.059184	lngRoll_ct	Bb4	455.395
+618	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.3878	76.4429	0.055102	lngRoll_nt	G#4	421.141
+619	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.4429	76.4898	0.046939	lngRoll_str	G#4	416.813
+620	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.4898	76.6082	0.11837	lngRoll_nt	G#4	420.698
+621	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.6082	76.6653	0.057143	ct	Bb4	453.208
+622	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.6653	76.7959	0.13061	NOTE	G#4	424.384
+623	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.7959	76.851	0.055102	NOTE	C5	513.589
+624	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.851	76.9265	0.07551	NOTE	C#5	561.534
+625	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	76.9265	77.1041	0.17755	NOTE	Eb5	621.166
+626	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	77.1041	77.2857	0.18163	NOTE	D5	571.009
+627	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	77.2857	77.4347	0.14898	NOTE	Bb4	468.021
+628	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	77.4347	77.5837	0.14898	NOTE	G#4	421.04
+629	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	77.5837	77.6347	0.05102	ct	A4	446.969
+630	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	77.6347	77.8551	0.22041	NOTE	G#4	423.535
+631	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	77.8551	78.0755	0.22041	BREATH	BREATH	0
+632	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.0755	78.2245	0.14898	lngRoll_nt	C5	524.957
+633	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.2245	78.2898	0.065306	lngRoll_ct	D5	572.628
+634	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.2898	78.3469	0.057143	lngRoll_nt	C5	529.82
+635	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.3469	78.3857	0.038776	lngRoll_str	C5	524.853
+636	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.3857	78.5367	0.15102	lngRoll_nt	C5	527.466
+637	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.5367	78.6694	0.13265	crann_nt	Eb4	318.321
+638	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.6694	78.7157	0.046281	crann_ct	G4	386
+639	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.7157	78.7331	0.017415	crann_nt	Eb4	317.017
+640	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.7331	78.7737	0.040635	crann_ct	G4	396
+641	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.7737	78.8202	0.04644	crann_nt	Eb4	317.017
+642	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.8202	78.863	0.042857	crann_ct	G4	386
+643	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	78.863	79.0469	0.18392	crann_nt	Eb4	315.02
+644	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.0469	79.2061	0.15918	lngRoll_nt	Bb4	469.807
+645	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.2061	79.2633	0.057143	lngRoll_ct	C5	537.898
+646	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.2633	79.3082	0.044898	lngRoll_nt	Bb4	469.755
+647	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.3082	79.3388	0.030612	lngRoll_str	Bb4	462.028
+648	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.3388	79.5184	0.17959	lngRoll_nt	Bb4	467.58
+649	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.5184	79.6265	0.10816	crann_nt	Eb4	317.419
+650	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.6265	79.6612	0.034694	crann_ct	G4	386
+651	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.6612	79.702	0.040816	crann_nt	Eb4	317.741
+652	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.702	79.7592	0.057143	crann_ct	G4	396
+653	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.7592	79.807	0.047823	crann_nt	Eb4	319.281
+654	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.8082	79.8476	0.039478	crann_ct	G4	386
+655	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.8476	79.9776	0.12991	crann_nt	Eb4	315.126
+656	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	79.9776	80.0633	0.085714	str	G#4	416.15
+657	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.0633	80.1245	0.061224	lngRoll_nt	G#4	418.812
+658	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.1245	80.1837	0.059184	lngRoll_ct	A4	451.578
+659	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.1837	80.249	0.065306	lngRoll_nt	G#4	419.534
+660	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.249	80.2878	0.038776	lngRoll_str	G#4	417.196
+661	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.2878	80.398	0.1102	lngRoll_nt	G#4	421.198
+662	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.398	80.4633	0.065306	shRoll_ct	A4	437.607
+663	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.4633	80.4837	0.020408	shRoll_nt	G#4	425.6
+664	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.4837	80.5245	0.040816	shRoll_str	G#4	417.795
+665	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.5245	80.5776	0.053061	shRoll_nt	G#4	422.726
+666	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.5776	80.6347	0.057143	NOTE	C5	527.275
+667	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.6347	80.7102	0.07551	NOTE	C#5	558.352
+668	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.7102	80.8796	0.16939	NOTE	Eb5	624.073
+669	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	80.8796	81.0612	0.18163	NOTE	C#5	568.792
+670	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	81.0612	81.202	0.14082	NOTE	Bb4	470.948
+671	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	81.202	81.3816	0.17959	NOTE	G#4	421.637
+672	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	81.3816	81.5367	0.1551	NOTE	G4	392.231
+673	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	81.5367	81.6551	0.11837	NOTE	G#4	421.172
+674	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	81.6551	81.8449	0.1898	NOTE	Bb4	468.338
+675	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	81.8449	81.9204	0.07551	NOTE	C5	529.709
+676	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	81.9204	82.1429	0.22245	BREATH	BREATH	0
+677	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.1429	82.3388	0.19592	NOTE	C5	526.538
+678	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.3388	82.4306	0.091837	crann_nt	Eb4	316.142
+679	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.4306	82.4831	0.052494	crann_ct	G4	386
+680	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.4831	82.5295	0.04644	crann_nt	Eb4	315.023
+681	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.5295	82.576	0.04644	crann_ct	G4	396
+682	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.576	82.6108	0.03483	crann_nt	Eb4	315.843
+683	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.6108	82.6747	0.063855	crann_ct	A4	438
+684	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.6747	82.8163	0.14166	crann_nt	Eb4	315.351
+685	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.8163	82.9673	0.15102	lngRoll_nt	Bb4	466.627
+686	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	82.9673	83.0327	0.065306	lngRoll_ct	C#5	546.579
+687	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.0327	83.0837	0.05102	lngRoll_nt	Bb4	468.872
+688	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.0837	83.1204	0.036735	lngRoll_str	Bb4	460.934
+689	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.1204	83.3	0.17959	lngRoll_nt	Bb4	467.973
+690	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.3	83.3918	0.091837	crann_nt	Eb4	316.307
+691	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.3918	83.4293	0.037483	crann_ct	G4	386
+692	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.4293	83.47	0.040635	crann_nt	Eb4	317.801
+693	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.47	83.5048	0.03483	crann_ct	G4	396
+694	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.5048	83.5454	0.040635	crann_nt	Eb4	313.304
+695	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.5454	83.6093	0.063855	crann_ct	A4	430
+696	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.6093	83.7612	0.15195	crann_nt	Eb4	312.87
+697	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.7612	83.8469	0.085714	str	G4	386.054
+698	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.8469	83.9204	0.073469	lngRoll_nt	G#4	413.76
+699	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.9204	83.9816	0.061224	lngRoll_ct	A4	444.325
+700	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	83.9816	84.0408	0.059184	lngRoll_nt	G#4	419.613
+701	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.0408	84.0796	0.038776	lngRoll_str	G#4	414.598
+702	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.0796	84.2102	0.13061	lngRoll_nt	G#4	421.675
+703	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.2102	84.2653	0.055102	shRoll_ct	A4	441.996
+704	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.2653	84.3	0.034694	shRoll_nt	G#4	425.031
+705	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.3	84.3327	0.032653	shRoll_str	G#4	418.376
+706	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.3327	84.3816	0.04898	shRoll_nt	G#4	425.089
+707	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.3816	84.4327	0.05102	NOTE	C5	508.923
+708	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.4327	84.5245	0.091837	NOTE	C#5	560.94
+709	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.5245	84.6959	0.17143	NOTE	Eb5	622.443
+710	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.6959	84.8857	0.1898	NOTE	C#5	564.345
+711	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	84.8857	85.0061	0.12041	NOTE	Bb4	469.233
+712	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.0061	85.1531	0.14694	NOTE	G#4	423.02
+713	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.1531	85.2122	0.059184	ct	Bb4	456.52
+714	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.2122	85.3776	0.16531	NOTE	G#4	423.827
+715	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.3776	85.6469	0.26939	NOTE	G#4	425.279
+716	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.6469	85.7878	0.14082	lngRoll_nt	C5	523.426
+717	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.7878	85.8469	0.059184	lngRoll_ct	C#5	569.357
+718	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.8469	85.9163	0.069388	lngRoll_nt	C5	532.92
+719	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.9163	85.9531	0.036735	lngRoll_str	C5	521.359
+720	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	85.9531	86.1204	0.16735	lngRoll_nt	C5	526.836
+721	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.1204	86.2347	0.11429	NOTE	Eb4	318.703
+722	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.2347	86.298	0.063265	NOTE	F#4	378
+723	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.298	86.3306	0.032653	NOTE	Eb4	316.774
+724	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.3306	86.3755	0.044898	NOTE	G#4	405
+725	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.3755	86.4082	0.032653	NOTE	Eb4	316.59
+726	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.4082	86.4612	0.053061	NOTE	Bb4	454
+727	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.4612	86.6041	0.14286	NOTE	Eb4	314.326
+728	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.6041	86.7694	0.16531	lngRoll_nt	Bb4	466.601
+729	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.7694	86.8143	0.044898	lngRoll_ct	C5	535.609
+730	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.8143	86.8633	0.04898	lngRoll_nt	Bb4	468.822
+731	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.8633	86.9102	0.046939	lngRoll_str	Bb4	463.194
+732	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	86.9102	87.0653	0.1551	lngRoll_nt	Bb4	467.712
+733	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.0653	87.1612	0.095918	crann_nt	Eb4	317.28
+734	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.1612	87.2265	0.065306	crann_ct	F#4	378
+735	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.2265	87.2612	0.034694	crann_nt	Eb4	314.805
+736	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.2612	87.3129	0.051633	crann_ct	G#4	405
+737	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.3129	87.3571	0.044286	crann_nt	Eb4	315.782
+738	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.3571	87.4041	0.046939	crann_ct	Bb4	454
+739	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.4041	87.5694	0.16531	crann_nt	Eb4	314.259
+740	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.5694	87.7082	0.13878	lngRoll_nt	G#4	413.245
+741	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.7082	87.7673	0.059184	lngRoll_ct	A4	451.19
+742	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.7673	87.8408	0.073469	lngRoll_nt	G#4	416.934
+743	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.8408	87.8776	0.036735	lngRoll_str	G#4	413.258
+744	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.8776	87.9918	0.11429	lngRoll_nt	G#4	422.106
+745	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	87.9918	88.0347	0.042857	shRoll_ct	A4	442.277
+746	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.0347	88.0694	0.034694	shRoll_nt	G#4	425.284
+747	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.0694	88.1612	0.091837	shRoll_str	G#4	421.698
+748	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.1612	88.2143	0.053061	shRoll_nt	C5	523.398
+749	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.2143	88.3102	0.095918	NOTE	C#5	561.643
+750	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.3102	88.4714	0.16122	NOTE	Eb5	630.739
+751	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.4714	88.6469	0.17551	NOTE	D5	571.034
+752	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.6469	88.7878	0.14082	NOTE	Bb4	471.704
+753	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.7878	88.9694	0.18163	NOTE	G#4	423.187
+754	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	88.9694	89.1245	0.1551	NOTE	G4	392.828
+755	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	89.1245	89.2714	0.14694	NOTE	G#4	419.952
+756	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	89.2714	89.4551	0.18367	NOTE	Bb4	468.075
+757	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	89.4551	89.5286	0.073469	NOTE	C5	522.624
+758	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	89.5286	89.751	0.22245	BREATH	BREATH	0
+759	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	89.751	89.9184	0.16735	NOTE	C5	526.315
+760	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	89.9184	90.0367	0.11837	crann_nt	Eb4	318.95
+761	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.0367	90.0876	0.050907	crann_ct	F#4	378
+762	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.0876	90.1399	0.052245	crann_nt	Eb4	316.549
+763	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.1399	90.1863	0.04644	crann_ct	G#4	405
+764	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.1863	90.227	0.040635	crann_nt	Eb4	315.992
+765	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.227	90.2755	0.048549	crann_ct	Bb4	454
+766	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.2755	90.4122	0.13673	crann_nt	Eb4	316.784
+767	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.4122	90.551	0.13878	lngRoll_nt	Bb4	471.003
+768	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.551	90.6224	0.071429	lngRoll_ct	C#5	548.632
+769	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.6224	90.6714	0.04898	lngRoll_nt	Bb4	470.429
+770	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.6714	90.7041	0.032653	lngRoll_str	Bb4	458.158
+771	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.7041	90.9224	0.21837	lngRoll_nt	Bb4	467.087
+772	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	90.9224	91.0143	0.091837	crann_nt	Eb4	313
+773	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.0143	91.0633	0.04898	crann_ct	F#4	378
+774	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.0633	91.0857	0.022449	crann_nt	Eb4	315.401
+775	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.0857	91.149	0.063265	crann_ct	G#4	405
+776	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.149	91.1796	0.030612	crann_nt	Eb4	314.089
+777	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.1796	91.2367	0.057143	crann_ct	Bb4	454
+778	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.2367	91.3673	0.13061	crann_nt	Eb4	313.956
+779	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.3673	91.4224	0.055102	str	G4	392.85
+780	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.4224	91.5184	0.095918	lngRoll_nt	G#4	415.695
+781	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.5184	91.5735	0.055102	lngRoll_ct	A4	449.535
+782	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.5735	91.6408	0.067347	lngRoll_nt	G#4	420.8
+783	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.6408	91.6796	0.038776	lngRoll_str	G#4	416.737
+784	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.6796	91.8184	0.13878	lngRoll_nt	G#4	423.242
+785	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.8184	91.8796	0.061224	shRoll_ct	A4	441.371
+786	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.8796	91.9102	0.030612	shRoll_nt	G#4	425.575
+787	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.9102	91.9388	0.028571	shRoll_str	G#4	412.906
+788	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.9388	91.998	0.059184	shRoll_nt	G#4	422.959
+789	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	91.998	92.0449	0.046939	NOTE	C5	521.873
+790	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	92.0449	92.1286	0.083673	NOTE	C#5	563.565
+791	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	92.1286	92.2776	0.14898	NOTE	Eb5	620.627
+792	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	92.2776	92.4653	0.18776	NOTE	D5	571.423
+793	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	92.4653	92.5939	0.12857	NOTE	Bb4	471.641
+794	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	92.5939	92.7367	0.14286	NOTE	G#4	424.142
+795	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	92.7367	92.8082	0.071429	ct	Bb4	459.973
+796	Mol_MattMolloy_Tk4Tu1R1_TheGoldRing.txt	92.8082	93	0.19184	NOTE	G#4	424.37

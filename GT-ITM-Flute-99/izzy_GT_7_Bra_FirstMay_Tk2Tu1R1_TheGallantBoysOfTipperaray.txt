@@ -1,235 +1,235 @@
-1	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	0.32218	1.3867	1.0645	NOTE	F5	695.742	1
-2	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	1.3997	1.6827	0.28299	BREATH	BREATH	0	4
-3	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	1.6827	1.846	0.16327	NOTE	D5	574.614	1
-4	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	1.846	1.9048	0.058776	ct	Eb5	634.918	2
-5	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	1.9086	2.0381	0.12952	NOTE	C5	512.879	1
-6	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	2.0432	2.1676	0.12444	NOTE	F4	349.841	1
-7	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	2.1778	2.3327	0.15492	ct	F4	348.873	2
-8	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	2.3505	2.3924	0.041905	NOTE	E5	654.578	1
-9	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	2.3924	2.5041	0.11175	NOTE	D5	573.023	1
-10	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	2.5143	2.6159	0.10159	NOTE	C5	515.73	1
-11	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	2.626	2.7848	0.15873	NOTE	A4	434.288	1
-12	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	2.7848	2.9194	0.1346	NOTE	C5	512.879	1
-13	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	2.9194	3.0514	0.13206	NOTE	F5	693.815	1
-14	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.054	3.1924	0.13841	NOTE	G5	773.032	1
-15	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.2013	3.2394	0.038095	ct	C6	1022.81	2
-16	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.2457	3.3651	0.11937	NOTE	G#5	854.16	1
-17	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.3651	3.4768	0.11175	NOTE	F5	693.815	1
-18	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.4844	3.614	0.12952	NOTE	D5	589.131	1
-19	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.6203	3.6724	0.052063	NOTE	Eb5	626.179	1
-20	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.6838	3.8032	0.11937	NOTE	C5	520.037	1
-21	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.8235	3.9302	0.10667	NOTE	F4	347.907	1
-22	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.9429	4.0343	0.091429	NOTE	F4	347.907	1
-23	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.0914	4.1384	0.046984	ct	E5	650.959	2
-24	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.1422	4.2197	0.07746	NOTE	D5	574.614	1
-25	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.2273	4.353	0.12571	NOTE	C5	515.73	1
-26	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.3632	4.5181	0.15492	NOTE	A4	434.288	1
-27	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.5181	4.5651	0.046984	ct	Eb5	629.66	2
-28	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.574	4.6806	0.10667	NOTE	C5	511.459	1
-29	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.6946	4.7924	0.097778	NOTE	A4	434.288	1
-30	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.8025	4.9613	0.15873	NOTE	F4	349.841	1
-31	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.9638	5.1937	0.22984	NOTE	G4	387.629	1
-32	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	5.2013	5.3524	0.15111	NOTE	A4	436.703	1
-33	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	5.3613	5.4044	0.043175	ct	Eb5	634.918	2
-34	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	5.4108	5.5187	0.10794	NOTE	B4	503.022	1
-35	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	5.5289	5.6584	0.12952	NOTE	F4	348.873	1
-36	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	5.666	5.807	0.14095	NOTE	F4	349.841	1
-37	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	5.8133	5.8667	0.053333	ct	E5	647.359	2
-38	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	5.8705	5.9556	0.085079	NOTE	D5	573.023	1
-39	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	5.9606	6.0724	0.11175	NOTE	C5	518.597	1
-40	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.0825	6.2413	0.15873	NOTE	A4	435.494	1
-41	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.2425	6.3797	0.13714	NOTE	C5	517.162	1
-42	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.3848	6.4965	0.11175	NOTE	F5	697.673	1
-43	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.5016	6.6375	0.13587	NOTE	G5	777.33	1
-44	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.6451	6.6768	0.031746	ct	G#5	823.926	2
-45	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.6768	6.7352	0.058413	NOTE	D5	574.614	1
-46	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.7378	6.8102	0.072381	NOTE	A4	429.5	1
-47	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.819	6.9257	0.10667	NOTE	F4	344.071	1
-48	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.9384	7.0705	0.13206	NOTE	D5	581.021	1
-49	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.0743	7.2216	0.1473	NOTE	C5	512.879	1
-50	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.2216	7.36	0.13841	NOTE	F5	701.552	1
-51	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.3613	7.5022	0.14095	NOTE	D5	576.209	1
-52	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.5073	7.5441	0.036825	ct	C5	533.175	2
-53	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.5441	7.5746	0.030476	NOTE	Eb5	626.179	1
-54	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.5835	7.6533	0.069841	NOTE	C5	530.227	1
-55	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.6571	7.7752	0.1181	NOTE	A4	431.887	1
-56	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.7879	7.9352	0.1473	NOTE	G4	391.952	1
-57	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.9403	7.986	0.045714	ct	A4	440.35	2
-58	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.9924	8.0775	0.085079	NOTE	G4	388.706	1
-59	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	8.0863	8.2235	0.13714	NOTE	F4	345.983	1
-60	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	8.2248	8.367	0.14222	NOTE	C5	515.73	1
-61	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	8.3784	8.6159	0.23746	NOTE	F4	347.907	1
-62	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	8.6248	8.7962	0.17143	BREATH	BREATH	0	4
-63	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	8.8089	8.8444	0.035556	ct	E5	650.959	2
-64	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	8.8495	8.9562	0.10667	NOTE	C5	512.879	1
-65	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	8.9702	9.1111	0.14095	NOTE	F4	347.907	1
-66	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	9.12	9.2546	0.1346	NOTE	F4	347.907	1
-67	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	9.2559	9.2902	0.034286	ct	E5	649.156	2
-68	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	9.2978	9.3956	0.097778	NOTE	D5	574.614	1
-69	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	9.4083	9.5225	0.11429	NOTE	C5	514.302	1
-70	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	9.534	9.6902	0.15619	NOTE	A4	435.494	1
-71	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	9.6902	9.8146	0.12444	NOTE	C5	515.73	1
-72	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	9.8146	9.9429	0.12825	NOTE	F5	701.552	1
-73	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	9.9441	10.0711	0.12698	NOTE	G5	779.488	1
-74	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.0813	10.127	0.045714	ct	C6	1039.97	2
-75	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.1359	10.2222	0.086349	NOTE	A5	861.293	1
-76	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.226	10.3695	0.14349	NOTE	F5	693.815	1
-77	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.3695	10.5003	0.13079	NOTE	D5	579.413	1
-78	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.5016	10.541	0.039365	ct	Eb5	619.273	2
-79	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.5524	10.6616	0.10921	NOTE	C5	512.879	1
-80	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.6768	10.7937	0.11683	NOTE	F4	349.841	1
-81	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.8051	10.9333	0.12825	NOTE	F4	349.841	1
-82	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.9384	11.0032	0.064762	ct	E5	645.567	2
-83	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.0057	11.0832	0.07746	NOTE	D5	579.413	1
-84	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.0844	11.2114	0.12698	NOTE	C5	518.597	1
-85	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.2165	11.3663	0.14984	NOTE	A4	437.915	1
-86	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.3702	11.4337	0.063492	NOTE	Eb5	636.681	1
-87	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.4387	11.5352	0.096508	NOTE	C5	518.597	1
-88	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.5429	11.6597	0.11683	NOTE	A4	436.703	1
-89	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.661	11.8337	0.1727	NOTE	F4	350.813	1
-90	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.8337	11.9162	0.08254	NOTE	G4	391.952	1
-91	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.9263	12.1371	0.21079	BREATH	BREATH	0	4
-92	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.1371	12.2705	0.13333	NOTE	A5	868.486	1
-93	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.2832	12.3289	0.045714	ct	Eb5	627.917	2
-94	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.3289	12.4381	0.10921	NOTE	C5	510.043	1
-95	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.4521	12.5752	0.12317	NOTE	F4	348.873	1
-96	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.5917	12.7289	0.13714	NOTE	F4	350.813	1
-97	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.7327	12.7746	0.041905	ct	E5	647.359	2
-98	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.7835	12.8571	0.073651	NOTE	D5	573.023	1
-99	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.861	12.9879	0.12698	NOTE	C5	518.597	1
-100	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.9968	13.1441	0.1473	NOTE	A4	434.288	1
-101	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	13.1517	13.2711	0.11937	NOTE	C5	512.879	1
-102	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	13.2762	13.4032	0.12698	NOTE	F5	697.673	1
-103	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	13.4032	13.5517	0.14857	NOTE	G5	779.488	1
-104	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	13.5632	13.5987	0.035556	ct	C6	1034.22	2
-105	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	13.5987	13.7181	0.11937	NOTE	A5	866.082	1
-106	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	13.727	13.8463	0.11937	NOTE	F5	697.673	1
-107	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	13.8476	13.9898	0.14222	NOTE	D5	579.413	1
-108	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	13.9937	14.141	0.1473	NOTE	C5	515.73	1
-109	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.1422	14.259	0.11683	NOTE	F5	697.673	1
-110	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.2654	14.3937	0.12825	NOTE	D5	582.634	1
-111	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.4013	14.4419	0.040635	ct	C5	517.162	2
-112	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.4457	14.4813	0.035556	NOTE	Eb5	626.179	1
-113	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.4851	14.5549	0.069841	NOTE	C5	514.302	1
-114	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.5625	14.6908	0.12825	NOTE	A4	435.494	1
-115	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.7022	14.833	0.13079	NOTE	G4	390.867	1
-116	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.8419	14.8952	0.053333	ct	Bb4	455.245	2
-117	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.9029	14.9917	0.088889	NOTE	G4	386.557	1
-118	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.9956	15.1213	0.12571	NOTE	F4	344.071	1
-119	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	15.1213	15.2673	0.14603	NOTE	C5	514.302	1
-120	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	15.2902	15.539	0.24889	NOTE	F4	349.841	1
-121	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	15.5441	15.7105	0.16635	BREATH	BREATH	0	4
-122	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	15.7214	15.8563	0.13497	NOTE	C5	511.459	1
-123	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	15.8592	15.9782	0.119	NOTE	F5	697.673	1
-124	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	15.9782	16.1364	0.15819	NOTE	G5	777.33	1
-125	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.148	16.2757	0.12771	lr	A5	861.293	
-126	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.2757	16.3193	0.043537	NOTE	C6	1039.97	1
-127	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.3251	16.4151	0.089977	NOTE	A5	873.315	1
-128	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.4296	16.4644	0.03483	NOTE	G5	805.855	1
-129	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.4673	16.5718	0.10449	NOTE	A5	870.897	1
-130	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.5776	16.6269	0.049342	ct	Bb5	941.19	2
-131	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.6342	16.73	0.095782	NOTE	G5	775.178	1
-132	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.7387	16.8649	0.12626	NOTE	F5	699.61	1
-133	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.8722	16.9985	0.12626	NOTE	G5	777.33	1
-134	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	17.0101	17.1523	0.14222	NOTE	A5	863.684	1
-135	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	17.1552	17.2858	0.13061	NOTE	F5	697.673	1
-136	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	17.2858	17.4193	0.13351	NOTE	D5	581.021	1
-137	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	17.4208	17.5688	0.14803	NOTE	C5	520.037	1
-138	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	17.5688	17.7009	0.13206	NOTE	F5	695.742	1
-139	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	17.7168	17.8416	0.12481	NOTE	G5	788.179	1
-140	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	17.8474	17.9868	0.13932	NOTE	A5	863.684	1
-141	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.0027	18.1319	0.12916	NOTE	C6	1034.22	1
-142	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.1333	18.2756	0.14222	NOTE	A5	878.17	1
-143	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.2872	18.3278	0.040635	ct	A5	900.356	2
-144	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.3351	18.4352	0.10014	NOTE	G5	775.178	1
-145	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.4352	18.5745	0.13932	NOTE	F5	699.61	1
-146	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.5745	18.7211	0.14658	NOTE	D5	585.873	1
-147	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.7283	18.7646	0.036281	ct	E5	645.567	2
-148	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.7719	18.8706	0.098685	NOTE	D5	576.209	1
-149	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.8822	18.9983	0.1161	NOTE	C5	517.162	1
-150	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	19.0055	19.1681	0.16254	NOTE	A4	439.131	1
-151	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	19.1695	19.2972	0.12771	NOTE	C5	517.162	1
-152	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	19.303	19.4264	0.12336	NOTE	F5	691.895	1
-153	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	19.4322	19.5759	0.14367	NOTE	G5	783.822	1
-154	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	19.5788	19.6905	0.11175	NOTE	A5	873.315	1
-155	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	19.7036	19.8937	0.19011	BREATH	BREATH	0	4
-156	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	19.901	20.0069	0.10594	NOTE	A5	866.082	1
-157	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.02	20.0591	0.039184	ct	A5	900.356	2
-158	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.0664	20.1752	0.10884	NOTE	G5	773.032	1
-159	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.1767	20.2986	0.1219	NOTE	F5	697.673	1
-160	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.2986	20.464	0.16544	NOTE	G5	788.179	1
-161	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.4742	20.5221	0.047891	ct	C6	1022.81	2
-162	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.5293	20.6077	0.078367	NOTE	A5	873.315	1
-163	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.6193	20.747	0.12771	NOTE	F5	697.673	1
-164	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.7543	20.8922	0.13787	NOTE	D5	581.021	1
-165	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.8951	21.0518	0.15673	NOTE	C5	515.73	1
-166	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.0532	21.1882	0.13497	NOTE	F5	697.673	1
-167	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.1998	21.3188	0.119	NOTE	D5	576.209	1
-168	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.3203	21.3624	0.042086	ct	Eb5	633.161	2
-169	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.3696	21.4596	0.089977	NOTE	C5	510.043	1
-170	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.4698	21.5989	0.12916	NOTE	A4	431.887	1
-171	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.6062	21.7382	0.13206	NOTE	G5	772.943	1
-172	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.7426	21.7818	0.039184	ct	A5	892.617	2
-173	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.7905	21.879	0.088526	NOTE	G5	775.265	1
-174	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.8805	22.0038	0.12336	NOTE	F5	692.87	1
-175	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	22.0125	22.1663	0.15383	NOTE	C5	515.856	1
-176	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	22.1809	22.4639	0.28299	NOTE	F4	349.654	1
-177	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	22.4755	22.6162	0.14077	BREATH	BREATH	0	4
-178	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	22.6293	22.7686	0.13932	NOTE	C5	512.409	1
-179	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	22.7715	22.9108	0.13932	NOTE	F5	692.87	1
-180	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	22.9195	23.0603	0.14077	NOTE	G5	785.249	1
-181	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.0647	23.1982	0.13351	lr	A5	866.394	
-182	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.2054	23.2359	0.030476	NOTE	C6	1017.66	1
-183	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.2359	23.3375	0.10159	NOTE	A5	876.13	1
-184	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.3491	23.3825	0.033379	NOTE	G#5	813.837	1
-185	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.3868	23.487	0.10014	NOTE	A5	878.09	1
-186	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.5015	23.5494	0.047891	ct	G#5	815.658	2
-187	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.5494	23.6045	0.055147	NOTE	A5	876.13	1
-188	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.606	23.6539	0.047891	ct	G#5	821.146	2
-189	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.6597	23.7845	0.12481	NOTE	F5	700.657	1
-190	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.7845	23.9325	0.14803	NOTE	G5	776.523	1
-191	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.9354	24.0776	0.14222	NOTE	A5	872.222	1
-192	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	24.0863	24.217	0.13061	NOTE	F5	691.324	1
-193	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	24.2257	24.3563	0.13061	NOTE	D5	583.329	1
-194	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	24.3577	24.5101	0.15238	NOTE	C5	519.326	1
-195	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	24.5188	24.6364	0.11755	NOTE	F5	695.974	1
-196	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	24.6436	24.7815	0.13787	NOTE	G5	781.747	1
-197	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	24.7888	24.9237	0.13497	NOTE	A5	868.332	1
-198	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	24.9382	25.0717	0.13351	NOTE	C6	1031.39	1
-199	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	25.0746	25.2082	0.13351	NOTE	A5	874.174	1
-200	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	25.2169	25.2604	0.043537	ct	A5	874.174	2
-201	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	25.2648	25.3649	0.10014	NOTE	G5	785.249	1
-202	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	25.3649	25.5245	0.15964	NOTE	F5	695.974	1
-203	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	25.5318	25.6769	0.14512	NOTE	D5	582.026	1
-204	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	25.6813	25.7205	0.039184	NOTE	E5	647.937	1
-205	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	25.7263	25.8337	0.10739	NOTE	D5	579.43	1
-206	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	25.8438	25.9831	0.13932	NOTE	C5	522.82	1
-207	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	26.0034	26.1428	0.13932	NOTE	A4	438.2	1
-208	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	26.1442	26.2806	0.13642	NOTE	C5	517.01	1
-209	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	26.2835	26.4141	0.13061	NOTE	F5	697.531	1
-210	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	26.4229	26.552	0.12916	NOTE	G5	780.002	1
-211	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	26.5549	26.671	0.1161	NOTE	A5	872.222	1
-212	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	26.6783	26.864	0.18576	BREATH	BREATH	0	4
-213	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	26.8727	26.9932	0.12045	NOTE	A5	866.394	1
-214	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.0019	27.0396	0.037732	ct	G5	785.249	2
-215	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.0396	27.0759	0.036281	NOTE	A5	883.997	1
-216	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.0759	27.1398	0.063855	NOTE	G5	790.531	1
-217	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.1557	27.2863	0.13061	NOTE	F5	695.974	1
-218	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.3023	27.43	0.12771	NOTE	G5	795.85	1
-219	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.4431	27.4852	0.042086	ct	C6	1022.21	2
-220	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.4968	27.5708	0.074014	NOTE	A5	872.222	1
-221	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.5882	27.7261	0.13787	NOTE	F5	695.974	1
-222	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.7493	27.8727	0.12336	NOTE	D5	582.026	1
-223	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.8843	28.0352	0.15093	NOTE	C5	517.01	1
-224	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.0352	28.1629	0.12771	NOTE	F5	692.87	1
-225	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.1774	28.2993	0.1219	NOTE	D5	584.634	1
-226	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.2993	28.3458	0.04644	ct	C5	527.515	2
-227	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.3501	28.3893	0.039184	NOTE	Eb5	626.576	1
-228	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.3951	28.4604	0.065306	NOTE	C5	521.653	1
-229	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.4706	28.5751	0.10449	NOTE	A4	438.2	1
-230	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.5968	28.739	0.14222	NOTE	G4	393.624	1
-231	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.7449	28.784	0.039184	ct	A4	445.109	2
-232	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.7985	28.8842	0.085624	NOTE	G4	390.121	1
-233	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.8856	29.038	0.15238	NOTE	F4	344.996	1
-234	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	29.0395	29.173	0.13351	NOTE	C5	514.704	1
-235	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	29.1933	29.4066	0.21333	NOTE	F4	348.094	1
+1	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	0.32218	1.3867	1.0645	NOTE	F5	695.742
+2	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	1.3997	1.6827	0.28299	BREATH	BREATH	0
+3	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	1.6827	1.846	0.16327	NOTE	D5	574.614
+4	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	1.846	1.9048	0.058776	ct	Eb5	634.918
+5	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	1.9086	2.0381	0.12952	NOTE	C5	512.879
+6	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	2.0432	2.1676	0.12444	NOTE	F4	349.841
+7	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	2.1778	2.3327	0.15492	ct	F4	348.873
+8	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	2.3505	2.3924	0.041905	NOTE	E5	654.578
+9	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	2.3924	2.5041	0.11175	NOTE	D5	573.023
+10	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	2.5143	2.6159	0.10159	NOTE	C5	515.73
+11	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	2.626	2.7848	0.15873	NOTE	A4	434.288
+12	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	2.7848	2.9194	0.1346	NOTE	C5	512.879
+13	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	2.9194	3.0514	0.13206	NOTE	F5	693.815
+14	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.054	3.1924	0.13841	NOTE	G5	773.032
+15	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.2013	3.2394	0.038095	ct	C6	1022.81
+16	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.2457	3.3651	0.11937	NOTE	G#5	854.16
+17	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.3651	3.4768	0.11175	NOTE	F5	693.815
+18	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.4844	3.614	0.12952	NOTE	D5	589.131
+19	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.6203	3.6724	0.052063	NOTE	Eb5	626.179
+20	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.6838	3.8032	0.11937	NOTE	C5	520.037
+21	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.8235	3.9302	0.10667	NOTE	F4	347.907
+22	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	3.9429	4.0343	0.091429	NOTE	F4	347.907
+23	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.0914	4.1384	0.046984	ct	E5	650.959
+24	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.1422	4.2197	0.07746	NOTE	D5	574.614
+25	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.2273	4.353	0.12571	NOTE	C5	515.73
+26	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.3632	4.5181	0.15492	NOTE	A4	434.288
+27	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.5181	4.5651	0.046984	ct	Eb5	629.66
+28	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.574	4.6806	0.10667	NOTE	C5	511.459
+29	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.6946	4.7924	0.097778	NOTE	A4	434.288
+30	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.8025	4.9613	0.15873	NOTE	F4	349.841
+31	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	4.9638	5.1937	0.22984	NOTE	G4	387.629
+32	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	5.2013	5.3524	0.15111	NOTE	A4	436.703
+33	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	5.3613	5.4044	0.043175	ct	Eb5	634.918
+34	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	5.4108	5.5187	0.10794	NOTE	B4	503.022
+35	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	5.5289	5.6584	0.12952	NOTE	F4	348.873
+36	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	5.666	5.807	0.14095	NOTE	F4	349.841
+37	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	5.8133	5.8667	0.053333	ct	E5	647.359
+38	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	5.8705	5.9556	0.085079	NOTE	D5	573.023
+39	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	5.9606	6.0724	0.11175	NOTE	C5	518.597
+40	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.0825	6.2413	0.15873	NOTE	A4	435.494
+41	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.2425	6.3797	0.13714	NOTE	C5	517.162
+42	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.3848	6.4965	0.11175	NOTE	F5	697.673
+43	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.5016	6.6375	0.13587	NOTE	G5	777.33
+44	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.6451	6.6768	0.031746	ct	G#5	823.926
+45	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.6768	6.7352	0.058413	NOTE	D5	574.614
+46	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.7378	6.8102	0.072381	NOTE	A4	429.5
+47	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.819	6.9257	0.10667	NOTE	F4	344.071
+48	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	6.9384	7.0705	0.13206	NOTE	D5	581.021
+49	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.0743	7.2216	0.1473	NOTE	C5	512.879
+50	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.2216	7.36	0.13841	NOTE	F5	701.552
+51	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.3613	7.5022	0.14095	NOTE	D5	576.209
+52	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.5073	7.5441	0.036825	ct	C5	533.175
+53	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.5441	7.5746	0.030476	NOTE	Eb5	626.179
+54	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.5835	7.6533	0.069841	NOTE	C5	530.227
+55	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.6571	7.7752	0.1181	NOTE	A4	431.887
+56	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.7879	7.9352	0.1473	NOTE	G4	391.952
+57	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.9403	7.986	0.045714	ct	A4	440.35
+58	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	7.9924	8.0775	0.085079	NOTE	G4	388.706
+59	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	8.0863	8.2235	0.13714	NOTE	F4	345.983
+60	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	8.2248	8.367	0.14222	NOTE	C5	515.73
+61	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	8.3784	8.6159	0.23746	NOTE	F4	347.907
+62	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	8.6248	8.7962	0.17143	BREATH	BREATH	0
+63	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	8.8089	8.8444	0.035556	ct	E5	650.959
+64	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	8.8495	8.9562	0.10667	NOTE	C5	512.879
+65	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	8.9702	9.1111	0.14095	NOTE	F4	347.907
+66	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	9.12	9.2546	0.1346	NOTE	F4	347.907
+67	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	9.2559	9.2902	0.034286	ct	E5	649.156
+68	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	9.2978	9.3956	0.097778	NOTE	D5	574.614
+69	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	9.4083	9.5225	0.11429	NOTE	C5	514.302
+70	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	9.534	9.6902	0.15619	NOTE	A4	435.494
+71	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	9.6902	9.8146	0.12444	NOTE	C5	515.73
+72	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	9.8146	9.9429	0.12825	NOTE	F5	701.552
+73	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	9.9441	10.0711	0.12698	NOTE	G5	779.488
+74	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.0813	10.127	0.045714	ct	C6	1039.97
+75	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.1359	10.2222	0.086349	NOTE	A5	861.293
+76	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.226	10.3695	0.14349	NOTE	F5	693.815
+77	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.3695	10.5003	0.13079	NOTE	D5	579.413
+78	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.5016	10.541	0.039365	ct	Eb5	619.273
+79	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.5524	10.6616	0.10921	NOTE	C5	512.879
+80	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.6768	10.7937	0.11683	NOTE	F4	349.841
+81	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.8051	10.9333	0.12825	NOTE	F4	349.841
+82	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	10.9384	11.0032	0.064762	ct	E5	645.567
+83	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.0057	11.0832	0.07746	NOTE	D5	579.413
+84	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.0844	11.2114	0.12698	NOTE	C5	518.597
+85	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.2165	11.3663	0.14984	NOTE	A4	437.915
+86	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.3702	11.4337	0.063492	NOTE	Eb5	636.681
+87	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.4387	11.5352	0.096508	NOTE	C5	518.597
+88	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.5429	11.6597	0.11683	NOTE	A4	436.703
+89	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.661	11.8337	0.1727	NOTE	F4	350.813
+90	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.8337	11.9162	0.08254	NOTE	G4	391.952
+91	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	11.9263	12.1371	0.21079	BREATH	BREATH	0
+92	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.1371	12.2705	0.13333	NOTE	A5	868.486
+93	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.2832	12.3289	0.045714	ct	Eb5	627.917
+94	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.3289	12.4381	0.10921	NOTE	C5	510.043
+95	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.4521	12.5752	0.12317	NOTE	F4	348.873
+96	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.5917	12.7289	0.13714	NOTE	F4	350.813
+97	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.7327	12.7746	0.041905	ct	E5	647.359
+98	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.7835	12.8571	0.073651	NOTE	D5	573.023
+99	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.861	12.9879	0.12698	NOTE	C5	518.597
+100	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	12.9968	13.1441	0.1473	NOTE	A4	434.288
+101	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	13.1517	13.2711	0.11937	NOTE	C5	512.879
+102	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	13.2762	13.4032	0.12698	NOTE	F5	697.673
+103	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	13.4032	13.5517	0.14857	NOTE	G5	779.488
+104	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	13.5632	13.5987	0.035556	ct	C6	1034.22
+105	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	13.5987	13.7181	0.11937	NOTE	A5	866.082
+106	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	13.727	13.8463	0.11937	NOTE	F5	697.673
+107	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	13.8476	13.9898	0.14222	NOTE	D5	579.413
+108	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	13.9937	14.141	0.1473	NOTE	C5	515.73
+109	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.1422	14.259	0.11683	NOTE	F5	697.673
+110	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.2654	14.3937	0.12825	NOTE	D5	582.634
+111	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.4013	14.4419	0.040635	ct	C5	517.162
+112	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.4457	14.4813	0.035556	NOTE	Eb5	626.179
+113	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.4851	14.5549	0.069841	NOTE	C5	514.302
+114	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.5625	14.6908	0.12825	NOTE	A4	435.494
+115	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.7022	14.833	0.13079	NOTE	G4	390.867
+116	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.8419	14.8952	0.053333	ct	Bb4	455.245
+117	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.9029	14.9917	0.088889	NOTE	G4	386.557
+118	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	14.9956	15.1213	0.12571	NOTE	F4	344.071
+119	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	15.1213	15.2673	0.14603	NOTE	C5	514.302
+120	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	15.2902	15.539	0.24889	NOTE	F4	349.841
+121	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	15.5441	15.7105	0.16635	BREATH	BREATH	0
+122	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	15.7214	15.8563	0.13497	NOTE	C5	511.459
+123	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	15.8592	15.9782	0.119	NOTE	F5	697.673
+124	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	15.9782	16.1364	0.15819	NOTE	G5	777.33
+125	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.148	16.2757	0.12771	lr	A5	861.293
+126	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.2757	16.3193	0.043537	NOTE	C6	1039.97
+127	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.3251	16.4151	0.089977	NOTE	A5	873.315
+128	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.4296	16.4644	0.03483	NOTE	G5	805.855
+129	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.4673	16.5718	0.10449	NOTE	A5	870.897
+130	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.5776	16.6269	0.049342	ct	Bb5	941.19
+131	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.6342	16.73	0.095782	NOTE	G5	775.178
+132	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.7387	16.8649	0.12626	NOTE	F5	699.61
+133	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	16.8722	16.9985	0.12626	NOTE	G5	777.33
+134	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	17.0101	17.1523	0.14222	NOTE	A5	863.684
+135	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	17.1552	17.2858	0.13061	NOTE	F5	697.673
+136	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	17.2858	17.4193	0.13351	NOTE	D5	581.021
+137	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	17.4208	17.5688	0.14803	NOTE	C5	520.037
+138	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	17.5688	17.7009	0.13206	NOTE	F5	695.742
+139	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	17.7168	17.8416	0.12481	NOTE	G5	788.179
+140	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	17.8474	17.9868	0.13932	NOTE	A5	863.684
+141	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.0027	18.1319	0.12916	NOTE	C6	1034.22
+142	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.1333	18.2756	0.14222	NOTE	A5	878.17
+143	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.2872	18.3278	0.040635	ct	A5	900.356
+144	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.3351	18.4352	0.10014	NOTE	G5	775.178
+145	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.4352	18.5745	0.13932	NOTE	F5	699.61
+146	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.5745	18.7211	0.14658	NOTE	D5	585.873
+147	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.7283	18.7646	0.036281	ct	E5	645.567
+148	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.7719	18.8706	0.098685	NOTE	D5	576.209
+149	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	18.8822	18.9983	0.1161	NOTE	C5	517.162
+150	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	19.0055	19.1681	0.16254	NOTE	A4	439.131
+151	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	19.1695	19.2972	0.12771	NOTE	C5	517.162
+152	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	19.303	19.4264	0.12336	NOTE	F5	691.895
+153	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	19.4322	19.5759	0.14367	NOTE	G5	783.822
+154	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	19.5788	19.6905	0.11175	NOTE	A5	873.315
+155	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	19.7036	19.8937	0.19011	BREATH	BREATH	0
+156	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	19.901	20.0069	0.10594	NOTE	A5	866.082
+157	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.02	20.0591	0.039184	ct	A5	900.356
+158	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.0664	20.1752	0.10884	NOTE	G5	773.032
+159	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.1767	20.2986	0.1219	NOTE	F5	697.673
+160	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.2986	20.464	0.16544	NOTE	G5	788.179
+161	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.4742	20.5221	0.047891	ct	C6	1022.81
+162	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.5293	20.6077	0.078367	NOTE	A5	873.315
+163	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.6193	20.747	0.12771	NOTE	F5	697.673
+164	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.7543	20.8922	0.13787	NOTE	D5	581.021
+165	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	20.8951	21.0518	0.15673	NOTE	C5	515.73
+166	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.0532	21.1882	0.13497	NOTE	F5	697.673
+167	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.1998	21.3188	0.119	NOTE	D5	576.209
+168	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.3203	21.3624	0.042086	ct	Eb5	633.161
+169	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.3696	21.4596	0.089977	NOTE	C5	510.043
+170	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.4698	21.5989	0.12916	NOTE	A4	431.887
+171	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.6062	21.7382	0.13206	NOTE	G5	772.943
+172	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.7426	21.7818	0.039184	ct	A5	892.617
+173	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.7905	21.879	0.088526	NOTE	G5	775.265
+174	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	21.8805	22.0038	0.12336	NOTE	F5	692.87
+175	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	22.0125	22.1663	0.15383	NOTE	C5	515.856
+176	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	22.1809	22.4639	0.28299	NOTE	F4	349.654
+177	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	22.4755	22.6162	0.14077	BREATH	BREATH	0
+178	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	22.6293	22.7686	0.13932	NOTE	C5	512.409
+179	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	22.7715	22.9108	0.13932	NOTE	F5	692.87
+180	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	22.9195	23.0603	0.14077	NOTE	G5	785.249
+181	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.0647	23.1982	0.13351	lr	A5	866.394
+182	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.2054	23.2359	0.030476	NOTE	C6	1017.66
+183	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.2359	23.3375	0.10159	NOTE	A5	876.13
+184	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.3491	23.3825	0.033379	NOTE	G#5	813.837
+185	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.3868	23.487	0.10014	NOTE	A5	878.09
+186	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.5015	23.5494	0.047891	ct	G#5	815.658
+187	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.5494	23.6045	0.055147	NOTE	A5	876.13
+188	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.606	23.6539	0.047891	ct	G#5	821.146
+189	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.6597	23.7845	0.12481	NOTE	F5	700.657
+190	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.7845	23.9325	0.14803	NOTE	G5	776.523
+191	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	23.9354	24.0776	0.14222	NOTE	A5	872.222
+192	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	24.0863	24.217	0.13061	NOTE	F5	691.324
+193	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	24.2257	24.3563	0.13061	NOTE	D5	583.329
+194	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	24.3577	24.5101	0.15238	NOTE	C5	519.326
+195	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	24.5188	24.6364	0.11755	NOTE	F5	695.974
+196	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	24.6436	24.7815	0.13787	NOTE	G5	781.747
+197	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	24.7888	24.9237	0.13497	NOTE	A5	868.332
+198	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	24.9382	25.0717	0.13351	NOTE	C6	1031.39
+199	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	25.0746	25.2082	0.13351	NOTE	A5	874.174
+200	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	25.2169	25.2604	0.043537	ct	A5	874.174
+201	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	25.2648	25.3649	0.10014	NOTE	G5	785.249
+202	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	25.3649	25.5245	0.15964	NOTE	F5	695.974
+203	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	25.5318	25.6769	0.14512	NOTE	D5	582.026
+204	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	25.6813	25.7205	0.039184	NOTE	E5	647.937
+205	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	25.7263	25.8337	0.10739	NOTE	D5	579.43
+206	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	25.8438	25.9831	0.13932	NOTE	C5	522.82
+207	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	26.0034	26.1428	0.13932	NOTE	A4	438.2
+208	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	26.1442	26.2806	0.13642	NOTE	C5	517.01
+209	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	26.2835	26.4141	0.13061	NOTE	F5	697.531
+210	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	26.4229	26.552	0.12916	NOTE	G5	780.002
+211	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	26.5549	26.671	0.1161	NOTE	A5	872.222
+212	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	26.6783	26.864	0.18576	BREATH	BREATH	0
+213	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	26.8727	26.9932	0.12045	NOTE	A5	866.394
+214	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.0019	27.0396	0.037732	ct	G5	785.249
+215	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.0396	27.0759	0.036281	NOTE	A5	883.997
+216	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.0759	27.1398	0.063855	NOTE	G5	790.531
+217	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.1557	27.2863	0.13061	NOTE	F5	695.974
+218	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.3023	27.43	0.12771	NOTE	G5	795.85
+219	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.4431	27.4852	0.042086	ct	C6	1022.21
+220	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.4968	27.5708	0.074014	NOTE	A5	872.222
+221	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.5882	27.7261	0.13787	NOTE	F5	695.974
+222	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.7493	27.8727	0.12336	NOTE	D5	582.026
+223	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	27.8843	28.0352	0.15093	NOTE	C5	517.01
+224	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.0352	28.1629	0.12771	NOTE	F5	692.87
+225	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.1774	28.2993	0.1219	NOTE	D5	584.634
+226	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.2993	28.3458	0.04644	ct	C5	527.515
+227	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.3501	28.3893	0.039184	NOTE	Eb5	626.576
+228	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.3951	28.4604	0.065306	NOTE	C5	521.653
+229	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.4706	28.5751	0.10449	NOTE	A4	438.2
+230	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.5968	28.739	0.14222	NOTE	G4	393.624
+231	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.7449	28.784	0.039184	ct	A4	445.109
+232	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.7985	28.8842	0.085624	NOTE	G4	390.121
+233	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	28.8856	29.038	0.15238	NOTE	F4	344.996
+234	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	29.0395	29.173	0.13351	NOTE	C5	514.704
+235	Bra_FirstMay_Tk2Tu1R1_TheGallantBoysOfTipperaray.txt	29.1933	29.4066	0.21333	NOTE	F4	348.094

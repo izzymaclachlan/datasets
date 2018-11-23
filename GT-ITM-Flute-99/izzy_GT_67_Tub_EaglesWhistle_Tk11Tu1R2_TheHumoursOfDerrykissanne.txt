@@ -1,171 +1,171 @@
-1	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.0065306	0.066122	0.059592	lngRoll_nt	F#4	363.599	
-2	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.066122	0.094694	0.028571	lngRoll_ct	A4	429.462	
-3	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.11347	0.20653	0.093061	lngRoll_nt	F#4	363.599	
-4	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.20653	0.2302	0.023673	lngRoll_str	F4	350.184	
-5	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.23102	0.36571	0.13469	lngRoll_nt	F#4	360.682	
-6	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.3698	0.54122	0.17143	NOTE	F#4	363.599	1
-7	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.54388	0.68061	0.13673	NOTE	A4	434.099	1
-8	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.68571	0.81735	0.13163	NOTE	F#4	366.54	1
-9	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.81735	0.92857	0.11122	NOTE	G4	388.845	1
-10	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.93265	1.1551	0.22245	BREATH	BREATH	0	4
-11	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	1.1571	1.2704	0.11327	NOTE	E4	330.984	1
-12	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	1.2724	1.3102	0.037755	ct	A4	438.787	2
-13	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	1.3102	1.4684	0.15816	NOTE	F#4	362.624	1
-14	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	1.4724	1.602	0.12959	NOTE	E4	328.329	1
-15	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	1.6082	1.7592	0.15102	NOTE	D4	290.959	1
-16	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	1.7714	1.9306	0.15918	NOTE	F#4	364.577	1
-17	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	1.9316	2.0612	0.12959	NOTE	G4	384.691	1
-18	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	2.0633	2.2276	0.16429	NOTE	A4	434.099	1
-19	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	2.2276	2.4061	0.17857	NOTE	E4	330.097	1
-20	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	2.4143	2.5316	0.11735	NOTE	F#4	363.599	1
-21	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	2.5316	2.6745	0.14286	NOTE	G4	385.726	1
-22	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	2.6755	2.7102	0.034694	ct	A4	431.774	2
-23	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	2.7102	2.8337	0.12347	NOTE	F#4	362.624	1
-24	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	2.8418	2.9786	0.13673	NOTE	E4	329.212	1
-25	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	2.9816	3.1347	0.15306	NOTE	D4	290.959	1
-26	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	3.1357	3.3163	0.18061	NOTE	F#4	362.624	1
-27	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	3.3163	3.4224	0.10612	NOTE	A4	432.935	1
-28	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	3.4224	3.5663	0.14388	NOTE	F#4	362.624	1
-29	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	3.5694	3.6602	0.090816	NOTE	G4	386.763	1
-30	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	3.6663	3.8908	0.22449	BREATH	BREATH	0	4
-31	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	3.8908	4	0.10918	NOTE	B4	492.491	1
-32	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.002	4.0398	0.037755	ct	C5	516.879	2
-33	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.0459	4.1929	0.14694	NOTE	A4	432.935	1
-34	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.1929	4.3398	0.14694	NOTE	F#4	361.652	1
-35	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.3469	4.4867	0.1398	NOTE	D4	288.625	1
-36	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.4918	4.648	0.15612	NOTE	D4	290.959	1
-37	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.652	4.6888	0.036735	ct	G#4	427.162	2
-38	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.6888	4.7888	0.1	NOTE	E4	326.57	1
-39	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.7918	4.9347	0.14286	NOTE	D4	289.401	1
-40	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.9408	5.0429	0.10204	NOTE	D4	287.851	1
-41	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	5.0439	5.251	0.20714	BREATH	BREATH	0	4
-42	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	5.2531	5.4255	0.17245	NOTE	E4	327.448	1
-43	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	5.4276	5.5439	0.11633	lngRoll_nt	F#4	364.577	
-44	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	5.548	5.5786	0.030612	lngRoll_ct	A4	434.099	
-45	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	5.5908	5.6908	0.1	lngRoll_nt	F#4	361.652	
-46	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	5.7	5.7276	0.027551	lngRoll_str	F4	350.184	
-47	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	5.7306	5.8612	0.13061	lngRoll_nt	F#4	366.54	
-48	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	5.8704	6.0265	0.15612	NOTE	G4	385.726	1
-49	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.0276	6.1398	0.11224	NOTE	A4	435.267	1
-50	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.1398	6.2898	0.15	NOTE	F#4	367.526	1
-51	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.3071	6.3622	0.055102	shRoll_ct	A4	430.616	5
-52	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.3622	6.4429	0.080612	shRoll_nt	G4	383.66	1
-53	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.451	6.4755	0.02449	shRoll_str	F#4	371.494	3
-54	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.4949	6.6051	0.1102	shRoll_nt	G4	385.726	1
-55	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.6071	6.7408	0.13367	NOTE	E4	330.097	1
-56	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.7408	6.801	0.060204	ct	A4	431.774	2
-57	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.8061	6.9449	0.13878	NOTE	F#4	363.599	1
-58	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.951	7.0806	0.12959	NOTE	E4	329.212	1
-59	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	7.0827	7.2337	0.15102	NOTE	D4	287.851	1
-60	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	7.2367	7.3888	0.15204	NOTE	F#4	365.557	1
-61	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	7.3898	7.5378	0.14796	NOTE	G4	386.763	1
-62	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	7.5449	7.6908	0.14592	NOTE	A4	434.099	1
-63	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	7.7	7.8673	0.16735	NOTE	E4	329.212	1
-64	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	7.8673	7.9694	0.10204	NOTE	F#4	365.557	1
-65	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	7.9724	8.1153	0.14286	NOTE	G4	383.66	1
-66	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	8.1153	8.1531	0.037755	ct	A4	430.616	2
-67	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	8.1531	8.291	0.13787	NOTE	F#4	362.624	1
-68	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	8.291	8.4274	0.13642	NOTE	E4	328.329	1
-69	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	8.4288	8.5856	0.15673	NOTE	D4	287.851	1
-70	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	8.5856	8.7525	0.16689	NOTE	F#4	360.682	1
-71	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	8.7612	8.9049	0.14367	NOTE	A4	437.61	1
-72	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	8.9049	9.034	0.12916	NOTE	F#4	365.557	1
-73	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	9.034	9.1559	0.1219	NOTE	G4	390.939	1
-74	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	9.1603	9.3533	0.19302	BREATH	BREATH	0	4
-75	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	9.3533	9.4549	0.10159	NOTE	B4	495.143	1
-76	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	9.4708	9.5028	0.031927	ct	C5	512.732	2
-77	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	9.5028	9.6522	0.14948	NOTE	A4	432.935	1
-78	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	9.6522	9.7814	0.12916	NOTE	F#4	364.577	1
-79	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	9.7959	9.9468	0.15093	NOTE	D4	290.179	1
-80	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	9.9527	10.076	0.12336	NOTE	D4	287.851	1
-81	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	10.0934	10.1297	0.036281	ct	A4	429.462	2
-82	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	10.1442	10.2473	0.10304	NOTE	E4	328.329	1
-83	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	10.2473	10.404	0.15673	NOTE	D4	289.401	1
-84	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	10.4112	10.5607	0.14948	NOTE	D4	287.851	1
-85	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	10.5651	10.6739	0.10884	NOTE	F#4	362.624	1
-86	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	10.6841	10.8336	0.14948	NOTE	A4	438.787	1
-87	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	10.8452	11.0251	0.17995	NOTE	D5	583.265	1
-88	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	11.0295	11.3183	0.2888	BREATH	BREATH	0	4
-89	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	11.3284	11.3705	0.042086	NOTE	C#5	555.745	1
-90	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	11.3734	11.4881	0.11465	NOTE	B4	492.491	1
-91	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	11.491	11.6274	0.13642	NOTE	A4	441.15	1
-92	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	11.6361	11.7812	0.14512	NOTE	G4	388.845	1
-93	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	11.7812	11.9467	0.16544	NOTE	F#4	364.577	1
-94	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	11.9467	12.0845	0.13787	NOTE	G4	386.763	1
-95	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	12.0845	12.2558	0.17125	NOTE	A4	436.437	1
-96	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	12.2558	12.3037	0.047891	ct	C5	535.241	2
-97	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	12.3109	12.4357	0.12481	NOTE	B4	485.923	1
-98	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	12.4386	12.5533	0.11465	NOTE	G4	384.691	1
-99	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	12.5649	12.6999	0.13497	NOTE	E4	326.57	1
-100	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	12.7057	12.8508	0.14512	NOTE	E4	326.57	1
-101	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	12.8508	12.9016	0.050794	ct	A4	431.774	2
-102	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	12.9103	13.0278	0.11755	NOTE	F#4	363.599	1
-103	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.0438	13.1715	0.12771	NOTE	E4	325.695	1
-104	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.1773	13.3021	0.12481	NOTE	E4	327.448	1
-105	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.3065	13.3486	0.042086	NOTE	F#4	364.577	1
-106	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.3486	13.3965	0.047891	NOTE	A4	428.31	1
-107	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.4023	13.4574	0.055147	NOTE	F#4	363.599	1
-108	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.4618	13.5938	0.13206	NOTE	E4	327.448	1
-109	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.5996	13.8014	0.20172	NOTE	D5	584.833	1
-110	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.8086	13.8522	0.043537	ct	G5	767.033	2
-111	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.8536	13.9305	0.076916	NOTE	E5	656.412	1
-112	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.9305	14.0844	0.15383	NOTE	D5	581.701	1
-113	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	14.0916	14.2396	0.14803	NOTE	B4	489.853	1
-114	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	14.2396	14.3702	0.13061	NOTE	A4	434.099	1
-115	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	14.3804	14.54	0.15964	NOTE	G4	386.763	1
-116	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	14.54	14.6881	0.14803	NOTE	F#4	362.624	1
-117	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	14.6982	14.8172	0.119	NOTE	G4	387.803	1
-118	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	14.8172	14.9711	0.15383	NOTE	A4	436.437	1
-119	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	14.9769	15.1336	0.15673	NOTE	D5	580.141	1
-120	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	15.1365	15.2584	0.1219	NOTE	A4	437.61	1
-121	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	15.2715	15.4239	0.15238	NOTE	F#4	363.599	1
-122	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	15.4239	15.6096	0.18576	ct	D4	288.625	2
-123	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	15.6096	15.6488	0.039184	NOTE	F#4	380.582	1
-124	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	15.6532	15.7547	0.10159	NOTE	E4	327.448	1
-125	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	15.7663	15.897	0.13061	NOTE	D4	289.401	1
-126	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	15.9013	16.058	0.15673	NOTE	D4	290.179	1
-127	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	16.058	16.1727	0.11465	NOTE	F#4	362.624	1
-128	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	16.1727	16.3193	0.14658	NOTE	A4	436.437	1
-129	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	16.3251	16.492	0.16689	NOTE	D5	581.701	1
-130	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	16.4949	16.7924	0.29751	BREATH	BREATH	0	4
-131	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	16.804	16.9694	0.16544	NOTE	B4	492.491	1
-132	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	16.9723	17.1218	0.14948	NOTE	A4	438.787	1
-133	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	17.132	17.2655	0.13351	NOTE	G4	386.763	1
-134	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	17.2684	17.4295	0.16109	NOTE	F#4	365.557	1
-135	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	17.4295	17.5528	0.12336	NOTE	G4	387.803	1
-136	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	17.563	17.6936	0.13061	NOTE	A4	437.61	1
-137	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	17.6936	17.7459	0.052245	ct	C5	535.241	2
-138	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	17.756	17.8837	0.12771	NOTE	B4	488.54	1
-139	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	17.8866	18.0274	0.14077	NOTE	G4	386.763	1
-140	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	18.0332	18.174	0.14077	NOTE	E4	327.448	1
-141	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	18.1827	18.3234	0.14077	NOTE	E4	330.097	1
-142	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	18.3293	18.3713	0.042086	ct	A4	429.462	2
-143	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	18.3742	18.4787	0.10449	NOTE	F#4	364.577	1
-144	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	18.4787	18.6239	0.14512	NOTE	E4	330.097	1
-145	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	18.6239	18.7283	0.10449	NOTE	E5	668.867	1
-146	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	18.7298	18.9402	0.21043	BREATH	BREATH	0	4
-147	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	18.9533	19.1042	0.15093	NOTE	A4	439.967	1
-148	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	19.1071	19.2871	0.17995	NOTE	A4	439.967	1
-149	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	19.2871	19.3988	0.11175	NOTE	B4	492.491	1
-150	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	19.3988	19.5338	0.13497	NOTE	C#5	542.475	1
-151	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	19.5367	19.7021	0.16544	NOTE	D5	581.701	1
-152	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	19.7123	19.8429	0.13061	NOTE	C#5	546.863	1
-153	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	19.8487	19.9996	0.15093	NOTE	B4	491.17	1
-154	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.004	20.2014	0.19737	NOTE	A4	437.61	1
-155	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.2014	20.3349	0.13351	NOTE	B4	491.17	1
-156	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.3349	20.4669	0.13206	NOTE	C#5	542.475	1
-157	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.4785	20.6179	0.13932	NOTE	D5	578.586	1
-158	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.6179	20.6614	0.043537	ct	F5	719.161	2
-159	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.6672	20.7035	0.036281	NOTE	G#5	826.925	1
-160	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.7064	20.7615	0.055147	NOTE	F#5	721.094	1
-161	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.7615	20.9096	0.14803	NOTE	D5	581.701	1
-162	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.9139	20.9589	0.044989	ct	G5	767.033	2
-163	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.9589	21.0924	0.13351	NOTE	E5	656.412	1
-164	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	21.0924	21.21	0.11755	NOTE	D5	581.701	1
-165	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	21.2114	21.3493	0.13787	NOTE	C#5	546.863	1
-166	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	21.3551	21.5089	0.15383	NOTE	D5	580.141	1
-167	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	21.522	21.6468	0.12481	NOTE	B4	491.17	1
-168	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	21.6468	21.8268	0.17995	NOTE	A4	432.935	1
-169	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	21.834	21.9864	0.15238	NOTE	F#4	363.599	1
-170	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	21.9864	22.0299	0.043537	ct	A4	431.774	2
-171	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	22.0299	22.1185	0.088526	NOTE	F#4	366.54	1
+1	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.0065306	0.066122	0.059592	lngRoll_nt	F#4	363.599
+2	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.066122	0.094694	0.028571	lngRoll_ct	A4	429.462
+3	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.11347	0.20653	0.093061	lngRoll_nt	F#4	363.599
+4	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.20653	0.2302	0.023673	lngRoll_str	F4	350.184
+5	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.23102	0.36571	0.13469	lngRoll_nt	F#4	360.682
+6	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.3698	0.54122	0.17143	NOTE	F#4	363.599
+7	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.54388	0.68061	0.13673	NOTE	A4	434.099
+8	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.68571	0.81735	0.13163	NOTE	F#4	366.54
+9	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.81735	0.92857	0.11122	NOTE	G4	388.845
+10	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	0.93265	1.1551	0.22245	BREATH	BREATH	0
+11	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	1.1571	1.2704	0.11327	NOTE	E4	330.984
+12	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	1.2724	1.3102	0.037755	ct	A4	438.787
+13	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	1.3102	1.4684	0.15816	NOTE	F#4	362.624
+14	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	1.4724	1.602	0.12959	NOTE	E4	328.329
+15	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	1.6082	1.7592	0.15102	NOTE	D4	290.959
+16	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	1.7714	1.9306	0.15918	NOTE	F#4	364.577
+17	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	1.9316	2.0612	0.12959	NOTE	G4	384.691
+18	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	2.0633	2.2276	0.16429	NOTE	A4	434.099
+19	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	2.2276	2.4061	0.17857	NOTE	E4	330.097
+20	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	2.4143	2.5316	0.11735	NOTE	F#4	363.599
+21	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	2.5316	2.6745	0.14286	NOTE	G4	385.726
+22	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	2.6755	2.7102	0.034694	ct	A4	431.774
+23	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	2.7102	2.8337	0.12347	NOTE	F#4	362.624
+24	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	2.8418	2.9786	0.13673	NOTE	E4	329.212
+25	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	2.9816	3.1347	0.15306	NOTE	D4	290.959
+26	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	3.1357	3.3163	0.18061	NOTE	F#4	362.624
+27	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	3.3163	3.4224	0.10612	NOTE	A4	432.935
+28	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	3.4224	3.5663	0.14388	NOTE	F#4	362.624
+29	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	3.5694	3.6602	0.090816	NOTE	G4	386.763
+30	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	3.6663	3.8908	0.22449	BREATH	BREATH	0
+31	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	3.8908	4	0.10918	NOTE	B4	492.491
+32	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.002	4.0398	0.037755	ct	C5	516.879
+33	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.0459	4.1929	0.14694	NOTE	A4	432.935
+34	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.1929	4.3398	0.14694	NOTE	F#4	361.652
+35	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.3469	4.4867	0.1398	NOTE	D4	288.625
+36	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.4918	4.648	0.15612	NOTE	D4	290.959
+37	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.652	4.6888	0.036735	ct	G#4	427.162
+38	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.6888	4.7888	0.1	NOTE	E4	326.57
+39	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.7918	4.9347	0.14286	NOTE	D4	289.401
+40	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	4.9408	5.0429	0.10204	NOTE	D4	287.851
+41	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	5.0439	5.251	0.20714	BREATH	BREATH	0
+42	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	5.2531	5.4255	0.17245	NOTE	E4	327.448
+43	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	5.4276	5.5439	0.11633	lngRoll_nt	F#4	364.577
+44	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	5.548	5.5786	0.030612	lngRoll_ct	A4	434.099
+45	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	5.5908	5.6908	0.1	lngRoll_nt	F#4	361.652
+46	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	5.7	5.7276	0.027551	lngRoll_str	F4	350.184
+47	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	5.7306	5.8612	0.13061	lngRoll_nt	F#4	366.54
+48	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	5.8704	6.0265	0.15612	NOTE	G4	385.726
+49	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.0276	6.1398	0.11224	NOTE	A4	435.267
+50	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.1398	6.2898	0.15	NOTE	F#4	367.526
+51	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.3071	6.3622	0.055102	shRoll_ct	A4	430.616
+52	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.3622	6.4429	0.080612	shRoll_nt	G4	383.66
+53	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.451	6.4755	0.02449	shRoll_str	F#4	371.494
+54	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.4949	6.6051	0.1102	shRoll_nt	G4	385.726
+55	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.6071	6.7408	0.13367	NOTE	E4	330.097
+56	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.7408	6.801	0.060204	ct	A4	431.774
+57	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.8061	6.9449	0.13878	NOTE	F#4	363.599
+58	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	6.951	7.0806	0.12959	NOTE	E4	329.212
+59	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	7.0827	7.2337	0.15102	NOTE	D4	287.851
+60	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	7.2367	7.3888	0.15204	NOTE	F#4	365.557
+61	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	7.3898	7.5378	0.14796	NOTE	G4	386.763
+62	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	7.5449	7.6908	0.14592	NOTE	A4	434.099
+63	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	7.7	7.8673	0.16735	NOTE	E4	329.212
+64	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	7.8673	7.9694	0.10204	NOTE	F#4	365.557
+65	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	7.9724	8.1153	0.14286	NOTE	G4	383.66
+66	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	8.1153	8.1531	0.037755	ct	A4	430.616
+67	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	8.1531	8.291	0.13787	NOTE	F#4	362.624
+68	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	8.291	8.4274	0.13642	NOTE	E4	328.329
+69	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	8.4288	8.5856	0.15673	NOTE	D4	287.851
+70	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	8.5856	8.7525	0.16689	NOTE	F#4	360.682
+71	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	8.7612	8.9049	0.14367	NOTE	A4	437.61
+72	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	8.9049	9.034	0.12916	NOTE	F#4	365.557
+73	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	9.034	9.1559	0.1219	NOTE	G4	390.939
+74	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	9.1603	9.3533	0.19302	BREATH	BREATH	0
+75	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	9.3533	9.4549	0.10159	NOTE	B4	495.143
+76	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	9.4708	9.5028	0.031927	ct	C5	512.732
+77	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	9.5028	9.6522	0.14948	NOTE	A4	432.935
+78	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	9.6522	9.7814	0.12916	NOTE	F#4	364.577
+79	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	9.7959	9.9468	0.15093	NOTE	D4	290.179
+80	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	9.9527	10.076	0.12336	NOTE	D4	287.851
+81	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	10.0934	10.1297	0.036281	ct	A4	429.462
+82	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	10.1442	10.2473	0.10304	NOTE	E4	328.329
+83	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	10.2473	10.404	0.15673	NOTE	D4	289.401
+84	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	10.4112	10.5607	0.14948	NOTE	D4	287.851
+85	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	10.5651	10.6739	0.10884	NOTE	F#4	362.624
+86	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	10.6841	10.8336	0.14948	NOTE	A4	438.787
+87	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	10.8452	11.0251	0.17995	NOTE	D5	583.265
+88	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	11.0295	11.3183	0.2888	BREATH	BREATH	0
+89	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	11.3284	11.3705	0.042086	NOTE	C#5	555.745
+90	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	11.3734	11.4881	0.11465	NOTE	B4	492.491
+91	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	11.491	11.6274	0.13642	NOTE	A4	441.15
+92	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	11.6361	11.7812	0.14512	NOTE	G4	388.845
+93	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	11.7812	11.9467	0.16544	NOTE	F#4	364.577
+94	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	11.9467	12.0845	0.13787	NOTE	G4	386.763
+95	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	12.0845	12.2558	0.17125	NOTE	A4	436.437
+96	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	12.2558	12.3037	0.047891	ct	C5	535.241
+97	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	12.3109	12.4357	0.12481	NOTE	B4	485.923
+98	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	12.4386	12.5533	0.11465	NOTE	G4	384.691
+99	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	12.5649	12.6999	0.13497	NOTE	E4	326.57
+100	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	12.7057	12.8508	0.14512	NOTE	E4	326.57
+101	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	12.8508	12.9016	0.050794	ct	A4	431.774
+102	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	12.9103	13.0278	0.11755	NOTE	F#4	363.599
+103	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.0438	13.1715	0.12771	NOTE	E4	325.695
+104	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.1773	13.3021	0.12481	NOTE	E4	327.448
+105	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.3065	13.3486	0.042086	NOTE	F#4	364.577
+106	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.3486	13.3965	0.047891	NOTE	A4	428.31
+107	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.4023	13.4574	0.055147	NOTE	F#4	363.599
+108	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.4618	13.5938	0.13206	NOTE	E4	327.448
+109	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.5996	13.8014	0.20172	NOTE	D5	584.833
+110	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.8086	13.8522	0.043537	ct	G5	767.033
+111	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.8536	13.9305	0.076916	NOTE	E5	656.412
+112	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	13.9305	14.0844	0.15383	NOTE	D5	581.701
+113	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	14.0916	14.2396	0.14803	NOTE	B4	489.853
+114	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	14.2396	14.3702	0.13061	NOTE	A4	434.099
+115	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	14.3804	14.54	0.15964	NOTE	G4	386.763
+116	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	14.54	14.6881	0.14803	NOTE	F#4	362.624
+117	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	14.6982	14.8172	0.119	NOTE	G4	387.803
+118	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	14.8172	14.9711	0.15383	NOTE	A4	436.437
+119	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	14.9769	15.1336	0.15673	NOTE	D5	580.141
+120	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	15.1365	15.2584	0.1219	NOTE	A4	437.61
+121	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	15.2715	15.4239	0.15238	NOTE	F#4	363.599
+122	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	15.4239	15.6096	0.18576	ct	D4	288.625
+123	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	15.6096	15.6488	0.039184	NOTE	F#4	380.582
+124	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	15.6532	15.7547	0.10159	NOTE	E4	327.448
+125	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	15.7663	15.897	0.13061	NOTE	D4	289.401
+126	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	15.9013	16.058	0.15673	NOTE	D4	290.179
+127	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	16.058	16.1727	0.11465	NOTE	F#4	362.624
+128	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	16.1727	16.3193	0.14658	NOTE	A4	436.437
+129	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	16.3251	16.492	0.16689	NOTE	D5	581.701
+130	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	16.4949	16.7924	0.29751	BREATH	BREATH	0
+131	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	16.804	16.9694	0.16544	NOTE	B4	492.491
+132	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	16.9723	17.1218	0.14948	NOTE	A4	438.787
+133	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	17.132	17.2655	0.13351	NOTE	G4	386.763
+134	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	17.2684	17.4295	0.16109	NOTE	F#4	365.557
+135	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	17.4295	17.5528	0.12336	NOTE	G4	387.803
+136	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	17.563	17.6936	0.13061	NOTE	A4	437.61
+137	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	17.6936	17.7459	0.052245	ct	C5	535.241
+138	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	17.756	17.8837	0.12771	NOTE	B4	488.54
+139	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	17.8866	18.0274	0.14077	NOTE	G4	386.763
+140	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	18.0332	18.174	0.14077	NOTE	E4	327.448
+141	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	18.1827	18.3234	0.14077	NOTE	E4	330.097
+142	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	18.3293	18.3713	0.042086	ct	A4	429.462
+143	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	18.3742	18.4787	0.10449	NOTE	F#4	364.577
+144	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	18.4787	18.6239	0.14512	NOTE	E4	330.097
+145	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	18.6239	18.7283	0.10449	NOTE	E5	668.867
+146	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	18.7298	18.9402	0.21043	BREATH	BREATH	0
+147	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	18.9533	19.1042	0.15093	NOTE	A4	439.967
+148	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	19.1071	19.2871	0.17995	NOTE	A4	439.967
+149	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	19.2871	19.3988	0.11175	NOTE	B4	492.491
+150	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	19.3988	19.5338	0.13497	NOTE	C#5	542.475
+151	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	19.5367	19.7021	0.16544	NOTE	D5	581.701
+152	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	19.7123	19.8429	0.13061	NOTE	C#5	546.863
+153	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	19.8487	19.9996	0.15093	NOTE	B4	491.17
+154	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.004	20.2014	0.19737	NOTE	A4	437.61
+155	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.2014	20.3349	0.13351	NOTE	B4	491.17
+156	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.3349	20.4669	0.13206	NOTE	C#5	542.475
+157	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.4785	20.6179	0.13932	NOTE	D5	578.586
+158	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.6179	20.6614	0.043537	ct	F5	719.161
+159	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.6672	20.7035	0.036281	NOTE	G#5	826.925
+160	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.7064	20.7615	0.055147	NOTE	F#5	721.094
+161	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.7615	20.9096	0.14803	NOTE	D5	581.701
+162	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.9139	20.9589	0.044989	ct	G5	767.033
+163	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	20.9589	21.0924	0.13351	NOTE	E5	656.412
+164	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	21.0924	21.21	0.11755	NOTE	D5	581.701
+165	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	21.2114	21.3493	0.13787	NOTE	C#5	546.863
+166	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	21.3551	21.5089	0.15383	NOTE	D5	580.141
+167	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	21.522	21.6468	0.12481	NOTE	B4	491.17
+168	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	21.6468	21.8268	0.17995	NOTE	A4	432.935
+169	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	21.834	21.9864	0.15238	NOTE	F#4	363.599
+170	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	21.9864	22.0299	0.043537	ct	A4	431.774
+171	Tub_EaglesWhistle_Tk11Tu1R2_TheHumoursOfDerrykissanne.txt	22.0299	22.1185	0.088526	NOTE	F#4	366.54

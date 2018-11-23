@@ -1,148 +1,148 @@
-1	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	0.72562	3.1855	2.4599	NOTE	C4	267.571	1
-2	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	3.1927	3.5011	0.30839	NOTE	G4	397.917	1
-3	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	3.5193	3.8023	0.28299	NOTE	C#4	269.46	1
-4	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	3.8059	4.078	0.27211	NOTE	Bb3	239.235	1
-5	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	4.0889	4.332	0.24308	NOTE	C#4	275.127	1
-6	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	4.3501	4.5714	0.22132	NOTE	G#4	405.473	1
-7	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	4.6113	4.8327	0.22132	ct	C#4	271.349	2
-8	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	4.8327	4.8834	0.050794	ct	Eb4	305.352	2
-9	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	4.898	5.0685	0.17052	NOTE	C#4	273.238	1
-10	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	5.0866	5.3152	0.22857	NOTE	Bb3	239.235	1
-11	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	5.3333	5.5365	0.20317	NOTE	G#4	407.362	1
-12	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	5.5619	5.7615	0.19955	NOTE	F4	358.246	1
-13	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	5.7615	5.8231	0.061678	ct	G4	394.139	2
-14	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	5.8449	6.0009	0.15601	NOTE	F4	358.246	1
-15	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	6.019	6.2295	0.21043	NOTE	Eb4	305.352	1
-16	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	6.2404	6.4544	0.21406	NOTE	Bb3	237.346	1
-17	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	6.4689	6.6649	0.19592	NOTE	D4	297.796	1
-18	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	6.6939	6.9007	0.2068	NOTE	Bb3	237.346	1
-19	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	6.9261	7.1147	0.18866	NOTE	C#4	269.46	1
-20	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	7.1256	7.3107	0.18503	NOTE	G4	401.695	1
-21	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	7.3397	7.5465	0.2068	NOTE	C#4	271.349	1
-22	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	7.561	7.746	0.18503	NOTE	Bb3	237.346	1
-23	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	7.7642	7.9347	0.17052	NOTE	C#4	273.238	1
-24	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	7.9601	8.1669	0.2068	NOTE	G#4	407.362	1
-25	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	8.1778	8.4027	0.22494	BREATH	BREATH	0	4
-26	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	8.4172	8.6095	0.19229	lngRoll_nt	G#4	405.473	
-27	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	8.6204	8.6567	0.036281	lngRoll_ct	A4	441.365	
-28	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	8.6712	8.7619	0.090703	lngRoll_nt	G#4	405.473	
-29	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	8.7692	8.8018	0.032653	lngRoll_str	G4	392.25	
-30	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	8.8127	9.0086	0.19592	lngRoll_nt	G#4	409.251	
-31	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	9.0268	9.1864	0.15964	NOTE	A4	452.7	1
-32	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	9.1973	9.3823	0.18503	NOTE	B4	481.036	1
-33	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	9.4041	9.5891	0.18503	NOTE	F#4	360.135	1
-34	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	9.6073	9.6508	0.043537	NOTE	Eb4	318.576	1
-35	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	9.6617	9.785	0.12336	NOTE	Eb4	303.463	1
-36	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	9.785	10.01	0.22494	NOTE	B3	241.124	1
-37	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	10.0136	10.0753	0.061678	shRoll_ct	E4	339.356	5
-38	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	10.0898	10.1478	0.05805	shRoll_nt	C#4	271.349	1
-39	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	10.1515	10.195	0.043537	shRoll_str	C4	261.904	3
-40	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	10.2204	10.3909	0.17052	shRoll_nt	C#4	273.238	1
-41	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	10.4163	10.5868	0.17052	NOTE	G4	399.806	1
-42	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	10.6122	10.8009	0.18866	NOTE	C#4	273.238	1
-43	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	10.8227	11.0077	0.18503	NOTE	Bb3	239.235	1
-44	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	11.0222	11.2036	0.18141	NOTE	C#4	275.127	1
-45	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	11.229	11.4213	0.19229	NOTE	G4	403.584	1
-46	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	11.4685	11.6172	0.14875	NOTE	C#4	273.238	1
-47	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	11.6209	11.6789	0.05805	ct	Eb4	305.352	2
-48	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	11.6971	11.8349	0.13787	NOTE	C#4	271.349	1
-49	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	11.8458	12.0417	0.19592	NOTE	Bb3	237.346	1
-50	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	12.0417	12.2485	0.2068	NOTE	G#4	405.473	1
-51	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	12.2703	12.4372	0.16689	NOTE	F4	358.246	1
-52	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	12.4372	12.4916	0.054422	ct	G4	382.804	2
-53	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	12.5025	12.6331	0.13061	NOTE	F4	358.246	1
-54	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	12.6621	12.8472	0.18503	NOTE	D4	299.685	1
-55	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	12.8617	13.0503	0.18866	NOTE	B3	241.124	1
-56	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	13.054	13.2317	0.17778	NOTE	D4	297.796	1
-57	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	13.2644	13.4385	0.17415	NOTE	Bb3	237.346	1
-58	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	13.4422	13.6345	0.19229	NOTE	C#4	271.349	1
-59	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	13.649	13.8413	0.19229	NOTE	G#4	405.264	1
-60	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	13.8703	14.0372	0.16689	NOTE	C#4	271.349	1
-61	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	14.0517	14.2331	0.18141	NOTE	Bb3	239.235	1
-62	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	14.2585	14.4363	0.17778	NOTE	C#4	271.349	1
-63	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	14.458	14.5995	0.1415	NOTE	G4	403.584	1
-64	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	14.6177	14.8535	0.23583	BREATH	BREATH	0	4
-65	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	14.8789	15.0603	0.18141	lngRoll_nt	G#4	405.473	
-66	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	15.0603	15.1111	0.050794	lngRoll_ct	A4	452.7	
-67	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	15.122	15.2127	0.090703	lngRoll_nt	G#4	405.473	
-68	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	15.22	15.2562	0.036281	lngRoll_str	G4	394.139	
-69	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	15.2707	15.4703	0.19955	lngRoll_nt	G#4	405.473	
-70	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	15.4884	15.6336	0.14512	NOTE	A4	452.7	1
-71	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	15.6481	15.8077	0.15964	NOTE	Bb4	479.147	1
-72	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	15.8512	16.029	0.17778	NOTE	F#4	362.024	1
-73	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	16.0435	16.2104	0.16689	NOTE	Eb4	302.424	1
-74	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	16.2431	16.41	0.16689	NOTE	F4	358.335	1
-75	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	16.4898	16.8091	0.31927	NOTE	B4	481.787	1
-76	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	16.8236	16.8599	0.036281	ct	F5	685.455	2
-77	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	16.8671	16.9868	0.11973	NOTE	D5	598.07	1
-78	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	17.0195	17.1828	0.16327	NOTE	B4	480.187	1
-79	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	17.19	17.2626	0.072562	NOTE	G#4	407.969	1
-80	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	17.2626	17.3569	0.094331	NOTE	A4	452.281	1
-81	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	17.3714	17.5492	0.17778	NOTE	Bb4	478.593	1
-82	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	17.5673	17.7669	0.19955	NOTE	C#5	546.699	1
-83	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	17.7705	17.9229	0.15238	NOTE	Bb4	453.788	1
-84	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	17.9302	18.1007	0.17052	NOTE	B4	483.393	1
-85	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	18.1152	18.3655	0.25034	BREATH	BREATH	0	4
-86	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	18.3655	18.5143	0.14875	NOTE	D5	598.07	1
-87	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	18.5361	18.7138	0.17778	NOTE	B4	483.393	1
-88	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	18.7356	18.9098	0.17415	NOTE	D5	600.062	1
-89	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	18.9206	19.102	0.18141	NOTE	F5	715.745	1
-90	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	19.102	19.1528	0.050794	ct	G5	798.783	2
-91	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	19.1565	19.2907	0.13424	NOTE	F5	715.745	1
-92	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	19.3125	19.4721	0.15964	NOTE	D5	604.068	1
-93	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	19.4794	19.668	0.18866	NOTE	B4	480.187	1
-94	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	19.6753	19.8567	0.18141	NOTE	C#5	544.884	1
-95	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	19.8639	19.9184	0.054422	ct	D5	592.132	2
-96	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	19.9256	20.0526	0.12698	NOTE	C5	537.683	1
-97	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	20.0744	20.2376	0.16327	NOTE	B4	481.787	1
-98	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	20.2449	20.4444	0.19955	NOTE	A4	452.281	1
-99	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	20.459	20.6041	0.14512	NOTE	Bb4	478.593	1
-100	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	20.6222	20.7964	0.17415	NOTE	C#5	541.271	1
-101	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	20.8036	20.9488	0.14512	NOTE	A4	452.281	1
-102	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	20.9741	21.0431	0.068934	str	F#4	363.134	3
-103	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	21.0503	21.2063	0.15601	lngRoll_nt	G4	398.58	
-104	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	21.2172	21.2608	0.043537	lngRoll_ct	A4	444.821	
-105	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	21.2753	21.3515	0.07619	lngRoll_nt	G4	401.24	
-106	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	21.3587	21.4023	0.043537	lngRoll_str	G4	385.54	
-107	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	21.4204	21.5655	0.14512	lngRoll_nt	G4	401.24	
-108	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	21.5946	21.7615	0.16689	NOTE	A4	452.281	1
-109	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	21.7651	21.9283	0.16327	NOTE	Bb4	478.593	1
-110	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	21.9646	22.1424	0.17778	NOTE	F4	355.959	1
-111	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	22.1569	22.3347	0.17778	NOTE	Eb4	302.424	1
-112	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	22.342	22.4834	0.1415	NOTE	F4	358.335	1
-113	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	22.5161	22.6794	0.16327	NOTE	B4	480.187	1
-114	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	22.6902	22.937	0.24671	BREATH	BREATH	0	4
-115	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	22.937	23.0821	0.14512	NOTE	D5	600.062	1
-116	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	23.1075	23.2707	0.16327	NOTE	B4	481.787	1
-117	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	23.278	23.4776	0.19955	NOTE	Bb4	453.788	1
-118	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	23.4776	23.6372	0.15964	NOTE	Bb4	478.593	1
-119	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	23.6698	23.8476	0.17778	NOTE	C#5	546.699	1
-120	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	23.8585	24.0363	0.17778	NOTE	Bb4	453.788	1
-121	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	24.0508	24.4463	0.39546	NOTE	Bb4	478.593	1
-122	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	24.468	24.4971	0.029025	ct	Eb5	624.498	2
-123	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	24.5079	24.6132	0.10522	NOTE	D5	596.084	1
-124	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	24.624	24.8091	0.18503	NOTE	B4	481.787	1
-125	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	24.8308	24.9796	0.14875	NOTE	D5	598.07	1
-126	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	24.9868	25.1719	0.18503	NOTE	F5	718.13	1
-127	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	25.1791	25.2408	0.061678	shRoll_ct	G#5	812.179	5
-128	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	25.2517	25.3206	0.068934	shRoll_nt	F5	713.368	1
-129	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	25.3279	25.3605	0.032653	shRoll_str	F5	692.329	3
-130	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	25.3714	25.5274	0.15601	shRoll_nt	F5	718.13	1
-131	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	25.5383	25.6653	0.12698	NOTE	G5	806.794	1
-132	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	25.6907	25.8939	0.20317	BREATH	BREATH	0	4
-133	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	25.9084	26.1224	0.21406	NOTE	F5	715.745	1
-134	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	26.1406	26.2676	0.12698	NOTE	Eb5	616.244	1
-135	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	26.2676	26.5433	0.27574	NOTE	Eb5	630.761	1
-136	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	26.5506	26.7138	0.16327	NOTE	D5	600.062	1
-137	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	26.7283	26.9134	0.18503	NOTE	C5	534.117	1
-138	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	26.9315	27.1202	0.18866	NOTE	Bb4	475.42	1
-139	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	27.1456	27.3016	0.15601	lngRoll_nt	G4	401.24	
-140	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	27.3052	27.3488	0.043537	lngRoll_ct	A4	440.405	
-141	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	27.3596	27.4649	0.10522	lngRoll_nt	G4	402.577	
-142	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	27.4721	27.512	0.039909	lngRoll_str	G4	385.54	
-143	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	27.541	27.6934	0.15238	lngRoll_nt	G4	402.577	
-144	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	27.7079	27.8785	0.17052	NOTE	A4	450.779	1
-145	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	27.8857	28.02	0.13424	NOTE	Bb4	478.593	1
-146	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	28.0526	28.2231	0.17052	NOTE	F4	355.959	1
-147	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	28.2449	28.4154	0.17052	NOTE	Eb4	303.432	1
-148	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	28.459	28.5968	0.13787	NOTE	Bb3	238.81	1
+1	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	0.72562	3.1855	2.4599	NOTE	C4	267.571
+2	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	3.1927	3.5011	0.30839	NOTE	G4	397.917
+3	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	3.5193	3.8023	0.28299	NOTE	C#4	269.46
+4	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	3.8059	4.078	0.27211	NOTE	Bb3	239.235
+5	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	4.0889	4.332	0.24308	NOTE	C#4	275.127
+6	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	4.3501	4.5714	0.22132	NOTE	G#4	405.473
+7	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	4.6113	4.8327	0.22132	ct	C#4	271.349
+8	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	4.8327	4.8834	0.050794	ct	Eb4	305.352
+9	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	4.898	5.0685	0.17052	NOTE	C#4	273.238
+10	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	5.0866	5.3152	0.22857	NOTE	Bb3	239.235
+11	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	5.3333	5.5365	0.20317	NOTE	G#4	407.362
+12	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	5.5619	5.7615	0.19955	NOTE	F4	358.246
+13	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	5.7615	5.8231	0.061678	ct	G4	394.139
+14	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	5.8449	6.0009	0.15601	NOTE	F4	358.246
+15	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	6.019	6.2295	0.21043	NOTE	Eb4	305.352
+16	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	6.2404	6.4544	0.21406	NOTE	Bb3	237.346
+17	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	6.4689	6.6649	0.19592	NOTE	D4	297.796
+18	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	6.6939	6.9007	0.2068	NOTE	Bb3	237.346
+19	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	6.9261	7.1147	0.18866	NOTE	C#4	269.46
+20	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	7.1256	7.3107	0.18503	NOTE	G4	401.695
+21	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	7.3397	7.5465	0.2068	NOTE	C#4	271.349
+22	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	7.561	7.746	0.18503	NOTE	Bb3	237.346
+23	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	7.7642	7.9347	0.17052	NOTE	C#4	273.238
+24	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	7.9601	8.1669	0.2068	NOTE	G#4	407.362
+25	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	8.1778	8.4027	0.22494	BREATH	BREATH	0
+26	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	8.4172	8.6095	0.19229	lngRoll_nt	G#4	405.473
+27	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	8.6204	8.6567	0.036281	lngRoll_ct	A4	441.365
+28	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	8.6712	8.7619	0.090703	lngRoll_nt	G#4	405.473
+29	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	8.7692	8.8018	0.032653	lngRoll_str	G4	392.25
+30	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	8.8127	9.0086	0.19592	lngRoll_nt	G#4	409.251
+31	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	9.0268	9.1864	0.15964	NOTE	A4	452.7
+32	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	9.1973	9.3823	0.18503	NOTE	B4	481.036
+33	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	9.4041	9.5891	0.18503	NOTE	F#4	360.135
+34	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	9.6073	9.6508	0.043537	NOTE	Eb4	318.576
+35	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	9.6617	9.785	0.12336	NOTE	Eb4	303.463
+36	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	9.785	10.01	0.22494	NOTE	B3	241.124
+37	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	10.0136	10.0753	0.061678	shRoll_ct	E4	339.356
+38	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	10.0898	10.1478	0.05805	shRoll_nt	C#4	271.349
+39	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	10.1515	10.195	0.043537	shRoll_str	C4	261.904
+40	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	10.2204	10.3909	0.17052	shRoll_nt	C#4	273.238
+41	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	10.4163	10.5868	0.17052	NOTE	G4	399.806
+42	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	10.6122	10.8009	0.18866	NOTE	C#4	273.238
+43	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	10.8227	11.0077	0.18503	NOTE	Bb3	239.235
+44	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	11.0222	11.2036	0.18141	NOTE	C#4	275.127
+45	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	11.229	11.4213	0.19229	NOTE	G4	403.584
+46	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	11.4685	11.6172	0.14875	NOTE	C#4	273.238
+47	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	11.6209	11.6789	0.05805	ct	Eb4	305.352
+48	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	11.6971	11.8349	0.13787	NOTE	C#4	271.349
+49	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	11.8458	12.0417	0.19592	NOTE	Bb3	237.346
+50	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	12.0417	12.2485	0.2068	NOTE	G#4	405.473
+51	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	12.2703	12.4372	0.16689	NOTE	F4	358.246
+52	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	12.4372	12.4916	0.054422	ct	G4	382.804
+53	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	12.5025	12.6331	0.13061	NOTE	F4	358.246
+54	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	12.6621	12.8472	0.18503	NOTE	D4	299.685
+55	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	12.8617	13.0503	0.18866	NOTE	B3	241.124
+56	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	13.054	13.2317	0.17778	NOTE	D4	297.796
+57	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	13.2644	13.4385	0.17415	NOTE	Bb3	237.346
+58	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	13.4422	13.6345	0.19229	NOTE	C#4	271.349
+59	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	13.649	13.8413	0.19229	NOTE	G#4	405.264
+60	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	13.8703	14.0372	0.16689	NOTE	C#4	271.349
+61	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	14.0517	14.2331	0.18141	NOTE	Bb3	239.235
+62	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	14.2585	14.4363	0.17778	NOTE	C#4	271.349
+63	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	14.458	14.5995	0.1415	NOTE	G4	403.584
+64	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	14.6177	14.8535	0.23583	BREATH	BREATH	0
+65	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	14.8789	15.0603	0.18141	lngRoll_nt	G#4	405.473
+66	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	15.0603	15.1111	0.050794	lngRoll_ct	A4	452.7
+67	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	15.122	15.2127	0.090703	lngRoll_nt	G#4	405.473
+68	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	15.22	15.2562	0.036281	lngRoll_str	G4	394.139
+69	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	15.2707	15.4703	0.19955	lngRoll_nt	G#4	405.473
+70	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	15.4884	15.6336	0.14512	NOTE	A4	452.7
+71	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	15.6481	15.8077	0.15964	NOTE	Bb4	479.147
+72	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	15.8512	16.029	0.17778	NOTE	F#4	362.024
+73	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	16.0435	16.2104	0.16689	NOTE	Eb4	302.424
+74	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	16.2431	16.41	0.16689	NOTE	F4	358.335
+75	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	16.4898	16.8091	0.31927	NOTE	B4	481.787
+76	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	16.8236	16.8599	0.036281	ct	F5	685.455
+77	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	16.8671	16.9868	0.11973	NOTE	D5	598.07
+78	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	17.0195	17.1828	0.16327	NOTE	B4	480.187
+79	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	17.19	17.2626	0.072562	NOTE	G#4	407.969
+80	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	17.2626	17.3569	0.094331	NOTE	A4	452.281
+81	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	17.3714	17.5492	0.17778	NOTE	Bb4	478.593
+82	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	17.5673	17.7669	0.19955	NOTE	C#5	546.699
+83	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	17.7705	17.9229	0.15238	NOTE	Bb4	453.788
+84	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	17.9302	18.1007	0.17052	NOTE	B4	483.393
+85	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	18.1152	18.3655	0.25034	BREATH	BREATH	0
+86	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	18.3655	18.5143	0.14875	NOTE	D5	598.07
+87	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	18.5361	18.7138	0.17778	NOTE	B4	483.393
+88	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	18.7356	18.9098	0.17415	NOTE	D5	600.062
+89	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	18.9206	19.102	0.18141	NOTE	F5	715.745
+90	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	19.102	19.1528	0.050794	ct	G5	798.783
+91	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	19.1565	19.2907	0.13424	NOTE	F5	715.745
+92	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	19.3125	19.4721	0.15964	NOTE	D5	604.068
+93	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	19.4794	19.668	0.18866	NOTE	B4	480.187
+94	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	19.6753	19.8567	0.18141	NOTE	C#5	544.884
+95	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	19.8639	19.9184	0.054422	ct	D5	592.132
+96	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	19.9256	20.0526	0.12698	NOTE	C5	537.683
+97	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	20.0744	20.2376	0.16327	NOTE	B4	481.787
+98	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	20.2449	20.4444	0.19955	NOTE	A4	452.281
+99	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	20.459	20.6041	0.14512	NOTE	Bb4	478.593
+100	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	20.6222	20.7964	0.17415	NOTE	C#5	541.271
+101	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	20.8036	20.9488	0.14512	NOTE	A4	452.281
+102	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	20.9741	21.0431	0.068934	str	F#4	363.134
+103	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	21.0503	21.2063	0.15601	lngRoll_nt	G4	398.58
+104	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	21.2172	21.2608	0.043537	lngRoll_ct	A4	444.821
+105	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	21.2753	21.3515	0.07619	lngRoll_nt	G4	401.24
+106	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	21.3587	21.4023	0.043537	lngRoll_str	G4	385.54
+107	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	21.4204	21.5655	0.14512	lngRoll_nt	G4	401.24
+108	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	21.5946	21.7615	0.16689	NOTE	A4	452.281
+109	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	21.7651	21.9283	0.16327	NOTE	Bb4	478.593
+110	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	21.9646	22.1424	0.17778	NOTE	F4	355.959
+111	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	22.1569	22.3347	0.17778	NOTE	Eb4	302.424
+112	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	22.342	22.4834	0.1415	NOTE	F4	358.335
+113	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	22.5161	22.6794	0.16327	NOTE	B4	480.187
+114	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	22.6902	22.937	0.24671	BREATH	BREATH	0
+115	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	22.937	23.0821	0.14512	NOTE	D5	600.062
+116	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	23.1075	23.2707	0.16327	NOTE	B4	481.787
+117	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	23.278	23.4776	0.19955	NOTE	Bb4	453.788
+118	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	23.4776	23.6372	0.15964	NOTE	Bb4	478.593
+119	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	23.6698	23.8476	0.17778	NOTE	C#5	546.699
+120	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	23.8585	24.0363	0.17778	NOTE	Bb4	453.788
+121	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	24.0508	24.4463	0.39546	NOTE	Bb4	478.593
+122	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	24.468	24.4971	0.029025	ct	Eb5	624.498
+123	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	24.5079	24.6132	0.10522	NOTE	D5	596.084
+124	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	24.624	24.8091	0.18503	NOTE	B4	481.787
+125	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	24.8308	24.9796	0.14875	NOTE	D5	598.07
+126	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	24.9868	25.1719	0.18503	NOTE	F5	718.13
+127	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	25.1791	25.2408	0.061678	shRoll_ct	G#5	812.179
+128	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	25.2517	25.3206	0.068934	shRoll_nt	F5	713.368
+129	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	25.3279	25.3605	0.032653	shRoll_str	F5	692.329
+130	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	25.3714	25.5274	0.15601	shRoll_nt	F5	718.13
+131	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	25.5383	25.6653	0.12698	NOTE	G5	806.794
+132	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	25.6907	25.8939	0.20317	BREATH	BREATH	0
+133	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	25.9084	26.1224	0.21406	NOTE	F5	715.745
+134	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	26.1406	26.2676	0.12698	NOTE	Eb5	616.244
+135	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	26.2676	26.5433	0.27574	NOTE	Eb5	630.761
+136	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	26.5506	26.7138	0.16327	NOTE	D5	600.062
+137	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	26.7283	26.9134	0.18503	NOTE	C5	534.117
+138	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	26.9315	27.1202	0.18866	NOTE	Bb4	475.42
+139	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	27.1456	27.3016	0.15601	lngRoll_nt	G4	401.24
+140	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	27.3052	27.3488	0.043537	lngRoll_ct	A4	440.405
+141	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	27.3596	27.4649	0.10522	lngRoll_nt	G4	402.577
+142	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	27.4721	27.512	0.039909	lngRoll_str	G4	385.54
+143	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	27.541	27.6934	0.15238	lngRoll_nt	G4	402.577
+144	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	27.7079	27.8785	0.17052	NOTE	A4	450.779
+145	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	27.8857	28.02	0.13424	NOTE	Bb4	478.593
+146	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	28.0526	28.2231	0.17052	NOTE	F4	355.959
+147	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	28.2449	28.4154	0.17052	NOTE	Eb4	303.432
+148	Mol_HeatheryBreeze_Tk5Tu1R1_DrowsyMaggie.txt	28.459	28.5968	0.13787	NOTE	Bb3	238.81

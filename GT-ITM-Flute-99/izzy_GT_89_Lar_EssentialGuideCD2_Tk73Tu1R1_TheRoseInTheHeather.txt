@@ -1,237 +1,237 @@
-1	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	0.18866	0.40054	0.21188	lngRoll_nt	F#4	368.802	
-2	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	0.40345	0.48762	0.084172	lngRoll_ct	G4	389.722	
-3	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	0.49052	0.56599	0.075465	lngRoll_nt	F#4	367.878	
-4	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	0.56599	0.62984	0.063855	lngRoll_str	F4	352.523	
-5	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	0.64435	0.82431	0.17995	lngRoll_nt	F#4	366.037	
-6	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	0.82431	1.0304	0.20608	NOTE	E4	329.441	1
-7	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	1.0333	1.1871	0.15383	NOTE	F#4	365.12	1
-8	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	1.2045	1.2539	0.049342	ct	G4	384.866	2
-9	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	1.2568	1.4512	0.19447	NOTE	E4	328.616	1
-10	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	1.4774	1.666	0.18866	NOTE	D4	297.249	1
-11	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	1.6776	1.8721	0.19447	NOTE	F#4	366.037	1
-12	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	1.8721	2.0608	0.18866	NOTE	A4	439.58	1
-13	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	2.0724	2.1304	0.05805	ct	C#5	539.95	2
-14	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	2.1507	2.3046	0.15383	NOTE	B4	493.335	1
-15	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	2.3162	2.502	0.18576	NOTE	A4	439.58	1
-16	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	2.502	2.7196	0.21769	NOTE	F#4	366.956	1
-17	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	2.7254	2.9257	0.20027	NOTE	A4	439.58	1
-18	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	2.9286	3.1086	0.17995	NOTE	B4	498.309	1
-19	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	3.1173	3.3379	0.22059	NOTE	D5	589.49	1
-20	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	3.3466	3.5381	0.19156	NOTE	E5	663.238	1
-21	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	3.5498	3.7123	0.16254	NOTE	F#5	735.068	1
-22	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	3.7239	3.8864	0.16254	NOTE	G5	786.568	1
-23	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	3.901	3.9677	0.066757	ct	G#5	854.438	2
-24	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	3.9822	4.1593	0.17705	NOTE	F#5	733.227	1
-25	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	4.1593	4.3015	0.14222	NOTE	D5	586.54	1
-26	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	4.3363	4.4873	0.15093	NOTE	B4	493.335	1
-27	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	4.5076	4.5714	0.063855	ct	C5	526.577	2
-28	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	4.583	4.7224	0.13932	NOTE	A4	434.102	1
-29	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	4.7369	4.9226	0.18576	NOTE	F#4	366.956	1
-30	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	4.94	5.1374	0.19737	NOTE	E4	326.153	1
-31	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	5.1693	5.3406	0.17125	lngRoll_nt	F#4	361.476	
-32	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	5.3464	5.4073	0.060952	lngRoll_ct	G#4	427.619	
-33	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	5.4248	5.4915	0.066757	lngRoll_nt	F#4	361.476	
-34	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	5.4944	5.5699	0.075465	lngRoll_str	F4	352.523	
-35	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	5.5728	5.7585	0.18576	lngRoll_nt	F#4	363.293	
-36	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	5.7934	5.9443	0.15093	lngRoll_nt	E4	326.153	
-37	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	5.9472	6.014	0.066757	lngRoll_ct	F#4	379.118	
-38	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	6.0256	6.1185	0.09288	lngRoll_nt	E4	326.972	
-39	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	6.1417	6.2026	0.060952	lngRoll_str	Eb4	315.69	
-40	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	6.2259	6.3507	0.12481	lngRoll_nt	E4	326.972	
-41	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	6.3507	6.5567	0.20608	NOTE	D4	292.809	1
-42	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	6.5741	6.7541	0.17995	NOTE	F#4	365.12	1
-43	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	6.7541	6.9602	0.20608	NOTE	A4	435.192	1
-44	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	6.9602	7.1605	0.20027	NOTE	B4	492.099	1
-45	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	7.1634	7.3462	0.18286	NOTE	A4	436.285	1
-46	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	7.3723	7.5639	0.19156	NOTE	F#4	364.206	1
-47	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	7.5639	7.7439	0.17995	NOTE	A4	431.93	1
-48	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	7.7439	7.9383	0.19447	NOTE	D5	585.071	1
-49	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	7.9528	8.0893	0.13642	NOTE	B4	485.967	1
-50	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	8.098	8.1676	0.06966	ct	C5	520.015	2
-51	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	8.1763	8.3244	0.14803	NOTE	A4	431.93	1
-52	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	8.3389	8.5188	0.17995	NOTE	F#4	363.293	1
-53	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	8.5333	8.6727	0.13932	NOTE	E4	328.616	1
-54	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	8.6814	8.7423	0.060952	ct	F4	350.759	2
-55	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	8.7452	8.899	0.15383	NOTE	E4	328.616	1
-56	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	8.9223	9.0848	0.16254	NOTE	D4	291.344	1
-57	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	9.1051	9.3083	0.20317	NOTE	B4	489.637	1
-58	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	9.3431	9.7088	0.36571	NOTE	D4	294.282	1
-59	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	9.7176	9.912	0.19447	NOTE	E4	330.268	1
-60	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	9.912	10.1065	0.19447	lngRoll_nt	F#4	366.037	
-61	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	10.1123	10.182	0.06966	lngRoll_ct	A4	434.102	
-62	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	10.1936	10.269	0.075465	lngRoll_nt	F#4	366.037	
-63	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	10.269	10.3445	0.075465	lngRoll_str	F4	356.077	
-64	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	10.3706	10.5332	0.16254	lngRoll_nt	F#4	366.037	
-65	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	10.5419	10.716	0.17415	NOTE	E4	327.793	1
-66	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	10.7218	10.8844	0.16254	NOTE	F#4	364.206	1
-67	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	10.896	11.1456	0.24961	NOTE	E4	328.616	1
-68	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	11.1804	11.2791	0.098685	NOTE	D4	292.076	1
-69	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	11.3023	11.5751	0.27283	BREATH	BREATH	0	4
-70	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	11.5751	11.7638	0.18866	NOTE	A4	439.58	1
-71	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	11.7638	11.8219	0.05805	ct	C5	525.258	2
-72	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	11.8335	12.0134	0.17995	NOTE	B4	490.867	1
-73	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	12.025	12.1934	0.16834	NOTE	A4	439.58	1
-74	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	12.1934	12.4227	0.2293	NOTE	F#4	367.878	1
-75	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	12.4227	12.6113	0.18866	NOTE	A4	436.285	1
-76	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	12.6142	12.6868	0.072562	NOTE	B4	490.867	1
-77	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	12.6955	12.7826	0.087075	NOTE	C5	534.56	1
-78	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	12.7942	13.0032	0.20898	NOTE	D5	589.49	1
-79	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	13.0177	13.1831	0.16544	NOTE	E5	661.577	1
-80	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	13.1947	13.3399	0.14512	NOTE	F#5	735.068	1
-81	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	13.3486	13.5779	0.2293	NOTE	G5	786.568	1
-82	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	13.5866	13.7927	0.20608	NOTE	F#5	727.731	1
-83	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	13.8072	13.9407	0.13351	NOTE	D5	585.071	1
-84	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	13.9813	14.1235	0.14222	NOTE	B4	489.637	1
-85	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	14.1351	14.2048	0.06966	ct	C5	522.63	2
-86	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	14.2077	14.3644	0.15673	NOTE	A4	435.192	1
-87	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	14.3732	14.5589	0.18576	NOTE	F#4	362.383	1
-88	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	14.5763	14.7563	0.17995	NOTE	E4	327.793	1
-89	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	14.7592	14.8376	0.078367	shRoll_ct	A4	437.381	5
-90	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	14.8376	14.9188	0.08127	shRoll_nt	F#4	366.956	1
-91	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	14.9217	14.9943	0.072562	shRoll_str	F4	354.295	3
-92	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	15.0059	15.1626	0.15673	shRoll_nt	F#4	365.12	1
-93	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	15.18	15.3774	0.19737	NOTE	D4	292.076	1
-94	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	15.389	15.5603	0.17125	lngRoll_nt	E4	329.441	
-95	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	15.5603	15.6386	0.078367	lngRoll_ct	F4	348.129	
-96	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	15.6502	15.7228	0.072562	lngRoll_nt	E4	328.616	
-97	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	15.7257	15.7809	0.055147	lngRoll_str	Eb4	318.075	
-98	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	15.7896	15.9927	0.20317	lngRoll_nt	E4	331.098	
-99	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	16.0044	16.1437	0.13932	NOTE	D4	291.344	1
-100	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	16.2278	16.3091	0.08127	NOTE	F4	358.766	1
-101	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	16.3701	16.5907	0.22059	NOTE	A4	433.015	1
-102	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	16.5907	16.7358	0.14512	NOTE	B4	497.061	1
-103	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	16.7619	16.9999	0.238	BREATH	BREATH	0	4
-104	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	17.0028	17.2176	0.21478	NOTE	F#4	365.12	1
-105	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	17.235	17.4237	0.18866	NOTE	A4	440.684	1
-106	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	17.4237	17.6123	0.18866	NOTE	D5	579.231	1
-107	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	17.621	17.7952	0.17415	NOTE	B4	492.099	1
-108	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	17.8387	18.0187	0.17995	NOTE	A4	435.192	1
-109	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	18.0448	18.1899	0.14512	NOTE	F#4	365.12	1
-110	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	18.2132	18.3554	0.14222	NOTE	E4	326.972	1
-111	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	18.367	18.4483	0.08127	ct	F#4	366.037	2
-112	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	18.4541	18.6166	0.16254	NOTE	E4	327.793	1
-113	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	18.6456	18.7704	0.12481	NOTE	D4	289.886	1
-114	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	18.7995	19.0055	0.20608	NOTE	B4	484.75	1
-115	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	19.0462	19.1797	0.13351	NOTE	D5	582.144	1
-116	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	19.4467	19.6325	0.18576	NOTE	E5	654.973	1
-117	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	19.6325	19.7021	0.06966	ct	A5	856.584	2
-118	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	19.7108	19.8647	0.15383	NOTE	F#5	731.39	1
-119	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	19.8647	20.0649	0.20027	NOTE	D5	580.686	1
-120	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	20.0824	20.2362	0.15383	NOTE	B4	490.867	1
-121	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	20.242	20.4452	0.20317	NOTE	A4	441.791	1
-122	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	20.4568	20.6077	0.15093	NOTE	B4	494.574	1
-123	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	20.6193	20.8254	0.20608	NOTE	D5	590.97	1
-124	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	20.8399	21.0141	0.17415	lngRoll_nt	F#5	735.068	
-125	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	21.0286	21.1156	0.087075	lngRoll_ct	A5	856.584	
-126	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	21.1156	21.1824	0.066757	lngRoll_nt	F#5	731.39	
-127	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	21.194	21.2782	0.084172	lngRoll_str	F5	713.275	
-128	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	21.2811	21.4088	0.12771	lngRoll_nt	F#5	735.068	
-129	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	21.4204	21.5878	0.16735	NOTE	A5	887.195	1
-130	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	21.6122	21.8082	0.19592	BREATH	BREATH	0	4
-131	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	21.8082	22.0245	0.21633	NOTE	F#5	736.914	1
-132	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	22.0367	22.2204	0.18367	lngRoll_nt	G5	780.673	
-133	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	22.2327	22.3184	0.085714	lngRoll_ct	A5	876.139	
-134	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	22.3306	22.4	0.069388	lngRoll_nt	G5	784.598	
-135	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	22.4	22.4686	0.068571	lngRoll_str	G5	763.248	
-136	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	22.4965	22.6108	0.11429	lngRoll_nt	G5	784.598	
-137	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	22.6108	22.7022	0.091429	NOTE	A5	860.892	1
-138	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	22.7073	22.8317	0.12444	NOTE	F#5	731.39	1
-139	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	22.8317	23.0146	0.18286	NOTE	E5	654.973	1
-140	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	23.0273	23.2051	0.17778	NOTE	D5	588.013	1
-141	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	23.2305	23.4083	0.17778	NOTE	B4	490.867	1
-142	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	23.4159	23.5556	0.13968	NOTE	E5	651.696	1
-143	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	23.5606	23.6292	0.068571	ct	F#5	759.429	2
-144	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	23.6317	23.779	0.1473	NOTE	E5	654.973	1
-145	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	23.7867	23.8578	0.071111	str	Eb5	627.635	3
-146	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	23.8629	24.0025	0.13968	NOTE	E5	659.92	1
-147	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	24.0076	24.1498	0.14222	NOTE	F#5	724.089	1
-148	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	24.1498	24.3886	0.23873	NOTE	G5	780.673	1
-149	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	24.3937	24.5943	0.20063	NOTE	F#5	725.908	1
-150	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	24.6095	24.7086	0.099048	NOTE	D5	580.686	1
-151	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	24.7644	24.9016	0.13714	NOTE	B4	484.75	1
-152	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	24.9321	24.9905	0.058413	ct	C5	518.712	2
-153	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	25.0006	25.1886	0.18794	NOTE	A4	437.381	1
-154	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	25.1987	25.341	0.14222	NOTE	B4	487.187	1
-155	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	25.3562	25.5822	0.22603	NOTE	D5	583.606	1
-156	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	25.5873	25.76	0.1727	lngRoll_nt	F#5	725.908	
-157	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	25.76	25.8463	0.086349	lngRoll_ct	G#5	818.774	
-158	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	25.8667	25.92	0.053333	lngRoll_nt	F#5	733.227	
-159	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	25.9276	25.9759	0.048254	lngRoll_str	F5	711.488	
-160	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	25.9911	26.1663	0.17524	lngRoll_nt	F#5	735.068	
-161	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	26.1663	26.3594	0.19302	NOTE	A5	880.544	1
-162	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	26.3721	26.5346	0.16254	NOTE	F#5	727.731	1
-163	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	26.5371	26.7352	0.1981	NOTE	A5	882.755	1
-164	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	26.7403	26.8089	0.068571	NOTE	C6	1062.78	1
-165	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	26.819	26.9714	0.15238	NOTE	B5	990.705	1
-166	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	26.9714	27.1263	0.15492	NOTE	A5	876.139	1
-167	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	27.1543	27.3143	0.16	NOTE	F#5	725.908	1
-168	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	27.3143	27.3905	0.07619	ct	Bb5	935.174	2
-169	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	27.3905	27.5606	0.17016	NOTE	G5	780.673	1
-170	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	27.5683	27.741	0.1727	NOTE	F#5	729.558	1
-171	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	27.7537	27.9086	0.15492	NOTE	E5	656.618	1
-172	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	27.9238	27.9873	0.063492	ct	F#5	761.336	2
-173	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	27.9898	28.1371	0.1473	NOTE	E5	658.267	1
-174	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	28.1498	28.3048	0.15492	NOTE	D5	582.144	1
-175	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	28.3175	28.5079	0.19048	NOTE	C#5	549.513	1
-176	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	28.5079	28.6679	0.16	NOTE	D5	589.49	1
-177	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	28.6832	28.9168	0.23365	BREATH	BREATH	0	4
-178	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	28.9219	29.1302	0.20825	NOTE	E5	656.618	1
-179	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	29.1302	29.1937	0.063492	ct	G#5	839.568	2
-180	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	29.2013	29.3359	0.1346	NOTE	F#5	727.731	1
-181	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	29.3486	29.5111	0.16254	NOTE	D5	583.606	1
-182	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	29.5467	29.7143	0.16762	NOTE	B4	489.637	1
-183	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	29.7346	29.9429	0.20825	NOTE	A4	436.285	1
-184	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	29.953	30.1257	0.1727	NOTE	B4	494.574	1
-185	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	30.141	30.306	0.16508	NOTE	D5	589.49	1
-186	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	30.3213	30.494	0.1727	lngRoll_nt	F#5	727.731	
-187	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	30.5041	30.5956	0.091429	lngRoll_ct	G5	782.633	
-188	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	30.5981	30.6641	0.066032	lngRoll_nt	F#5	731.39	
-189	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	30.6641	30.7505	0.086349	lngRoll_str	E5	669.925	
-190	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	30.7505	30.9105	0.16	lngRoll_nt	F#5	729.558	
-191	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	30.913	31.134	0.22095	NOTE	A5	876.139	1
-192	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	31.1416	31.3244	0.18286	NOTE	F#5	727.731	1
-193	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	31.3244	31.459	0.1346	NOTE	D5	585.071	1
-194	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	31.5175	31.713	0.19556	lngRoll_nt	G5	778.717	
-195	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	31.713	31.7816	0.068571	lngRoll_ct	A5	878.339	
-196	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	31.7968	31.8679	0.071111	lngRoll_nt	G5	786.568	
-197	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	31.8806	31.9467	0.066032	lngRoll_str	G5	765.165	
-198	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	31.9517	32.0863	0.1346	lngRoll_nt	G5	790.524	
-199	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	32.0965	32.16	0.063492	ct	G#5	824.958	2
-200	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	32.1651	32.3098	0.14476	NOTE	F#5	729.558	1
-201	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	32.3124	32.4825	0.17016	NOTE	E5	654.973	1
-202	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	32.4825	32.6883	0.20571	NOTE	D5	582.144	1
-203	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	32.7213	32.8635	0.14222	NOTE	B4	492.099	1
-204	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	32.894	33.0235	0.12952	NOTE	E5	653.333	1
-205	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	33.0235	33.1124	0.088889	ct	F#5	742.479	2
-206	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	33.1225	33.2394	0.11683	NOTE	E5	651.696	1
-207	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	33.2394	33.3257	0.086349	str	Eb5	624.494	3
-208	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	33.3257	33.4908	0.16508	NOTE	E5	654.973	1
-209	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	33.4908	33.6762	0.1854	NOTE	F#5	722.276	1
-210	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	33.6762	33.8413	0.16508	NOTE	G5	772.88	1
-211	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	33.8463	33.9149	0.068571	ct	G#5	850.163	2
-212	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	33.9149	34.0876	0.1727	NOTE	F#5	720.466	1
-213	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	34.1003	34.2375	0.13714	NOTE	D5	582.144	1
-214	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	34.2654	34.4102	0.14476	NOTE	B4	484.75	1
-215	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	34.4102	34.4813	0.071111	ct	C5	518.712	2
-216	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	34.4914	34.6514	0.16	NOTE	A4	433.015	1
-217	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	34.6514	34.814	0.16254	NOTE	B4	494.574	1
-218	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	34.814	35.0248	0.21079	NOTE	D5	586.54	1
-219	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	35.0248	35.167	0.14222	NOTE	F#5	735.068	1
-220	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	35.1949	35.3829	0.18794	BREATH	BREATH	0	4
-221	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	35.4057	35.5886	0.18286	NOTE	F#5	731.39	1
-222	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	35.5886	35.6775	0.088889	ct	B5	985.748	2
-223	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	35.68	35.8121	0.13206	NOTE	A5	876.139	1
-224	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	35.8146	35.9797	0.16508	NOTE	F#5	727.731	1
-225	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	35.9797	36.193	0.21333	NOTE	A5	876.139	1
-226	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	36.193	36.4013	0.20825	NOTE	B5	993.193	1
-227	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	36.4114	36.579	0.16762	NOTE	A5	865.22	1
-228	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	36.5943	36.7619	0.16762	NOTE	F#5	722.276	1
-229	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	36.7619	36.8	0.038095	ct	Bb5	921.207	2
-230	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	36.8	37.0133	0.21333	NOTE	G5	780.673	1
-231	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	37.0133	37.1911	0.17778	NOTE	F#5	727.731	1
-232	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	37.2013	37.341	0.13968	NOTE	E5	654.973	1
-233	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	37.3486	37.4121	0.063492	ct	F#5	757.527	2
-234	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	37.4298	37.5771	0.1473	NOTE	E5	651.696	1
-235	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	37.5975	37.7473	0.14984	NOTE	D5	583.606	1
-236	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	37.7778	37.9733	0.19556	NOTE	C#5	541.306	1
-237	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	37.9886	38.1917	0.20317	NOTE	D5	582.144	1
+1	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	0.18866	0.40054	0.21188	lngRoll_nt	F#4	368.802
+2	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	0.40345	0.48762	0.084172	lngRoll_ct	G4	389.722
+3	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	0.49052	0.56599	0.075465	lngRoll_nt	F#4	367.878
+4	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	0.56599	0.62984	0.063855	lngRoll_str	F4	352.523
+5	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	0.64435	0.82431	0.17995	lngRoll_nt	F#4	366.037
+6	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	0.82431	1.0304	0.20608	NOTE	E4	329.441
+7	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	1.0333	1.1871	0.15383	NOTE	F#4	365.12
+8	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	1.2045	1.2539	0.049342	ct	G4	384.866
+9	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	1.2568	1.4512	0.19447	NOTE	E4	328.616
+10	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	1.4774	1.666	0.18866	NOTE	D4	297.249
+11	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	1.6776	1.8721	0.19447	NOTE	F#4	366.037
+12	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	1.8721	2.0608	0.18866	NOTE	A4	439.58
+13	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	2.0724	2.1304	0.05805	ct	C#5	539.95
+14	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	2.1507	2.3046	0.15383	NOTE	B4	493.335
+15	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	2.3162	2.502	0.18576	NOTE	A4	439.58
+16	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	2.502	2.7196	0.21769	NOTE	F#4	366.956
+17	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	2.7254	2.9257	0.20027	NOTE	A4	439.58
+18	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	2.9286	3.1086	0.17995	NOTE	B4	498.309
+19	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	3.1173	3.3379	0.22059	NOTE	D5	589.49
+20	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	3.3466	3.5381	0.19156	NOTE	E5	663.238
+21	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	3.5498	3.7123	0.16254	NOTE	F#5	735.068
+22	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	3.7239	3.8864	0.16254	NOTE	G5	786.568
+23	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	3.901	3.9677	0.066757	ct	G#5	854.438
+24	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	3.9822	4.1593	0.17705	NOTE	F#5	733.227
+25	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	4.1593	4.3015	0.14222	NOTE	D5	586.54
+26	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	4.3363	4.4873	0.15093	NOTE	B4	493.335
+27	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	4.5076	4.5714	0.063855	ct	C5	526.577
+28	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	4.583	4.7224	0.13932	NOTE	A4	434.102
+29	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	4.7369	4.9226	0.18576	NOTE	F#4	366.956
+30	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	4.94	5.1374	0.19737	NOTE	E4	326.153
+31	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	5.1693	5.3406	0.17125	lngRoll_nt	F#4	361.476
+32	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	5.3464	5.4073	0.060952	lngRoll_ct	G#4	427.619
+33	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	5.4248	5.4915	0.066757	lngRoll_nt	F#4	361.476
+34	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	5.4944	5.5699	0.075465	lngRoll_str	F4	352.523
+35	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	5.5728	5.7585	0.18576	lngRoll_nt	F#4	363.293
+36	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	5.7934	5.9443	0.15093	lngRoll_nt	E4	326.153
+37	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	5.9472	6.014	0.066757	lngRoll_ct	F#4	379.118
+38	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	6.0256	6.1185	0.09288	lngRoll_nt	E4	326.972
+39	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	6.1417	6.2026	0.060952	lngRoll_str	Eb4	315.69
+40	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	6.2259	6.3507	0.12481	lngRoll_nt	E4	326.972
+41	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	6.3507	6.5567	0.20608	NOTE	D4	292.809
+42	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	6.5741	6.7541	0.17995	NOTE	F#4	365.12
+43	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	6.7541	6.9602	0.20608	NOTE	A4	435.192
+44	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	6.9602	7.1605	0.20027	NOTE	B4	492.099
+45	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	7.1634	7.3462	0.18286	NOTE	A4	436.285
+46	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	7.3723	7.5639	0.19156	NOTE	F#4	364.206
+47	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	7.5639	7.7439	0.17995	NOTE	A4	431.93
+48	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	7.7439	7.9383	0.19447	NOTE	D5	585.071
+49	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	7.9528	8.0893	0.13642	NOTE	B4	485.967
+50	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	8.098	8.1676	0.06966	ct	C5	520.015
+51	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	8.1763	8.3244	0.14803	NOTE	A4	431.93
+52	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	8.3389	8.5188	0.17995	NOTE	F#4	363.293
+53	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	8.5333	8.6727	0.13932	NOTE	E4	328.616
+54	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	8.6814	8.7423	0.060952	ct	F4	350.759
+55	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	8.7452	8.899	0.15383	NOTE	E4	328.616
+56	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	8.9223	9.0848	0.16254	NOTE	D4	291.344
+57	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	9.1051	9.3083	0.20317	NOTE	B4	489.637
+58	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	9.3431	9.7088	0.36571	NOTE	D4	294.282
+59	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	9.7176	9.912	0.19447	NOTE	E4	330.268
+60	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	9.912	10.1065	0.19447	lngRoll_nt	F#4	366.037
+61	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	10.1123	10.182	0.06966	lngRoll_ct	A4	434.102
+62	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	10.1936	10.269	0.075465	lngRoll_nt	F#4	366.037
+63	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	10.269	10.3445	0.075465	lngRoll_str	F4	356.077
+64	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	10.3706	10.5332	0.16254	lngRoll_nt	F#4	366.037
+65	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	10.5419	10.716	0.17415	NOTE	E4	327.793
+66	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	10.7218	10.8844	0.16254	NOTE	F#4	364.206
+67	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	10.896	11.1456	0.24961	NOTE	E4	328.616
+68	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	11.1804	11.2791	0.098685	NOTE	D4	292.076
+69	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	11.3023	11.5751	0.27283	BREATH	BREATH	0
+70	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	11.5751	11.7638	0.18866	NOTE	A4	439.58
+71	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	11.7638	11.8219	0.05805	ct	C5	525.258
+72	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	11.8335	12.0134	0.17995	NOTE	B4	490.867
+73	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	12.025	12.1934	0.16834	NOTE	A4	439.58
+74	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	12.1934	12.4227	0.2293	NOTE	F#4	367.878
+75	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	12.4227	12.6113	0.18866	NOTE	A4	436.285
+76	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	12.6142	12.6868	0.072562	NOTE	B4	490.867
+77	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	12.6955	12.7826	0.087075	NOTE	C5	534.56
+78	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	12.7942	13.0032	0.20898	NOTE	D5	589.49
+79	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	13.0177	13.1831	0.16544	NOTE	E5	661.577
+80	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	13.1947	13.3399	0.14512	NOTE	F#5	735.068
+81	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	13.3486	13.5779	0.2293	NOTE	G5	786.568
+82	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	13.5866	13.7927	0.20608	NOTE	F#5	727.731
+83	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	13.8072	13.9407	0.13351	NOTE	D5	585.071
+84	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	13.9813	14.1235	0.14222	NOTE	B4	489.637
+85	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	14.1351	14.2048	0.06966	ct	C5	522.63
+86	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	14.2077	14.3644	0.15673	NOTE	A4	435.192
+87	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	14.3732	14.5589	0.18576	NOTE	F#4	362.383
+88	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	14.5763	14.7563	0.17995	NOTE	E4	327.793
+89	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	14.7592	14.8376	0.078367	shRoll_ct	A4	437.381
+90	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	14.8376	14.9188	0.08127	shRoll_nt	F#4	366.956
+91	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	14.9217	14.9943	0.072562	shRoll_str	F4	354.295
+92	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	15.0059	15.1626	0.15673	shRoll_nt	F#4	365.12
+93	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	15.18	15.3774	0.19737	NOTE	D4	292.076
+94	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	15.389	15.5603	0.17125	lngRoll_nt	E4	329.441
+95	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	15.5603	15.6386	0.078367	lngRoll_ct	F4	348.129
+96	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	15.6502	15.7228	0.072562	lngRoll_nt	E4	328.616
+97	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	15.7257	15.7809	0.055147	lngRoll_str	Eb4	318.075
+98	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	15.7896	15.9927	0.20317	lngRoll_nt	E4	331.098
+99	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	16.0044	16.1437	0.13932	NOTE	D4	291.344
+100	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	16.2278	16.3091	0.08127	NOTE	F4	358.766
+101	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	16.3701	16.5907	0.22059	NOTE	A4	433.015
+102	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	16.5907	16.7358	0.14512	NOTE	B4	497.061
+103	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	16.7619	16.9999	0.238	BREATH	BREATH	0
+104	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	17.0028	17.2176	0.21478	NOTE	F#4	365.12
+105	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	17.235	17.4237	0.18866	NOTE	A4	440.684
+106	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	17.4237	17.6123	0.18866	NOTE	D5	579.231
+107	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	17.621	17.7952	0.17415	NOTE	B4	492.099
+108	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	17.8387	18.0187	0.17995	NOTE	A4	435.192
+109	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	18.0448	18.1899	0.14512	NOTE	F#4	365.12
+110	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	18.2132	18.3554	0.14222	NOTE	E4	326.972
+111	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	18.367	18.4483	0.08127	ct	F#4	366.037
+112	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	18.4541	18.6166	0.16254	NOTE	E4	327.793
+113	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	18.6456	18.7704	0.12481	NOTE	D4	289.886
+114	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	18.7995	19.0055	0.20608	NOTE	B4	484.75
+115	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	19.0462	19.1797	0.13351	NOTE	D5	582.144
+116	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	19.4467	19.6325	0.18576	NOTE	E5	654.973
+117	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	19.6325	19.7021	0.06966	ct	A5	856.584
+118	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	19.7108	19.8647	0.15383	NOTE	F#5	731.39
+119	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	19.8647	20.0649	0.20027	NOTE	D5	580.686
+120	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	20.0824	20.2362	0.15383	NOTE	B4	490.867
+121	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	20.242	20.4452	0.20317	NOTE	A4	441.791
+122	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	20.4568	20.6077	0.15093	NOTE	B4	494.574
+123	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	20.6193	20.8254	0.20608	NOTE	D5	590.97
+124	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	20.8399	21.0141	0.17415	lngRoll_nt	F#5	735.068
+125	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	21.0286	21.1156	0.087075	lngRoll_ct	A5	856.584
+126	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	21.1156	21.1824	0.066757	lngRoll_nt	F#5	731.39
+127	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	21.194	21.2782	0.084172	lngRoll_str	F5	713.275
+128	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	21.2811	21.4088	0.12771	lngRoll_nt	F#5	735.068
+129	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	21.4204	21.5878	0.16735	NOTE	A5	887.195
+130	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	21.6122	21.8082	0.19592	BREATH	BREATH	0
+131	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	21.8082	22.0245	0.21633	NOTE	F#5	736.914
+132	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	22.0367	22.2204	0.18367	lngRoll_nt	G5	780.673
+133	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	22.2327	22.3184	0.085714	lngRoll_ct	A5	876.139
+134	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	22.3306	22.4	0.069388	lngRoll_nt	G5	784.598
+135	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	22.4	22.4686	0.068571	lngRoll_str	G5	763.248
+136	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	22.4965	22.6108	0.11429	lngRoll_nt	G5	784.598
+137	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	22.6108	22.7022	0.091429	NOTE	A5	860.892
+138	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	22.7073	22.8317	0.12444	NOTE	F#5	731.39
+139	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	22.8317	23.0146	0.18286	NOTE	E5	654.973
+140	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	23.0273	23.2051	0.17778	NOTE	D5	588.013
+141	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	23.2305	23.4083	0.17778	NOTE	B4	490.867
+142	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	23.4159	23.5556	0.13968	NOTE	E5	651.696
+143	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	23.5606	23.6292	0.068571	ct	F#5	759.429
+144	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	23.6317	23.779	0.1473	NOTE	E5	654.973
+145	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	23.7867	23.8578	0.071111	str	Eb5	627.635
+146	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	23.8629	24.0025	0.13968	NOTE	E5	659.92
+147	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	24.0076	24.1498	0.14222	NOTE	F#5	724.089
+148	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	24.1498	24.3886	0.23873	NOTE	G5	780.673
+149	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	24.3937	24.5943	0.20063	NOTE	F#5	725.908
+150	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	24.6095	24.7086	0.099048	NOTE	D5	580.686
+151	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	24.7644	24.9016	0.13714	NOTE	B4	484.75
+152	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	24.9321	24.9905	0.058413	ct	C5	518.712
+153	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	25.0006	25.1886	0.18794	NOTE	A4	437.381
+154	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	25.1987	25.341	0.14222	NOTE	B4	487.187
+155	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	25.3562	25.5822	0.22603	NOTE	D5	583.606
+156	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	25.5873	25.76	0.1727	lngRoll_nt	F#5	725.908
+157	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	25.76	25.8463	0.086349	lngRoll_ct	G#5	818.774
+158	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	25.8667	25.92	0.053333	lngRoll_nt	F#5	733.227
+159	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	25.9276	25.9759	0.048254	lngRoll_str	F5	711.488
+160	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	25.9911	26.1663	0.17524	lngRoll_nt	F#5	735.068
+161	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	26.1663	26.3594	0.19302	NOTE	A5	880.544
+162	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	26.3721	26.5346	0.16254	NOTE	F#5	727.731
+163	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	26.5371	26.7352	0.1981	NOTE	A5	882.755
+164	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	26.7403	26.8089	0.068571	NOTE	C6	1062.78
+165	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	26.819	26.9714	0.15238	NOTE	B5	990.705
+166	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	26.9714	27.1263	0.15492	NOTE	A5	876.139
+167	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	27.1543	27.3143	0.16	NOTE	F#5	725.908
+168	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	27.3143	27.3905	0.07619	ct	Bb5	935.174
+169	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	27.3905	27.5606	0.17016	NOTE	G5	780.673
+170	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	27.5683	27.741	0.1727	NOTE	F#5	729.558
+171	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	27.7537	27.9086	0.15492	NOTE	E5	656.618
+172	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	27.9238	27.9873	0.063492	ct	F#5	761.336
+173	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	27.9898	28.1371	0.1473	NOTE	E5	658.267
+174	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	28.1498	28.3048	0.15492	NOTE	D5	582.144
+175	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	28.3175	28.5079	0.19048	NOTE	C#5	549.513
+176	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	28.5079	28.6679	0.16	NOTE	D5	589.49
+177	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	28.6832	28.9168	0.23365	BREATH	BREATH	0
+178	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	28.9219	29.1302	0.20825	NOTE	E5	656.618
+179	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	29.1302	29.1937	0.063492	ct	G#5	839.568
+180	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	29.2013	29.3359	0.1346	NOTE	F#5	727.731
+181	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	29.3486	29.5111	0.16254	NOTE	D5	583.606
+182	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	29.5467	29.7143	0.16762	NOTE	B4	489.637
+183	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	29.7346	29.9429	0.20825	NOTE	A4	436.285
+184	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	29.953	30.1257	0.1727	NOTE	B4	494.574
+185	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	30.141	30.306	0.16508	NOTE	D5	589.49
+186	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	30.3213	30.494	0.1727	lngRoll_nt	F#5	727.731
+187	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	30.5041	30.5956	0.091429	lngRoll_ct	G5	782.633
+188	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	30.5981	30.6641	0.066032	lngRoll_nt	F#5	731.39
+189	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	30.6641	30.7505	0.086349	lngRoll_str	E5	669.925
+190	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	30.7505	30.9105	0.16	lngRoll_nt	F#5	729.558
+191	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	30.913	31.134	0.22095	NOTE	A5	876.139
+192	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	31.1416	31.3244	0.18286	NOTE	F#5	727.731
+193	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	31.3244	31.459	0.1346	NOTE	D5	585.071
+194	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	31.5175	31.713	0.19556	lngRoll_nt	G5	778.717
+195	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	31.713	31.7816	0.068571	lngRoll_ct	A5	878.339
+196	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	31.7968	31.8679	0.071111	lngRoll_nt	G5	786.568
+197	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	31.8806	31.9467	0.066032	lngRoll_str	G5	765.165
+198	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	31.9517	32.0863	0.1346	lngRoll_nt	G5	790.524
+199	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	32.0965	32.16	0.063492	ct	G#5	824.958
+200	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	32.1651	32.3098	0.14476	NOTE	F#5	729.558
+201	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	32.3124	32.4825	0.17016	NOTE	E5	654.973
+202	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	32.4825	32.6883	0.20571	NOTE	D5	582.144
+203	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	32.7213	32.8635	0.14222	NOTE	B4	492.099
+204	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	32.894	33.0235	0.12952	NOTE	E5	653.333
+205	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	33.0235	33.1124	0.088889	ct	F#5	742.479
+206	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	33.1225	33.2394	0.11683	NOTE	E5	651.696
+207	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	33.2394	33.3257	0.086349	str	Eb5	624.494
+208	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	33.3257	33.4908	0.16508	NOTE	E5	654.973
+209	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	33.4908	33.6762	0.1854	NOTE	F#5	722.276
+210	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	33.6762	33.8413	0.16508	NOTE	G5	772.88
+211	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	33.8463	33.9149	0.068571	ct	G#5	850.163
+212	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	33.9149	34.0876	0.1727	NOTE	F#5	720.466
+213	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	34.1003	34.2375	0.13714	NOTE	D5	582.144
+214	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	34.2654	34.4102	0.14476	NOTE	B4	484.75
+215	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	34.4102	34.4813	0.071111	ct	C5	518.712
+216	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	34.4914	34.6514	0.16	NOTE	A4	433.015
+217	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	34.6514	34.814	0.16254	NOTE	B4	494.574
+218	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	34.814	35.0248	0.21079	NOTE	D5	586.54
+219	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	35.0248	35.167	0.14222	NOTE	F#5	735.068
+220	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	35.1949	35.3829	0.18794	BREATH	BREATH	0
+221	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	35.4057	35.5886	0.18286	NOTE	F#5	731.39
+222	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	35.5886	35.6775	0.088889	ct	B5	985.748
+223	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	35.68	35.8121	0.13206	NOTE	A5	876.139
+224	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	35.8146	35.9797	0.16508	NOTE	F#5	727.731
+225	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	35.9797	36.193	0.21333	NOTE	A5	876.139
+226	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	36.193	36.4013	0.20825	NOTE	B5	993.193
+227	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	36.4114	36.579	0.16762	NOTE	A5	865.22
+228	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	36.5943	36.7619	0.16762	NOTE	F#5	722.276
+229	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	36.7619	36.8	0.038095	ct	Bb5	921.207
+230	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	36.8	37.0133	0.21333	NOTE	G5	780.673
+231	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	37.0133	37.1911	0.17778	NOTE	F#5	727.731
+232	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	37.2013	37.341	0.13968	NOTE	E5	654.973
+233	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	37.3486	37.4121	0.063492	ct	F#5	757.527
+234	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	37.4298	37.5771	0.1473	NOTE	E5	651.696
+235	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	37.5975	37.7473	0.14984	NOTE	D5	583.606
+236	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	37.7778	37.9733	0.19556	NOTE	C#5	541.306
+237	Lar_EssentialGuideCD2_Tk73Tu1R1_TheRoseInTheHeather.txt	37.9886	38.1917	0.20317	NOTE	D5	582.144

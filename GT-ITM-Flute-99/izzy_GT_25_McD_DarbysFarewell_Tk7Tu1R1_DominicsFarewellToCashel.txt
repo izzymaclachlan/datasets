@@ -1,239 +1,239 @@
-1	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	0.20315	1.0806	0.87746	NOTE	C#4	284.927	1
-2	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.0806	1.1694	0.088776	NOTE	G4	384.13	1
-3	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.1694	1.2245	0.055102	ct	A4	429.79	2
-4	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.2245	1.3663	0.14184	NOTE	F#4	378.3	1
-5	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.3663	1.4888	0.12245	NOTE	F4	354.43	1
-6	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.4888	1.702	0.21327	NOTE	F#4	380.635	1
-7	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.702	1.7673	0.065306	ct	A4	442.723	2
-8	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.7673	1.8337	0.066327	NOTE	C5	536.364	1
-9	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.8337	1.9561	0.12245	NOTE	B4	484.99	1
-10	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.9561	2.102	0.14592	NOTE	A4	435.131	1
-11	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	2.102	2.2847	0.18265	NOTE	B4	490.021	1
-12	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	2.2847	2.3765	0.091837	NOTE	D5	580.222	1
-13	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	2.3765	2.4173	0.040816	ct	D5	594.715	2
-14	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	2.4173	2.5327	0.11531	NOTE	D5	576.34	1
-15	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	2.5327	2.6592	0.12653	NOTE	C#5	544.666	1
-16	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	2.6592	2.8571	0.19796	NOTE	D5	580.067	1
-17	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	2.8571	3.0755	0.21837	NOTE	E5	648.773	1
-18	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	3.0755	3.2071	0.13163	NOTE	F#5	725.713	1
-19	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	3.2071	3.3286	0.12143	NOTE	G5	779.098	1
-20	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	3.3286	3.6194	0.29082	lngRoll_nt	G4	381.053	
-21	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	3.6194	3.6816	0.062245	lngRoll_ct	A4	430.733	
-22	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	3.6816	3.7653	0.083673	lngRoll_nt	G4	381.588	
-23	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	3.7653	3.8163	0.05102	lngRoll_str	F#4	368.259	
-24	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	3.8163	3.9531	0.13673	lngRoll_nt	G4	382.081	
-25	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	3.9531	4.1633	0.2102	NOTE	D5	577.293	1
-26	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	4.1633	4.3041	0.14082	NOTE	B4	484.055	1
-27	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	4.3041	4.4776	0.17347	NOTE	F#4	380.985	1
-28	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	4.4776	4.7133	0.23571	NOTE	A4	434.277	1
-29	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	4.7133	4.8449	0.13163	NOTE	B4	482.595	1
-30	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	4.8449	4.9918	0.14694	NOTE	F#4	374.518	1
-31	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	4.9918	5.0561	0.064286	ct	A4	433.737	2
-32	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.0561	5.1306	0.07449	NOTE	C5	517.773	1
-33	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.1306	5.2531	0.12245	NOTE	A4	429.426	1
-34	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.2531	5.3643	0.11122	NOTE	F4	354.44	1
-35	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.3643	5.5469	0.18265	NOTE	C#4	283.844	1
-36	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.5469	5.7582	0.21122	lngRoll_nt	F#4	379.001	
-37	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.7582	5.8	0.041837	lngRoll_ct	G#4	424.93	
-38	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.8	5.9133	0.11327	lngRoll_nt	F#4	380.109	
-39	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.9133	5.9429	0.029592	lngRoll_str	F#4	368.716	
-40	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.9429	6.0204	0.077551	lngRoll_nt	G4	382.563	
-41	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.0204	6.1102	0.089796	NOTE	G#4	427.226	1
-42	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.1102	6.2153	0.1051	NOTE	B4	491.75	1
-43	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.2153	6.4704	0.2551	BREATH	BREATH	0	4
-44	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.4704	6.6347	0.16429	NOTE	B4	481.545	1
-45	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.6347	6.7112	0.076531	ct	D5	583.579	2
-46	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.7112	6.7571	0.045918	NOTE	Eb5	625.461	1
-47	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.7571	6.852	0.094898	NOTE	D5	577.354	1
-48	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.852	6.9673	0.11531	NOTE	C#5	540.287	1
-49	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.9673	7.1878	0.22041	NOTE	D5	580.312	1
-50	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	7.1878	7.348	0.1602	NOTE	E5	649.907	1
-51	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	7.348	7.5133	0.16531	NOTE	F#5	719.515	1
-52	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	7.5133	7.6173	0.10408	NOTE	G5	779.146	1
-53	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	7.6173	7.7265	0.10918	ct	A5	863.491	2
-54	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	7.7265	7.7959	0.069388	NOTE	B5	960.171	1
-55	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	7.7959	7.9163	0.12041	NOTE	A5	871.872	1
-56	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	7.9163	8.0745	0.15816	NOTE	G5	774.985	1
-57	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	8.0745	8.2184	0.14388	NOTE	E5	646.183	1
-58	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	8.2184	8.4092	0.19082	NOTE	D5	579.789	1
-59	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	8.4092	8.5449	0.13571	NOTE	B4	485.405	1
-60	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	8.5449	8.748	0.20306	NOTE	A4	433.135	1
-61	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	8.748	8.8173	0.069388	ct	C5	529.209	2
-62	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	8.8173	8.9418	0.12449	NOTE	B4	483.048	1
-63	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	8.9418	9.1092	0.16735	NOTE	G4	381.656	1
-64	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	9.1092	9.2755	0.16633	NOTE	F4	356.039	1
-65	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	9.2755	9.4959	0.22041	NOTE	F#4	380.116	1
-66	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	9.4959	9.8582	0.36224	BREATH	BREATH	0	4
-67	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	9.8582	9.9265	0.068367	lngRoll_nt	F#4	380.152	
-68	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	9.9265	9.9735	0.046939	lngRoll_ct	G#4	420.009	
-69	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	9.9735	10.098	0.12449	lngRoll_nt	F#4	380.802	
-70	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	10.098	10.1939	0.095918	lngRoll_str	F4	356.787	
-71	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	10.1939	10.3378	0.14388	lngRoll_nt	G4	381.451	
-72	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	10.3378	10.4224	0.084694	ct	G#4	424.395	2
-73	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	10.4224	10.5031	0.080612	NOTE	C5	534.743	1
-74	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	10.5031	10.6092	0.10612	NOTE	B4	485.224	1
-75	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	10.6092	10.7429	0.13367	NOTE	A4	437.856	1
-76	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	10.7429	10.9133	0.17041	NOTE	B4	488.977	1
-77	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	10.9133	11.1418	0.22857	NOTE	D5	580.951	1
-78	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	11.1418	11.2622	0.12041	NOTE	C#5	544.493	1
-79	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	11.2622	11.6194	0.35714	NOTE	Eb5	610.539	1
-80	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	11.6194	11.7745	0.1551	NOTE	F#5	721.242	1
-81	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	11.7745	11.901	0.12653	NOTE	G5	774.333	1
-82	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	11.901	12.001	0.1	staccato	G5	769.537	
-83	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.001	12.1643	0.16327	lngRoll_nt	F#4	379.144	
-84	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.1643	12.2143	0.05	lngRoll_ct	A4	430.749	
-85	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.2143	12.3224	0.10816	lngRoll_nt	G4	383.745	
-86	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.3224	12.3551	0.032653	lngRoll_str	F#4	374.736	
-87	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.3551	12.4939	0.13878	lngRoll_nt	G4	383.353	
-88	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.4939	12.6949	0.20102	NOTE	D5	578.874	1
-89	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.6949	12.8357	0.14082	NOTE	B4	482.766	1
-90	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.8357	12.9959	0.1602	NOTE	F#4	380.43	1
-91	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.9959	13.2286	0.23265	NOTE	A4	432.938	1
-92	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	13.2286	13.35	0.12143	NOTE	B4	482.358	1
-93	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	13.35	13.4888	0.13878	NOTE	F#4	375.884	1
-94	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	13.4888	13.5347	0.045918	ct	A4	430.131	2
-95	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	13.5347	13.6071	0.072449	NOTE	C5	521.965	1
-96	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	13.6071	13.7367	0.12959	NOTE	A4	430.263	1
-97	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	13.7367	13.8653	0.12857	NOTE	F4	353.764	1
-98	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	13.8653	14.0347	0.16939	NOTE	C#4	284.177	1
-99	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	14.0347	14.1704	0.13571	NOTE	G4	381.718	1
-100	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	14.1704	14.4112	0.24082	BREATH	BREATH	0	4
-101	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	14.4112	14.6031	0.19184	NOTE	G4	384.106	1
-102	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	14.6031	14.6755	0.072449	ct	C5	526.812	2
-103	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	14.6755	14.7898	0.11429	NOTE	B4	485.411	1
-104	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	14.7898	14.9214	0.13163	NOTE	A4	432.814	1
-105	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	14.9214	15.0888	0.16735	NOTE	B4	488.383	1
-106	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	15.0888	15.3	0.21122	NOTE	D5	580.291	1
-107	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	15.3	15.4316	0.13163	NOTE	C#5	541.555	1
-108	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	15.4316	15.6224	0.19082	NOTE	D5	578.986	1
-109	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	15.6224	15.8061	0.18367	NOTE	E5	649.293	1
-110	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	15.8061	15.9643	0.15816	NOTE	F#5	720.029	1
-111	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	15.9643	16.0602	0.095918	NOTE	G5	773.905	1
-112	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	16.0602	16.1806	0.12041	NOTE	A5	857.673	1
-113	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	16.1806	16.2357	0.055102	ct	Bb5	944.489	2
-114	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	16.2357	16.3378	0.10204	NOTE	A5	869.093	1
-115	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	16.3378	16.4806	0.14286	NOTE	G5	773.747	1
-116	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	16.4806	16.6367	0.15612	NOTE	E5	646.035	1
-117	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	16.6367	16.8224	0.18571	NOTE	D5	576.807	1
-118	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	16.8224	16.9786	0.15612	NOTE	B4	486.895	1
-119	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	16.9786	17.1684	0.1898	NOTE	A4	431.888	1
-120	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	17.1684	17.2378	0.069388	ct	C5	528.402	2
-121	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	17.2378	17.3724	0.13469	NOTE	B4	482.696	1
-122	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	17.3724	17.5367	0.16429	NOTE	F#4	380.089	1
-123	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	17.5367	17.7051	0.16837	NOTE	F4	355.479	1
-124	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	17.7051	17.8469	0.14184	NOTE	G4	381.997	1
-125	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	17.8469	18.248	0.40102	BREATH	BREATH	0	4
-126	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	18.248	18.4418	0.19388	NOTE	G5	770	1
-127	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	18.4418	18.5969	0.1551	NOTE	F#5	723.585	1
-128	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	18.5969	18.6418	0.044898	ct	A5	856.64	2
-129	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	18.6418	18.7837	0.14184	NOTE	G5	770.667	1
-130	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	18.7837	18.9602	0.17653	NOTE	E5	649.938	1
-131	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	18.9602	19.1255	0.16531	NOTE	F5	718.391	1
-132	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	19.1255	19.248	0.12245	NOTE	G5	770.438	1
-133	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	19.248	19.3429	0.094898	NOTE	A5	868.793	1
-134	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	19.3429	19.401	0.058163	ct	Bb5	948.875	2
-135	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	19.401	19.5082	0.10714	NOTE	A5	868.205	1
-136	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	19.5082	19.6531	0.1449	NOTE	G5	777.42	1
-137	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	19.6531	19.7765	0.12347	NOTE	A5	863.644	1
-138	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	19.7765	19.9959	0.21939	NOTE	B5	967.104	1
-139	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	19.9959	20.1204	0.12449	NOTE	F5	713	1
-140	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	20.1204	20.2643	0.14388	NOTE	D5	576.444	1
-141	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	20.2643	20.3908	0.12653	NOTE	G5	770.347	1
-142	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	20.3908	20.6265	0.23571	BREATH	BREATH	0	4
-143	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	20.6265	20.7816	0.1551	NOTE	G5	772.479	1
-144	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	20.7816	20.8765	0.094898	NOTE	E5	653.985	1
-145	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	20.8765	20.9898	0.11327	NOTE	F#5	719.617	1
-146	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	20.9898	21.1306	0.14082	NOTE	G5	767.957	1
-147	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	21.1306	21.2786	0.14796	NOTE	E5	651.684	1
-148	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	21.2786	21.4827	0.20408	NOTE	D5	579.416	1
-149	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	21.4827	21.6265	0.14388	NOTE	B4	483.242	1
-150	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	21.6265	21.798	0.17143	NOTE	F#4	378.594	1
-151	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	21.798	21.8643	0.066327	ct	A4	435.324	2
-152	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	21.8643	21.9265	0.062245	NOTE	C5	519.72	1
-153	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	21.9265	22.0337	0.10714	NOTE	A4	431.465	1
-154	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	22.0337	22.1429	0.10918	NOTE	F4	354.824	1
-155	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	22.1429	22.2949	0.15204	NOTE	D4	286.092	1
-156	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	22.2949	22.5469	0.25204	NOTE	G5	769.57	1
-157	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	22.5469	22.6663	0.11939	NOTE	A5	868.918	1
-158	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	22.6663	22.8306	0.16429	NOTE	G5	771.682	1
-159	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	22.8306	23.0133	0.18265	NOTE	E5	647.973	1
-160	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	23.0133	23.1898	0.17653	NOTE	F5	717.745	1
-161	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	23.1898	23.3582	0.16837	NOTE	G5	768.322	1
-162	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	23.3582	23.4265	0.068367	NOTE	A5	863.838	1
-163	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	23.4265	23.7	0.27347	BREATH	BREATH	0	4
-164	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	23.7	23.8449	0.1449	NOTE	A5	871.557	1
-165	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	23.8449	23.9153	0.070408	ct	C6	1050.14	2
-166	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	23.9153	24.048	0.13265	NOTE	Bb5	958.917	1
-167	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	24.048	24.149	0.10102	NOTE	G5	773.701	1
-168	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	24.149	24.4143	0.26531	NOTE	G5	768	1
-169	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	24.4143	24.548	0.13367	NOTE	A5	856.909	1
-170	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	24.548	24.7173	0.16939	NOTE	G5	774.426	1
-171	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	24.7173	24.8388	0.12143	NOTE	E5	646.578	1
-172	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	24.8388	25.0592	0.22041	NOTE	D5	576.728	1
-173	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	25.0592	25.1776	0.11837	NOTE	B4	482.456	1
-174	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	25.1776	25.3847	0.20714	NOTE	A4	432.048	1
-175	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	25.3847	25.4347	0.05	ct	C5	526.598	2
-176	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	25.4347	25.5643	0.12959	NOTE	B4	482.875	1
-177	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	25.5643	25.7184	0.15408	NOTE	G4	381.178	1
-178	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	25.7184	25.9173	0.19898	NOTE	F4	356.761	1
-179	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	25.9173	26.1316	0.21429	NOTE	G4	382.538	1
-180	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	26.1316	26.4673	0.33571	BREATH	BREATH	0	4
-181	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	26.4673	26.5204	0.053061	NOTE	G#5	847.605	1
-182	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	26.5204	26.6429	0.12245	NOTE	G5	769.148	1
-183	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	26.6429	26.7694	0.12653	NOTE	F#5	722.787	1
-184	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	26.7694	26.8041	0.034694	ct	G5	803.447	2
-185	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	26.8041	26.9214	0.11735	NOTE	G5	774.44	1
-186	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	26.9214	27.1276	0.20612	NOTE	E5	647.824	1
-187	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	27.1276	27.3255	0.19796	NOTE	F#5	719.388	1
-188	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	27.3255	27.398	0.072449	NOTE	G5	769.104	1
-189	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	27.398	27.4888	0.090816	NOTE	A5	869.768	1
-190	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	27.4888	27.5286	0.039796	ct	Bb5	942.56	2
-191	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	27.5286	27.6408	0.11224	NOTE	A5	868.055	1
-192	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	27.6408	27.7939	0.15306	NOTE	G5	775.334	1
-193	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	27.7939	27.9449	0.15102	NOTE	A5	867.749	1
-194	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	27.9449	28.0143	0.069388	ct	C6	1047.83	2
-195	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	28.0143	28.1347	0.12041	NOTE	B5	964.379	1
-196	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	28.1347	28.2969	0.16224	NOTE	G5	771.563	1
-197	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	28.2969	28.4633	0.16633	NOTE	E5	652.442	1
-198	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	28.4633	28.6429	0.17959	NOTE	G5	764.755	1
-199	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	28.6429	28.8153	0.17245	NOTE	F#5	724.099	1
-200	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	28.8153	28.998	0.18265	NOTE	G5	770.937	1
-201	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	28.998	29.0571	0.059184	str	F5	699.777	3
-202	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	29.0571	29.1888	0.13163	NOTE	F#5	719.931	1
-203	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	29.1888	29.3224	0.13367	NOTE	G5	766.087	1
-204	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	29.3224	29.4704	0.14796	NOTE	E5	648.264	1
-205	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	29.4704	29.6306	0.1602	NOTE	D5	579.805	1
-206	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	29.6306	29.8337	0.20306	NOTE	B4	483.27	1
-207	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	29.8337	29.9765	0.14286	NOTE	F#4	373.068	1
-208	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	29.9765	30.0347	0.058163	ct	A4	433.748	2
-209	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	30.0347	30.0929	0.058163	NOTE	C5	519.781	1
-210	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	30.0929	30.2031	0.1102	NOTE	A4	432.21	1
-211	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	30.2031	30.3051	0.10204	NOTE	F4	355.005	1
-212	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	30.3051	30.4735	0.16837	NOTE	D4	286.342	1
-213	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	30.4735	30.5918	0.11837	NOTE	G5	768.573	1
-214	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	30.5918	30.849	0.25714	BREATH	BREATH	0	4
-215	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	30.849	31.0255	0.17653	NOTE	G5	767.636	1
-216	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.0255	31.2102	0.18469	NOTE	E5	646.917	1
-217	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.2102	31.3561	0.14592	NOTE	F#5	720.865	1
-218	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.3561	31.4827	0.12653	NOTE	G5	772.362	1
-219	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.4827	31.5439	0.061224	ct	A5	876.327	2
-220	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.5439	31.6	0.056122	NOTE	Bb5	950.945	1
-221	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.6	31.7143	0.11429	NOTE	A5	872.09	1
-222	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.7143	31.8449	0.13061	NOTE	G5	776.29	1
-223	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.8449	31.9918	0.14694	NOTE	A5	867.396	1
-224	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.9918	32.0673	0.07551	ct	C6	1052.68	2
-225	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	32.0673	32.198	0.13061	NOTE	B5	967.037	1
-226	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	32.198	32.3367	0.13878	NOTE	G5	773.745	1
-227	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	32.3367	32.4888	0.15204	NOTE	E5	653.794	1
-228	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	32.4888	32.5929	0.10408	NOTE	G5	767.667	1
-229	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	32.5929	32.8602	0.26735	BREATH	BREATH	0	4
-230	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	32.8602	33.0224	0.16224	NOTE	E5	647.535	1
-231	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	33.0224	33.1867	0.16429	NOTE	D5	579.971	1
-232	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	33.1867	33.3153	0.12857	NOTE	B4	489.377	1
-233	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	33.3153	33.5337	0.21837	NOTE	A4	432.997	1
-234	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	33.5337	33.5847	0.05102	ct	C5	531.325	2
-235	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	33.5847	33.7031	0.11837	NOTE	B4	483.803	1
-236	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	33.7031	33.8673	0.16429	NOTE	G4	384.273	1
-237	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	33.8673	34.0286	0.16122	NOTE	F4	358.282	1
-238	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	34.0286	34.151	0.12245	NOTE	G4	384.583	1
-239	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	34.151	34.3816	0.23061	BREATH	BREATH	0	4
+1	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	0.20315	1.0806	0.87746	NOTE	C#4	284.927
+2	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.0806	1.1694	0.088776	NOTE	G4	384.13
+3	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.1694	1.2245	0.055102	ct	A4	429.79
+4	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.2245	1.3663	0.14184	NOTE	F#4	378.3
+5	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.3663	1.4888	0.12245	NOTE	F4	354.43
+6	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.4888	1.702	0.21327	NOTE	F#4	380.635
+7	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.702	1.7673	0.065306	ct	A4	442.723
+8	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.7673	1.8337	0.066327	NOTE	C5	536.364
+9	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.8337	1.9561	0.12245	NOTE	B4	484.99
+10	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	1.9561	2.102	0.14592	NOTE	A4	435.131
+11	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	2.102	2.2847	0.18265	NOTE	B4	490.021
+12	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	2.2847	2.3765	0.091837	NOTE	D5	580.222
+13	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	2.3765	2.4173	0.040816	ct	D5	594.715
+14	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	2.4173	2.5327	0.11531	NOTE	D5	576.34
+15	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	2.5327	2.6592	0.12653	NOTE	C#5	544.666
+16	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	2.6592	2.8571	0.19796	NOTE	D5	580.067
+17	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	2.8571	3.0755	0.21837	NOTE	E5	648.773
+18	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	3.0755	3.2071	0.13163	NOTE	F#5	725.713
+19	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	3.2071	3.3286	0.12143	NOTE	G5	779.098
+20	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	3.3286	3.6194	0.29082	lngRoll_nt	G4	381.053
+21	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	3.6194	3.6816	0.062245	lngRoll_ct	A4	430.733
+22	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	3.6816	3.7653	0.083673	lngRoll_nt	G4	381.588
+23	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	3.7653	3.8163	0.05102	lngRoll_str	F#4	368.259
+24	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	3.8163	3.9531	0.13673	lngRoll_nt	G4	382.081
+25	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	3.9531	4.1633	0.2102	NOTE	D5	577.293
+26	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	4.1633	4.3041	0.14082	NOTE	B4	484.055
+27	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	4.3041	4.4776	0.17347	NOTE	F#4	380.985
+28	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	4.4776	4.7133	0.23571	NOTE	A4	434.277
+29	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	4.7133	4.8449	0.13163	NOTE	B4	482.595
+30	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	4.8449	4.9918	0.14694	NOTE	F#4	374.518
+31	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	4.9918	5.0561	0.064286	ct	A4	433.737
+32	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.0561	5.1306	0.07449	NOTE	C5	517.773
+33	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.1306	5.2531	0.12245	NOTE	A4	429.426
+34	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.2531	5.3643	0.11122	NOTE	F4	354.44
+35	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.3643	5.5469	0.18265	NOTE	C#4	283.844
+36	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.5469	5.7582	0.21122	lngRoll_nt	F#4	379.001
+37	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.7582	5.8	0.041837	lngRoll_ct	G#4	424.93
+38	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.8	5.9133	0.11327	lngRoll_nt	F#4	380.109
+39	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.9133	5.9429	0.029592	lngRoll_str	F#4	368.716
+40	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	5.9429	6.0204	0.077551	lngRoll_nt	G4	382.563
+41	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.0204	6.1102	0.089796	NOTE	G#4	427.226
+42	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.1102	6.2153	0.1051	NOTE	B4	491.75
+43	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.2153	6.4704	0.2551	BREATH	BREATH	0
+44	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.4704	6.6347	0.16429	NOTE	B4	481.545
+45	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.6347	6.7112	0.076531	ct	D5	583.579
+46	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.7112	6.7571	0.045918	NOTE	Eb5	625.461
+47	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.7571	6.852	0.094898	NOTE	D5	577.354
+48	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.852	6.9673	0.11531	NOTE	C#5	540.287
+49	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	6.9673	7.1878	0.22041	NOTE	D5	580.312
+50	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	7.1878	7.348	0.1602	NOTE	E5	649.907
+51	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	7.348	7.5133	0.16531	NOTE	F#5	719.515
+52	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	7.5133	7.6173	0.10408	NOTE	G5	779.146
+53	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	7.6173	7.7265	0.10918	ct	A5	863.491
+54	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	7.7265	7.7959	0.069388	NOTE	B5	960.171
+55	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	7.7959	7.9163	0.12041	NOTE	A5	871.872
+56	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	7.9163	8.0745	0.15816	NOTE	G5	774.985
+57	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	8.0745	8.2184	0.14388	NOTE	E5	646.183
+58	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	8.2184	8.4092	0.19082	NOTE	D5	579.789
+59	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	8.4092	8.5449	0.13571	NOTE	B4	485.405
+60	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	8.5449	8.748	0.20306	NOTE	A4	433.135
+61	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	8.748	8.8173	0.069388	ct	C5	529.209
+62	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	8.8173	8.9418	0.12449	NOTE	B4	483.048
+63	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	8.9418	9.1092	0.16735	NOTE	G4	381.656
+64	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	9.1092	9.2755	0.16633	NOTE	F4	356.039
+65	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	9.2755	9.4959	0.22041	NOTE	F#4	380.116
+66	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	9.4959	9.8582	0.36224	BREATH	BREATH	0
+67	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	9.8582	9.9265	0.068367	lngRoll_nt	F#4	380.152
+68	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	9.9265	9.9735	0.046939	lngRoll_ct	G#4	420.009
+69	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	9.9735	10.098	0.12449	lngRoll_nt	F#4	380.802
+70	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	10.098	10.1939	0.095918	lngRoll_str	F4	356.787
+71	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	10.1939	10.3378	0.14388	lngRoll_nt	G4	381.451
+72	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	10.3378	10.4224	0.084694	ct	G#4	424.395
+73	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	10.4224	10.5031	0.080612	NOTE	C5	534.743
+74	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	10.5031	10.6092	0.10612	NOTE	B4	485.224
+75	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	10.6092	10.7429	0.13367	NOTE	A4	437.856
+76	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	10.7429	10.9133	0.17041	NOTE	B4	488.977
+77	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	10.9133	11.1418	0.22857	NOTE	D5	580.951
+78	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	11.1418	11.2622	0.12041	NOTE	C#5	544.493
+79	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	11.2622	11.6194	0.35714	NOTE	Eb5	610.539
+80	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	11.6194	11.7745	0.1551	NOTE	F#5	721.242
+81	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	11.7745	11.901	0.12653	NOTE	G5	774.333
+82	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	11.901	12.001	0.1	staccato	G5	769.537
+83	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.001	12.1643	0.16327	lngRoll_nt	F#4	379.144
+84	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.1643	12.2143	0.05	lngRoll_ct	A4	430.749
+85	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.2143	12.3224	0.10816	lngRoll_nt	G4	383.745
+86	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.3224	12.3551	0.032653	lngRoll_str	F#4	374.736
+87	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.3551	12.4939	0.13878	lngRoll_nt	G4	383.353
+88	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.4939	12.6949	0.20102	NOTE	D5	578.874
+89	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.6949	12.8357	0.14082	NOTE	B4	482.766
+90	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.8357	12.9959	0.1602	NOTE	F#4	380.43
+91	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	12.9959	13.2286	0.23265	NOTE	A4	432.938
+92	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	13.2286	13.35	0.12143	NOTE	B4	482.358
+93	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	13.35	13.4888	0.13878	NOTE	F#4	375.884
+94	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	13.4888	13.5347	0.045918	ct	A4	430.131
+95	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	13.5347	13.6071	0.072449	NOTE	C5	521.965
+96	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	13.6071	13.7367	0.12959	NOTE	A4	430.263
+97	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	13.7367	13.8653	0.12857	NOTE	F4	353.764
+98	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	13.8653	14.0347	0.16939	NOTE	C#4	284.177
+99	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	14.0347	14.1704	0.13571	NOTE	G4	381.718
+100	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	14.1704	14.4112	0.24082	BREATH	BREATH	0
+101	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	14.4112	14.6031	0.19184	NOTE	G4	384.106
+102	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	14.6031	14.6755	0.072449	ct	C5	526.812
+103	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	14.6755	14.7898	0.11429	NOTE	B4	485.411
+104	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	14.7898	14.9214	0.13163	NOTE	A4	432.814
+105	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	14.9214	15.0888	0.16735	NOTE	B4	488.383
+106	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	15.0888	15.3	0.21122	NOTE	D5	580.291
+107	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	15.3	15.4316	0.13163	NOTE	C#5	541.555
+108	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	15.4316	15.6224	0.19082	NOTE	D5	578.986
+109	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	15.6224	15.8061	0.18367	NOTE	E5	649.293
+110	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	15.8061	15.9643	0.15816	NOTE	F#5	720.029
+111	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	15.9643	16.0602	0.095918	NOTE	G5	773.905
+112	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	16.0602	16.1806	0.12041	NOTE	A5	857.673
+113	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	16.1806	16.2357	0.055102	ct	Bb5	944.489
+114	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	16.2357	16.3378	0.10204	NOTE	A5	869.093
+115	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	16.3378	16.4806	0.14286	NOTE	G5	773.747
+116	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	16.4806	16.6367	0.15612	NOTE	E5	646.035
+117	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	16.6367	16.8224	0.18571	NOTE	D5	576.807
+118	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	16.8224	16.9786	0.15612	NOTE	B4	486.895
+119	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	16.9786	17.1684	0.1898	NOTE	A4	431.888
+120	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	17.1684	17.2378	0.069388	ct	C5	528.402
+121	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	17.2378	17.3724	0.13469	NOTE	B4	482.696
+122	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	17.3724	17.5367	0.16429	NOTE	F#4	380.089
+123	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	17.5367	17.7051	0.16837	NOTE	F4	355.479
+124	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	17.7051	17.8469	0.14184	NOTE	G4	381.997
+125	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	17.8469	18.248	0.40102	BREATH	BREATH	0
+126	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	18.248	18.4418	0.19388	NOTE	G5	770
+127	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	18.4418	18.5969	0.1551	NOTE	F#5	723.585
+128	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	18.5969	18.6418	0.044898	ct	A5	856.64
+129	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	18.6418	18.7837	0.14184	NOTE	G5	770.667
+130	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	18.7837	18.9602	0.17653	NOTE	E5	649.938
+131	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	18.9602	19.1255	0.16531	NOTE	F5	718.391
+132	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	19.1255	19.248	0.12245	NOTE	G5	770.438
+133	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	19.248	19.3429	0.094898	NOTE	A5	868.793
+134	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	19.3429	19.401	0.058163	ct	Bb5	948.875
+135	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	19.401	19.5082	0.10714	NOTE	A5	868.205
+136	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	19.5082	19.6531	0.1449	NOTE	G5	777.42
+137	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	19.6531	19.7765	0.12347	NOTE	A5	863.644
+138	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	19.7765	19.9959	0.21939	NOTE	B5	967.104
+139	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	19.9959	20.1204	0.12449	NOTE	F5	713
+140	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	20.1204	20.2643	0.14388	NOTE	D5	576.444
+141	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	20.2643	20.3908	0.12653	NOTE	G5	770.347
+142	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	20.3908	20.6265	0.23571	BREATH	BREATH	0
+143	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	20.6265	20.7816	0.1551	NOTE	G5	772.479
+144	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	20.7816	20.8765	0.094898	NOTE	E5	653.985
+145	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	20.8765	20.9898	0.11327	NOTE	F#5	719.617
+146	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	20.9898	21.1306	0.14082	NOTE	G5	767.957
+147	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	21.1306	21.2786	0.14796	NOTE	E5	651.684
+148	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	21.2786	21.4827	0.20408	NOTE	D5	579.416
+149	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	21.4827	21.6265	0.14388	NOTE	B4	483.242
+150	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	21.6265	21.798	0.17143	NOTE	F#4	378.594
+151	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	21.798	21.8643	0.066327	ct	A4	435.324
+152	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	21.8643	21.9265	0.062245	NOTE	C5	519.72
+153	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	21.9265	22.0337	0.10714	NOTE	A4	431.465
+154	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	22.0337	22.1429	0.10918	NOTE	F4	354.824
+155	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	22.1429	22.2949	0.15204	NOTE	D4	286.092
+156	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	22.2949	22.5469	0.25204	NOTE	G5	769.57
+157	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	22.5469	22.6663	0.11939	NOTE	A5	868.918
+158	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	22.6663	22.8306	0.16429	NOTE	G5	771.682
+159	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	22.8306	23.0133	0.18265	NOTE	E5	647.973
+160	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	23.0133	23.1898	0.17653	NOTE	F5	717.745
+161	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	23.1898	23.3582	0.16837	NOTE	G5	768.322
+162	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	23.3582	23.4265	0.068367	NOTE	A5	863.838
+163	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	23.4265	23.7	0.27347	BREATH	BREATH	0
+164	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	23.7	23.8449	0.1449	NOTE	A5	871.557
+165	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	23.8449	23.9153	0.070408	ct	C6	1050.14
+166	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	23.9153	24.048	0.13265	NOTE	Bb5	958.917
+167	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	24.048	24.149	0.10102	NOTE	G5	773.701
+168	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	24.149	24.4143	0.26531	NOTE	G5	768
+169	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	24.4143	24.548	0.13367	NOTE	A5	856.909
+170	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	24.548	24.7173	0.16939	NOTE	G5	774.426
+171	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	24.7173	24.8388	0.12143	NOTE	E5	646.578
+172	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	24.8388	25.0592	0.22041	NOTE	D5	576.728
+173	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	25.0592	25.1776	0.11837	NOTE	B4	482.456
+174	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	25.1776	25.3847	0.20714	NOTE	A4	432.048
+175	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	25.3847	25.4347	0.05	ct	C5	526.598
+176	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	25.4347	25.5643	0.12959	NOTE	B4	482.875
+177	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	25.5643	25.7184	0.15408	NOTE	G4	381.178
+178	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	25.7184	25.9173	0.19898	NOTE	F4	356.761
+179	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	25.9173	26.1316	0.21429	NOTE	G4	382.538
+180	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	26.1316	26.4673	0.33571	BREATH	BREATH	0
+181	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	26.4673	26.5204	0.053061	NOTE	G#5	847.605
+182	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	26.5204	26.6429	0.12245	NOTE	G5	769.148
+183	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	26.6429	26.7694	0.12653	NOTE	F#5	722.787
+184	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	26.7694	26.8041	0.034694	ct	G5	803.447
+185	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	26.8041	26.9214	0.11735	NOTE	G5	774.44
+186	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	26.9214	27.1276	0.20612	NOTE	E5	647.824
+187	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	27.1276	27.3255	0.19796	NOTE	F#5	719.388
+188	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	27.3255	27.398	0.072449	NOTE	G5	769.104
+189	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	27.398	27.4888	0.090816	NOTE	A5	869.768
+190	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	27.4888	27.5286	0.039796	ct	Bb5	942.56
+191	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	27.5286	27.6408	0.11224	NOTE	A5	868.055
+192	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	27.6408	27.7939	0.15306	NOTE	G5	775.334
+193	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	27.7939	27.9449	0.15102	NOTE	A5	867.749
+194	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	27.9449	28.0143	0.069388	ct	C6	1047.83
+195	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	28.0143	28.1347	0.12041	NOTE	B5	964.379
+196	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	28.1347	28.2969	0.16224	NOTE	G5	771.563
+197	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	28.2969	28.4633	0.16633	NOTE	E5	652.442
+198	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	28.4633	28.6429	0.17959	NOTE	G5	764.755
+199	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	28.6429	28.8153	0.17245	NOTE	F#5	724.099
+200	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	28.8153	28.998	0.18265	NOTE	G5	770.937
+201	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	28.998	29.0571	0.059184	str	F5	699.777
+202	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	29.0571	29.1888	0.13163	NOTE	F#5	719.931
+203	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	29.1888	29.3224	0.13367	NOTE	G5	766.087
+204	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	29.3224	29.4704	0.14796	NOTE	E5	648.264
+205	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	29.4704	29.6306	0.1602	NOTE	D5	579.805
+206	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	29.6306	29.8337	0.20306	NOTE	B4	483.27
+207	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	29.8337	29.9765	0.14286	NOTE	F#4	373.068
+208	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	29.9765	30.0347	0.058163	ct	A4	433.748
+209	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	30.0347	30.0929	0.058163	NOTE	C5	519.781
+210	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	30.0929	30.2031	0.1102	NOTE	A4	432.21
+211	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	30.2031	30.3051	0.10204	NOTE	F4	355.005
+212	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	30.3051	30.4735	0.16837	NOTE	D4	286.342
+213	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	30.4735	30.5918	0.11837	NOTE	G5	768.573
+214	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	30.5918	30.849	0.25714	BREATH	BREATH	0
+215	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	30.849	31.0255	0.17653	NOTE	G5	767.636
+216	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.0255	31.2102	0.18469	NOTE	E5	646.917
+217	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.2102	31.3561	0.14592	NOTE	F#5	720.865
+218	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.3561	31.4827	0.12653	NOTE	G5	772.362
+219	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.4827	31.5439	0.061224	ct	A5	876.327
+220	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.5439	31.6	0.056122	NOTE	Bb5	950.945
+221	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.6	31.7143	0.11429	NOTE	A5	872.09
+222	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.7143	31.8449	0.13061	NOTE	G5	776.29
+223	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.8449	31.9918	0.14694	NOTE	A5	867.396
+224	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	31.9918	32.0673	0.07551	ct	C6	1052.68
+225	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	32.0673	32.198	0.13061	NOTE	B5	967.037
+226	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	32.198	32.3367	0.13878	NOTE	G5	773.745
+227	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	32.3367	32.4888	0.15204	NOTE	E5	653.794
+228	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	32.4888	32.5929	0.10408	NOTE	G5	767.667
+229	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	32.5929	32.8602	0.26735	BREATH	BREATH	0
+230	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	32.8602	33.0224	0.16224	NOTE	E5	647.535
+231	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	33.0224	33.1867	0.16429	NOTE	D5	579.971
+232	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	33.1867	33.3153	0.12857	NOTE	B4	489.377
+233	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	33.3153	33.5337	0.21837	NOTE	A4	432.997
+234	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	33.5337	33.5847	0.05102	ct	C5	531.325
+235	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	33.5847	33.7031	0.11837	NOTE	B4	483.803
+236	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	33.7031	33.8673	0.16429	NOTE	G4	384.273
+237	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	33.8673	34.0286	0.16122	NOTE	F4	358.282
+238	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	34.0286	34.151	0.12245	NOTE	G4	384.583
+239	McD_DarbysFarewell_Tk7Tu1R1_DominicsFarewellToCashel.txt	34.151	34.3816	0.23061	BREATH	BREATH	0

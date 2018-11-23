@@ -1,258 +1,258 @@
-1	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.056	2.216	0.16	NOTE	B4	500.249	1
-2	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.222	2.356	0.134	shRoll_ct	G4	392.845	5
-3	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.356	2.414	0.058	shRoll_nt	Bb4	456.567	6
-4	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.414	2.462	0.048	shRoll_str	G4	391.689	6
-5	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.476	2.534	0.058	shRoll_nt	F#4	380.312	6
-6	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.538	2.666	0.128	NOTE	G4	394.005	1
-7	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.668	2.79	0.122	NOTE	D4	291.698	1
-8	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.79	2.918	0.128	shRoll_ct	G5	780.687	5
-9	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.918	2.958	0.04	shRoll_nt	A5	886.176	6
-10	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.96	3.002	0.042	shRoll_str	G5	785.303	6
-11	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.016	3.058	0.042	shRoll_nt	G5	767.002	6
-12	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.058	3.176	0.118	NOTE	G5	787.621	1
-13	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.224	3.342	0.118	NOTE	A5	873.212	1
-14	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.342	3.48	0.138	NOTE	F#5	740.348	1
-15	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.48	3.524	0.044	shRoll_ct	A5	865.525	5
-16	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.538	3.6	0.062	shRoll_nt	F#5	733.83	6
-17	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.602	3.64	0.038	shRoll_str	E5	667.78	6
-18	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.64	3.71	0.07	shRoll_nt	F#5	735.996	6
-19	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.71	3.85	0.14	NOTE	D5	590.025	1
-20	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.85	3.962	0.112	NOTE	C5	512.185	1
-21	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.97	4.046	0.076	ct	C#5	554.612	2
-22	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.046	4.118	0.072	NOTE	C5	535.338	1
-23	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.118	4.212	0.094	NOTE	A4	447.243	1
-24	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.24	4.36	0.12	NOTE	B4	497.309	1
-25	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.38	4.504	0.124	NOTE	G4	387.098	1
-26	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.504	4.548	0.044	shRoll_ct	A4	447.243	5
-27	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.566	4.632	0.066	shRoll_nt	G4	387.098	6
-28	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.634	4.676	0.042	shRoll_str	F#4	369.266	6
-29	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.678	4.722	0.044	shRoll_nt	G4	388.241	6
-30	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.722	4.908	0.186	NOTE	D4	292.559	1
-31	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.916	5.026	0.11	BREATH	BREATH	0	4
-32	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.038	5.082	0.044	shRoll_ct	A5	873.212	5
-33	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.082	5.152	0.07	shRoll_nt	G5	792.278	6
-34	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.152	5.184	0.032	shRoll_str	G5	762.494	6
-35	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.202	5.31	0.108	shRoll_nt	G5	787.621	6
-36	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.312	5.424	0.112	NOTE	F#5	742.533	1
-37	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.424	5.542	0.118	NOTE	D5	591.767	1
-38	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.562	5.698	0.136	NOTE	C#5	548.111	1
-39	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.698	5.856	0.158	NOTE	A4	447.243	1
-40	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.88	5.986	0.106	lngRoll_nt	G4	391.689	6
-41	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.9947	6.04	0.045333	lngRoll_ct	G#4	410.603	6
-42	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.04	6.1147	0.074667	lngRoll_nt	G4	395.168	6
-43	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.1147	6.1627	0.048	lngRoll_str	G4	384.823	6
-44	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.1627	6.2427	0.08	lngRoll_nt	G4	394.005	6
-45	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.2507	6.3653	0.11467	BREATH	BREATH	0	4
-46	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.408	6.536	0.128	NOTE	B4	495.845	1
-47	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.5413	6.6533	0.112	NOTE	G4	396.334	1
-48	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.656	6.7173	0.061333	shRoll_ct	A4	447.243	5
-49	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.7173	6.7947	0.077333	shRoll_nt	G4	397.504	6
-50	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.7973	6.8427	0.045333	shRoll_str	G4	387.098	6
-51	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.8427	6.9413	0.098667	shRoll_nt	G4	396.334	6
-52	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.9547	7.0747	0.12	NOTE	D4	294.289	1
-53	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.0747	7.208	0.13333	NOTE	G4	396.334	1
-54	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.2107	7.272	0.061333	shRoll_ct	A4	438.11	5
-55	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.2853	7.3467	0.061333	shRoll_nt	G4	397.504	6
-56	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.3547	7.4	0.045333	shRoll_str	G4	381.435	6
-57	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.4	7.4853	0.085333	shRoll_nt	G4	396.334	6
-58	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.4853	7.6027	0.11733	NOTE	A4	442.002	1
-59	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.6027	7.7013	0.098667	NOTE	F#4	363.864	1
-60	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.7013	7.784	0.082667	shRoll_ct	A5	873.212	5
-61	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.7947	7.8533	0.058667	shRoll_nt	F#5	746.923	6
-62	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.8587	7.904	0.045333	shRoll_str	F5	712.516	6
-63	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.9253	7.9653	0.04	shRoll_nt	F#5	744.725	6
-64	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.9787	8.0453	0.066667	shRoll_ct	F#5	746.923	5
-65	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.0693	8.152	0.082667	shRoll_nt	F#5	738.169	6
-66	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.176	8.2213	0.045333	shRoll_str	F#5	725.229	6
-67	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.2347	8.336	0.10133	shRoll_nt	F#5	733.83	6
-68	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.352	8.456	0.104	BREATH	BREATH	0	4
-69	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.4933	8.6267	0.13333	NOTE	B4	495.845	1
-70	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.656	8.7733	0.11733	NOTE	G4	387.098	1
-71	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.7813	8.832	0.050667	shRoll_ct	G#4	417.929	5
-72	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.8347	8.8747	0.04	shRoll_nt	G4	388.241	6
-73	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.8827	8.92	0.037333	shRoll_str	F#4	378.077	6
-74	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.9307	9.016	0.085333	shRoll_nt	G4	389.387	6
-75	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.016	9.136	0.12	NOTE	D4	290.84	1
-76	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.136	9.2533	0.11733	NOTE	G5	771.537	1
-77	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.2613	9.3227	0.061333	shRoll_ct	A5	880.967	5
-78	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.3253	9.4187	0.093333	shRoll_nt	G5	771.537	6
-79	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.4187	9.4587	0.04	shRoll_str	F#5	729.517	6
-80	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.4587	9.528	0.069333	shRoll_nt	G5	780.687	6
-81	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.528	9.656	0.128	NOTE	F#5	740.348	1
-82	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.656	9.7733	0.11733	NOTE	D5	595.265	1
-83	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.7787	9.9147	0.136	NOTE	C#5	543.286	1
-84	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.9413	10.0587	0.11733	NOTE	A4	445.927	1
-85	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.0773	10.1867	0.10933	lngRoll_nt	G4	387.098	6
-86	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.1947	10.2293	0.034667	lngRoll_ct	G#4	420.4	6
-87	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.2293	10.312	0.082667	lngRoll_nt	G4	387.098	6
-88	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.328	10.3733	0.045333	lngRoll_str	F#4	379.193	6
-89	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.376	10.5067	0.13067	lngRoll_nt	G4	388.241	6
-90	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.544	10.688	0.144	NOTE	D5	588.289	1
-91	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.6907	10.8027	0.112	NOTE	G5	776.099	1
-92	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.8107	10.8747	0.064	ct	B5	991.203	2
-93	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.888	10.9787	0.090667	NOTE	G5	778.389	1
-94	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.9787	11.0613	0.082667	NOTE	D5	586.557	1
-95	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.0613	11.1893	0.128	NOTE	G5	771.537	1
-96	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.2	11.3147	0.11467	NOTE	B5	988.286	1
-97	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.32	11.4373	0.11733	NOTE	G5	787.621	1
-98	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.4507	11.584	0.13333	NOTE	F#5	733.83	1
-99	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.584	11.6827	0.098667	NOTE	D5	588.289	1
-100	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.6827	11.8293	0.14667	NOTE	G5	785.303	1
-101	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.8427	11.8933	0.050667	shRoll_ct	A5	878.375	5
-102	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.9067	11.952	0.045333	shRoll_nt	G5	785.303	6
-103	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.9573	11.992	0.034667	shRoll_str	G5	762.494	6
-104	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.992	12.0773	0.085333	shRoll_nt	G5	778.389	6
-105	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	12.0853	12.184	0.098667	NOTE	A5	883.568	1
-106	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	12.2	12.3467	0.14667	BREATH	BREATH	0	4
-107	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	12.3733	12.5147	0.14133	NOTE	C5	535.338	1
-108	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	12.5147	12.6533	0.13867	NOTE	A4	440.701	1
-109	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	12.656	12.7493	0.093333	NOTE	D4	289.13	1
-110	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	12.7493	12.856	0.10667	NOTE	G5	782.992	1
-111	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	12.856	12.912	0.056	shRoll_ct	A5	886.176	5
-112	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	12.912	13.0027	0.090667	shRoll_nt	G5	785.303	6
-113	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.008	13.0533	0.045333	shRoll_str	G5	769.266	6
-114	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.0613	13.152	0.090667	shRoll_nt	G5	787.621	6
-115	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.1733	13.2613	0.088	lngRoll_nt	B5	979.586	6
-116	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.2667	13.304	0.037333	lngRoll_ct	C6	1073.31	6
-117	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.3067	13.3787	0.072	lngRoll_nt	B5	991.203	6
-118	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.384	13.416	0.032	lngRoll_str	Bb5	959.582	6
-119	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.416	13.5387	0.12267	lngRoll_nt	B5	997.063	6
-120	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.5547	13.6453	0.090667	BREATH	BREATH	0	4
-121	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.648	13.688	0.04	ct	G#5	845.355	2
-122	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.7013	13.8	0.098667	NOTE	F#5	740.348	1
-123	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.8133	13.912	0.098667	NOTE	D5	597.023	1
-124	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.9493	14.0453	0.096	NOTE	C5	538.503	1
-125	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.0533	14.1627	0.10933	NOTE	A4	452.548	1
-126	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.1733	14.216	0.042667	ct	B4	488.592	2
-127	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.216	14.3013	0.085333	NOTE	A4	448.564	1
-128	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.304	14.4373	0.13333	NOTE	G4	388.241	1
-129	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.448	14.5547	0.10667	NOTE	B4	495.845	1
-130	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.56	14.688	0.128	NOTE	D5	600.552	1
-131	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.6987	14.808	0.10933	NOTE	G5	780.687	1
-132	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.8107	14.9333	0.12267	NOTE	B5	973.828	1
-133	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.9467	15.0693	0.12267	NOTE	G5	785.303	1
-134	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.088	15.1867	0.098667	NOTE	F#5	733.83	1
-135	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.1867	15.3093	0.12267	crann_nt	D5	591.767	6
-136	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.3093	15.3547	0.045333	crann_ct	F#5	729.517	6
-137	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.36	15.4	0.04	crann_nt	D5	591.767	6
-138	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.408	15.44	0.032	crann_ct	E5	667.78	6
-139	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.4453	15.4933	0.048	crann_nt	D5	602.325	6
-140	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.4987	15.552	0.053333	crann_ct	E5	667.78	6
-141	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.5627	15.6613	0.098667	crann_nt	D5	591.767	6
-142	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.696	15.776	0.08	NOTE	C5	515.214	1
-143	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.776	15.8507	0.074667	NOTE	C#5	557.891	1
-144	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.8587	15.968	0.10933	NOTE	D5	597.023	1
-145	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.976	16.1413	0.16533	NOTE	G5	792.278	1
-146	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.1413	16.256	0.11467	NOTE	B4	498.777	1
-147	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.256	16.3947	0.13867	NOTE	A4	447.243	1
-148	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.3973	16.5147	0.11733	lngRoll_nt	F#4	363.864	6
-149	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.5147	16.5627	0.048	lngRoll_ct	G4	383.69	6
-150	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.5627	16.6373	0.074667	lngRoll_nt	F#4	364.938	6
-151	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.64	16.6827	0.042667	lngRoll_str	F4	357.486	6
-152	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.6827	16.776	0.093333	lngRoll_nt	F#4	364.938	6
-153	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.776	16.9013	0.12533	lngRoll_nt	G4	387.098	6
-154	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.92	16.9547	0.034667	lngRoll_ct	G#4	419.163	6
-155	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.9547	17.024	0.069333	lngRoll_nt	G4	390.536	6
-156	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.0267	17.0693	0.042667	lngRoll_str	F#4	372.546	6
-157	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.0853	17.168	0.082667	lngRoll_nt	G4	389.387	6
-158	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.176	17.264	0.088	BREATH	BREATH	0	4
-159	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.2693	17.4	0.13067	NOTE	C5	510.678	1
-160	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.4	17.5012	0.10125	NOTE	C#5	559.537	1
-161	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.5012	17.5987	0.0975	NOTE	D5	588.289	1
-162	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.61	17.7112	0.10125	NOTE	E5	663.855	1
-163	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.7112	17.8313	0.12	NOTE	G5	780.687	1
-164	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.8313	17.8912	0.06	ct	A5	870.642	2
-165	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.895	18.0038	0.10875	NOTE	F#5	740.348	1
-166	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.0038	18.12	0.11625	NOTE	D5	590.025	1
-167	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.12	18.2138	0.09375	NOTE	C#5	540.093	1
-168	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.2138	18.3375	0.12375	NOTE	A4	444.615	1
-169	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.3375	18.4575	0.12	lngRoll_nt	G4	390.536	6
-170	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.4612	18.5063	0.045	lngRoll_ct	A4	434.254	6
-171	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.5138	18.6113	0.0975	lngRoll_nt	G4	391.689	6
-172	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.6187	18.6525	0.03375	lngRoll_str	F#4	376.964	6
-173	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.6638	18.7312	0.0675	lngRoll_nt	G4	391.689	6
-174	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.7462	18.8362	0.09	BREATH	BREATH	0	4
-175	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.8362	19.0012	0.165	NOTE	D5	586.557	1
-176	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.0012	19.1212	0.12	NOTE	G5	785.303	1
-177	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.1212	19.1887	0.0675	shRoll_ct	A5	888.792	5
-178	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.1887	19.2637	0.075	shRoll_nt	G5	789.946	6
-179	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.2638	19.3088	0.045	shRoll_str	G5	769.266	6
-180	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.3163	19.38	0.06375	shRoll_nt	G5	787.621	6
-181	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.395	19.4587	0.06375	lngRoll_nt	G5	785.303	6
-182	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.4587	19.515	0.05625	lngRoll_ct	A5	880.967	6
-183	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.5188	19.6163	0.0975	lngRoll_nt	G5	787.621	6
-184	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.62	19.6837	0.06375	lngRoll_str	G5	767.002	6
-185	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.6837	19.7662	0.0825	lngRoll_nt	G5	785.303	6
-186	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.7925	19.8788	0.08625	BREATH	BREATH	0	4
-187	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.8788	20.0175	0.13875	NOTE	D5	584.831	1
-188	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.0175	20.1337	0.11625	NOTE	G5	782.992	1
-189	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.1337	20.2237	0.09	shRoll_ct	A5	899.333	5
-190	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.2237	20.3325	0.10875	shRoll_nt	G5	782.992	6
-191	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.3325	20.3812	0.04875	shRoll_str	F#5	760.25	6
-192	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.3888	20.4262	0.0375	shRoll_nt	G5	787.621	6
-193	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.4262	20.5575	0.13125	NOTE	A4	447.243	1
-194	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.5575	20.6663	0.10875	NOTE	B4	500.249	1
-195	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.6775	20.76	0.0825	NOTE	C#5	552.979	1
-196	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.76	20.8275	0.0675	NOTE	B4	500.249	1
-197	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.8313	20.9025	0.07125	NOTE	A4	444.615	1
-198	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.9025	21.0338	0.13125	NOTE	D5	588.289	1
-199	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.0338	21.1388	0.105	NOTE	G5	782.992	1
-200	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.1388	21.1913	0.0525	shRoll_ct	A5	894.047	5
-201	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.1913	21.2888	0.0975	shRoll_nt	G5	778.389	6
-202	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.3075	21.3412	0.03375	shRoll_str	F#5	746.923	6
-203	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.3412	21.4312	0.09	shRoll_nt	G5	785.303	6
-204	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.4312	21.5287	0.0975	NOTE	B5	1002.96	1
-205	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.5437	21.6412	0.0975	BREATH	BREATH	0	4
-206	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.6675	21.7125	0.045	ct	B5	1008.89	2
-207	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.7237	21.795	0.07125	NOTE	A5	880.967	1
-208	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.8062	21.9262	0.12	NOTE	G5	792.278	1
-209	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.9262	22.0312	0.105	NOTE	F#5	742.533	1
-210	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.0312	22.0463	0.015	NOTE	D5	600.552	1
-211	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.0463	22.1663	0.12	NOTE	D5	600.552	1
-212	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.185	22.3012	0.11625	NOTE	C#5	556.249	1
-213	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.3012	22.4363	0.135	NOTE	A4	451.216	1
-214	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.4363	22.5113	0.075	ct	B4	497.309	2
-215	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.5113	22.635	0.12375	NOTE	A4	449.888	1
-216	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.635	22.71	0.075	NOTE	G4	392.845	1
-217	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.71	22.8075	0.0975	NOTE	B4	495.845	1
-218	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.8075	22.905	0.0975	NOTE	D5	586.557	1
-219	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.905	23.0813	0.17625	NOTE	G5	780.687	1
-220	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.1	23.2087	0.10875	BREATH	BREATH	0	4
-221	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.2087	23.265	0.05625	ct	Bb5	907.32	2
-222	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.265	23.3775	0.1125	NOTE	G5	782.992	1
-223	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.3775	23.4975	0.12	NOTE	F#5	738.169	1
-224	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.4975	23.595	0.0975	NOTE	D5	593.513	1
-225	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.595	23.6925	0.0975	NOTE	F#5	740.348	1
-226	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.6925	23.8313	0.13875	NOTE	D5	595.265	1
-227	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.835	23.9588	0.12375	NOTE	C#5	556.249	1
-228	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.9662	24.0675	0.10125	NOTE	B4	503.207	1
-229	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.075	24.18	0.105	NOTE	C#5	552.979	1
-230	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.1988	24.2662	0.0675	NOTE	D5	586.557	1
-231	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.2662	24.3788	0.1125	NOTE	G5	785.303	1
-232	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.42	24.5063	0.08625	NOTE	B4	500.249	1
-233	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.5063	24.6187	0.1125	NOTE	A4	451.216	1
-234	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.6187	24.765	0.14625	NOTE	F#4	364.938	1
-235	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.7763	24.84	0.06375	shRoll_ct	F#4	374.749	5
-236	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.84	24.9225	0.0825	shRoll_nt	F#4	364.938	6
-237	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.9375	24.99	0.0525	shRoll_str	F4	356.434	6
-238	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.99	25.14	0.15	shRoll_nt	F#4	368.179	6
-239	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	25.1438	25.2713	0.1275	NOTE	B4	501.726	1
-240	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	25.2825	25.4288	0.14625	NOTE	A4	444.615	1
-241	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	25.4288	25.5375	0.10875	NOTE	C#5	541.687	1
-242	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	25.5375	25.62	0.0825	NOTE	B4	500.249	1
-243	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	25.6425	25.7812	0.13875	BREATH	BREATH	0	4
-244	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	25.8075	25.9088	0.10125	NOTE	D5	590.025	1
-245	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	25.9425	26.0512	0.10875	NOTE	G5	780.687	1
-246	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.0512	26.1713	0.12	NOTE	F#5	738.169	1
-247	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.1713	26.3212	0.15	NOTE	D5	593.513	1
-248	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.3212	26.4337	0.1125	NOTE	C#5	543.286	1
-249	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.4337	26.5837	0.15	NOTE	A4	444.615	1
-250	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.5837	26.7	0.11625	lngRoll_nt	G4	388.241	6
-251	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.7	26.76	0.06	lngRoll_ct	G#4	404.596	6
-252	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.7825	26.865	0.0825	lngRoll_nt	G4	389.387	6
-253	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.865	26.91	0.045	lngRoll_str	F#4	379.193	6
-254	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.925	27.0862	0.16125	lngRoll_nt	G4	389.387	6
-								2
-								1
-								3
-								1
+1	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.056	2.216	0.16	NOTE	B4	500.249
+2	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.222	2.356	0.134	shRoll_ct	G4	392.845
+3	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.356	2.414	0.058	shRoll_nt	Bb4	456.567
+4	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.414	2.462	0.048	shRoll_str	G4	391.689
+5	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.476	2.534	0.058	shRoll_nt	F#4	380.312
+6	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.538	2.666	0.128	NOTE	G4	394.005
+7	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.668	2.79	0.122	NOTE	D4	291.698
+8	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.79	2.918	0.128	shRoll_ct	G5	780.687
+9	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.918	2.958	0.04	shRoll_nt	A5	886.176
+10	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	2.96	3.002	0.042	shRoll_str	G5	785.303
+11	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.016	3.058	0.042	shRoll_nt	G5	767.002
+12	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.058	3.176	0.118	NOTE	G5	787.621
+13	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.224	3.342	0.118	NOTE	A5	873.212
+14	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.342	3.48	0.138	NOTE	F#5	740.348
+15	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.48	3.524	0.044	shRoll_ct	A5	865.525
+16	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.538	3.6	0.062	shRoll_nt	F#5	733.83
+17	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.602	3.64	0.038	shRoll_str	E5	667.78
+18	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.64	3.71	0.07	shRoll_nt	F#5	735.996
+19	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.71	3.85	0.14	NOTE	D5	590.025
+20	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.85	3.962	0.112	NOTE	C5	512.185
+21	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	3.97	4.046	0.076	ct	C#5	554.612
+22	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.046	4.118	0.072	NOTE	C5	535.338
+23	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.118	4.212	0.094	NOTE	A4	447.243
+24	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.24	4.36	0.12	NOTE	B4	497.309
+25	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.38	4.504	0.124	NOTE	G4	387.098
+26	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.504	4.548	0.044	shRoll_ct	A4	447.243
+27	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.566	4.632	0.066	shRoll_nt	G4	387.098
+28	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.634	4.676	0.042	shRoll_str	F#4	369.266
+29	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.678	4.722	0.044	shRoll_nt	G4	388.241
+30	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.722	4.908	0.186	NOTE	D4	292.559
+31	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	4.916	5.026	0.11	BREATH	BREATH	0
+32	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.038	5.082	0.044	shRoll_ct	A5	873.212
+33	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.082	5.152	0.07	shRoll_nt	G5	792.278
+34	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.152	5.184	0.032	shRoll_str	G5	762.494
+35	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.202	5.31	0.108	shRoll_nt	G5	787.621
+36	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.312	5.424	0.112	NOTE	F#5	742.533
+37	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.424	5.542	0.118	NOTE	D5	591.767
+38	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.562	5.698	0.136	NOTE	C#5	548.111
+39	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.698	5.856	0.158	NOTE	A4	447.243
+40	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.88	5.986	0.106	lngRoll_nt	G4	391.689
+41	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	5.9947	6.04	0.045333	lngRoll_ct	G#4	410.603
+42	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.04	6.1147	0.074667	lngRoll_nt	G4	395.168
+43	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.1147	6.1627	0.048	lngRoll_str	G4	384.823
+44	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.1627	6.2427	0.08	lngRoll_nt	G4	394.005
+45	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.2507	6.3653	0.11467	BREATH	BREATH	0
+46	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.408	6.536	0.128	NOTE	B4	495.845
+47	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.5413	6.6533	0.112	NOTE	G4	396.334
+48	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.656	6.7173	0.061333	shRoll_ct	A4	447.243
+49	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.7173	6.7947	0.077333	shRoll_nt	G4	397.504
+50	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.7973	6.8427	0.045333	shRoll_str	G4	387.098
+51	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.8427	6.9413	0.098667	shRoll_nt	G4	396.334
+52	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	6.9547	7.0747	0.12	NOTE	D4	294.289
+53	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.0747	7.208	0.13333	NOTE	G4	396.334
+54	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.2107	7.272	0.061333	shRoll_ct	A4	438.11
+55	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.2853	7.3467	0.061333	shRoll_nt	G4	397.504
+56	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.3547	7.4	0.045333	shRoll_str	G4	381.435
+57	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.4	7.4853	0.085333	shRoll_nt	G4	396.334
+58	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.4853	7.6027	0.11733	NOTE	A4	442.002
+59	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.6027	7.7013	0.098667	NOTE	F#4	363.864
+60	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.7013	7.784	0.082667	shRoll_ct	A5	873.212
+61	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.7947	7.8533	0.058667	shRoll_nt	F#5	746.923
+62	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.8587	7.904	0.045333	shRoll_str	F5	712.516
+63	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.9253	7.9653	0.04	shRoll_nt	F#5	744.725
+64	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	7.9787	8.0453	0.066667	shRoll_ct	F#5	746.923
+65	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.0693	8.152	0.082667	shRoll_nt	F#5	738.169
+66	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.176	8.2213	0.045333	shRoll_str	F#5	725.229
+67	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.2347	8.336	0.10133	shRoll_nt	F#5	733.83
+68	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.352	8.456	0.104	BREATH	BREATH	0
+69	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.4933	8.6267	0.13333	NOTE	B4	495.845
+70	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.656	8.7733	0.11733	NOTE	G4	387.098
+71	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.7813	8.832	0.050667	shRoll_ct	G#4	417.929
+72	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.8347	8.8747	0.04	shRoll_nt	G4	388.241
+73	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.8827	8.92	0.037333	shRoll_str	F#4	378.077
+74	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	8.9307	9.016	0.085333	shRoll_nt	G4	389.387
+75	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.016	9.136	0.12	NOTE	D4	290.84
+76	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.136	9.2533	0.11733	NOTE	G5	771.537
+77	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.2613	9.3227	0.061333	shRoll_ct	A5	880.967
+78	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.3253	9.4187	0.093333	shRoll_nt	G5	771.537
+79	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.4187	9.4587	0.04	shRoll_str	F#5	729.517
+80	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.4587	9.528	0.069333	shRoll_nt	G5	780.687
+81	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.528	9.656	0.128	NOTE	F#5	740.348
+82	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.656	9.7733	0.11733	NOTE	D5	595.265
+83	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.7787	9.9147	0.136	NOTE	C#5	543.286
+84	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	9.9413	10.0587	0.11733	NOTE	A4	445.927
+85	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.0773	10.1867	0.10933	lngRoll_nt	G4	387.098
+86	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.1947	10.2293	0.034667	lngRoll_ct	G#4	420.4
+87	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.2293	10.312	0.082667	lngRoll_nt	G4	387.098
+88	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.328	10.3733	0.045333	lngRoll_str	F#4	379.193
+89	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.376	10.5067	0.13067	lngRoll_nt	G4	388.241
+90	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.544	10.688	0.144	NOTE	D5	588.289
+91	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.6907	10.8027	0.112	NOTE	G5	776.099
+92	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.8107	10.8747	0.064	ct	B5	991.203
+93	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.888	10.9787	0.090667	NOTE	G5	778.389
+94	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	10.9787	11.0613	0.082667	NOTE	D5	586.557
+95	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.0613	11.1893	0.128	NOTE	G5	771.537
+96	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.2	11.3147	0.11467	NOTE	B5	988.286
+97	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.32	11.4373	0.11733	NOTE	G5	787.621
+98	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.4507	11.584	0.13333	NOTE	F#5	733.83
+99	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.584	11.6827	0.098667	NOTE	D5	588.289
+100	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.6827	11.8293	0.14667	NOTE	G5	785.303
+101	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.8427	11.8933	0.050667	shRoll_ct	A5	878.375
+102	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.9067	11.952	0.045333	shRoll_nt	G5	785.303
+103	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.9573	11.992	0.034667	shRoll_str	G5	762.494
+104	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	11.992	12.0773	0.085333	shRoll_nt	G5	778.389
+105	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	12.0853	12.184	0.098667	NOTE	A5	883.568
+106	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	12.2	12.3467	0.14667	BREATH	BREATH	0
+107	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	12.3733	12.5147	0.14133	NOTE	C5	535.338
+108	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	12.5147	12.6533	0.13867	NOTE	A4	440.701
+109	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	12.656	12.7493	0.093333	NOTE	D4	289.13
+110	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	12.7493	12.856	0.10667	NOTE	G5	782.992
+111	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	12.856	12.912	0.056	shRoll_ct	A5	886.176
+112	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	12.912	13.0027	0.090667	shRoll_nt	G5	785.303
+113	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.008	13.0533	0.045333	shRoll_str	G5	769.266
+114	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.0613	13.152	0.090667	shRoll_nt	G5	787.621
+115	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.1733	13.2613	0.088	lngRoll_nt	B5	979.586
+116	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.2667	13.304	0.037333	lngRoll_ct	C6	1073.31
+117	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.3067	13.3787	0.072	lngRoll_nt	B5	991.203
+118	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.384	13.416	0.032	lngRoll_str	Bb5	959.582
+119	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.416	13.5387	0.12267	lngRoll_nt	B5	997.063
+120	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.5547	13.6453	0.090667	BREATH	BREATH	0
+121	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.648	13.688	0.04	ct	G#5	845.355
+122	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.7013	13.8	0.098667	NOTE	F#5	740.348
+123	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.8133	13.912	0.098667	NOTE	D5	597.023
+124	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	13.9493	14.0453	0.096	NOTE	C5	538.503
+125	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.0533	14.1627	0.10933	NOTE	A4	452.548
+126	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.1733	14.216	0.042667	ct	B4	488.592
+127	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.216	14.3013	0.085333	NOTE	A4	448.564
+128	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.304	14.4373	0.13333	NOTE	G4	388.241
+129	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.448	14.5547	0.10667	NOTE	B4	495.845
+130	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.56	14.688	0.128	NOTE	D5	600.552
+131	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.6987	14.808	0.10933	NOTE	G5	780.687
+132	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.8107	14.9333	0.12267	NOTE	B5	973.828
+133	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	14.9467	15.0693	0.12267	NOTE	G5	785.303
+134	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.088	15.1867	0.098667	NOTE	F#5	733.83
+135	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.1867	15.3093	0.12267	crann_nt	D5	591.767
+136	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.3093	15.3547	0.045333	crann_ct	F#5	729.517
+137	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.36	15.4	0.04	crann_nt	D5	591.767
+138	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.408	15.44	0.032	crann_ct	E5	667.78
+139	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.4453	15.4933	0.048	crann_nt	D5	602.325
+140	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.4987	15.552	0.053333	crann_ct	E5	667.78
+141	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.5627	15.6613	0.098667	crann_nt	D5	591.767
+142	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.696	15.776	0.08	NOTE	C5	515.214
+143	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.776	15.8507	0.074667	NOTE	C#5	557.891
+144	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.8587	15.968	0.10933	NOTE	D5	597.023
+145	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	15.976	16.1413	0.16533	NOTE	G5	792.278
+146	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.1413	16.256	0.11467	NOTE	B4	498.777
+147	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.256	16.3947	0.13867	NOTE	A4	447.243
+148	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.3973	16.5147	0.11733	lngRoll_nt	F#4	363.864
+149	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.5147	16.5627	0.048	lngRoll_ct	G4	383.69
+150	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.5627	16.6373	0.074667	lngRoll_nt	F#4	364.938
+151	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.64	16.6827	0.042667	lngRoll_str	F4	357.486
+152	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.6827	16.776	0.093333	lngRoll_nt	F#4	364.938
+153	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.776	16.9013	0.12533	lngRoll_nt	G4	387.098
+154	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.92	16.9547	0.034667	lngRoll_ct	G#4	419.163
+155	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	16.9547	17.024	0.069333	lngRoll_nt	G4	390.536
+156	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.0267	17.0693	0.042667	lngRoll_str	F#4	372.546
+157	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.0853	17.168	0.082667	lngRoll_nt	G4	389.387
+158	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.176	17.264	0.088	BREATH	BREATH	0
+159	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.2693	17.4	0.13067	NOTE	C5	510.678
+160	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.4	17.5012	0.10125	NOTE	C#5	559.537
+161	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.5012	17.5987	0.0975	NOTE	D5	588.289
+162	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.61	17.7112	0.10125	NOTE	E5	663.855
+163	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.7112	17.8313	0.12	NOTE	G5	780.687
+164	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.8313	17.8912	0.06	ct	A5	870.642
+165	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	17.895	18.0038	0.10875	NOTE	F#5	740.348
+166	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.0038	18.12	0.11625	NOTE	D5	590.025
+167	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.12	18.2138	0.09375	NOTE	C#5	540.093
+168	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.2138	18.3375	0.12375	NOTE	A4	444.615
+169	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.3375	18.4575	0.12	lngRoll_nt	G4	390.536
+170	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.4612	18.5063	0.045	lngRoll_ct	A4	434.254
+171	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.5138	18.6113	0.0975	lngRoll_nt	G4	391.689
+172	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.6187	18.6525	0.03375	lngRoll_str	F#4	376.964
+173	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.6638	18.7312	0.0675	lngRoll_nt	G4	391.689
+174	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.7462	18.8362	0.09	BREATH	BREATH	0
+175	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	18.8362	19.0012	0.165	NOTE	D5	586.557
+176	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.0012	19.1212	0.12	NOTE	G5	785.303
+177	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.1212	19.1887	0.0675	shRoll_ct	A5	888.792
+178	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.1887	19.2637	0.075	shRoll_nt	G5	789.946
+179	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.2638	19.3088	0.045	shRoll_str	G5	769.266
+180	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.3163	19.38	0.06375	shRoll_nt	G5	787.621
+181	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.395	19.4587	0.06375	lngRoll_nt	G5	785.303
+182	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.4587	19.515	0.05625	lngRoll_ct	A5	880.967
+183	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.5188	19.6163	0.0975	lngRoll_nt	G5	787.621
+184	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.62	19.6837	0.06375	lngRoll_str	G5	767.002
+185	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.6837	19.7662	0.0825	lngRoll_nt	G5	785.303
+186	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.7925	19.8788	0.08625	BREATH	BREATH	0
+187	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	19.8788	20.0175	0.13875	NOTE	D5	584.831
+188	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.0175	20.1337	0.11625	NOTE	G5	782.992
+189	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.1337	20.2237	0.09	shRoll_ct	A5	899.333
+190	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.2237	20.3325	0.10875	shRoll_nt	G5	782.992
+191	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.3325	20.3812	0.04875	shRoll_str	F#5	760.25
+192	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.3888	20.4262	0.0375	shRoll_nt	G5	787.621
+193	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.4262	20.5575	0.13125	NOTE	A4	447.243
+194	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.5575	20.6663	0.10875	NOTE	B4	500.249
+195	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.6775	20.76	0.0825	NOTE	C#5	552.979
+196	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.76	20.8275	0.0675	NOTE	B4	500.249
+197	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.8313	20.9025	0.07125	NOTE	A4	444.615
+198	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	20.9025	21.0338	0.13125	NOTE	D5	588.289
+199	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.0338	21.1388	0.105	NOTE	G5	782.992
+200	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.1388	21.1913	0.0525	shRoll_ct	A5	894.047
+201	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.1913	21.2888	0.0975	shRoll_nt	G5	778.389
+202	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.3075	21.3412	0.03375	shRoll_str	F#5	746.923
+203	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.3412	21.4312	0.09	shRoll_nt	G5	785.303
+204	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.4312	21.5287	0.0975	NOTE	B5	1002.96
+205	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.5437	21.6412	0.0975	BREATH	BREATH	0
+206	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.6675	21.7125	0.045	ct	B5	1008.89
+207	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.7237	21.795	0.07125	NOTE	A5	880.967
+208	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.8062	21.9262	0.12	NOTE	G5	792.278
+209	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	21.9262	22.0312	0.105	NOTE	F#5	742.533
+210	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.0312	22.0463	0.015	NOTE	D5	600.552
+211	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.0463	22.1663	0.12	NOTE	D5	600.552
+212	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.185	22.3012	0.11625	NOTE	C#5	556.249
+213	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.3012	22.4363	0.135	NOTE	A4	451.216
+214	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.4363	22.5113	0.075	ct	B4	497.309
+215	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.5113	22.635	0.12375	NOTE	A4	449.888
+216	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.635	22.71	0.075	NOTE	G4	392.845
+217	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.71	22.8075	0.0975	NOTE	B4	495.845
+218	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.8075	22.905	0.0975	NOTE	D5	586.557
+219	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	22.905	23.0813	0.17625	NOTE	G5	780.687
+220	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.1	23.2087	0.10875	BREATH	BREATH	0
+221	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.2087	23.265	0.05625	ct	Bb5	907.32
+222	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.265	23.3775	0.1125	NOTE	G5	782.992
+223	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.3775	23.4975	0.12	NOTE	F#5	738.169
+224	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.4975	23.595	0.0975	NOTE	D5	593.513
+225	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.595	23.6925	0.0975	NOTE	F#5	740.348
+226	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.6925	23.8313	0.13875	NOTE	D5	595.265
+227	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.835	23.9588	0.12375	NOTE	C#5	556.249
+228	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	23.9662	24.0675	0.10125	NOTE	B4	503.207
+229	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.075	24.18	0.105	NOTE	C#5	552.979
+230	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.1988	24.2662	0.0675	NOTE	D5	586.557
+231	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.2662	24.3788	0.1125	NOTE	G5	785.303
+232	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.42	24.5063	0.08625	NOTE	B4	500.249
+233	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.5063	24.6187	0.1125	NOTE	A4	451.216
+234	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.6187	24.765	0.14625	NOTE	F#4	364.938
+235	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.7763	24.84	0.06375	shRoll_ct	F#4	374.749
+236	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.84	24.9225	0.0825	shRoll_nt	F#4	364.938
+237	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.9375	24.99	0.0525	shRoll_str	F4	356.434
+238	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	24.99	25.14	0.15	shRoll_nt	F#4	368.179
+239	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	25.1438	25.2713	0.1275	NOTE	B4	501.726
+240	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	25.2825	25.4288	0.14625	NOTE	A4	444.615
+241	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	25.4288	25.5375	0.10875	NOTE	C#5	541.687
+242	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	25.5375	25.62	0.0825	NOTE	B4	500.249
+243	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	25.6425	25.7812	0.13875	BREATH	BREATH	0
+244	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	25.8075	25.9088	0.10125	NOTE	D5	590.025
+245	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	25.9425	26.0512	0.10875	NOTE	G5	780.687
+246	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.0512	26.1713	0.12	NOTE	F#5	738.169
+247	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.1713	26.3212	0.15	NOTE	D5	593.513
+248	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.3212	26.4337	0.1125	NOTE	C#5	543.286
+249	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.4337	26.5837	0.15	NOTE	A4	444.615
+250	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.5837	26.7	0.11625	lngRoll_nt	G4	388.241
+251	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.7	26.76	0.06	lngRoll_ct	G#4	404.596
+252	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.7825	26.865	0.0825	lngRoll_nt	G4	389.387
+253	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.865	26.91	0.045	lngRoll_str	F#4	379.193
+254	Tan_FieldRecordings_Tk3Tu1R1_CornelFraizer.txt	26.925	27.0862	0.16125	lngRoll_nt	G4	389.387
+							
+							
+							
+							

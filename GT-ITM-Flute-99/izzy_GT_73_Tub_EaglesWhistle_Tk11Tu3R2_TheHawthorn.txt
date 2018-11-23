@@ -1,165 +1,165 @@
-1	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	0.0045351	0.1161	0.11156	NOTE	D4	287.986	1
-2	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	0.13968	0.24762	0.10794	NOTE	B4	485.145	1
-3	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	0.2576	0.42449	0.16689	NOTE	G4	385.89	1
-4	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	0.42902	0.59683	0.1678	NOTE	G4	384.773	1
-5	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	0.59683	0.71474	0.11791	NOTE	B4	480.946	1
-6	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	0.71735	0.87653	0.15918	NOTE	G4	388.132	1
-7	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	0.88776	1.0541	0.16633	NOTE	A4	430.804	1
-8	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	1.0561	1.1735	0.11735	NOTE	F#4	363.11	1
-9	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	1.1786	1.3245	0.14592	NOTE	D4	287.986	1
-10	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	1.3296	1.4949	0.16531	NOTE	D4	289.66	1
-11	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	1.499	1.6102	0.11122	NOTE	B4	483.741	1
-12	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	1.6153	1.7776	0.16224	NOTE	G4	387.009	1
-13	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	1.7857	1.9276	0.14184	NOTE	G4	385.89	1
-14	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	1.9367	2.052	0.11531	NOTE	B4	493.652	1
-15	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	2.0561	2.2153	0.15918	NOTE	D5	580.614	1
-16	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	2.2173	2.3337	0.11633	NOTE	E5	655.749	1
-17	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	2.3398	2.5051	0.16531	BREATH	BREATH	0	4
-18	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	2.5051	2.6878	0.18265	NOTE	G5	766.809	1
-19	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	2.6888	2.8296	0.14082	NOTE	D5	572.263	1
-20	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	2.8429	2.9643	0.12143	NOTE	B4	495.085	1
-21	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	2.9643	3.1296	0.16531	NOTE	G4	387.009	1
-22	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	3.1367	3.2929	0.15612	NOTE	G4	390.388	1
-23	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	3.2959	3.4102	0.11429	NOTE	B4	493.652	1
-24	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	3.4143	3.5816	0.16735	NOTE	G4	387.009	1
-25	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	3.5878	3.6214	0.033673	ct	B4	490.8	2
-26	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	3.6235	3.7408	0.11735	NOTE	A4	435.826	1
-27	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	3.7459	3.8796	0.13367	NOTE	F#4	363.11	1
-28	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	3.8898	4.0061	0.11633	NOTE	D4	289.66	1
-29	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	4.0398	4.1745	0.13469	NOTE	G5	773.504	1
-30	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	4.1806	4.3082	0.12755	NOTE	B5	969.643	1
-31	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	4.3112	4.4653	0.15408	NOTE	G5	775.748	1
-32	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	4.4724	4.6276	0.1551	NOTE	F#5	725.737	1
-33	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	4.6276	4.7357	0.10816	NOTE	A5	863.533	1
-34	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	4.7388	4.9235	0.18469	NOTE	F#5	732.073	1
-35	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	4.9429	5.1776	0.23469	NOTE	E5	659.56	1
-36	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	5.1847	5.3816	0.19694	BREATH	BREATH	0	4
-37	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	5.3816	5.5347	0.15306	NOTE	D5	572.263	1
-38	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	5.5449	5.6684	0.12347	NOTE	B4	489.38	1
-39	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	5.6704	5.8469	0.17653	NOTE	G4	388.132	1
-40	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	5.8551	6.0112	0.15612	NOTE	G4	384.773	1
-41	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	6.0112	6.1378	0.12653	NOTE	B4	487.964	1
-42	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	6.148	6.3031	0.1551	NOTE	G4	390.388	1
-43	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	6.3031	6.3449	0.041837	ct	Bb4	476.783	2
-44	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	6.3459	6.4857	0.1398	NOTE	A4	434.565	1
-45	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	6.4929	6.5959	0.10306	NOTE	F#4	364.163	1
-46	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	6.6133	6.7418	0.12857	NOTE	D4	287.986	1
-47	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	6.748	6.9112	0.16327	NOTE	D4	290.5	1
-48	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	6.9112	7.0224	0.11122	NOTE	B4	487.964	1
-49	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	7.0265	7.1918	0.16531	NOTE	G4	388.132	1
-50	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	7.198	7.3633	0.16531	NOTE	G4	385.89	1
-51	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	7.3673	7.4735	0.10612	NOTE	B4	490.8	1
-52	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	7.4755	7.651	0.17551	NOTE	D5	575.589	1
-53	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	7.6561	7.7602	0.10408	NOTE	E5	659.56	1
-54	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	7.7724	7.948	0.17551	BREATH	BREATH	0	4
-55	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	7.948	8.1316	0.18367	NOTE	G5	773.504	1
-56	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	8.1347	8.2694	0.13469	NOTE	D5	575.589	1
-57	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	8.2776	8.4051	0.12755	NOTE	B4	496.521	1
-58	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	8.4082	8.5633	0.1551	NOTE	G4	387.009	1
-59	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	8.5704	8.7398	0.16939	NOTE	G4	388.132	1
-60	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	8.748	8.8541	0.10612	NOTE	B4	490.8	1
-61	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	8.8602	9.0214	0.16122	NOTE	G4	389.258	1
-62	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	9.0265	9.0694	0.042857	ct	B4	486.552	2
-63	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	9.0776	9.1898	0.11224	NOTE	A4	435.826	1
-64	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	9.1949	9.3122	0.11735	NOTE	F#4	362.059	1
-65	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	9.3235	9.4765	0.15306	NOTE	D4	289.66	1
-66	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	9.5102	9.6449	0.13469	NOTE	G5	766.809	1
-67	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	9.6531	9.7714	0.11837	NOTE	B5	966.839	1
-68	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	9.7735	9.9561	0.18265	NOTE	G5	771.266	1
-69	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	9.9561	10.1071	0.15102	NOTE	F#5	734.196	1
-70	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	10.1092	10.2122	0.10306	NOTE	A5	866.039	1
-71	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	10.2163	10.4031	0.18673	NOTE	F5	715.299	1
-72	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	10.4031	10.4357	0.032653	ct	G5	769.034	2
-73	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	10.4378	10.6418	0.20408	NOTE	E5	659.56	1
-74	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	10.649	10.85	0.20102	BREATH	BREATH	0	4
-75	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	10.85	11.0429	0.19286	NOTE	D5	575.589	1
-76	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.0429	11.1694	0.12653	NOTE	E5	655.749	1
-77	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.1714	11.3173	0.14592	NOTE	F#5	729.955	1
-78	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.3327	11.4714	0.13878	lngRoll_nt	G5	784.791	
-79	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.4714	11.5153	0.043878	lngRoll_ct	A5	866.039	
-80	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.5184	11.6214	0.10306	lngRoll_nt	G5	787.068	
-81	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.6255	11.6582	0.032653	lngRoll_str	F#5	755.781	
-82	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.6633	11.7745	0.11122	lngRoll_nt	G5	784.791	
-83	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.7816	11.8143	0.032653	ct	E5	663.393	2
-84	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.8173	11.852	0.034694	NOTE	F#5	753.594	1
-85	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.8551	11.95	0.094898	NOTE	E5	655.749	1
-86	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.9561	12.0806	0.12449	NOTE	D5	578.934	1
-87	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	12.0837	12.2133	0.12959	NOTE	B4	483.741	1
-88	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	12.2143	12.4112	0.19694	NOTE	D5	580.614	1
-89	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	12.4112	12.5327	0.12143	NOTE	E5	657.651	1
-90	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	12.5388	12.698	0.15918	NOTE	F#5	734.196	1
-91	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	12.701	12.8327	0.13163	lngRoll_nt	G5	769.034	
-92	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	12.8347	12.8724	0.037755	lngRoll_ct	G#5	846.195	
-93	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	12.8765	12.9918	0.11531	lngRoll_nt	G5	771.266	
-94	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	13	13.0245	0.02449	lngRoll_str	F#5	740.606	
-95	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	13.0286	13.1551	0.12653	lngRoll_nt	G5	771.266	
-96	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	13.1561	13.2673	0.11122	NOTE	A5	883.783	1
-97	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	13.2735	13.449	0.17551	BREATH	BREATH	0	4
-98	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	13.4541	13.5612	0.10714	NOTE	A5	881.226	1
-99	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	13.6286	13.8163	0.18776	NOTE	D5	575.589	1
-100	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	13.8163	13.948	0.13163	NOTE	E5	655.749	1
-101	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	13.95	14.0969	0.14694	NOTE	F#5	734.196	1
-102	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.1031	14.251	0.14796	lngRoll_nt	G5	780.257	
-103	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.251	14.299	0.047959	lngRoll_ct	A5	866.039	
-104	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.3092	14.4082	0.09898	lngRoll_nt	G5	771.266	
-105	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.4102	14.4378	0.027551	lngRoll_str	F#5	738.464	
-106	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.4398	14.5469	0.10714	lngRoll_nt	G5	775.748	
-107	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.551	14.5796	0.028571	ct	E5	665.318	2
-108	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.5888	14.6133	0.02449	NOTE	F#5	742.755	1
-109	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.6133	14.6939	0.080612	NOTE	E5	659.56	1
-110	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.6949	14.8245	0.12959	NOTE	D5	578.934	1
-111	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.8276	14.9898	0.16224	NOTE	B4	486.552	1
-112	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.9939	15.1582	0.16429	NOTE	G5	771.266	1
-113	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	15.1582	15.2827	0.12449	NOTE	B5	966.839	1
-114	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	15.2929	15.4612	0.16837	NOTE	G5	775.748	1
-115	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	15.4643	15.5949	0.13061	NOTE	F#5	729.955	1
-116	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	15.601	15.702	0.10102	NOTE	A5	868.552	1
-117	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	15.7163	15.9133	0.19694	NOTE	F#5	723.637	1
-118	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	15.9214	16.1602	0.23878	NOTE	E5	655.749	1
-119	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.1694	16.2071	0.037755	ct	F#5	742.755	2
-120	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.2133	16.2439	0.030612	NOTE	F5	705.011	1
-121	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.2449	16.2745	0.029592	ct	F#5	755.781	2
-122	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.2745	16.3602	0.085714	NOTE	E5	659.56	1
-123	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.3643	16.5429	0.17857	NOTE	D5	578.934	1
-124	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.5429	16.6704	0.12755	NOTE	E5	657.651	1
-125	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.6704	16.8204	0.15	NOTE	F#5	725.737	1
-126	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.8204	16.9	0.079592	NOTE	G5	787.068	1
-127	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.9071	17.1061	0.19898	BREATH	BREATH	0	4
-128	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.1143	17.2571	0.14286	NOTE	G5	771.266	1
-129	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.2622	17.2908	0.028571	ct	F#5	732.073	2
-130	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.2908	17.3173	0.026531	NOTE	G5	780.257	1
-131	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.3173	17.4184	0.10102	NOTE	E5	657.651	1
-132	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.4214	17.55	0.12857	NOTE	D5	583.988	1
-133	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.5571	17.6888	0.13163	NOTE	B4	493.652	1
-134	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.6888	17.8612	0.17245	NOTE	D5	578.934	1
-135	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.8612	17.9857	0.12449	NOTE	E5	659.56	1
-136	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.9878	18.1449	0.15714	NOTE	F#5	738.464	1
-137	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	18.1571	18.301	0.14388	lngRoll_nt	G5	775.748	
-138	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	18.301	18.3388	0.037755	lngRoll_ct	A5	856.059	
-139	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	18.3418	18.45	0.10816	lngRoll_nt	G5	771.266	
-140	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	18.4551	18.4878	0.032653	lngRoll_str	F#5	740.606	
-141	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	18.4898	18.6112	0.12143	lngRoll_nt	G5	769.034	
-142	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	18.6112	18.7031	0.091837	NOTE	A5	876.134	1
-143	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	18.7112	18.9061	0.1949	BREATH	BREATH	0	4
-144	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	18.9122	19.0418	0.12959	ct	A5	878.676	2
-145	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.0459	19.099	0.053061	NOTE	C6	1045.51	1
-146	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.1041	19.2306	0.12653	NOTE	B5	978.109	1
-147	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.2398	19.3694	0.12959	NOTE	A5	871.072	1
-148	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.3714	19.5214	0.15	NOTE	G5	784.791	1
-149	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.5265	19.5673	0.040816	ct	Bb5	955.698	2
-150	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.5714	19.6959	0.12449	NOTE	A5	878.676	1
-151	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.7	19.8184	0.11837	NOTE	G5	791.642	1
-152	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.8214	19.8245	0.0030612	NOTE	F#5	734.196	1
-153	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.9929	20.0469	0.054082	ct	A5	873.599	2
-154	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	20.0469	20.152	0.1051	NOTE	G5	787.068	1
-155	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	20.152	20.3143	0.16224	NOTE	F#5	732.073	1
-156	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	20.3153	20.4541	0.13878	NOTE	E5	665.318	1
-157	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	20.4602	20.5694	0.10918	NOTE	D5	575.589	1
-158	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	20.5786	20.7204	0.14184	NOTE	B4	495.085	1
-159	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	20.7276	20.9112	0.18367	NOTE	G4	389.258	1
-160	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	20.9184	21.0469	0.12857	NOTE	G4	389.258	1
-161	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	21.0469	21.1622	0.11531	NOTE	B4	490.8	1
-162	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	21.1653	21.3459	0.18061	NOTE	D5	573.924	1
-163	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	21.349	21.6153	0.26633	NOTE	E5	657.651	1
-164	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	21.6163	21.6592	0.042857	ct	A5	863.533	2
-165	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	21.6673	21.8133	0.14592	NOTE	F#5	757.973	1
+1	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	0.0045351	0.1161	0.11156	NOTE	D4	287.986
+2	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	0.13968	0.24762	0.10794	NOTE	B4	485.145
+3	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	0.2576	0.42449	0.16689	NOTE	G4	385.89
+4	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	0.42902	0.59683	0.1678	NOTE	G4	384.773
+5	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	0.59683	0.71474	0.11791	NOTE	B4	480.946
+6	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	0.71735	0.87653	0.15918	NOTE	G4	388.132
+7	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	0.88776	1.0541	0.16633	NOTE	A4	430.804
+8	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	1.0561	1.1735	0.11735	NOTE	F#4	363.11
+9	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	1.1786	1.3245	0.14592	NOTE	D4	287.986
+10	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	1.3296	1.4949	0.16531	NOTE	D4	289.66
+11	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	1.499	1.6102	0.11122	NOTE	B4	483.741
+12	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	1.6153	1.7776	0.16224	NOTE	G4	387.009
+13	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	1.7857	1.9276	0.14184	NOTE	G4	385.89
+14	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	1.9367	2.052	0.11531	NOTE	B4	493.652
+15	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	2.0561	2.2153	0.15918	NOTE	D5	580.614
+16	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	2.2173	2.3337	0.11633	NOTE	E5	655.749
+17	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	2.3398	2.5051	0.16531	BREATH	BREATH	0
+18	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	2.5051	2.6878	0.18265	NOTE	G5	766.809
+19	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	2.6888	2.8296	0.14082	NOTE	D5	572.263
+20	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	2.8429	2.9643	0.12143	NOTE	B4	495.085
+21	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	2.9643	3.1296	0.16531	NOTE	G4	387.009
+22	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	3.1367	3.2929	0.15612	NOTE	G4	390.388
+23	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	3.2959	3.4102	0.11429	NOTE	B4	493.652
+24	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	3.4143	3.5816	0.16735	NOTE	G4	387.009
+25	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	3.5878	3.6214	0.033673	ct	B4	490.8
+26	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	3.6235	3.7408	0.11735	NOTE	A4	435.826
+27	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	3.7459	3.8796	0.13367	NOTE	F#4	363.11
+28	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	3.8898	4.0061	0.11633	NOTE	D4	289.66
+29	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	4.0398	4.1745	0.13469	NOTE	G5	773.504
+30	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	4.1806	4.3082	0.12755	NOTE	B5	969.643
+31	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	4.3112	4.4653	0.15408	NOTE	G5	775.748
+32	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	4.4724	4.6276	0.1551	NOTE	F#5	725.737
+33	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	4.6276	4.7357	0.10816	NOTE	A5	863.533
+34	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	4.7388	4.9235	0.18469	NOTE	F#5	732.073
+35	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	4.9429	5.1776	0.23469	NOTE	E5	659.56
+36	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	5.1847	5.3816	0.19694	BREATH	BREATH	0
+37	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	5.3816	5.5347	0.15306	NOTE	D5	572.263
+38	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	5.5449	5.6684	0.12347	NOTE	B4	489.38
+39	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	5.6704	5.8469	0.17653	NOTE	G4	388.132
+40	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	5.8551	6.0112	0.15612	NOTE	G4	384.773
+41	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	6.0112	6.1378	0.12653	NOTE	B4	487.964
+42	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	6.148	6.3031	0.1551	NOTE	G4	390.388
+43	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	6.3031	6.3449	0.041837	ct	Bb4	476.783
+44	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	6.3459	6.4857	0.1398	NOTE	A4	434.565
+45	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	6.4929	6.5959	0.10306	NOTE	F#4	364.163
+46	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	6.6133	6.7418	0.12857	NOTE	D4	287.986
+47	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	6.748	6.9112	0.16327	NOTE	D4	290.5
+48	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	6.9112	7.0224	0.11122	NOTE	B4	487.964
+49	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	7.0265	7.1918	0.16531	NOTE	G4	388.132
+50	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	7.198	7.3633	0.16531	NOTE	G4	385.89
+51	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	7.3673	7.4735	0.10612	NOTE	B4	490.8
+52	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	7.4755	7.651	0.17551	NOTE	D5	575.589
+53	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	7.6561	7.7602	0.10408	NOTE	E5	659.56
+54	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	7.7724	7.948	0.17551	BREATH	BREATH	0
+55	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	7.948	8.1316	0.18367	NOTE	G5	773.504
+56	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	8.1347	8.2694	0.13469	NOTE	D5	575.589
+57	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	8.2776	8.4051	0.12755	NOTE	B4	496.521
+58	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	8.4082	8.5633	0.1551	NOTE	G4	387.009
+59	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	8.5704	8.7398	0.16939	NOTE	G4	388.132
+60	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	8.748	8.8541	0.10612	NOTE	B4	490.8
+61	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	8.8602	9.0214	0.16122	NOTE	G4	389.258
+62	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	9.0265	9.0694	0.042857	ct	B4	486.552
+63	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	9.0776	9.1898	0.11224	NOTE	A4	435.826
+64	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	9.1949	9.3122	0.11735	NOTE	F#4	362.059
+65	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	9.3235	9.4765	0.15306	NOTE	D4	289.66
+66	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	9.5102	9.6449	0.13469	NOTE	G5	766.809
+67	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	9.6531	9.7714	0.11837	NOTE	B5	966.839
+68	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	9.7735	9.9561	0.18265	NOTE	G5	771.266
+69	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	9.9561	10.1071	0.15102	NOTE	F#5	734.196
+70	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	10.1092	10.2122	0.10306	NOTE	A5	866.039
+71	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	10.2163	10.4031	0.18673	NOTE	F5	715.299
+72	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	10.4031	10.4357	0.032653	ct	G5	769.034
+73	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	10.4378	10.6418	0.20408	NOTE	E5	659.56
+74	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	10.649	10.85	0.20102	BREATH	BREATH	0
+75	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	10.85	11.0429	0.19286	NOTE	D5	575.589
+76	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.0429	11.1694	0.12653	NOTE	E5	655.749
+77	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.1714	11.3173	0.14592	NOTE	F#5	729.955
+78	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.3327	11.4714	0.13878	lngRoll_nt	G5	784.791
+79	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.4714	11.5153	0.043878	lngRoll_ct	A5	866.039
+80	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.5184	11.6214	0.10306	lngRoll_nt	G5	787.068
+81	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.6255	11.6582	0.032653	lngRoll_str	F#5	755.781
+82	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.6633	11.7745	0.11122	lngRoll_nt	G5	784.791
+83	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.7816	11.8143	0.032653	ct	E5	663.393
+84	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.8173	11.852	0.034694	NOTE	F#5	753.594
+85	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.8551	11.95	0.094898	NOTE	E5	655.749
+86	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	11.9561	12.0806	0.12449	NOTE	D5	578.934
+87	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	12.0837	12.2133	0.12959	NOTE	B4	483.741
+88	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	12.2143	12.4112	0.19694	NOTE	D5	580.614
+89	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	12.4112	12.5327	0.12143	NOTE	E5	657.651
+90	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	12.5388	12.698	0.15918	NOTE	F#5	734.196
+91	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	12.701	12.8327	0.13163	lngRoll_nt	G5	769.034
+92	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	12.8347	12.8724	0.037755	lngRoll_ct	G#5	846.195
+93	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	12.8765	12.9918	0.11531	lngRoll_nt	G5	771.266
+94	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	13	13.0245	0.02449	lngRoll_str	F#5	740.606
+95	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	13.0286	13.1551	0.12653	lngRoll_nt	G5	771.266
+96	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	13.1561	13.2673	0.11122	NOTE	A5	883.783
+97	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	13.2735	13.449	0.17551	BREATH	BREATH	0
+98	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	13.4541	13.5612	0.10714	NOTE	A5	881.226
+99	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	13.6286	13.8163	0.18776	NOTE	D5	575.589
+100	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	13.8163	13.948	0.13163	NOTE	E5	655.749
+101	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	13.95	14.0969	0.14694	NOTE	F#5	734.196
+102	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.1031	14.251	0.14796	lngRoll_nt	G5	780.257
+103	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.251	14.299	0.047959	lngRoll_ct	A5	866.039
+104	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.3092	14.4082	0.09898	lngRoll_nt	G5	771.266
+105	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.4102	14.4378	0.027551	lngRoll_str	F#5	738.464
+106	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.4398	14.5469	0.10714	lngRoll_nt	G5	775.748
+107	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.551	14.5796	0.028571	ct	E5	665.318
+108	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.5888	14.6133	0.02449	NOTE	F#5	742.755
+109	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.6133	14.6939	0.080612	NOTE	E5	659.56
+110	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.6949	14.8245	0.12959	NOTE	D5	578.934
+111	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.8276	14.9898	0.16224	NOTE	B4	486.552
+112	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	14.9939	15.1582	0.16429	NOTE	G5	771.266
+113	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	15.1582	15.2827	0.12449	NOTE	B5	966.839
+114	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	15.2929	15.4612	0.16837	NOTE	G5	775.748
+115	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	15.4643	15.5949	0.13061	NOTE	F#5	729.955
+116	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	15.601	15.702	0.10102	NOTE	A5	868.552
+117	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	15.7163	15.9133	0.19694	NOTE	F#5	723.637
+118	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	15.9214	16.1602	0.23878	NOTE	E5	655.749
+119	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.1694	16.2071	0.037755	ct	F#5	742.755
+120	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.2133	16.2439	0.030612	NOTE	F5	705.011
+121	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.2449	16.2745	0.029592	ct	F#5	755.781
+122	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.2745	16.3602	0.085714	NOTE	E5	659.56
+123	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.3643	16.5429	0.17857	NOTE	D5	578.934
+124	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.5429	16.6704	0.12755	NOTE	E5	657.651
+125	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.6704	16.8204	0.15	NOTE	F#5	725.737
+126	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.8204	16.9	0.079592	NOTE	G5	787.068
+127	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	16.9071	17.1061	0.19898	BREATH	BREATH	0
+128	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.1143	17.2571	0.14286	NOTE	G5	771.266
+129	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.2622	17.2908	0.028571	ct	F#5	732.073
+130	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.2908	17.3173	0.026531	NOTE	G5	780.257
+131	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.3173	17.4184	0.10102	NOTE	E5	657.651
+132	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.4214	17.55	0.12857	NOTE	D5	583.988
+133	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.5571	17.6888	0.13163	NOTE	B4	493.652
+134	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.6888	17.8612	0.17245	NOTE	D5	578.934
+135	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.8612	17.9857	0.12449	NOTE	E5	659.56
+136	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	17.9878	18.1449	0.15714	NOTE	F#5	738.464
+137	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	18.1571	18.301	0.14388	lngRoll_nt	G5	775.748
+138	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	18.301	18.3388	0.037755	lngRoll_ct	A5	856.059
+139	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	18.3418	18.45	0.10816	lngRoll_nt	G5	771.266
+140	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	18.4551	18.4878	0.032653	lngRoll_str	F#5	740.606
+141	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	18.4898	18.6112	0.12143	lngRoll_nt	G5	769.034
+142	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	18.6112	18.7031	0.091837	NOTE	A5	876.134
+143	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	18.7112	18.9061	0.1949	BREATH	BREATH	0
+144	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	18.9122	19.0418	0.12959	ct	A5	878.676
+145	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.0459	19.099	0.053061	NOTE	C6	1045.51
+146	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.1041	19.2306	0.12653	NOTE	B5	978.109
+147	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.2398	19.3694	0.12959	NOTE	A5	871.072
+148	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.3714	19.5214	0.15	NOTE	G5	784.791
+149	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.5265	19.5673	0.040816	ct	Bb5	955.698
+150	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.5714	19.6959	0.12449	NOTE	A5	878.676
+151	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.7	19.8184	0.11837	NOTE	G5	791.642
+152	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.8214	19.8245	0.0030612	NOTE	F#5	734.196
+153	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	19.9929	20.0469	0.054082	ct	A5	873.599
+154	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	20.0469	20.152	0.1051	NOTE	G5	787.068
+155	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	20.152	20.3143	0.16224	NOTE	F#5	732.073
+156	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	20.3153	20.4541	0.13878	NOTE	E5	665.318
+157	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	20.4602	20.5694	0.10918	NOTE	D5	575.589
+158	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	20.5786	20.7204	0.14184	NOTE	B4	495.085
+159	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	20.7276	20.9112	0.18367	NOTE	G4	389.258
+160	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	20.9184	21.0469	0.12857	NOTE	G4	389.258
+161	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	21.0469	21.1622	0.11531	NOTE	B4	490.8
+162	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	21.1653	21.3459	0.18061	NOTE	D5	573.924
+163	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	21.349	21.6153	0.26633	NOTE	E5	657.651
+164	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	21.6163	21.6592	0.042857	ct	A5	863.533
+165	Tub_EaglesWhistle_Tk11Tu3R2_TheHawthorn.txt	21.6673	21.8133	0.14592	NOTE	F#5	757.973

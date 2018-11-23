@@ -1,149 +1,149 @@
-1	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	6.4547	6.5907	0.136	NOTE	G5	795.152	1
-2	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	6.5947	6.644	0.049333	NOTE	Bb5	912.14	1
-3	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	6.644	6.6773	0.033333	NOTE	G5	797.695	1
-4	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	6.68	6.7147	0.034667	NOTE	G5	787.522	1
-5	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	6.7213	6.9187	0.19733	NOTE	G5	797.695	1
-6	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	6.9187	7.056	0.13733	NOTE	D5	601.866	1
-7	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	7.056	7.1947	0.13867	NOTE	G5	787.522	1
-8	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	7.196	7.3253	0.12933	NOTE	A5	894.338	1
-9	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	7.3333	7.4653	0.132	NOTE	B5	980.807	1
-10	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	7.4653	7.6053	0.14	NOTE	A5	894.338	1
-11	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	7.6093	7.732	0.12267	NOTE	G5	777.349	1
-12	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	7.744	7.8547	0.11067	NOTE	A5	884.165	1
-13	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	7.856	7.9173	0.061333	NOTE	B5	983.351	1
-14	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	7.9253	8.012	0.086667	NOTE	A5	886.708	1
-15	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.0173	8.1227	0.10533	NOTE	G5	784.979	1
-16	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.1307	8.1853	0.054667	ct	B5	983.351	2
-17	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.1907	8.2747	0.084	NOTE	A5	884.165	1
-18	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.2907	8.4053	0.11467	NOTE	G5	782.436	1
-19	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.408	8.508	0.1	NOTE	E5	660.361	1
-20	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.508	8.568	0.06	ct	A5	894.338	2
-21	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.5733	8.6613	0.088	NOTE	G5	790.065	1
-22	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.668	8.7973	0.12933	NOTE	D5	591.693	1
-23	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.808	8.9173	0.10933	NOTE	G5	782.436	1
-24	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.9227	8.9773	0.054667	shRoll_ct	A5	889.251	5
-25	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.9813	9.0747	0.093333	shRoll_nt	G5	790.065	1
-26	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.0813	9.1213	0.04	shRoll_str	G5	772.263	3
-27	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.1213	9.2027	0.081333	shRoll_nt	G5	795.152	1
-28	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.2053	9.3027	0.097333	NOTE	D5	581.52	1
-29	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.3107	9.452	0.14133	BREATH	BREATH	0	4
-30	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.452	9.576	0.124	NOTE	B5	990.98	1
-31	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.5787	9.7147	0.136	NOTE	G5	782.436	1
-32	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.7187	9.8093	0.090667	NOTE	A5	886.708	1
-33	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.8107	9.88	0.069333	NOTE	B5	1001.15	1
-34	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.8893	9.996	0.10667	NOTE	A5	894.338	1
-35	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.0013	10.1093	0.108	NOTE	G5	787.522	1
-36	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.1107	10.2587	0.148	NOTE	B5	980.807	1
-37	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.2667	10.38	0.11333	NOTE	A5	894.338	1
-38	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.3907	10.496	0.10533	NOTE	G5	795.152	1
-39	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.5067	10.5907	0.084	NOTE	E5	675.62	1
-40	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.5987	10.784	0.18533	BREATH	BREATH	0	4
-41	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.784	10.8733	0.089333	NOTE	G5	792.609	1
-42	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.8733	10.956	0.082667	NOTE	A5	889.251	1
-43	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.9707	11.0427	0.072	NOTE	G5	795.152	1
-44	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	11.056	11.1733	0.11733	NOTE	G5	790.065	1
-45	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	11.1773	11.3347	0.15733	NOTE	D5	589.15	1
-46	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	11.3693	11.4573	0.088	NOTE	G5	774.806	1
-47	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	11.4587	11.58	0.12133	NOTE	A5	876.535	1
-48	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	11.5893	11.728	0.13867	NOTE	B5	993.524	1
-49	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	11.7293	11.848	0.11867	NOTE	A5	886.708	1
-50	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	11.8667	11.9667	0.1	NOTE	G5	774.806	1
-51	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	11.968	12.0947	0.12667	NOTE	A5	879.078	1
-52	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.0973	12.156	0.058667	NOTE	B5	985.894	1
-53	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.156	12.2427	0.086667	NOTE	A5	889.251	1
-54	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.2507	12.34	0.089333	NOTE	G5	774.806	1
-55	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.3493	12.4533	0.104	NOTE	A5	876.535	1
-56	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.4573	12.5213	0.064	NOTE	B5	985.894	1
-57	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.5307	12.6333	0.10267	NOTE	A5	894.338	1
-58	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.6387	12.736	0.097333	NOTE	G5	792.609	1
-59	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.736	12.86	0.124	NOTE	A5	889.251	1
-60	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.864	13.004	0.14	NOTE	B5	988.437	1
-61	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.0187	13.1387	0.12	ct	B5	990.98	2
-62	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.148	13.1907	0.042667	NOTE	B5	993.524	1
-63	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.1947	13.2827	0.088	NOTE	A5	879.078	1
-64	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.2867	13.3987	0.112	NOTE	F#5	739.201	1
-65	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.4027	13.5173	0.11467	NOTE	G5	800.238	1
-66	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.5293	13.6547	0.12533	NOTE	C#5	553.545	1
-67	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.6547	13.7947	0.14	NOTE	F#5	734.114	1
-68	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.804	13.896	0.092	NOTE	B4	497.594	1
-69	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.896	14.044	0.148	NOTE	E5	657.817	1
-70	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	14.0533	14.1747	0.12133	NOTE	A5	881.622	1
-71	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	14.1867	14.236	0.049333	ct	B5	985.894	2
-72	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	14.248	14.3253	0.077333	NOTE	A5	881.622	1
-73	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	14.3307	14.428	0.097333	NOTE	G5	782.436	1
-74	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	14.428	14.5733	0.14533	NOTE	A5	896.881	1
-75	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	14.58	14.8867	0.30667	BREATH	BREATH	0	4
-76	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	14.892	15.0173	0.12533	NOTE	G5	777.349	1
-77	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	15.024	15.16	0.136	NOTE	D5	589.15	1
-78	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	15.164	15.2867	0.12267	NOTE	B4	497.594	1
-79	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	15.2907	15.432	0.14133	NOTE	D5	589.15	1
-80	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	15.432	15.5573	0.12533	NOTE	G5	787.522	1
-81	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	15.5627	15.692	0.12933	NOTE	A5	881.622	1
-82	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	15.7013	15.8133	0.112	NOTE	C#5	551.923	1
-83	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	15.824	15.9493	0.12533	NOTE	A4	441.202	1
-84	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	15.9493	16.0853	0.136	lngRoll_nt	G4	392.762	
-85	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.0893	16.1253	0.036	lngRoll_ct	A4	441.202	
-86	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.1253	16.2213	0.096	lngRoll_nt	G4	385.842	
-87	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.228	16.256	0.028	lngRoll_str	F#4	365.082	
-88	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.2613	16.3267	0.065333	lngRoll_nt	G4	389.302	
-89	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.34	16.4533	0.11333	NOTE	B4	500.023	1
-90	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.4587	16.5773	0.11867	NOTE	A4	441.202	1
-91	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.5867	16.6933	0.10667	NOTE	G4	399.682	1
-92	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.6987	16.8227	0.124	NOTE	E4	333.941	1
-93	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.824	16.948	0.124	NOTE	G4	399.682	1
-94	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.9493	17.1	0.15067	NOTE	D4	292.421	1
-95	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.1	17.2133	0.11333	NOTE	G5	773.365	1
-96	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.2187	17.2547	0.036	shRoll_ct	A5	884.086	5
-97	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.26	17.3853	0.12533	shRoll_nt	G5	780.285	1
-98	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.3893	17.4147	0.025333	shRoll_str	F#5	742.225	3
-99	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.4147	17.476	0.061333	shRoll_nt	G5	780.285	1
-100	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.4769	17.6006	0.12375	NOTE	D5	586.524	1
-101	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.6006	17.7338	0.13312	NOTE	G5	773.365	1
-102	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.7413	17.8031	0.061875	shRoll_ct	A5	880.626	5
-103	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.8087	17.8987	0.09	shRoll_nt	G5	776.825	1
-104	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.8987	17.9456	0.046875	shRoll_str	F#5	735.305	3
-105	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.9456	18.045	0.099375	shRoll_nt	G5	776.825	1
-106	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	18.0562	18.2156	0.15937	BREATH	BREATH	0	4
-107	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	18.225	18.3487	0.12375	NOTE	B5	974.047	1
-108	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	18.3487	18.465	0.11625	NOTE	G5	783.745	1
-109	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	18.4688	18.5231	0.054375	ct	B5	980.967	2
-110	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	18.525	18.6169	0.091875	NOTE	A5	877.166	1
-111	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	18.6225	18.7406	0.11813	NOTE	G5	787.206	1
-112	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	18.7406	18.855	0.11438	NOTE	E5	666.104	1
-113	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	18.8606	18.9956	0.135	NOTE	F#5	731.845	1
-114	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.0012	19.0406	0.039375	ct	A5	887.547	2
-115	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.05	19.1212	0.07125	NOTE	G5	776.825	1
-116	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.1212	19.2469	0.12562	NOTE	D5	579.604	1
-117	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.2619	19.3931	0.13125	NOTE	B4	496.563	1
-118	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.3987	19.5188	0.12	NOTE	D5	583.064	1
-119	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.5206	19.6481	0.1275	NOTE	G5	773.365	1
-120	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.6481	19.7719	0.12375	NOTE	A4	441.202	1
-121	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.7737	19.9275	0.15375	NOTE	C#5	548.463	1
-122	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.9331	20.0419	0.10875	NOTE	A4	437.742	1
-123	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.0419	20.1544	0.1125	NOTE	G4	382.382	1
-124	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.16	20.2969	0.13687	NOTE	A4	434.282	1
-125	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.3025	20.355	0.0525	NOTE	B4	493.103	1
-126	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.3625	20.4169	0.054375	NOTE	A4	437.742	1
-127	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.4244	20.5031	0.07875	NOTE	G4	399.682	1
-128	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.5144	20.6306	0.11625	NOTE	A4	441.202	1
-129	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.6381	20.8144	0.17625	BREATH	BREATH	0	4
-130	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.8172	20.9259	0.10875	NOTE	G5	776.825	1
-131	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.9259	21.0497	0.12375	NOTE	A5	894.467	1
-132	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.0534	21.195	0.14156	lngRoll_nt	B5	987.887	
-133	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.1969	21.2381	0.04125	lngRoll_ct	C6	1060.55	
-134	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.24	21.2869	0.046875	lngRoll_nt	B5	994.807	
-135	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.2916	21.3263	0.034688	lngRoll_str	Bb5	915.227	
-136	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.3309	21.4388	0.10781	lngRoll_nt	B5	1001.73	
-137	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.4425	21.5644	0.12187	NOTE	A5	884.086	1
-138	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.5653	21.7013	0.13594	NOTE	G5	787.206	1
-139	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.7013	21.8128	0.11156	NOTE	E5	666.104	1
-140	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.8128	21.9366	0.12375	NOTE	D5	593.444	1
-141	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.9366	22.0772	0.14062	NOTE	G5	776.825	1
-142	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	22.0772	22.1962	0.11906	NOTE	E5	648.804	1
-143	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	22.1962	22.3369	0.14062	NOTE	A5	870.246	1
-144	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	22.3491	22.4091	0.06	shRoll_ct	B5	970.587	5
-145	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	22.4128	22.455	0.042188	shRoll_nt	A5	880.626	1
-146	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	22.4616	22.4925	0.030937	shRoll_str	G#5	849.486	3
-147	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	22.5009	22.5938	0.092813	shRoll_nt	A5	891.007	1
-148	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	22.6022	22.68	0.077813	NOTE	A5	891.007	1
-149	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	22.6875	22.8291	0.14156	BREATH	BREATH	0	4
+1	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	6.4547	6.5907	0.136	NOTE	G5	795.152
+2	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	6.5947	6.644	0.049333	NOTE	Bb5	912.14
+3	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	6.644	6.6773	0.033333	NOTE	G5	797.695
+4	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	6.68	6.7147	0.034667	NOTE	G5	787.522
+5	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	6.7213	6.9187	0.19733	NOTE	G5	797.695
+6	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	6.9187	7.056	0.13733	NOTE	D5	601.866
+7	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	7.056	7.1947	0.13867	NOTE	G5	787.522
+8	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	7.196	7.3253	0.12933	NOTE	A5	894.338
+9	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	7.3333	7.4653	0.132	NOTE	B5	980.807
+10	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	7.4653	7.6053	0.14	NOTE	A5	894.338
+11	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	7.6093	7.732	0.12267	NOTE	G5	777.349
+12	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	7.744	7.8547	0.11067	NOTE	A5	884.165
+13	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	7.856	7.9173	0.061333	NOTE	B5	983.351
+14	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	7.9253	8.012	0.086667	NOTE	A5	886.708
+15	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.0173	8.1227	0.10533	NOTE	G5	784.979
+16	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.1307	8.1853	0.054667	ct	B5	983.351
+17	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.1907	8.2747	0.084	NOTE	A5	884.165
+18	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.2907	8.4053	0.11467	NOTE	G5	782.436
+19	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.408	8.508	0.1	NOTE	E5	660.361
+20	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.508	8.568	0.06	ct	A5	894.338
+21	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.5733	8.6613	0.088	NOTE	G5	790.065
+22	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.668	8.7973	0.12933	NOTE	D5	591.693
+23	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.808	8.9173	0.10933	NOTE	G5	782.436
+24	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.9227	8.9773	0.054667	shRoll_ct	A5	889.251
+25	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	8.9813	9.0747	0.093333	shRoll_nt	G5	790.065
+26	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.0813	9.1213	0.04	shRoll_str	G5	772.263
+27	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.1213	9.2027	0.081333	shRoll_nt	G5	795.152
+28	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.2053	9.3027	0.097333	NOTE	D5	581.52
+29	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.3107	9.452	0.14133	BREATH	BREATH	0
+30	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.452	9.576	0.124	NOTE	B5	990.98
+31	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.5787	9.7147	0.136	NOTE	G5	782.436
+32	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.7187	9.8093	0.090667	NOTE	A5	886.708
+33	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.8107	9.88	0.069333	NOTE	B5	1001.15
+34	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	9.8893	9.996	0.10667	NOTE	A5	894.338
+35	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.0013	10.1093	0.108	NOTE	G5	787.522
+36	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.1107	10.2587	0.148	NOTE	B5	980.807
+37	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.2667	10.38	0.11333	NOTE	A5	894.338
+38	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.3907	10.496	0.10533	NOTE	G5	795.152
+39	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.5067	10.5907	0.084	NOTE	E5	675.62
+40	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.5987	10.784	0.18533	BREATH	BREATH	0
+41	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.784	10.8733	0.089333	NOTE	G5	792.609
+42	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.8733	10.956	0.082667	NOTE	A5	889.251
+43	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	10.9707	11.0427	0.072	NOTE	G5	795.152
+44	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	11.056	11.1733	0.11733	NOTE	G5	790.065
+45	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	11.1773	11.3347	0.15733	NOTE	D5	589.15
+46	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	11.3693	11.4573	0.088	NOTE	G5	774.806
+47	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	11.4587	11.58	0.12133	NOTE	A5	876.535
+48	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	11.5893	11.728	0.13867	NOTE	B5	993.524
+49	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	11.7293	11.848	0.11867	NOTE	A5	886.708
+50	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	11.8667	11.9667	0.1	NOTE	G5	774.806
+51	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	11.968	12.0947	0.12667	NOTE	A5	879.078
+52	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.0973	12.156	0.058667	NOTE	B5	985.894
+53	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.156	12.2427	0.086667	NOTE	A5	889.251
+54	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.2507	12.34	0.089333	NOTE	G5	774.806
+55	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.3493	12.4533	0.104	NOTE	A5	876.535
+56	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.4573	12.5213	0.064	NOTE	B5	985.894
+57	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.5307	12.6333	0.10267	NOTE	A5	894.338
+58	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.6387	12.736	0.097333	NOTE	G5	792.609
+59	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.736	12.86	0.124	NOTE	A5	889.251
+60	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	12.864	13.004	0.14	NOTE	B5	988.437
+61	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.0187	13.1387	0.12	ct	B5	990.98
+62	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.148	13.1907	0.042667	NOTE	B5	993.524
+63	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.1947	13.2827	0.088	NOTE	A5	879.078
+64	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.2867	13.3987	0.112	NOTE	F#5	739.201
+65	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.4027	13.5173	0.11467	NOTE	G5	800.238
+66	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.5293	13.6547	0.12533	NOTE	C#5	553.545
+67	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.6547	13.7947	0.14	NOTE	F#5	734.114
+68	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.804	13.896	0.092	NOTE	B4	497.594
+69	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	13.896	14.044	0.148	NOTE	E5	657.817
+70	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	14.0533	14.1747	0.12133	NOTE	A5	881.622
+71	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	14.1867	14.236	0.049333	ct	B5	985.894
+72	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	14.248	14.3253	0.077333	NOTE	A5	881.622
+73	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	14.3307	14.428	0.097333	NOTE	G5	782.436
+74	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	14.428	14.5733	0.14533	NOTE	A5	896.881
+75	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	14.58	14.8867	0.30667	BREATH	BREATH	0
+76	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	14.892	15.0173	0.12533	NOTE	G5	777.349
+77	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	15.024	15.16	0.136	NOTE	D5	589.15
+78	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	15.164	15.2867	0.12267	NOTE	B4	497.594
+79	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	15.2907	15.432	0.14133	NOTE	D5	589.15
+80	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	15.432	15.5573	0.12533	NOTE	G5	787.522
+81	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	15.5627	15.692	0.12933	NOTE	A5	881.622
+82	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	15.7013	15.8133	0.112	NOTE	C#5	551.923
+83	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	15.824	15.9493	0.12533	NOTE	A4	441.202
+84	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	15.9493	16.0853	0.136	lngRoll_nt	G4	392.762
+85	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.0893	16.1253	0.036	lngRoll_ct	A4	441.202
+86	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.1253	16.2213	0.096	lngRoll_nt	G4	385.842
+87	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.228	16.256	0.028	lngRoll_str	F#4	365.082
+88	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.2613	16.3267	0.065333	lngRoll_nt	G4	389.302
+89	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.34	16.4533	0.11333	NOTE	B4	500.023
+90	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.4587	16.5773	0.11867	NOTE	A4	441.202
+91	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.5867	16.6933	0.10667	NOTE	G4	399.682
+92	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.6987	16.8227	0.124	NOTE	E4	333.941
+93	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.824	16.948	0.124	NOTE	G4	399.682
+94	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	16.9493	17.1	0.15067	NOTE	D4	292.421
+95	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.1	17.2133	0.11333	NOTE	G5	773.365
+96	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.2187	17.2547	0.036	shRoll_ct	A5	884.086
+97	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.26	17.3853	0.12533	shRoll_nt	G5	780.285
+98	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.3893	17.4147	0.025333	shRoll_str	F#5	742.225
+99	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.4147	17.476	0.061333	shRoll_nt	G5	780.285
+100	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.4769	17.6006	0.12375	NOTE	D5	586.524
+101	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.6006	17.7338	0.13312	NOTE	G5	773.365
+102	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.7413	17.8031	0.061875	shRoll_ct	A5	880.626
+103	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.8087	17.8987	0.09	shRoll_nt	G5	776.825
+104	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.8987	17.9456	0.046875	shRoll_str	F#5	735.305
+105	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	17.9456	18.045	0.099375	shRoll_nt	G5	776.825
+106	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	18.0562	18.2156	0.15937	BREATH	BREATH	0
+107	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	18.225	18.3487	0.12375	NOTE	B5	974.047
+108	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	18.3487	18.465	0.11625	NOTE	G5	783.745
+109	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	18.4688	18.5231	0.054375	ct	B5	980.967
+110	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	18.525	18.6169	0.091875	NOTE	A5	877.166
+111	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	18.6225	18.7406	0.11813	NOTE	G5	787.206
+112	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	18.7406	18.855	0.11438	NOTE	E5	666.104
+113	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	18.8606	18.9956	0.135	NOTE	F#5	731.845
+114	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.0012	19.0406	0.039375	ct	A5	887.547
+115	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.05	19.1212	0.07125	NOTE	G5	776.825
+116	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.1212	19.2469	0.12562	NOTE	D5	579.604
+117	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.2619	19.3931	0.13125	NOTE	B4	496.563
+118	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.3987	19.5188	0.12	NOTE	D5	583.064
+119	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.5206	19.6481	0.1275	NOTE	G5	773.365
+120	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.6481	19.7719	0.12375	NOTE	A4	441.202
+121	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.7737	19.9275	0.15375	NOTE	C#5	548.463
+122	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	19.9331	20.0419	0.10875	NOTE	A4	437.742
+123	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.0419	20.1544	0.1125	NOTE	G4	382.382
+124	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.16	20.2969	0.13687	NOTE	A4	434.282
+125	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.3025	20.355	0.0525	NOTE	B4	493.103
+126	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.3625	20.4169	0.054375	NOTE	A4	437.742
+127	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.4244	20.5031	0.07875	NOTE	G4	399.682
+128	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.5144	20.6306	0.11625	NOTE	A4	441.202
+129	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.6381	20.8144	0.17625	BREATH	BREATH	0
+130	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.8172	20.9259	0.10875	NOTE	G5	776.825
+131	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	20.9259	21.0497	0.12375	NOTE	A5	894.467
+132	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.0534	21.195	0.14156	lngRoll_nt	B5	987.887
+133	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.1969	21.2381	0.04125	lngRoll_ct	C6	1060.55
+134	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.24	21.2869	0.046875	lngRoll_nt	B5	994.807
+135	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.2916	21.3263	0.034688	lngRoll_str	Bb5	915.227
+136	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.3309	21.4388	0.10781	lngRoll_nt	B5	1001.73
+137	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.4425	21.5644	0.12187	NOTE	A5	884.086
+138	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.5653	21.7013	0.13594	NOTE	G5	787.206
+139	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.7013	21.8128	0.11156	NOTE	E5	666.104
+140	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.8128	21.9366	0.12375	NOTE	D5	593.444
+141	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	21.9366	22.0772	0.14062	NOTE	G5	776.825
+142	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	22.0772	22.1962	0.11906	NOTE	E5	648.804
+143	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	22.1962	22.3369	0.14062	NOTE	A5	870.246
+144	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	22.3491	22.4091	0.06	shRoll_ct	B5	970.587
+145	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	22.4128	22.455	0.042188	shRoll_nt	A5	880.626
+146	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	22.4616	22.4925	0.030937	shRoll_str	G#5	849.486
+147	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	22.5009	22.5938	0.092813	shRoll_nt	A5	891.007
+148	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	22.6022	22.68	0.077813	NOTE	A5	891.007
+149	Tan_FieldRecordings_Tk1Tu1R1_TheFlaxInBloom	22.6875	22.8291	0.14156	BREATH	BREATH	0

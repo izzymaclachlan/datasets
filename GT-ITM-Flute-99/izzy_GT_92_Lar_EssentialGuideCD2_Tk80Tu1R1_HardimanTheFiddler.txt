@@ -1,170 +1,170 @@
-1	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	0.15673	0.25034	0.093605	str	G4	388.483	3
-2	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	0.26122	0.58122	0.32	NOTE	A4	443.134	1
-3	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	0.58367	0.7551	0.17143	NOTE	G4	391.621	1
-4	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	0.76626	0.8234	0.057143	ct	A4	444.897	2
-5	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	0.83265	0.98776	0.1551	NOTE	F#4	366.812	1
-6	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	1.0041	1.1551	0.15102	NOTE	D4	289.904	1
-7	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	1.1714	1.3366	0.16517	NOTE	E4	329.598	1
-8	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	1.3366	1.359	0.022449	ct	A4	430.793	2
-9	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	1.3694	1.7286	0.35918	NOTE	F#4	361.85	1
-10	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	1.7286	1.9592	0.23061	NOTE	G4	389.14	1
-11	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	1.9653	2.1571	0.19184	lngRoll_nt	A4	433.797	
-12	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	2.1592	2.1898	0.030612	lngRoll_ct	C5	515.667	
-13	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	2.2041	2.3041	0.1	lngRoll_nt	A4	441.24	
-14	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	2.3082	2.3286	0.020408	lngRoll_str	G#4	416.431	
-15	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	2.3367	2.5204	0.18367	lngRoll_nt	A4	443.721	
-16	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	2.5224	2.5571	0.034694	ct	C5	520.629	2
-17	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	2.5714	2.7184	0.14694	NOTE	A4	443.721	1
-18	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	2.7184	2.9041	0.18571	NOTE	G4	391.621	1
-19	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	2.9102	3.102	0.19184	NOTE	A4	441.24	1
-20	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	3.102	3.2898	0.18776	NOTE	C5	525.591	1
-21	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	3.2959	3.4612	0.16531	NOTE	A4	438.759	1
-22	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	3.4796	3.6714	0.19184	NOTE	G4	386.66	1
-23	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	3.6816	3.8408	0.15918	NOTE	A4	431.316	1
-24	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	3.851	3.8776	0.026531	ct	Bb4	473.492	2
-25	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	3.8878	4.0286	0.14082	NOTE	A4	431.316	1
-26	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.0367	4.2286	0.19184	NOTE	G4	386.66	1
-27	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.2347	4.2571	0.022449	ct	A4	428.835	2
-28	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.2653	4.4327	0.16735	NOTE	F#4	366.812	1
-29	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.4429	4.6082	0.16531	NOTE	D4	294.865	1
-30	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.6163	4.7816	0.16531	NOTE	E4	329.598	1
-31	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.7816	4.8061	0.02449	shRoll_ct	G#4	426.354	5
-32	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.8143	4.951	0.13673	shRoll_nt	F#4	364.331	1
-33	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.9551	4.9816	0.026531	shRoll_str	F4	351.927	3
-34	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.9939	5.1633	0.16939	shRoll_nt	F#4	366.812	1
-35	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	5.1694	5.3694	0.2	NOTE	G4	389.14	1
-36	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	5.3755	5.5429	0.16735	NOTE	A4	431.316	1
-37	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	5.5429	5.6857	0.14286	NOTE	D5	577.69	1
-38	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	5.6939	5.8653	0.17143	NOTE	D5	582.652	1
-39	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	5.8816	6.0878	0.20612	NOTE	D5	590.095	1
-40	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	6.1061	6.251	0.1449	NOTE	E5	659.561	1
-41	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	6.2571	6.4612	0.20408	NOTE	D5	590.095	1
-42	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	6.4735	6.6531	0.17959	NOTE	C5	518.148	1
-43	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	6.6714	6.8102	0.13878	NOTE	A4	436.278	1
-44	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	6.8204	7.0224	0.20204	NOTE	G4	391.621	1
-45	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	7.0265	7.3735	0.34694	NOTE	A4	436.278	1
-46	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	7.3857	7.5592	0.17347	NOTE	G4	391.621	1
-47	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	7.5592	7.6	0.040816	ct	A4	431.316	2
-48	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	7.6061	7.7694	0.16327	NOTE	F#4	364.331	1
-49	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	7.7918	7.9449	0.15306	NOTE	D4	294.865	1
-50	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	7.9592	8.1061	0.14694	NOTE	E4	327.117	1
-51	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	8.1143	8.149	0.034694	ct	G#4	426.354	2
-52	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	8.1612	8.502	0.34082	NOTE	F#4	364.331	1
-53	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	8.502	8.7408	0.23878	NOTE	G4	391.621	1
-54	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	8.7449	8.951	0.20612	lngRoll_nt	A4	433.797	
-55	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	8.9531	8.9714	0.018367	lngRoll_ct	B4	493.339	
-56	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	9.0122	9.0796	0.067347	lngRoll_nt	A4	433.797	
-57	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	9.0878	9.1041	0.016327	lngRoll_str	G#4	421.392	
-58	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	9.1102	9.3061	0.19592	lngRoll_nt	A4	441.24	
-59	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	9.3163	9.498	0.18163	NOTE	A4	441.24	1
-60	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	9.5082	9.6694	0.16122	NOTE	G4	389.14	1
-61	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	9.6694	9.8592	0.1898	NOTE	A4	441.24	1
-62	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	9.8673	9.9898	0.12245	NOTE	C5	520.629	1
-63	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	10.002	10.1939	0.19184	NOTE	A4	431.316	1
-64	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	10.198	10.4	0.20204	NOTE	G4	384.179	1
-65	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	10.4	10.602	0.20204	NOTE	A4	441.24	1
-66	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	10.6265	10.7898	0.16327	NOTE	A4	441.24	1
-67	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	10.8082	10.9816	0.17347	NOTE	G4	389.14	1
-68	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	10.9918	11.0122	0.020408	ct	G#4	409.482	2
-69	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	11.0184	11.1939	0.17551	NOTE	F#4	360.903	1
-70	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	11.1959	11.3776	0.18163	NOTE	D4	289.904	1
-71	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	11.3796	11.5612	0.18163	NOTE	E4	323.535	1
-72	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	11.5612	11.598	0.036735	shRoll_ct	A4	428.166	5
-73	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	11.6082	11.749	0.14082	shRoll_nt	F#4	368.377	1
-74	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	11.7531	11.7612	0.0081633	shRoll_str	E4	331.009	3
-75	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	11.7735	11.9306	0.15714	shRoll_nt	F#4	368.377	1
-76	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	11.9388	12.1184	0.17959	NOTE	G4	390.798	1
-77	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	12.1327	12.2327	0.1	NOTE	A4	443.113	1
-78	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	12.2427	12.443	0.20027	BREATH	BREATH	0	4
-79	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	12.451	12.6122	0.16122	NOTE	D5	588.849	1
-80	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	12.6388	12.8265	0.18776	NOTE	D5	588.849	1
-81	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	12.8367	12.9878	0.15102	NOTE	E5	659.849	1
-82	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	12.9918	13.1918	0.2	NOTE	D5	585.113	1
-83	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	13.2	13.3755	0.17551	NOTE	C5	525.323	1
-84	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	13.398	13.5429	0.1449	NOTE	A4	439.377	1
-85	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	13.549	13.7306	0.18163	NOTE	G4	394.535	1
-86	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	13.7531	13.8959	0.14286	NOTE	A4	435.64	1
-87	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	13.9041	14.0347	0.13061	NOTE	D5	585.113	1
-88	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	14.0429	14.2653	0.22245	NOTE	D5	581.376	1
-89	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	14.2837	14.6265	0.34286	NOTE	D5	585.113	1
-90	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	14.6408	14.8469	0.20612	NOTE	E5	663.586	1
-91	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	14.8592	15.0327	0.17347	lngRoll_nt	F#5	727.112	
-92	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	15.0327	15.0653	0.032653	lngRoll_ct	G5	798.112	
-93	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	15.0694	15.1755	0.10612	lngRoll_nt	F#5	734.586	
-94	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	15.1837	15.198	0.014286	lngRoll_str	F5	693.481	
-95	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	15.2102	15.4082	0.19796	lngRoll_nt	F#5	727.112	
-96	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	15.4102	15.5735	0.16327	NOTE	A4	435.64	1
-97	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	15.5842	15.7673	0.18313	BREATH	BREATH	0	4
-98	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	15.7673	15.9449	0.17755	NOTE	D5	592.586	1
-99	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	15.9755	16.1429	0.16735	NOTE	D5	588.849	1
-100	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	16.1571	16.3041	0.14694	NOTE	E5	659.849	1
-101	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	16.3204	16.4898	0.16939	NOTE	D5	588.849	1
-102	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	16.5143	16.698	0.18367	NOTE	C5	517.85	1
-103	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	16.7143	16.8755	0.16122	NOTE	A4	435.64	1
-104	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	16.8837	17.049	0.16531	NOTE	G4	387.061	1
-105	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	17.0673	17.2204	0.15306	NOTE	A4	439.377	1
-106	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	17.2286	17.3694	0.14082	NOTE	D5	573.902	1
-107	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	17.3857	17.7265	0.34082	NOTE	D5	592.586	1
-108	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	17.7393	17.9614	0.22204	BREATH	BREATH	0	4
-109	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	17.9694	18.1592	0.1898	NOTE	E5	678.533	1
-110	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	18.1592	18.2	0.040816	ct	G#5	850.427	2
-111	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	18.2122	18.3429	0.13061	NOTE	F#5	719.638	1
-112	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	18.3633	18.5327	0.16939	NOTE	F#5	727.112	1
-113	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	18.549	18.7184	0.16939	NOTE	G5	790.638	1
-114	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	18.7265	18.749	0.022449	ct	B5	970.006	2
-115	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	18.751	18.9245	0.17347	NOTE	A5	884.059	1
-116	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	18.9306	19.0939	0.16327	NOTE	G5	786.901	1
-117	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	19.1	19.2531	0.15306	NOTE	F#5	730.849	1
-118	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	19.2612	19.2959	0.034694	ct	G#5	846.69	2
-119	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	19.298	19.4735	0.17551	NOTE	G5	775.691	1
-120	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	19.4735	19.6429	0.16939	NOTE	E5	656.112	1
-121	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	19.6531	19.8347	0.18163	NOTE	D5	585.113	1
-122	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	19.8347	20.0122	0.17755	NOTE	C5	521.587	1
-123	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	20.0204	20.1959	0.17551	NOTE	A4	439.377	1
-124	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	20.2061	20.3592	0.15306	NOTE	G4	390.798	1
-125	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	20.3673	20.5245	0.15714	NOTE	A4	439.377	1
-126	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	20.5286	20.6837	0.1551	NOTE	D5	577.639	1
-127	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	20.698	20.8694	0.17143	NOTE	D5	581.376	1
-128	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	20.8796	20.9184	0.038776	crann_nt	C5	517.85	
-129	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	20.9286	20.9571	0.028571	crann_ct	D5	581.376	
-130	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	20.9633	21.0122	0.04898	crann_nt	C5	517.85	
-131	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.0224	21.049	0.026531	crann_ct	D5	581.376	
-132	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.0653	21.1102	0.044898	crann_nt	C5	517.85	
-133	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.1367	21.2837	0.14694	NOTE	D5	577.639	1
-134	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.2857	21.5061	0.22041	NOTE	E5	656.112	1
-135	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.5102	21.6918	0.18163	lngRoll_nt	F#5	730.849	
-136	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.6959	21.7245	0.028571	lngRoll_ct	G5	768.217	
-137	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.7306	21.8224	0.091837	lngRoll_nt	F#5	734.586	
-138	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.8265	21.8388	0.012245	lngRoll_str	F5	693.481	
-139	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.8633	22.0673	0.20408	lngRoll_nt	F#5	727.112	
-140	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	22.0735	22.202	0.12857	NOTE	A4	439.377	1
-141	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	22.2128	22.3782	0.16544	BREATH	BREATH	0	4
-142	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	22.3898	22.5796	0.1898	NOTE	D5	588.849	1
-143	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	22.6041	22.7735	0.16939	NOTE	D5	592.586	1
-144	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	22.7918	22.9551	0.16327	NOTE	E5	652.375	1
-145	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	22.9592	23.1469	0.18776	NOTE	D5	588.849	1
-146	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	23.1592	23.3184	0.15918	NOTE	C5	517.85	1
-147	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	23.3327	23.5245	0.19184	NOTE	A4	439.377	1
-148	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	23.5245	23.6673	0.14286	NOTE	G4	398.271	1
-149	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	23.6796	23.8776	0.19796	NOTE	D5	581.376	1
-150	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	23.8898	24.0122	0.12245	NOTE	C5	517.85	1
-151	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	24.0224	24.2408	0.21837	NOTE	A4	435.64	1
-152	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	24.2408	24.302	0.061224	NOTE	B4	499.166	1
-153	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	24.302	24.4041	0.10204	NOTE	C5	536.534	1
-154	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	24.4122	24.5918	0.17959	NOTE	D5	577.639	1
-155	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	24.6041	24.7918	0.18776	NOTE	E5	648.639	1
-156	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	24.8102	24.8449	0.034694	shRoll_ct	G#5	846.69	5
-157	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	24.8449	24.9694	0.12449	shRoll_nt	F#5	727.112	1
-158	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	24.9755	24.9898	0.014286	shRoll_str	F5	693.481	3
-159	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	25.002	25.1592	0.15714	shRoll_nt	F#5	723.375	1
-160	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	25.1612	25.3388	0.17755	NOTE	G5	790.638	1
-161	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	25.3429	25.3714	0.028571	ct	B5	996.163	2
-162	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	25.3878	25.551	0.16327	NOTE	A5	880.322	1
-163	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	25.5571	25.7388	0.18163	NOTE	G5	783.164	1
-164	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	25.749	25.8939	0.1449	NOTE	F#5	723.375	1
-165	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	25.9041	26.1143	0.2102	NOTE	G5	794.375	1
-166	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	26.1163	26.2939	0.17755	NOTE	E5	652.375	1
-167	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	26.3041	26.5041	0.2	NOTE	D5	581.376	1
-168	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	26.5061	26.6776	0.17143	NOTE	C5	510.376	1
-169	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	26.6816	26.9122	0.23061	NOTE	A4	435.64	1
-170	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	26.9286	27.1796	0.25102	NOTE	G4	387.061	1
+1	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	0.15673	0.25034	0.093605	str	G4	388.483
+2	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	0.26122	0.58122	0.32	NOTE	A4	443.134
+3	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	0.58367	0.7551	0.17143	NOTE	G4	391.621
+4	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	0.76626	0.8234	0.057143	ct	A4	444.897
+5	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	0.83265	0.98776	0.1551	NOTE	F#4	366.812
+6	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	1.0041	1.1551	0.15102	NOTE	D4	289.904
+7	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	1.1714	1.3366	0.16517	NOTE	E4	329.598
+8	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	1.3366	1.359	0.022449	ct	A4	430.793
+9	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	1.3694	1.7286	0.35918	NOTE	F#4	361.85
+10	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	1.7286	1.9592	0.23061	NOTE	G4	389.14
+11	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	1.9653	2.1571	0.19184	lngRoll_nt	A4	433.797
+12	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	2.1592	2.1898	0.030612	lngRoll_ct	C5	515.667
+13	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	2.2041	2.3041	0.1	lngRoll_nt	A4	441.24
+14	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	2.3082	2.3286	0.020408	lngRoll_str	G#4	416.431
+15	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	2.3367	2.5204	0.18367	lngRoll_nt	A4	443.721
+16	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	2.5224	2.5571	0.034694	ct	C5	520.629
+17	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	2.5714	2.7184	0.14694	NOTE	A4	443.721
+18	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	2.7184	2.9041	0.18571	NOTE	G4	391.621
+19	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	2.9102	3.102	0.19184	NOTE	A4	441.24
+20	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	3.102	3.2898	0.18776	NOTE	C5	525.591
+21	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	3.2959	3.4612	0.16531	NOTE	A4	438.759
+22	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	3.4796	3.6714	0.19184	NOTE	G4	386.66
+23	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	3.6816	3.8408	0.15918	NOTE	A4	431.316
+24	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	3.851	3.8776	0.026531	ct	Bb4	473.492
+25	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	3.8878	4.0286	0.14082	NOTE	A4	431.316
+26	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.0367	4.2286	0.19184	NOTE	G4	386.66
+27	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.2347	4.2571	0.022449	ct	A4	428.835
+28	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.2653	4.4327	0.16735	NOTE	F#4	366.812
+29	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.4429	4.6082	0.16531	NOTE	D4	294.865
+30	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.6163	4.7816	0.16531	NOTE	E4	329.598
+31	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.7816	4.8061	0.02449	shRoll_ct	G#4	426.354
+32	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.8143	4.951	0.13673	shRoll_nt	F#4	364.331
+33	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.9551	4.9816	0.026531	shRoll_str	F4	351.927
+34	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	4.9939	5.1633	0.16939	shRoll_nt	F#4	366.812
+35	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	5.1694	5.3694	0.2	NOTE	G4	389.14
+36	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	5.3755	5.5429	0.16735	NOTE	A4	431.316
+37	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	5.5429	5.6857	0.14286	NOTE	D5	577.69
+38	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	5.6939	5.8653	0.17143	NOTE	D5	582.652
+39	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	5.8816	6.0878	0.20612	NOTE	D5	590.095
+40	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	6.1061	6.251	0.1449	NOTE	E5	659.561
+41	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	6.2571	6.4612	0.20408	NOTE	D5	590.095
+42	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	6.4735	6.6531	0.17959	NOTE	C5	518.148
+43	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	6.6714	6.8102	0.13878	NOTE	A4	436.278
+44	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	6.8204	7.0224	0.20204	NOTE	G4	391.621
+45	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	7.0265	7.3735	0.34694	NOTE	A4	436.278
+46	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	7.3857	7.5592	0.17347	NOTE	G4	391.621
+47	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	7.5592	7.6	0.040816	ct	A4	431.316
+48	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	7.6061	7.7694	0.16327	NOTE	F#4	364.331
+49	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	7.7918	7.9449	0.15306	NOTE	D4	294.865
+50	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	7.9592	8.1061	0.14694	NOTE	E4	327.117
+51	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	8.1143	8.149	0.034694	ct	G#4	426.354
+52	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	8.1612	8.502	0.34082	NOTE	F#4	364.331
+53	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	8.502	8.7408	0.23878	NOTE	G4	391.621
+54	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	8.7449	8.951	0.20612	lngRoll_nt	A4	433.797
+55	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	8.9531	8.9714	0.018367	lngRoll_ct	B4	493.339
+56	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	9.0122	9.0796	0.067347	lngRoll_nt	A4	433.797
+57	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	9.0878	9.1041	0.016327	lngRoll_str	G#4	421.392
+58	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	9.1102	9.3061	0.19592	lngRoll_nt	A4	441.24
+59	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	9.3163	9.498	0.18163	NOTE	A4	441.24
+60	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	9.5082	9.6694	0.16122	NOTE	G4	389.14
+61	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	9.6694	9.8592	0.1898	NOTE	A4	441.24
+62	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	9.8673	9.9898	0.12245	NOTE	C5	520.629
+63	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	10.002	10.1939	0.19184	NOTE	A4	431.316
+64	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	10.198	10.4	0.20204	NOTE	G4	384.179
+65	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	10.4	10.602	0.20204	NOTE	A4	441.24
+66	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	10.6265	10.7898	0.16327	NOTE	A4	441.24
+67	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	10.8082	10.9816	0.17347	NOTE	G4	389.14
+68	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	10.9918	11.0122	0.020408	ct	G#4	409.482
+69	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	11.0184	11.1939	0.17551	NOTE	F#4	360.903
+70	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	11.1959	11.3776	0.18163	NOTE	D4	289.904
+71	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	11.3796	11.5612	0.18163	NOTE	E4	323.535
+72	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	11.5612	11.598	0.036735	shRoll_ct	A4	428.166
+73	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	11.6082	11.749	0.14082	shRoll_nt	F#4	368.377
+74	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	11.7531	11.7612	0.0081633	shRoll_str	E4	331.009
+75	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	11.7735	11.9306	0.15714	shRoll_nt	F#4	368.377
+76	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	11.9388	12.1184	0.17959	NOTE	G4	390.798
+77	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	12.1327	12.2327	0.1	NOTE	A4	443.113
+78	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	12.2427	12.443	0.20027	BREATH	BREATH	0
+79	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	12.451	12.6122	0.16122	NOTE	D5	588.849
+80	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	12.6388	12.8265	0.18776	NOTE	D5	588.849
+81	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	12.8367	12.9878	0.15102	NOTE	E5	659.849
+82	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	12.9918	13.1918	0.2	NOTE	D5	585.113
+83	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	13.2	13.3755	0.17551	NOTE	C5	525.323
+84	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	13.398	13.5429	0.1449	NOTE	A4	439.377
+85	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	13.549	13.7306	0.18163	NOTE	G4	394.535
+86	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	13.7531	13.8959	0.14286	NOTE	A4	435.64
+87	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	13.9041	14.0347	0.13061	NOTE	D5	585.113
+88	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	14.0429	14.2653	0.22245	NOTE	D5	581.376
+89	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	14.2837	14.6265	0.34286	NOTE	D5	585.113
+90	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	14.6408	14.8469	0.20612	NOTE	E5	663.586
+91	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	14.8592	15.0327	0.17347	lngRoll_nt	F#5	727.112
+92	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	15.0327	15.0653	0.032653	lngRoll_ct	G5	798.112
+93	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	15.0694	15.1755	0.10612	lngRoll_nt	F#5	734.586
+94	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	15.1837	15.198	0.014286	lngRoll_str	F5	693.481
+95	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	15.2102	15.4082	0.19796	lngRoll_nt	F#5	727.112
+96	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	15.4102	15.5735	0.16327	NOTE	A4	435.64
+97	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	15.5842	15.7673	0.18313	BREATH	BREATH	0
+98	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	15.7673	15.9449	0.17755	NOTE	D5	592.586
+99	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	15.9755	16.1429	0.16735	NOTE	D5	588.849
+100	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	16.1571	16.3041	0.14694	NOTE	E5	659.849
+101	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	16.3204	16.4898	0.16939	NOTE	D5	588.849
+102	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	16.5143	16.698	0.18367	NOTE	C5	517.85
+103	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	16.7143	16.8755	0.16122	NOTE	A4	435.64
+104	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	16.8837	17.049	0.16531	NOTE	G4	387.061
+105	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	17.0673	17.2204	0.15306	NOTE	A4	439.377
+106	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	17.2286	17.3694	0.14082	NOTE	D5	573.902
+107	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	17.3857	17.7265	0.34082	NOTE	D5	592.586
+108	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	17.7393	17.9614	0.22204	BREATH	BREATH	0
+109	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	17.9694	18.1592	0.1898	NOTE	E5	678.533
+110	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	18.1592	18.2	0.040816	ct	G#5	850.427
+111	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	18.2122	18.3429	0.13061	NOTE	F#5	719.638
+112	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	18.3633	18.5327	0.16939	NOTE	F#5	727.112
+113	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	18.549	18.7184	0.16939	NOTE	G5	790.638
+114	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	18.7265	18.749	0.022449	ct	B5	970.006
+115	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	18.751	18.9245	0.17347	NOTE	A5	884.059
+116	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	18.9306	19.0939	0.16327	NOTE	G5	786.901
+117	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	19.1	19.2531	0.15306	NOTE	F#5	730.849
+118	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	19.2612	19.2959	0.034694	ct	G#5	846.69
+119	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	19.298	19.4735	0.17551	NOTE	G5	775.691
+120	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	19.4735	19.6429	0.16939	NOTE	E5	656.112
+121	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	19.6531	19.8347	0.18163	NOTE	D5	585.113
+122	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	19.8347	20.0122	0.17755	NOTE	C5	521.587
+123	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	20.0204	20.1959	0.17551	NOTE	A4	439.377
+124	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	20.2061	20.3592	0.15306	NOTE	G4	390.798
+125	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	20.3673	20.5245	0.15714	NOTE	A4	439.377
+126	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	20.5286	20.6837	0.1551	NOTE	D5	577.639
+127	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	20.698	20.8694	0.17143	NOTE	D5	581.376
+128	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	20.8796	20.9184	0.038776	crann_nt	C5	517.85
+129	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	20.9286	20.9571	0.028571	crann_ct	D5	581.376
+130	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	20.9633	21.0122	0.04898	crann_nt	C5	517.85
+131	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.0224	21.049	0.026531	crann_ct	D5	581.376
+132	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.0653	21.1102	0.044898	crann_nt	C5	517.85
+133	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.1367	21.2837	0.14694	NOTE	D5	577.639
+134	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.2857	21.5061	0.22041	NOTE	E5	656.112
+135	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.5102	21.6918	0.18163	lngRoll_nt	F#5	730.849
+136	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.6959	21.7245	0.028571	lngRoll_ct	G5	768.217
+137	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.7306	21.8224	0.091837	lngRoll_nt	F#5	734.586
+138	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.8265	21.8388	0.012245	lngRoll_str	F5	693.481
+139	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	21.8633	22.0673	0.20408	lngRoll_nt	F#5	727.112
+140	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	22.0735	22.202	0.12857	NOTE	A4	439.377
+141	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	22.2128	22.3782	0.16544	BREATH	BREATH	0
+142	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	22.3898	22.5796	0.1898	NOTE	D5	588.849
+143	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	22.6041	22.7735	0.16939	NOTE	D5	592.586
+144	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	22.7918	22.9551	0.16327	NOTE	E5	652.375
+145	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	22.9592	23.1469	0.18776	NOTE	D5	588.849
+146	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	23.1592	23.3184	0.15918	NOTE	C5	517.85
+147	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	23.3327	23.5245	0.19184	NOTE	A4	439.377
+148	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	23.5245	23.6673	0.14286	NOTE	G4	398.271
+149	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	23.6796	23.8776	0.19796	NOTE	D5	581.376
+150	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	23.8898	24.0122	0.12245	NOTE	C5	517.85
+151	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	24.0224	24.2408	0.21837	NOTE	A4	435.64
+152	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	24.2408	24.302	0.061224	NOTE	B4	499.166
+153	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	24.302	24.4041	0.10204	NOTE	C5	536.534
+154	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	24.4122	24.5918	0.17959	NOTE	D5	577.639
+155	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	24.6041	24.7918	0.18776	NOTE	E5	648.639
+156	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	24.8102	24.8449	0.034694	shRoll_ct	G#5	846.69
+157	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	24.8449	24.9694	0.12449	shRoll_nt	F#5	727.112
+158	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	24.9755	24.9898	0.014286	shRoll_str	F5	693.481
+159	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	25.002	25.1592	0.15714	shRoll_nt	F#5	723.375
+160	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	25.1612	25.3388	0.17755	NOTE	G5	790.638
+161	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	25.3429	25.3714	0.028571	ct	B5	996.163
+162	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	25.3878	25.551	0.16327	NOTE	A5	880.322
+163	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	25.5571	25.7388	0.18163	NOTE	G5	783.164
+164	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	25.749	25.8939	0.1449	NOTE	F#5	723.375
+165	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	25.9041	26.1143	0.2102	NOTE	G5	794.375
+166	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	26.1163	26.2939	0.17755	NOTE	E5	652.375
+167	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	26.3041	26.5041	0.2	NOTE	D5	581.376
+168	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	26.5061	26.6776	0.17143	NOTE	C5	510.376
+169	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	26.6816	26.9122	0.23061	NOTE	A4	435.64
+170	Lar_EssentialGuideCD2_Tk80Tu1R1_HardimanTheFiddler.txt	26.9286	27.1796	0.25102	NOTE	G4	387.061

@@ -1,168 +1,168 @@
-1	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	1.6209	1.7494	0.12844	lngRoll_nt	G5	790.454	
-2	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	1.7559	1.8216	0.065625	lngRoll_ct	A5	898.292	
-3	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	1.8356	1.9303	0.094687	lngRoll_nt	G5	792.809	
-4	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	1.9322	2.0063	0.074063	lngRoll_str	F5	685.295	
-5	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.0063	2.0925	0.08625	lngRoll_nt	G5	797.539	
-6	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.0934	2.1713	0.077813	NOTE	A5	903.651	1
-7	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.1713	2.3747	0.20342	lngRoll_nt	G5	790.454	
-8	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.3747	2.4213	0.046667	lngRoll_ct	A5	887.669	
-9	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.428	2.5373	0.10933	lngRoll_nt	G5	790.454	
-10	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.5533	2.5907	0.037333	lngRoll_str	G5	776.474	
-11	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.6093	2.6933	0.084	lngRoll_nt	G5	785.766	
-12	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.696	2.7587	0.062667	NOTE	A5	890.313	1
-13	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.7587	2.8987	0.14	lngRoll_nt	G5	781.106	
-14	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.904	2.9667	0.062667	lngRoll_ct	A5	887.669	
-15	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.9728	3.0656	0.092813	lngRoll_nt	G5	795.17	
-16	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	3.0769	3.1069	0.03	lngRoll_str	G5	762.741	
-17	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	3.1162	3.1809	0.064687	lngRoll_nt	G5	790.454	
-18	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	3.1847	3.3319	0.14719	NOTE	A5	885.033	1
-19	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	3.3403	3.4819	0.14156	NOTE	G5	785.766	1
-20	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	3.4856	3.6066	0.12094	NOTE	E5	661.268	1
-21	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	3.6094	3.7237	0.11437	NOTE	D5	585.356	1
-22	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	3.7237	3.8813	0.1575	NOTE	G5	785.766	1
-23	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	3.8841	4.0463	0.16219	lngRoll_nt	A5	874.566	
-24	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.0547	4.1006	0.045937	lngRoll_ct	B5	967.629	
-25	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.1034	4.1559	0.0525	lngRoll_nt	A5	879.784	
-26	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.1662	4.2028	0.036562	lngRoll_str	G#5	843.904	
-27	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.2075	4.2544	0.046875	lngRoll_nt	A5	885.033	
-28	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.2694	4.4213	0.15188	BREATH	BREATH	0	4
-29	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.4297	4.5806	0.15094	lngRoll_nt	A5	879.784	
-30	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.5881	4.6237	0.035625	lngRoll_ct	B5	982.126	
-31	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.6322	4.695	0.062812	lngRoll_nt	A5	885.033	
-32	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.7062	4.7437	0.0375	lngRoll_str	G#5	838.899	
-33	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.7447	4.8347	0.09	lngRoll_nt	A5	887.669	
-34	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.8412	4.9763	0.135	NOTE	B5	987.985	1
-35	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.9763	5.1047	0.12844	NOTE	A5	877.171	1
-36	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	5.1056	5.2509	0.14531	NOTE	G5	785.766	1
-37	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	5.2509	5.3897	0.13875	NOTE	B5	979.209	1
-38	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	5.3897	5.5069	0.11719	NOTE	G5	785.766	1
-39	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	5.5097	5.61	0.10031	NOTE	B5	985.051	1
-40	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	5.6166	5.6878	0.07125	NOTE	A5	877.171	1
-41	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	5.6878	5.8294	0.14156	NOTE	G5	781.106	1
-42	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	5.835	5.9222	0.087188	NOTE	E5	665.214	1
-43	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	5.9316	6.075	0.14344	BREATH	BREATH	0	4
-44	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.0834	6.12	0.036562	ct	A5	903.651	2
-45	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.1284	6.2503	0.12187	NOTE	G5	785.766	1
-46	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.2569	6.3637	0.10687	NOTE	D5	594.126	1
-47	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.3722	6.4172	0.045	ct	A5	900.968	2
-48	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.4172	6.51	0.092813	NOTE	G5	781.106	1
-49	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.5128	6.6338	0.12094	NOTE	D5	594.126	1
-50	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.6338	6.7716	0.13781	lngRoll_nt	A5	885.033	
-51	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.7716	6.8016	0.03	lngRoll_ct	B5	973.402	
-52	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.8166	6.8859	0.069375	lngRoll_nt	A5	890.313	
-53	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.8972	6.9478	0.050625	lngRoll_str	G#5	843.904	
-54	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.9525	7.0116	0.059062	lngRoll_nt	A5	892.965	
-55	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	7.0228	7.1747	0.15188	BREATH	BREATH	0	4
-56	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	7.1813	7.23	0.04875	ct	A5	903.651	2
-57	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	7.2328	7.3509	0.11812	NOTE	G5	785.766	1
-58	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	7.3509	7.4719	0.12094	NOTE	E5	671.176	1
-59	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	7.4756	7.5947	0.11906	NOTE	D5	599.451	1
-60	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	7.6031	7.7616	0.15844	NOTE	C#5	548.282	1
-61	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	7.7681	7.8844	0.11625	NOTE	B4	498.507	1
-62	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	7.8844	7.9922	0.10781	NOTE	G4	396.474	1
-63	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.0062	8.0644	0.058125	shRoll_ct	A4	442.594	5
-64	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.0719	8.1778	0.10594	shRoll_nt	G4	396.474	1
-65	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.1844	8.2134	0.029063	shRoll_str	F#4	374.691	3
-66	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.22	8.3034	0.083437	shRoll_nt	G4	389.462	1
-67	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.3034	8.4178	0.11438	lngRoll_nt	A4	442.594	
-68	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.4262	8.4797	0.053437	lngRoll_ct	B4	494.079	
-69	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.4956	8.5388	0.043125	lngRoll_nt	A4	443.912	
-70	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.5463	8.5734	0.027187	lngRoll_str	G#4	427.076	
-71	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.5838	8.6944	0.11063	lngRoll_nt	A4	439.969	
-72	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.6991	8.8228	0.12375	NOTE	D5	587.1	1
-73	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.8228	8.9091	0.08625	NOTE	E5	665.214	1
-74	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.9091	9.045	0.13594	NOTE	G5	774.168	1
-75	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.0488	9.1031	0.054375	shRoll_ct	A5	877.171	5
-76	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.1088	9.2334	0.12469	shRoll_nt	G5	785.766	1
-77	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.2372	9.2728	0.035625	shRoll_str	F#5	753.721	3
-78	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.2794	9.3506	0.07125	shRoll_nt	G5	778.787	1
-79	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.3506	9.4153	0.064687	NOTE	A5	874.566	1
-80	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.4275	9.615	0.1875	BREATH	BREATH	0	4
-81	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.6244	9.6853	0.060937	ct	F#5	722.982	2
-82	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.6872	9.7763	0.089063	NOTE	E5	667.195	1
-83	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.7819	9.8794	0.0975	NOTE	D5	588.848	1
-84	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.8812	9.9469	0.065625	NOTE	B4	507.483	1
-85	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.9506	10.0378	0.087188	NOTE	C#5	551.553	1
-86	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.0519	10.1738	0.12187	NOTE	D5	594.126	1
-87	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.1766	10.2853	0.10875	NOTE	E5	663.238	1
-88	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.2928	10.4503	0.1575	NOTE	F#5	725.135	1
-89	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.4512	10.4878	0.036562	ct	A5	877.171	2
-90	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.4887	10.5825	0.09375	NOTE	G5	790.454	1
-91	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.59	10.7119	0.12187	NOTE	E5	665.214	1
-92	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.7166	10.8506	0.13406	NOTE	C#5	546.654	1
-93	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.8628	10.9659	0.10313	NOTE	E5	659.305	1
-94	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.9659	11.0091	0.043125	ct	Bb5	922.662	2
-95	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	11.0175	11.145	0.1275	NOTE	G5	776.474	1
-96	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	11.1506	11.2687	0.11812	NOTE	E5	661.268	1
-97	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	11.2716	11.4047	0.13312	NOTE	B4	494.079	1
-98	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	11.4075	11.535	0.1275	NOTE	E5	655.395	1
-99	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	11.535	11.6025	0.0675	NOTE	G5	785.766	1
-100	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	11.6072	11.798	0.19081	BREATH	BREATH	0	4
-101	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	11.798	11.9213	0.12333	NOTE	A5	895.625	1
-102	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	11.9333	12.066	0.13267	NOTE	E5	663.238	1
-103	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	12.0747	12.2193	0.14467	NOTE	G5	785.766	1
-104	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	12.2259	12.3469	0.12094	NOTE	E5	665.214	1
-105	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	12.3525	12.4584	0.10594	NOTE	D5	595.896	1
-106	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	12.4659	12.6188	0.15281	NOTE	B4	501.481	1
-107	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	12.6188	12.7594	0.14062	NOTE	E5	669.182	1
-108	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	12.7641	12.8803	0.11625	NOTE	B4	498.507	1
-109	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	12.8841	12.945	0.060937	NOTE	G4	392.952	1
-110	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	12.945	13.0153	0.070312	NOTE	G5	778.787	1
-111	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	13.0153	13.1494	0.13406	NOTE	B5	970.511	1
-112	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	13.1531	13.2516	0.098438	NOTE	G5	781.106	1
-113	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	13.2516	13.4147	0.16312	NOTE	A5	871.969	1
-114	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	13.4241	13.6547	0.23062	BREATH	BREATH	0	4
-115	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	13.6613	13.7653	0.10406	NOTE	B5	990.928	1
-116	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	13.7672	13.8544	0.087188	NOTE	A5	879.784	1
-117	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	13.8562	13.9575	0.10125	NOTE	G5	785.766	1
-118	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	13.9575	14.1056	0.14813	NOTE	B5	982.126	1
-119	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.1056	14.2322	0.12656	NOTE	G5	783.433	1
-120	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.2397	14.2763	0.036562	ct	B5	996.84	2
-121	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.2837	14.355	0.07125	NOTE	A5	877.171	1
-122	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.3588	14.4975	0.13875	NOTE	G5	788.107	1
-123	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.4975	14.6081	0.11063	NOTE	E5	671.176	1
-124	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.6194	14.7122	0.092813	NOTE	F#5	735.999	1
-125	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.7234	14.8322	0.10875	lngRoll_nt	G5	785.766	
-126	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.8434	14.9006	0.057188	lngRoll_ct	B5	987.985	
-127	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.9025	15.0038	0.10125	lngRoll_nt	G5	783.433	
-128	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.0141	15.0497	0.035625	lngRoll_str	G5	767.291	
-129	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.0581	15.1106	0.0525	lngRoll_nt	G5	788.107	
-130	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.1209	15.2709	0.15	NOTE	D5	592.362	1
-131	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.2709	15.3863	0.11531	lngRoll_nt	A5	874.566	
-132	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.3891	15.4331	0.044062	lngRoll_ct	B5	979.209	
-133	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.4378	15.5053	0.0675	lngRoll_nt	A5	879.784	
-134	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.5053	15.5428	0.0375	lngRoll_str	G#5	848.939	
-135	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.5447	15.5794	0.034688	lngRoll_nt	A5	882.405	
-136	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.5887	15.7556	0.16687	BREATH	BREATH	0	4
-137	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.7659	15.8297	0.06375	ct	A5	897.263	2
-138	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.8541	15.9422	0.088125	NOTE	G5	785.877	1
-139	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.9506	16.0341	0.083438	NOTE	F#5	731.218	1
-140	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.0341	16.0847	0.050625	ct	A5	901.446	2
-141	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.0875	16.1803	0.092813	NOTE	G5	782.23	1
-142	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.186	16.2647	0.078667	NOTE	D5	590.383	1
-143	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.2647	16.2993	0.034667	ct	C#5	562.245	2
-144	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.3047	16.448	0.14333	NOTE	B4	497.049	1
-145	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.4527	16.5607	0.108	NOTE	G4	392.091	1
-146	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.5647	16.604	0.039333	shRoll_ct	A4	441.462	5
-147	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.6073	16.66	0.052667	shRoll_nt	G4	393.919	1
-148	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.6673	16.698	0.030667	shRoll_str	F#4	375.145	3
-149	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.7013	16.8153	0.114	shRoll_nt	G4	391.18	1
-150	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.8153	16.9487	0.13333	lngRoll_nt	A4	440.437	
-151	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.9553	17.0007	0.045333	lngRoll_ct	B4	499.366	
-152	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.0007	17.0667	0.066	lngRoll_nt	A4	446.625	
-153	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.0787	17.106	0.027333	lngRoll_str	A4	435.345	
-154	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.1087	17.2173	0.10867	lngRoll_nt	A4	440.437	
-155	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.2313	17.3347	0.10333	NOTE	D5	586.279	1
-156	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.338	17.564	0.226	NOTE	G5	776.792	1
-157	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.5693	17.6147	0.045333	ct	A5	872.571	2
-158	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.6173	17.7447	0.12733	NOTE	G5	773.188	1
-159	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.7493	17.7807	0.031333	ct	G5	785.877	2
-160	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.79	17.8307	0.040667	NOTE	G5	767.812	1
-161	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.8307	17.9153	0.084667	NOTE	A5	876.639	1
-162	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.9193	18.106	0.18667	BREATH	BREATH	0	4
-163	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	18.1213	18.2527	0.13133	NOTE	E5	670.934	1
-164	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	18.2667	18.396	0.12933	NOTE	D5	586.279	1
-165	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	18.396	18.532	0.136	NOTE	C5	535.448	1
-166	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	18.5413	18.684	0.14267	NOTE	A4	442.49	1
-167	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	18.684	18.756	0.072	NOTE	F#4	371.671	1
-168	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	18.764	18.8973	0.13333	BREATH	BREATH	0	4
+1	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	1.6209	1.7494	0.12844	lngRoll_nt	G5	790.454
+2	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	1.7559	1.8216	0.065625	lngRoll_ct	A5	898.292
+3	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	1.8356	1.9303	0.094687	lngRoll_nt	G5	792.809
+4	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	1.9322	2.0063	0.074063	lngRoll_str	F5	685.295
+5	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.0063	2.0925	0.08625	lngRoll_nt	G5	797.539
+6	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.0934	2.1713	0.077813	NOTE	A5	903.651
+7	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.1713	2.3747	0.20342	lngRoll_nt	G5	790.454
+8	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.3747	2.4213	0.046667	lngRoll_ct	A5	887.669
+9	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.428	2.5373	0.10933	lngRoll_nt	G5	790.454
+10	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.5533	2.5907	0.037333	lngRoll_str	G5	776.474
+11	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.6093	2.6933	0.084	lngRoll_nt	G5	785.766
+12	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.696	2.7587	0.062667	NOTE	A5	890.313
+13	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.7587	2.8987	0.14	lngRoll_nt	G5	781.106
+14	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.904	2.9667	0.062667	lngRoll_ct	A5	887.669
+15	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	2.9728	3.0656	0.092813	lngRoll_nt	G5	795.17
+16	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	3.0769	3.1069	0.03	lngRoll_str	G5	762.741
+17	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	3.1162	3.1809	0.064687	lngRoll_nt	G5	790.454
+18	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	3.1847	3.3319	0.14719	NOTE	A5	885.033
+19	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	3.3403	3.4819	0.14156	NOTE	G5	785.766
+20	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	3.4856	3.6066	0.12094	NOTE	E5	661.268
+21	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	3.6094	3.7237	0.11437	NOTE	D5	585.356
+22	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	3.7237	3.8813	0.1575	NOTE	G5	785.766
+23	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	3.8841	4.0463	0.16219	lngRoll_nt	A5	874.566
+24	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.0547	4.1006	0.045937	lngRoll_ct	B5	967.629
+25	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.1034	4.1559	0.0525	lngRoll_nt	A5	879.784
+26	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.1662	4.2028	0.036562	lngRoll_str	G#5	843.904
+27	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.2075	4.2544	0.046875	lngRoll_nt	A5	885.033
+28	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.2694	4.4213	0.15188	BREATH	BREATH	0
+29	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.4297	4.5806	0.15094	lngRoll_nt	A5	879.784
+30	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.5881	4.6237	0.035625	lngRoll_ct	B5	982.126
+31	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.6322	4.695	0.062812	lngRoll_nt	A5	885.033
+32	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.7062	4.7437	0.0375	lngRoll_str	G#5	838.899
+33	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.7447	4.8347	0.09	lngRoll_nt	A5	887.669
+34	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.8412	4.9763	0.135	NOTE	B5	987.985
+35	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	4.9763	5.1047	0.12844	NOTE	A5	877.171
+36	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	5.1056	5.2509	0.14531	NOTE	G5	785.766
+37	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	5.2509	5.3897	0.13875	NOTE	B5	979.209
+38	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	5.3897	5.5069	0.11719	NOTE	G5	785.766
+39	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	5.5097	5.61	0.10031	NOTE	B5	985.051
+40	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	5.6166	5.6878	0.07125	NOTE	A5	877.171
+41	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	5.6878	5.8294	0.14156	NOTE	G5	781.106
+42	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	5.835	5.9222	0.087188	NOTE	E5	665.214
+43	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	5.9316	6.075	0.14344	BREATH	BREATH	0
+44	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.0834	6.12	0.036562	ct	A5	903.651
+45	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.1284	6.2503	0.12187	NOTE	G5	785.766
+46	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.2569	6.3637	0.10687	NOTE	D5	594.126
+47	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.3722	6.4172	0.045	ct	A5	900.968
+48	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.4172	6.51	0.092813	NOTE	G5	781.106
+49	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.5128	6.6338	0.12094	NOTE	D5	594.126
+50	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.6338	6.7716	0.13781	lngRoll_nt	A5	885.033
+51	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.7716	6.8016	0.03	lngRoll_ct	B5	973.402
+52	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.8166	6.8859	0.069375	lngRoll_nt	A5	890.313
+53	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.8972	6.9478	0.050625	lngRoll_str	G#5	843.904
+54	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	6.9525	7.0116	0.059062	lngRoll_nt	A5	892.965
+55	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	7.0228	7.1747	0.15188	BREATH	BREATH	0
+56	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	7.1813	7.23	0.04875	ct	A5	903.651
+57	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	7.2328	7.3509	0.11812	NOTE	G5	785.766
+58	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	7.3509	7.4719	0.12094	NOTE	E5	671.176
+59	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	7.4756	7.5947	0.11906	NOTE	D5	599.451
+60	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	7.6031	7.7616	0.15844	NOTE	C#5	548.282
+61	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	7.7681	7.8844	0.11625	NOTE	B4	498.507
+62	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	7.8844	7.9922	0.10781	NOTE	G4	396.474
+63	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.0062	8.0644	0.058125	shRoll_ct	A4	442.594
+64	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.0719	8.1778	0.10594	shRoll_nt	G4	396.474
+65	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.1844	8.2134	0.029063	shRoll_str	F#4	374.691
+66	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.22	8.3034	0.083437	shRoll_nt	G4	389.462
+67	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.3034	8.4178	0.11438	lngRoll_nt	A4	442.594
+68	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.4262	8.4797	0.053437	lngRoll_ct	B4	494.079
+69	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.4956	8.5388	0.043125	lngRoll_nt	A4	443.912
+70	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.5463	8.5734	0.027187	lngRoll_str	G#4	427.076
+71	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.5838	8.6944	0.11063	lngRoll_nt	A4	439.969
+72	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.6991	8.8228	0.12375	NOTE	D5	587.1
+73	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.8228	8.9091	0.08625	NOTE	E5	665.214
+74	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	8.9091	9.045	0.13594	NOTE	G5	774.168
+75	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.0488	9.1031	0.054375	shRoll_ct	A5	877.171
+76	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.1088	9.2334	0.12469	shRoll_nt	G5	785.766
+77	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.2372	9.2728	0.035625	shRoll_str	F#5	753.721
+78	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.2794	9.3506	0.07125	shRoll_nt	G5	778.787
+79	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.3506	9.4153	0.064687	NOTE	A5	874.566
+80	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.4275	9.615	0.1875	BREATH	BREATH	0
+81	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.6244	9.6853	0.060937	ct	F#5	722.982
+82	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.6872	9.7763	0.089063	NOTE	E5	667.195
+83	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.7819	9.8794	0.0975	NOTE	D5	588.848
+84	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.8812	9.9469	0.065625	NOTE	B4	507.483
+85	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	9.9506	10.0378	0.087188	NOTE	C#5	551.553
+86	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.0519	10.1738	0.12187	NOTE	D5	594.126
+87	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.1766	10.2853	0.10875	NOTE	E5	663.238
+88	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.2928	10.4503	0.1575	NOTE	F#5	725.135
+89	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.4512	10.4878	0.036562	ct	A5	877.171
+90	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.4887	10.5825	0.09375	NOTE	G5	790.454
+91	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.59	10.7119	0.12187	NOTE	E5	665.214
+92	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.7166	10.8506	0.13406	NOTE	C#5	546.654
+93	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.8628	10.9659	0.10313	NOTE	E5	659.305
+94	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	10.9659	11.0091	0.043125	ct	Bb5	922.662
+95	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	11.0175	11.145	0.1275	NOTE	G5	776.474
+96	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	11.1506	11.2687	0.11812	NOTE	E5	661.268
+97	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	11.2716	11.4047	0.13312	NOTE	B4	494.079
+98	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	11.4075	11.535	0.1275	NOTE	E5	655.395
+99	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	11.535	11.6025	0.0675	NOTE	G5	785.766
+100	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	11.6072	11.798	0.19081	BREATH	BREATH	0
+101	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	11.798	11.9213	0.12333	NOTE	A5	895.625
+102	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	11.9333	12.066	0.13267	NOTE	E5	663.238
+103	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	12.0747	12.2193	0.14467	NOTE	G5	785.766
+104	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	12.2259	12.3469	0.12094	NOTE	E5	665.214
+105	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	12.3525	12.4584	0.10594	NOTE	D5	595.896
+106	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	12.4659	12.6188	0.15281	NOTE	B4	501.481
+107	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	12.6188	12.7594	0.14062	NOTE	E5	669.182
+108	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	12.7641	12.8803	0.11625	NOTE	B4	498.507
+109	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	12.8841	12.945	0.060937	NOTE	G4	392.952
+110	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	12.945	13.0153	0.070312	NOTE	G5	778.787
+111	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	13.0153	13.1494	0.13406	NOTE	B5	970.511
+112	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	13.1531	13.2516	0.098438	NOTE	G5	781.106
+113	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	13.2516	13.4147	0.16312	NOTE	A5	871.969
+114	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	13.4241	13.6547	0.23062	BREATH	BREATH	0
+115	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	13.6613	13.7653	0.10406	NOTE	B5	990.928
+116	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	13.7672	13.8544	0.087188	NOTE	A5	879.784
+117	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	13.8562	13.9575	0.10125	NOTE	G5	785.766
+118	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	13.9575	14.1056	0.14813	NOTE	B5	982.126
+119	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.1056	14.2322	0.12656	NOTE	G5	783.433
+120	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.2397	14.2763	0.036562	ct	B5	996.84
+121	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.2837	14.355	0.07125	NOTE	A5	877.171
+122	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.3588	14.4975	0.13875	NOTE	G5	788.107
+123	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.4975	14.6081	0.11063	NOTE	E5	671.176
+124	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.6194	14.7122	0.092813	NOTE	F#5	735.999
+125	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.7234	14.8322	0.10875	lngRoll_nt	G5	785.766
+126	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.8434	14.9006	0.057188	lngRoll_ct	B5	987.985
+127	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	14.9025	15.0038	0.10125	lngRoll_nt	G5	783.433
+128	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.0141	15.0497	0.035625	lngRoll_str	G5	767.291
+129	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.0581	15.1106	0.0525	lngRoll_nt	G5	788.107
+130	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.1209	15.2709	0.15	NOTE	D5	592.362
+131	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.2709	15.3863	0.11531	lngRoll_nt	A5	874.566
+132	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.3891	15.4331	0.044062	lngRoll_ct	B5	979.209
+133	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.4378	15.5053	0.0675	lngRoll_nt	A5	879.784
+134	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.5053	15.5428	0.0375	lngRoll_str	G#5	848.939
+135	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.5447	15.5794	0.034688	lngRoll_nt	A5	882.405
+136	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.5887	15.7556	0.16687	BREATH	BREATH	0
+137	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.7659	15.8297	0.06375	ct	A5	897.263
+138	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.8541	15.9422	0.088125	NOTE	G5	785.877
+139	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	15.9506	16.0341	0.083438	NOTE	F#5	731.218
+140	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.0341	16.0847	0.050625	ct	A5	901.446
+141	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.0875	16.1803	0.092813	NOTE	G5	782.23
+142	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.186	16.2647	0.078667	NOTE	D5	590.383
+143	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.2647	16.2993	0.034667	ct	C#5	562.245
+144	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.3047	16.448	0.14333	NOTE	B4	497.049
+145	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.4527	16.5607	0.108	NOTE	G4	392.091
+146	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.5647	16.604	0.039333	shRoll_ct	A4	441.462
+147	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.6073	16.66	0.052667	shRoll_nt	G4	393.919
+148	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.6673	16.698	0.030667	shRoll_str	F#4	375.145
+149	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.7013	16.8153	0.114	shRoll_nt	G4	391.18
+150	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.8153	16.9487	0.13333	lngRoll_nt	A4	440.437
+151	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	16.9553	17.0007	0.045333	lngRoll_ct	B4	499.366
+152	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.0007	17.0667	0.066	lngRoll_nt	A4	446.625
+153	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.0787	17.106	0.027333	lngRoll_str	A4	435.345
+154	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.1087	17.2173	0.10867	lngRoll_nt	A4	440.437
+155	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.2313	17.3347	0.10333	NOTE	D5	586.279
+156	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.338	17.564	0.226	NOTE	G5	776.792
+157	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.5693	17.6147	0.045333	ct	A5	872.571
+158	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.6173	17.7447	0.12733	NOTE	G5	773.188
+159	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.7493	17.7807	0.031333	ct	G5	785.877
+160	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.79	17.8307	0.040667	NOTE	G5	767.812
+161	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.8307	17.9153	0.084667	NOTE	A5	876.639
+162	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	17.9193	18.106	0.18667	BREATH	BREATH	0
+163	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	18.1213	18.2527	0.13133	NOTE	E5	670.934
+164	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	18.2667	18.396	0.12933	NOTE	D5	586.279
+165	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	18.396	18.532	0.136	NOTE	C5	535.448
+166	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	18.5413	18.684	0.14267	NOTE	A4	442.49
+167	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	18.684	18.756	0.072	NOTE	F#4	371.671
+168	Tan_FieldRecordings_Tk2Tu1R1_TheMaidBehindTheBar	18.764	18.8973	0.13333	BREATH	BREATH	0

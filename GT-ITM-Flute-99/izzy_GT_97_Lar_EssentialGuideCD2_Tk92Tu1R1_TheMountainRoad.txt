@@ -1,157 +1,157 @@
-1	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	0.23265	0.40816	0.17551	NOTE	D4	290.724	1
-2	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	0.44082	0.59592	0.1551	NOTE	E4	329.053	1
-3	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	0.63265	0.77347	0.14082	lngRoll_nt	F#4	367.773	
-4	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	0.79592	0.85102	0.055102	lngRoll_ct	A4	438.686	
-5	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	0.86122	0.94082	0.079592	lngRoll_nt	F#4	368.546	
-6	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	0.95306	1.0082	0.055102	lngRoll_str	F#4	360.134	
-7	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	1.0245	1.1755	0.15102	lngRoll_nt	F#4	369.32	
-8	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	1.2245	1.3694	0.1449	NOTE	A4	442.384	1
-9	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	1.4102	1.5633	0.15306	NOTE	B4	496.521	1
-10	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	1.5939	1.7388	0.1449	NOTE	F#4	365.464	1
-11	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	1.7776	1.9204	0.14286	NOTE	A4	440.531	1
-12	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	1.9673	2.1306	0.16327	lngRoll_nt	F#4	363.933	
-13	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	2.151	2.1939	0.042857	lngRoll_ct	A4	429.574	
-14	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	2.1939	2.3122	0.11837	lngRoll_nt	F#4	366.232	
-15	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	2.3224	2.3633	0.040816	lngRoll_str	F4	359.379	
-16	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	2.3857	2.498	0.11224	lngRoll_nt	F#4	367.773	
-17	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	2.5306	2.6918	0.16122	NOTE	A4	440.531	1
-18	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	2.7388	2.8714	0.13265	NOTE	F#4	364.698	1
-19	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	2.898	3.0714	0.17347	NOTE	E4	329.053	1
-20	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	3.0796	3.2469	0.16735	NOTE	F#4	366.232	1
-21	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	3.2694	3.4469	0.17755	NOTE	D4	292.561	1
-22	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	3.4633	3.598	0.13469	NOTE	E4	327.674	1
-23	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	3.6204	3.6714	0.05102	shRoll_ct	G#4	426.877	5
-24	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	3.6714	3.7633	0.091837	shRoll_nt	F#4	367.002	1
-25	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	3.7735	3.8306	0.057143	shRoll_str	F4	359.379	3
-26	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	3.8429	3.9653	0.12245	shRoll_nt	F#4	367.773	1
-27	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	4	4.1592	0.15918	NOTE	A4	438.686	1
-28	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	4.198	4.3388	0.14082	NOTE	F#4	363.17	1
-29	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	4.3735	4.5327	0.15918	NOTE	B4	495.48	1
-30	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	4.5694	4.7204	0.15102	NOTE	F#4	365.464	1
-31	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	4.7755	4.9061	0.13061	NOTE	A4	438.686	1
-32	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	4.9551	5.1082	0.15306	NOTE	F#4	363.17	1
-33	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	5.1367	5.2755	0.13878	NOTE	G4	385.964	1
-34	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	5.2959	5.3592	0.063265	ct	A4	429.574	2
-35	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	5.3592	5.4816	0.12245	NOTE	G4	391.676	1
-36	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	5.4918	5.6551	0.16327	NOTE	F#4	365.464	1
-37	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	5.6796	5.8633	0.18367	NOTE	G4	388.402	1
-38	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	5.8878	6.0449	0.15714	NOTE	E4	329.053	1
-39	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	6.0776	6.2347	0.15714	NOTE	D4	290.724	1
-40	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	6.2714	6.4286	0.15714	NOTE	B4	488.253	1
-41	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	6.4388	6.6041	0.16531	NOTE	A4	435.932	1
-42	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	6.6347	6.798	0.16327	lngRoll_nt	F#4	365.464	
-43	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	6.8163	6.8755	0.059184	lngRoll_ct	G#4	422.42	
-44	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	6.8755	6.9816	0.10612	lngRoll_nt	F#4	366.232	
-45	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	6.9939	7.0469	0.053061	lngRoll_str	F4	355.627	
-46	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	7.0612	7.1612	0.1	lngRoll_nt	F#4	366.232	
-47	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	7.2061	7.3816	0.17551	NOTE	A4	435.932	1
-48	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	7.4122	7.5592	0.14694	NOTE	B4	491.337	1
-49	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	7.5939	7.749	0.1551	NOTE	F#4	363.933	1
-50	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	7.7735	7.9388	0.16531	NOTE	A4	441.457	1
-51	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	7.9673	8.1204	0.15306	lngRoll_nt	F#4	367.002	
-52	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	8.1367	8.198	0.061224	lngRoll_ct	G#4	419.769	
-53	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	8.198	8.2878	0.089796	lngRoll_nt	F#4	367.002	
-54	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	8.3	8.3571	0.057143	lngRoll_str	F4	355.627	
-55	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	8.3714	8.4837	0.11224	lngRoll_nt	F#4	367.002	
-56	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	8.5163	8.6878	0.17143	NOTE	A4	438.686	1
-57	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	8.7245	8.8837	0.15918	NOTE	F#4	367.002	1
-58	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	8.9082	9.0551	0.14694	NOTE	E4	330.437	1
-59	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	9.0816	9.251	0.16939	NOTE	F#4	363.933	1
-60	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	9.2837	9.4653	0.18163	NOTE	D4	291.947	1
-61	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	9.4816	9.6204	0.13878	NOTE	E4	330.437	1
-62	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	9.6449	9.8061	0.16122	NOTE	F#4	363.17	1
-63	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	9.8245	9.9714	0.14694	lngRoll_nt	A4	439.608	
-64	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	9.9898	10.0347	0.044898	lngRoll_ct	C5	517.809	
-65	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	10.0469	10.1327	0.085714	lngRoll_nt	A4	439.608	
-66	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	10.149	10.2122	0.063265	lngRoll_str	A4	429.574	
-67	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	10.2245	10.3449	0.12041	lngRoll_nt	A4	442.384	
-68	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	10.3612	10.4143	0.053061	ct	C5	536.62	2
-69	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	10.4143	10.5551	0.14082	NOTE	B4	494.441	1
-70	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	10.5898	10.7245	0.13469	NOTE	A4	440.531	1
-71	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	10.749	10.8939	0.1449	NOTE	F#4	366.232	1
-72	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	10.9327	11.0694	0.13673	NOTE	B4	494.441	1
-73	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	11.1	11.2694	0.16939	NOTE	A4	443.314	1
-74	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	11.2939	11.4367	0.14286	NOTE	B4	496.521	1
-75	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	11.4755	11.6429	0.16735	NOTE	D5	583.62	1
-76	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	11.6551	11.8143	0.15918	NOTE	E5	656.416	1
-77	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	11.8224	12.002	0.17959	NOTE	F#5	730.585	1
-78	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	12.0204	12.1408	0.12041	NOTE	D5	589.778	1
-79	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	12.149	12.202	0.053061	ct	D5	602.288	2
-80	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	12.2102	12.3388	0.12857	NOTE	D5	589.778	1
-81	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	12.3653	12.5184	0.15306	NOTE	C#5	552.623	1
-82	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	12.5367	12.6796	0.14286	NOTE	D5	589.778	1
-83	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	12.6898	12.9653	0.27551	BREATH	BREATH	0	4
-84	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	12.9776	13.1429	0.16531	NOTE	D5	592.259	1
-85	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	13.1673	13.2857	0.11837	NOTE	B4	495.48	1
-86	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	13.2878	13.3327	0.044898	ct	A4	441.457	2
-87	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	13.3327	13.3755	0.042857	NOTE	C5	512.403	1
-88	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	13.3816	13.5041	0.12245	NOTE	A4	438.686	1
-89	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	13.5429	13.6857	0.14286	NOTE	D4	294.409	1
-90	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	13.7143	13.898	0.18367	NOTE	F#4	365.464	1
-91	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	13.9122	14.0551	0.14286	NOTE	A4	436.848	1
-92	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	14.0776	14.2286	0.15102	NOTE	D5	591.017	1
-93	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	14.249	14.4184	0.16939	NOTE	C#5	552.623	1
-94	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	14.4265	14.5857	0.15918	NOTE	D5	589.778	1
-95	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	14.6082	14.7816	0.17347	NOTE	E5	660.563	1
-96	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	14.802	14.9633	0.16122	NOTE	F#5	729.053	1
-97	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	14.9816	15.1347	0.15306	NOTE	G5	782.985	1
-98	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	15.149	15.1959	0.046939	ct	G#5	847.996	2
-99	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	15.2102	15.3408	0.13061	NOTE	F#5	733.659	1
-100	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	15.3571	15.5061	0.14898	NOTE	E5	657.796	1
-101	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	15.5306	15.6837	0.15306	NOTE	D5	593.503	1
-102	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	15.7082	15.8571	0.14898	NOTE	C#5	546.853	1
-103	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	15.8898	16.0408	0.15102	NOTE	D5	586.075	1
-104	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	16.0796	16.202	0.12245	NOTE	B4	491.337	1
-105	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	16.2265	16.2633	0.036735	ct	A4	439.608	2
-106	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	16.2694	16.3102	0.040816	NOTE	C5	516.723	1
-107	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	16.3184	16.4367	0.11837	NOTE	A4	436.848	1
-108	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	16.4755	16.6367	0.16122	NOTE	D4	294.409	1
-109	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	16.6551	16.8082	0.15306	NOTE	F#4	361.649	1
-110	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	16.8286	16.9918	0.16327	NOTE	A4	435.932	1
-111	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	17.0082	17.1796	0.17143	NOTE	G4	388.402	1
-112	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	17.1796	17.2367	0.057143	ct	A4	430.476	2
-113	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	17.249	17.3714	0.12245	NOTE	G4	389.218	1
-114	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	17.3878	17.5449	0.15714	NOTE	F#4	365.464	1
-115	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	17.5694	17.7347	0.16531	NOTE	G4	393.324	1
-116	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	17.7694	17.9204	0.15102	NOTE	E4	330.437	1
-117	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	17.9449	18.098	0.15306	NOTE	D4	293.792	1
-118	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	18.1388	18.302	0.16327	NOTE	B4	496.521	1
-119	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	18.3122	18.4796	0.16735	NOTE	A4	439.608	1
-120	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	18.498	18.6551	0.15714	NOTE	D5	588.541	1
-121	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	18.6694	18.8939	0.22449	BREATH	BREATH	0	4
-122	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	18.9082	19.0449	0.13673	NOTE	D5	589.778	1
-123	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	19.0857	19.2388	0.15306	NOTE	B4	495.48	1
-124	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	19.2469	19.2837	0.036735	ct	A4	442.384	2
-125	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	19.2837	19.3184	0.034694	NOTE	B4	497.564	1
-126	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	19.3286	19.4551	0.12653	NOTE	A4	438.686	1
-127	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	19.4816	19.6184	0.13673	NOTE	D4	294.409	1
-128	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	19.649	19.8082	0.15918	NOTE	F#4	363.933	1
-129	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	19.8245	19.9796	0.1551	NOTE	A4	435.018	1
-130	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	20.0041	20.1653	0.16122	NOTE	D5	591.017	1
-131	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	20.1898	20.351	0.16122	NOTE	C#5	550.308	1
-132	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	20.3592	20.5286	0.16939	NOTE	D5	589.778	1
-133	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	20.5551	20.7347	0.17959	NOTE	E5	660.563	1
-134	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	20.749	20.9102	0.16122	NOTE	F#5	722.957	1
-135	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	20.9327	21.0837	0.15102	NOTE	G5	784.63	1
-136	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	21.0837	21.1347	0.05102	ct	G#5	835.628	2
-137	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	21.1347	21.2796	0.1449	NOTE	F#5	725.999	1
-138	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	21.3	21.451	0.15102	NOTE	E5	657.796	1
-139	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	21.4816	21.6163	0.13469	NOTE	D5	588.541	1
-140	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	21.649	21.7959	0.14694	NOTE	C#5	543.421	1
-141	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	21.8265	21.9878	0.16122	NOTE	D5	589.778	1
-142	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	22.0184	22.1653	0.14694	NOTE	B4	492.37	1
-143	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	22.1918	22.3449	0.15306	NOTE	A4	437.766	1
-144	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	22.3571	22.4245	0.067347	ct	B4	500.707	2
-145	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	22.4286	22.5347	0.10612	NOTE	A4	436.848	1
-146	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	22.5551	22.7245	0.16939	NOTE	F#4	364.698	1
-147	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	22.7551	22.9102	0.1551	NOTE	A4	435.932	1
-148	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	22.9429	23.1061	0.16327	NOTE	G4	388.402	1
-149	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	23.1122	23.1673	0.055102	NOTE	G#4	420.651	1
-150	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	23.1673	23.3	0.13265	NOTE	G4	391.676	1
-151	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	23.3265	23.4837	0.15714	NOTE	F#4	367.002	1
-152	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	23.5102	23.7	0.1898	NOTE	G4	391.676	1
-153	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	23.7245	23.8898	0.16531	NOTE	E4	329.053	1
-154	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	23.9265	24.0816	0.1551	NOTE	D4	293.175	1
-155	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	24.0816	24.1429	0.061224	ct	C5	537.747	2
-156	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	24.1531	24.3041	0.15102	NOTE	B4	491.337	1
-157	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	24.3367	24.5694	0.23265	NOTE	A4	437.766	1
+1	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	0.23265	0.40816	0.17551	NOTE	D4	290.724
+2	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	0.44082	0.59592	0.1551	NOTE	E4	329.053
+3	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	0.63265	0.77347	0.14082	lngRoll_nt	F#4	367.773
+4	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	0.79592	0.85102	0.055102	lngRoll_ct	A4	438.686
+5	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	0.86122	0.94082	0.079592	lngRoll_nt	F#4	368.546
+6	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	0.95306	1.0082	0.055102	lngRoll_str	F#4	360.134
+7	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	1.0245	1.1755	0.15102	lngRoll_nt	F#4	369.32
+8	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	1.2245	1.3694	0.1449	NOTE	A4	442.384
+9	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	1.4102	1.5633	0.15306	NOTE	B4	496.521
+10	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	1.5939	1.7388	0.1449	NOTE	F#4	365.464
+11	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	1.7776	1.9204	0.14286	NOTE	A4	440.531
+12	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	1.9673	2.1306	0.16327	lngRoll_nt	F#4	363.933
+13	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	2.151	2.1939	0.042857	lngRoll_ct	A4	429.574
+14	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	2.1939	2.3122	0.11837	lngRoll_nt	F#4	366.232
+15	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	2.3224	2.3633	0.040816	lngRoll_str	F4	359.379
+16	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	2.3857	2.498	0.11224	lngRoll_nt	F#4	367.773
+17	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	2.5306	2.6918	0.16122	NOTE	A4	440.531
+18	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	2.7388	2.8714	0.13265	NOTE	F#4	364.698
+19	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	2.898	3.0714	0.17347	NOTE	E4	329.053
+20	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	3.0796	3.2469	0.16735	NOTE	F#4	366.232
+21	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	3.2694	3.4469	0.17755	NOTE	D4	292.561
+22	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	3.4633	3.598	0.13469	NOTE	E4	327.674
+23	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	3.6204	3.6714	0.05102	shRoll_ct	G#4	426.877
+24	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	3.6714	3.7633	0.091837	shRoll_nt	F#4	367.002
+25	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	3.7735	3.8306	0.057143	shRoll_str	F4	359.379
+26	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	3.8429	3.9653	0.12245	shRoll_nt	F#4	367.773
+27	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	4	4.1592	0.15918	NOTE	A4	438.686
+28	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	4.198	4.3388	0.14082	NOTE	F#4	363.17
+29	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	4.3735	4.5327	0.15918	NOTE	B4	495.48
+30	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	4.5694	4.7204	0.15102	NOTE	F#4	365.464
+31	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	4.7755	4.9061	0.13061	NOTE	A4	438.686
+32	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	4.9551	5.1082	0.15306	NOTE	F#4	363.17
+33	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	5.1367	5.2755	0.13878	NOTE	G4	385.964
+34	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	5.2959	5.3592	0.063265	ct	A4	429.574
+35	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	5.3592	5.4816	0.12245	NOTE	G4	391.676
+36	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	5.4918	5.6551	0.16327	NOTE	F#4	365.464
+37	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	5.6796	5.8633	0.18367	NOTE	G4	388.402
+38	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	5.8878	6.0449	0.15714	NOTE	E4	329.053
+39	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	6.0776	6.2347	0.15714	NOTE	D4	290.724
+40	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	6.2714	6.4286	0.15714	NOTE	B4	488.253
+41	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	6.4388	6.6041	0.16531	NOTE	A4	435.932
+42	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	6.6347	6.798	0.16327	lngRoll_nt	F#4	365.464
+43	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	6.8163	6.8755	0.059184	lngRoll_ct	G#4	422.42
+44	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	6.8755	6.9816	0.10612	lngRoll_nt	F#4	366.232
+45	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	6.9939	7.0469	0.053061	lngRoll_str	F4	355.627
+46	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	7.0612	7.1612	0.1	lngRoll_nt	F#4	366.232
+47	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	7.2061	7.3816	0.17551	NOTE	A4	435.932
+48	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	7.4122	7.5592	0.14694	NOTE	B4	491.337
+49	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	7.5939	7.749	0.1551	NOTE	F#4	363.933
+50	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	7.7735	7.9388	0.16531	NOTE	A4	441.457
+51	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	7.9673	8.1204	0.15306	lngRoll_nt	F#4	367.002
+52	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	8.1367	8.198	0.061224	lngRoll_ct	G#4	419.769
+53	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	8.198	8.2878	0.089796	lngRoll_nt	F#4	367.002
+54	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	8.3	8.3571	0.057143	lngRoll_str	F4	355.627
+55	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	8.3714	8.4837	0.11224	lngRoll_nt	F#4	367.002
+56	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	8.5163	8.6878	0.17143	NOTE	A4	438.686
+57	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	8.7245	8.8837	0.15918	NOTE	F#4	367.002
+58	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	8.9082	9.0551	0.14694	NOTE	E4	330.437
+59	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	9.0816	9.251	0.16939	NOTE	F#4	363.933
+60	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	9.2837	9.4653	0.18163	NOTE	D4	291.947
+61	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	9.4816	9.6204	0.13878	NOTE	E4	330.437
+62	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	9.6449	9.8061	0.16122	NOTE	F#4	363.17
+63	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	9.8245	9.9714	0.14694	lngRoll_nt	A4	439.608
+64	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	9.9898	10.0347	0.044898	lngRoll_ct	C5	517.809
+65	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	10.0469	10.1327	0.085714	lngRoll_nt	A4	439.608
+66	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	10.149	10.2122	0.063265	lngRoll_str	A4	429.574
+67	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	10.2245	10.3449	0.12041	lngRoll_nt	A4	442.384
+68	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	10.3612	10.4143	0.053061	ct	C5	536.62
+69	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	10.4143	10.5551	0.14082	NOTE	B4	494.441
+70	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	10.5898	10.7245	0.13469	NOTE	A4	440.531
+71	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	10.749	10.8939	0.1449	NOTE	F#4	366.232
+72	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	10.9327	11.0694	0.13673	NOTE	B4	494.441
+73	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	11.1	11.2694	0.16939	NOTE	A4	443.314
+74	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	11.2939	11.4367	0.14286	NOTE	B4	496.521
+75	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	11.4755	11.6429	0.16735	NOTE	D5	583.62
+76	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	11.6551	11.8143	0.15918	NOTE	E5	656.416
+77	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	11.8224	12.002	0.17959	NOTE	F#5	730.585
+78	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	12.0204	12.1408	0.12041	NOTE	D5	589.778
+79	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	12.149	12.202	0.053061	ct	D5	602.288
+80	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	12.2102	12.3388	0.12857	NOTE	D5	589.778
+81	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	12.3653	12.5184	0.15306	NOTE	C#5	552.623
+82	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	12.5367	12.6796	0.14286	NOTE	D5	589.778
+83	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	12.6898	12.9653	0.27551	BREATH	BREATH	0
+84	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	12.9776	13.1429	0.16531	NOTE	D5	592.259
+85	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	13.1673	13.2857	0.11837	NOTE	B4	495.48
+86	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	13.2878	13.3327	0.044898	ct	A4	441.457
+87	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	13.3327	13.3755	0.042857	NOTE	C5	512.403
+88	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	13.3816	13.5041	0.12245	NOTE	A4	438.686
+89	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	13.5429	13.6857	0.14286	NOTE	D4	294.409
+90	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	13.7143	13.898	0.18367	NOTE	F#4	365.464
+91	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	13.9122	14.0551	0.14286	NOTE	A4	436.848
+92	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	14.0776	14.2286	0.15102	NOTE	D5	591.017
+93	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	14.249	14.4184	0.16939	NOTE	C#5	552.623
+94	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	14.4265	14.5857	0.15918	NOTE	D5	589.778
+95	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	14.6082	14.7816	0.17347	NOTE	E5	660.563
+96	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	14.802	14.9633	0.16122	NOTE	F#5	729.053
+97	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	14.9816	15.1347	0.15306	NOTE	G5	782.985
+98	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	15.149	15.1959	0.046939	ct	G#5	847.996
+99	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	15.2102	15.3408	0.13061	NOTE	F#5	733.659
+100	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	15.3571	15.5061	0.14898	NOTE	E5	657.796
+101	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	15.5306	15.6837	0.15306	NOTE	D5	593.503
+102	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	15.7082	15.8571	0.14898	NOTE	C#5	546.853
+103	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	15.8898	16.0408	0.15102	NOTE	D5	586.075
+104	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	16.0796	16.202	0.12245	NOTE	B4	491.337
+105	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	16.2265	16.2633	0.036735	ct	A4	439.608
+106	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	16.2694	16.3102	0.040816	NOTE	C5	516.723
+107	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	16.3184	16.4367	0.11837	NOTE	A4	436.848
+108	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	16.4755	16.6367	0.16122	NOTE	D4	294.409
+109	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	16.6551	16.8082	0.15306	NOTE	F#4	361.649
+110	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	16.8286	16.9918	0.16327	NOTE	A4	435.932
+111	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	17.0082	17.1796	0.17143	NOTE	G4	388.402
+112	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	17.1796	17.2367	0.057143	ct	A4	430.476
+113	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	17.249	17.3714	0.12245	NOTE	G4	389.218
+114	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	17.3878	17.5449	0.15714	NOTE	F#4	365.464
+115	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	17.5694	17.7347	0.16531	NOTE	G4	393.324
+116	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	17.7694	17.9204	0.15102	NOTE	E4	330.437
+117	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	17.9449	18.098	0.15306	NOTE	D4	293.792
+118	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	18.1388	18.302	0.16327	NOTE	B4	496.521
+119	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	18.3122	18.4796	0.16735	NOTE	A4	439.608
+120	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	18.498	18.6551	0.15714	NOTE	D5	588.541
+121	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	18.6694	18.8939	0.22449	BREATH	BREATH	0
+122	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	18.9082	19.0449	0.13673	NOTE	D5	589.778
+123	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	19.0857	19.2388	0.15306	NOTE	B4	495.48
+124	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	19.2469	19.2837	0.036735	ct	A4	442.384
+125	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	19.2837	19.3184	0.034694	NOTE	B4	497.564
+126	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	19.3286	19.4551	0.12653	NOTE	A4	438.686
+127	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	19.4816	19.6184	0.13673	NOTE	D4	294.409
+128	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	19.649	19.8082	0.15918	NOTE	F#4	363.933
+129	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	19.8245	19.9796	0.1551	NOTE	A4	435.018
+130	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	20.0041	20.1653	0.16122	NOTE	D5	591.017
+131	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	20.1898	20.351	0.16122	NOTE	C#5	550.308
+132	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	20.3592	20.5286	0.16939	NOTE	D5	589.778
+133	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	20.5551	20.7347	0.17959	NOTE	E5	660.563
+134	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	20.749	20.9102	0.16122	NOTE	F#5	722.957
+135	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	20.9327	21.0837	0.15102	NOTE	G5	784.63
+136	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	21.0837	21.1347	0.05102	ct	G#5	835.628
+137	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	21.1347	21.2796	0.1449	NOTE	F#5	725.999
+138	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	21.3	21.451	0.15102	NOTE	E5	657.796
+139	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	21.4816	21.6163	0.13469	NOTE	D5	588.541
+140	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	21.649	21.7959	0.14694	NOTE	C#5	543.421
+141	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	21.8265	21.9878	0.16122	NOTE	D5	589.778
+142	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	22.0184	22.1653	0.14694	NOTE	B4	492.37
+143	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	22.1918	22.3449	0.15306	NOTE	A4	437.766
+144	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	22.3571	22.4245	0.067347	ct	B4	500.707
+145	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	22.4286	22.5347	0.10612	NOTE	A4	436.848
+146	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	22.5551	22.7245	0.16939	NOTE	F#4	364.698
+147	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	22.7551	22.9102	0.1551	NOTE	A4	435.932
+148	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	22.9429	23.1061	0.16327	NOTE	G4	388.402
+149	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	23.1122	23.1673	0.055102	NOTE	G#4	420.651
+150	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	23.1673	23.3	0.13265	NOTE	G4	391.676
+151	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	23.3265	23.4837	0.15714	NOTE	F#4	367.002
+152	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	23.5102	23.7	0.1898	NOTE	G4	391.676
+153	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	23.7245	23.8898	0.16531	NOTE	E4	329.053
+154	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	23.9265	24.0816	0.1551	NOTE	D4	293.175
+155	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	24.0816	24.1429	0.061224	ct	C5	537.747
+156	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	24.1531	24.3041	0.15102	NOTE	B4	491.337
+157	Lar_EssentialGuideCD2_Tk92Tu1R1_TheMountainRoad.txt	24.3367	24.5694	0.23265	NOTE	A4	437.766

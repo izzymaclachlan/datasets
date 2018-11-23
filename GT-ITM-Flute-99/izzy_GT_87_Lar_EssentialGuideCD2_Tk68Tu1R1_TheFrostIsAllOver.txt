@@ -1,243 +1,243 @@
-1	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	0.19388	0.40204	0.20816	NOTE	D5	592.74	1
-2	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	0.42449	0.61224	0.18776	NOTE	E5	659.724	1
-3	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	0.62449	0.80408	0.17959	NOTE	F#5	725.86	1
-4	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	0.81837	0.86735	0.04898	ct	G5	767.671	2
-5	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	0.89388	1.0531	0.15918	NOTE	E5	659.724	1
-6	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	1.0776	1.2347	0.15714	NOTE	D5	582.096	1
-7	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	1.2837	1.4449	0.16122	NOTE	B4	492.072	1
-8	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	1.5082	1.6959	0.18776	NOTE	A4	437.762	1
-9	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	1.7224	1.8633	0.14082	NOTE	F#4	364.014	1
-10	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	1.9122	2.1327	0.22041	NOTE	D4	289.448	1
-11	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	2.1878	2.3286	0.14082	NOTE	E4	326.154	1
-12	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	2.3367	2.3837	0.046939	ct	F4	359.208	2
-13	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	2.4	2.549	0.14898	NOTE	E4	325.327	1
-14	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	2.5918	2.7327	0.14082	NOTE	D4	290.185	1
-15	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	2.7612	2.8143	0.053061	ct	F#4	378.89	2
-16	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	2.8347	3	0.16531	NOTE	D4	292.405	1
-17	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	3.0306	3.1857	0.1551	NOTE	F4	356.481	1
-18	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	3.2082	3.4041	0.19592	NOTE	A4	436.811	1
-19	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	3.4204	3.4837	0.063265	ct	C5	511.321	2
-20	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	3.5041	3.6286	0.12449	NOTE	A4	437.922	1
-21	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	3.6653	3.8367	0.17143	NOTE	F#4	368.449	1
-22	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	3.8592	4.0673	0.20816	NOTE	A4	441.272	1
-23	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	4.0776	4.251	0.17347	NOTE	B4	487.229	1
-24	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	4.3061	4.4224	0.11633	lngRoll_nt	E5	644.299	
-25	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	4.4469	4.5061	0.059184	lngRoll_ct	F#5	754.202	
-26	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	4.5388	4.6653	0.12653	lngRoll_nt	E5	647.581	
-27	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	4.6959	4.7633	0.067347	lngRoll_str	Eb5	609.279	
-28	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	4.7898	4.951	0.16122	lngRoll_nt	E5	654.195	
-29	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	4.9551	5.0898	0.13469	NOTE	C#5	543.465	1
-30	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	5.151	5.3449	0.19388	NOTE	E5	655.858	1
-31	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	5.3612	5.5633	0.20204	NOTE	D5	586.5	1
-32	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	5.5878	5.751	0.16327	NOTE	E5	649.228	1
-33	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	5.7755	5.9469	0.17143	NOTE	F#5	722.325	1
-34	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	5.9571	6.0163	0.059184	ct	F#5	744.683	2
-35	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	6.0306	6.2	0.16939	NOTE	E5	647.581	1
-36	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	6.2184	6.3714	0.15306	NOTE	D5	583.528	1
-37	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	6.4306	6.5878	0.15714	NOTE	B4	484.759	1
-38	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	6.6041	6.6653	0.061224	ct	C5	512.622	2
-39	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	6.6735	6.8224	0.14898	NOTE	A4	436.811	1
-40	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	6.8571	7.0224	0.16531	NOTE	F#4	361.037	1
-41	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	7.0653	7.2347	0.16939	NOTE	D4	292.405	1
-42	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	7.2592	7.3122	0.053061	shRoll_ct	G#4	417.288	5
-43	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	7.3245	7.4327	0.10816	shRoll_nt	E4	326.154	1
-44	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	7.4449	7.502	0.057143	shRoll_str	Eb4	316.362	3
-45	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	7.5184	7.6429	0.12449	shRoll_nt	E4	325.327	1
-46	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	7.6878	7.8898	0.20204	NOTE	D4	290.923	1
-47	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	7.9102	8.0755	0.16531	NOTE	D5	579.098	1
-48	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	8.1673	8.3061	0.13878	NOTE	F#4	361.955	1
-49	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	8.3143	8.502	0.18776	NOTE	A4	437.922	1
-50	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	8.5041	8.5755	0.071429	ct	C5	515.233	2
-51	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	8.5898	8.7102	0.12041	NOTE	A4	442.395	1
-52	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	8.7102	8.8959	0.18571	NOTE	F#4	368.449	1
-53	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	8.9204	9.1286	0.20816	NOTE	A4	439.036	1
-54	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	9.1429	9.3163	0.17347	NOTE	B4	494.711	1
-55	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	9.3367	9.4796	0.14286	NOTE	D5	583.528	1
-56	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	9.5122	9.7286	0.21633	NOTE	C#5	544.847	1
-57	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	9.751	9.8714	0.12041	NOTE	D5	583.528	1
-58	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	9.8837	10.1469	0.26327	BREATH	BREATH	0	4
-59	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	10.1816	10.4	0.21837	NOTE	A4	441.272	1
-60	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	10.4204	10.6	0.17959	NOTE	D5	593.997	1
-61	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	10.6143	10.7939	0.17959	NOTE	E5	657.527	1
-62	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	10.8204	10.9816	0.16122	NOTE	F#5	724.163	1
-63	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	10.9878	11.0571	0.069388	ct	G5	769.686	2
-64	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	11.0633	11.2082	0.1449	NOTE	E5	659.199	1
-65	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	11.2327	11.3735	0.14082	NOTE	D5	585.012	1
-66	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	11.4327	11.598	0.16531	NOTE	B4	489.71	1
-67	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	11.6102	11.6694	0.059184	ct	C5	519.175	2
-68	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	11.6796	11.8449	0.16531	NOTE	A4	435.703	1
-69	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	11.8816	12.0306	0.14898	NOTE	F#4	362.876	1
-70	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	12.0735	12.249	0.17551	NOTE	D4	290.185	1
-71	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	12.3082	12.4469	0.13878	NOTE	E4	324.501	1
-72	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	12.4551	12.5265	0.071429	ct	F4	351.088	2
-73	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	12.5327	12.6633	0.13061	NOTE	E4	324.501	1
-74	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	12.7082	12.8612	0.15306	NOTE	D4	289.448	1
-75	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	12.8735	12.9551	0.081633	ct	F#4	370.326	2
-76	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	12.9694	13.1041	0.13469	NOTE	D4	290.923	1
-77	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	13.1469	13.3184	0.17143	NOTE	F#4	360.121	1
-78	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	13.3347	13.5102	0.17551	NOTE	A4	435.703	1
-79	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	13.5184	13.5755	0.057143	ct	C5	517.857	2
-80	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	13.598	13.7449	0.14694	NOTE	A4	435.703	1
-81	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	13.7714	13.9408	0.16939	NOTE	F#4	366.582	1
-82	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	13.9714	14.1633	0.19184	NOTE	A4	440.153	1
-83	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	14.1878	14.3388	0.15102	NOTE	B4	489.71	1
-84	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	14.3857	14.5286	0.14286	lngRoll_nt	E5	649.228	
-85	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	14.5306	14.6122	0.081633	lngRoll_ct	F5	681.332	
-86	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	14.6204	14.7429	0.12245	lngRoll_nt	E5	649.228	
-87	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	14.7612	14.8224	0.061224	lngRoll_str	Eb5	624.955	
-88	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	14.8429	15.0122	0.16939	lngRoll_nt	E5	655.858	
-89	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	15.0224	15.1776	0.1551	NOTE	C#5	543.465	1
-90	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	15.2102	15.4224	0.21224	NOTE	E5	659.199	1
-91	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	15.4408	15.5571	0.11633	NOTE	D5	586.5	1
-92	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	15.5776	15.8429	0.26531	BREATH	BREATH	0	4
-93	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	15.8551	16.0347	0.17959	NOTE	F#5	733.419	1
-94	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	16.0429	16.1102	0.067347	ct	G5	769.686	2
-95	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	16.1245	16.2673	0.14286	NOTE	E5	659.199	1
-96	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	16.302	16.4347	0.13265	NOTE	D5	586.5	1
-97	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	16.502	16.649	0.14694	NOTE	B4	489.71	1
-98	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	16.6735	16.7327	0.059184	ct	C5	517.857	2
-99	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	16.749	16.9204	0.17143	NOTE	A4	436.811	1
-100	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	16.949	17.0796	0.13061	NOTE	F#4	365.652	1
-101	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	17.1163	17.2776	0.16122	NOTE	D4	288.714	1
-102	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	17.3122	17.3857	0.073469	shRoll_ct	G#4	418.349	5
-103	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	17.3857	17.4918	0.10612	shRoll_nt	E4	325.327	1
-104	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	17.502	17.5612	0.059184	shRoll_str	Eb4	314.759	3
-105	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	17.5755	17.7082	0.13265	shRoll_nt	E4	325.327	1
-106	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	17.7286	17.9163	0.18776	NOTE	D4	290.923	1
-107	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	17.9347	18.0082	0.073469	ct	D4	298.408	2
-108	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	18.0204	18.1449	0.12449	NOTE	D4	290.185	1
-109	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	18.1816	18.3449	0.16327	NOTE	F4	355.576	1
-110	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	18.3653	18.5347	0.16939	NOTE	A4	434.598	1
-111	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	18.5551	18.6184	0.063265	ct	C5	515.233	2
-112	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	18.6347	18.7755	0.14082	NOTE	A4	436.811	1
-113	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	18.7959	18.9551	0.15918	NOTE	F#4	366.582	1
-114	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	18.9898	19.1939	0.20408	NOTE	A4	441.272	1
-115	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	19.2061	19.3857	0.17959	NOTE	B4	497.231	1
-116	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	19.4184	19.5592	0.14082	NOTE	D5	586.5	1
-117	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	19.5776	19.7755	0.19796	NOTE	C#5	550.411	1
-118	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	19.8061	20.2327	0.42653	NOTE	D5	583.528	1
-119	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	20.2694	20.4429	0.17347	NOTE	E5	649.228	1
-120	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	20.4878	20.6429	0.1551	lngRoll_nt	F#5	727.851	
-121	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	20.6653	20.7306	0.065306	lngRoll_ct	G#5	849.844	
-122	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	20.7469	20.8061	0.059184	lngRoll_nt	F#5	731.558	
-123	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	20.8245	20.8878	0.063265	lngRoll_str	F5	700.639	
-124	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	20.9041	21.0755	0.17143	lngRoll_nt	F#5	731.558	
-125	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	21.098	21.3	0.20204	NOTE	A5	882.851	1
-126	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	21.3184	21.4755	0.15714	NOTE	F#5	722.325	1
-127	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	21.5	21.6551	0.1551	NOTE	D5	583.528	1
-128	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	21.7082	21.8673	0.15918	lngRoll_nt	G5	783.495	
-129	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	21.8878	21.9571	0.069388	lngRoll_ct	A5	869.497	
-130	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	21.9796	22.0571	0.077551	lngRoll_nt	G5	779.524	
-131	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	22.0714	22.1408	0.069388	lngRoll_str	F#5	754.202	
-132	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	22.151	22.3224	0.17143	lngRoll_nt	G5	785.487	
-133	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	22.3388	22.5184	0.17959	NOTE	B5	999.875	1
-134	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	22.5408	22.7265	0.18571	NOTE	G5	785.487	1
-135	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	22.7551	22.9408	0.18571	NOTE	E5	655.858	1
-136	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	22.9531	23.0673	0.11429	NOTE	F#5	740.909	1
-137	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	23.0816	23.3429	0.26122	BREATH	BREATH	0	4
-138	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	23.3592	23.5551	0.19592	NOTE	F#5	733.419	1
-139	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	23.5755	23.7755	0.2	NOTE	A5	880.612	1
-140	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	23.7959	23.9571	0.16122	NOTE	F#5	726.004	1
-141	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	23.9735	24.1694	0.19592	NOTE	A5	880.612	1
-142	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	24.1816	24.3714	0.1898	NOTE	G5	779.524	1
-143	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	24.3837	24.5571	0.17347	NOTE	A5	878.378	1
-144	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	24.6	24.7531	0.15306	NOTE	E5	657.527	1
-145	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	24.7633	24.8245	0.061224	ct	F#5	748.476	2
-146	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	24.849	25	0.15102	NOTE	E5	655.858	1
-147	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	25.0143	25.1653	0.15102	NOTE	F#5	726.004	1
-148	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	25.1776	25.4	0.22245	NOTE	G5	775.574	1
-149	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	25.4306	25.5878	0.15714	lngRoll_nt	F#5	731.558	
-150	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	25.602	25.6755	0.073469	lngRoll_ct	G5	787.485	
-151	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	25.6837	25.7469	0.063265	lngRoll_nt	F#5	735.284	
-152	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	25.7531	25.8327	0.079592	lngRoll_str	F5	697.088	
-153	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	25.8449	25.9857	0.14082	lngRoll_nt	F#5	731.558	
-154	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	25.9878	26.0531	0.065306	ct	B5	984.751	2
-155	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	26.0633	26.2122	0.14898	NOTE	A5	876.149	1
-156	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	26.2408	26.3918	0.15102	NOTE	F#5	726.004	1
-157	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	26.4143	26.5388	0.12449	NOTE	D5	583.528	1
-158	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	26.6041	26.7898	0.18571	lngRoll_nt	G5	777.546	
-159	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	26.8082	26.8837	0.07551	lngRoll_ct	Bb5	912.493	
-160	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	26.8837	26.9653	0.081633	lngRoll_nt	G5	779.524	
-161	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	26.9755	27.0204	0.044898	lngRoll_str	F#5	758.043	
-162	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	27.0286	27.1939	0.16531	lngRoll_nt	G5	779.524	
-163	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	27.2388	27.4265	0.18776	NOTE	B5	987.256	1
-164	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	27.4551	27.6224	0.16735	NOTE	G5	783.495	1
-165	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	27.651	27.8347	0.18367	NOTE	E5	652.535	1
-166	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	27.8347	27.9878	0.15306	NOTE	F#5	729.702	1
-167	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	28.0327	28.1347	0.10204	NOTE	A5	871.709	1
-168	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	28.2531	28.3939	0.14082	NOTE	F5	716.841	1
-169	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	28.4163	28.4714	0.055102	ct	G5	775.574	2
-170	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	28.4755	28.6449	0.16939	NOTE	E5	655.858	1
-171	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	28.6592	28.8041	0.1449	NOTE	D5	585.012	1
-172	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	28.8306	29.0265	0.19592	NOTE	E5	659.199	1
-173	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	29.0265	29.0796	0.053061	ct	G#5	847.688	2
-174	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	29.0959	29.2531	0.15714	NOTE	F#5	724.163	1
-175	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	29.2796	29.398	0.11837	NOTE	D5	587.992	1
-176	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	29.4143	29.6408	0.22653	NOTE	C#5	546.233	1
-177	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	29.6592	29.9224	0.26327	NOTE	D5	593.997	1
-178	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	29.9388	30.3408	0.40204	BREATH	BREATH	0	4
-179	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	30.349	30.5265	0.17755	lngRoll_nt	F#5	739.03	
-180	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	30.5408	30.6122	0.071429	lngRoll_ct	G#5	813.925	
-181	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	30.6224	30.698	0.07551	lngRoll_nt	F#5	735.284	
-182	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	30.7061	30.7796	0.073469	lngRoll_str	F5	711.399	
-183	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	30.7878	30.9204	0.13265	lngRoll_nt	F#5	739.03	
-184	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	30.9408	31.0102	0.069388	ct	B5	984.751	2
-185	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	31.0469	31.1714	0.12449	NOTE	A5	878.378	1
-186	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	31.2082	31.3327	0.12449	NOTE	F#5	726.004	1
-187	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	31.3755	31.5388	0.16327	NOTE	D5	579.098	1
-188	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	31.6204	31.7755	0.1551	lngRoll_nt	G5	777.546	
-189	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	31.7816	31.8612	0.079592	lngRoll_ct	A5	900.976	
-190	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	31.8612	31.9429	0.081633	lngRoll_nt	G5	779.524	
-191	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	31.951	32.0286	0.077551	lngRoll_str	F#5	752.288	
-192	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	32.0449	32.1816	0.13673	lngRoll_nt	G5	779.524	
-193	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	32.1959	32.2531	0.057143	ct	C#6	1081.7	2
-194	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	32.2714	32.4204	0.14898	NOTE	B5	1000.4	1
-195	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	32.4367	32.6286	0.19184	NOTE	G5	775.478	1
-196	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	32.6449	32.8163	0.17143	NOTE	E5	655.651	1
-197	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	32.8245	32.8776	0.053061	ct	G#5	843.37	2
-198	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	32.902	33.0327	0.13061	NOTE	F#5	731.868	1
-199	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	33.051	33.2122	0.16122	NOTE	E5	655.651	1
-200	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	33.2245	33.4367	0.21224	NOTE	F#5	729.753	1
-201	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	33.4551	33.6469	0.19184	NOTE	A5	878.241	1
-202	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	33.6796	33.8388	0.15918	NOTE	F#5	721.354	1
-203	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	33.851	34.0531	0.20204	NOTE	A5	868.133	1
-204	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	34.0776	34.2612	0.18367	NOTE	G5	777.725	1
-205	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	34.2714	34.4367	0.16531	NOTE	A5	873.173	1
-206	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	34.4531	34.598	0.1449	NOTE	E5	653.756	1
-207	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	34.6143	34.6755	0.061224	ct	G5	766.553	2
-208	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	34.7122	34.8571	0.1449	NOTE	E5	657.551	1
-209	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	34.8796	35.0102	0.13061	NOTE	F#5	725.541	1
-210	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.0327	35.2551	0.22245	NOTE	G5	775.478	1
-211	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.2612	35.3286	0.067347	str	E5	678.82	3
-212	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.3469	35.4633	0.11633	lngRoll_nt	F#5	731.868	
-213	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.4837	35.549	0.065306	lngRoll_ct	G#5	812.23	
-214	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.549	35.6469	0.097959	lngRoll_nt	F#5	729.753	
-215	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.6612	35.7327	0.071429	lngRoll_str	F5	702.808	
-216	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.7449	35.8714	0.12653	lngRoll_nt	F#5	727.644	
-217	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.8755	35.9449	0.069388	NOTE	B5	983.174	1
-218	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.9551	36.1041	0.14898	NOTE	A5	873.173	1
-219	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	36.1388	36.2918	0.15306	NOTE	F#5	723.445	1
-220	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	36.3122	36.4592	0.14694	NOTE	D5	578.933	1
-221	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	36.4714	36.5551	0.083673	str	F5	708.937	3
-222	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	36.5673	36.702	0.13469	lngRoll_nt	G5	775.478	
-223	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	36.7265	36.7918	0.065306	lngRoll_ct	A5	863.123	
-224	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	36.8102	36.8796	0.069388	lngRoll_nt	G5	779.979	
-225	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	36.8939	36.9735	0.079592	lngRoll_str	F#5	753.357	
-226	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	36.9837	37.1143	0.13061	lngRoll_nt	G5	782.24	
-227	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	37.1143	37.1776	0.063265	ct	C6	1047.81	2
-228	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	37.1918	37.3367	0.1449	NOTE	B5	994.622	1
-229	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	37.3571	37.549	0.19184	NOTE	G5	782.24	1
-230	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	37.5694	37.7388	0.16939	NOTE	E5	657.551	1
-231	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	37.7388	37.8592	0.12041	NOTE	F#5	738.25	1
-232	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	37.8755	38.1469	0.27143	BREATH	BREATH	0	4
-233	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	38.1633	38.3327	0.16939	NOTE	F#5	736.116	1
-234	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	38.3449	38.4163	0.071429	ct	G5	775.478	2
-235	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	38.4265	38.5755	0.14898	NOTE	E5	659.457	1
-236	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	38.598	38.7388	0.14082	NOTE	D5	589.073	1
-237	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	38.7633	38.9449	0.18163	NOTE	E5	655.651	1
-238	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	38.9449	39.0082	0.063265	ct	G#5	850.724	2
-239	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	39.0184	39.1735	0.1551	NOTE	F#5	729.753	1
-240	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	39.202	39.3408	0.13878	NOTE	D5	589.073	1
-241	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	39.3592	39.5388	0.17959	NOTE	C#5	544.797	1
-242	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	39.6041	40.0184	0.41429	NOTE	D5	580.611	1
-243	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	40.0592	40.1857	0.12653	NOTE	A4	430.953	1
+1	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	0.19388	0.40204	0.20816	NOTE	D5	592.74
+2	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	0.42449	0.61224	0.18776	NOTE	E5	659.724
+3	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	0.62449	0.80408	0.17959	NOTE	F#5	725.86
+4	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	0.81837	0.86735	0.04898	ct	G5	767.671
+5	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	0.89388	1.0531	0.15918	NOTE	E5	659.724
+6	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	1.0776	1.2347	0.15714	NOTE	D5	582.096
+7	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	1.2837	1.4449	0.16122	NOTE	B4	492.072
+8	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	1.5082	1.6959	0.18776	NOTE	A4	437.762
+9	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	1.7224	1.8633	0.14082	NOTE	F#4	364.014
+10	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	1.9122	2.1327	0.22041	NOTE	D4	289.448
+11	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	2.1878	2.3286	0.14082	NOTE	E4	326.154
+12	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	2.3367	2.3837	0.046939	ct	F4	359.208
+13	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	2.4	2.549	0.14898	NOTE	E4	325.327
+14	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	2.5918	2.7327	0.14082	NOTE	D4	290.185
+15	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	2.7612	2.8143	0.053061	ct	F#4	378.89
+16	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	2.8347	3	0.16531	NOTE	D4	292.405
+17	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	3.0306	3.1857	0.1551	NOTE	F4	356.481
+18	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	3.2082	3.4041	0.19592	NOTE	A4	436.811
+19	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	3.4204	3.4837	0.063265	ct	C5	511.321
+20	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	3.5041	3.6286	0.12449	NOTE	A4	437.922
+21	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	3.6653	3.8367	0.17143	NOTE	F#4	368.449
+22	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	3.8592	4.0673	0.20816	NOTE	A4	441.272
+23	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	4.0776	4.251	0.17347	NOTE	B4	487.229
+24	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	4.3061	4.4224	0.11633	lngRoll_nt	E5	644.299
+25	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	4.4469	4.5061	0.059184	lngRoll_ct	F#5	754.202
+26	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	4.5388	4.6653	0.12653	lngRoll_nt	E5	647.581
+27	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	4.6959	4.7633	0.067347	lngRoll_str	Eb5	609.279
+28	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	4.7898	4.951	0.16122	lngRoll_nt	E5	654.195
+29	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	4.9551	5.0898	0.13469	NOTE	C#5	543.465
+30	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	5.151	5.3449	0.19388	NOTE	E5	655.858
+31	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	5.3612	5.5633	0.20204	NOTE	D5	586.5
+32	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	5.5878	5.751	0.16327	NOTE	E5	649.228
+33	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	5.7755	5.9469	0.17143	NOTE	F#5	722.325
+34	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	5.9571	6.0163	0.059184	ct	F#5	744.683
+35	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	6.0306	6.2	0.16939	NOTE	E5	647.581
+36	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	6.2184	6.3714	0.15306	NOTE	D5	583.528
+37	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	6.4306	6.5878	0.15714	NOTE	B4	484.759
+38	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	6.6041	6.6653	0.061224	ct	C5	512.622
+39	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	6.6735	6.8224	0.14898	NOTE	A4	436.811
+40	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	6.8571	7.0224	0.16531	NOTE	F#4	361.037
+41	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	7.0653	7.2347	0.16939	NOTE	D4	292.405
+42	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	7.2592	7.3122	0.053061	shRoll_ct	G#4	417.288
+43	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	7.3245	7.4327	0.10816	shRoll_nt	E4	326.154
+44	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	7.4449	7.502	0.057143	shRoll_str	Eb4	316.362
+45	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	7.5184	7.6429	0.12449	shRoll_nt	E4	325.327
+46	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	7.6878	7.8898	0.20204	NOTE	D4	290.923
+47	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	7.9102	8.0755	0.16531	NOTE	D5	579.098
+48	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	8.1673	8.3061	0.13878	NOTE	F#4	361.955
+49	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	8.3143	8.502	0.18776	NOTE	A4	437.922
+50	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	8.5041	8.5755	0.071429	ct	C5	515.233
+51	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	8.5898	8.7102	0.12041	NOTE	A4	442.395
+52	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	8.7102	8.8959	0.18571	NOTE	F#4	368.449
+53	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	8.9204	9.1286	0.20816	NOTE	A4	439.036
+54	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	9.1429	9.3163	0.17347	NOTE	B4	494.711
+55	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	9.3367	9.4796	0.14286	NOTE	D5	583.528
+56	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	9.5122	9.7286	0.21633	NOTE	C#5	544.847
+57	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	9.751	9.8714	0.12041	NOTE	D5	583.528
+58	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	9.8837	10.1469	0.26327	BREATH	BREATH	0
+59	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	10.1816	10.4	0.21837	NOTE	A4	441.272
+60	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	10.4204	10.6	0.17959	NOTE	D5	593.997
+61	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	10.6143	10.7939	0.17959	NOTE	E5	657.527
+62	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	10.8204	10.9816	0.16122	NOTE	F#5	724.163
+63	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	10.9878	11.0571	0.069388	ct	G5	769.686
+64	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	11.0633	11.2082	0.1449	NOTE	E5	659.199
+65	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	11.2327	11.3735	0.14082	NOTE	D5	585.012
+66	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	11.4327	11.598	0.16531	NOTE	B4	489.71
+67	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	11.6102	11.6694	0.059184	ct	C5	519.175
+68	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	11.6796	11.8449	0.16531	NOTE	A4	435.703
+69	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	11.8816	12.0306	0.14898	NOTE	F#4	362.876
+70	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	12.0735	12.249	0.17551	NOTE	D4	290.185
+71	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	12.3082	12.4469	0.13878	NOTE	E4	324.501
+72	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	12.4551	12.5265	0.071429	ct	F4	351.088
+73	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	12.5327	12.6633	0.13061	NOTE	E4	324.501
+74	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	12.7082	12.8612	0.15306	NOTE	D4	289.448
+75	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	12.8735	12.9551	0.081633	ct	F#4	370.326
+76	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	12.9694	13.1041	0.13469	NOTE	D4	290.923
+77	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	13.1469	13.3184	0.17143	NOTE	F#4	360.121
+78	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	13.3347	13.5102	0.17551	NOTE	A4	435.703
+79	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	13.5184	13.5755	0.057143	ct	C5	517.857
+80	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	13.598	13.7449	0.14694	NOTE	A4	435.703
+81	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	13.7714	13.9408	0.16939	NOTE	F#4	366.582
+82	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	13.9714	14.1633	0.19184	NOTE	A4	440.153
+83	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	14.1878	14.3388	0.15102	NOTE	B4	489.71
+84	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	14.3857	14.5286	0.14286	lngRoll_nt	E5	649.228
+85	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	14.5306	14.6122	0.081633	lngRoll_ct	F5	681.332
+86	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	14.6204	14.7429	0.12245	lngRoll_nt	E5	649.228
+87	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	14.7612	14.8224	0.061224	lngRoll_str	Eb5	624.955
+88	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	14.8429	15.0122	0.16939	lngRoll_nt	E5	655.858
+89	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	15.0224	15.1776	0.1551	NOTE	C#5	543.465
+90	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	15.2102	15.4224	0.21224	NOTE	E5	659.199
+91	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	15.4408	15.5571	0.11633	NOTE	D5	586.5
+92	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	15.5776	15.8429	0.26531	BREATH	BREATH	0
+93	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	15.8551	16.0347	0.17959	NOTE	F#5	733.419
+94	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	16.0429	16.1102	0.067347	ct	G5	769.686
+95	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	16.1245	16.2673	0.14286	NOTE	E5	659.199
+96	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	16.302	16.4347	0.13265	NOTE	D5	586.5
+97	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	16.502	16.649	0.14694	NOTE	B4	489.71
+98	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	16.6735	16.7327	0.059184	ct	C5	517.857
+99	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	16.749	16.9204	0.17143	NOTE	A4	436.811
+100	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	16.949	17.0796	0.13061	NOTE	F#4	365.652
+101	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	17.1163	17.2776	0.16122	NOTE	D4	288.714
+102	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	17.3122	17.3857	0.073469	shRoll_ct	G#4	418.349
+103	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	17.3857	17.4918	0.10612	shRoll_nt	E4	325.327
+104	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	17.502	17.5612	0.059184	shRoll_str	Eb4	314.759
+105	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	17.5755	17.7082	0.13265	shRoll_nt	E4	325.327
+106	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	17.7286	17.9163	0.18776	NOTE	D4	290.923
+107	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	17.9347	18.0082	0.073469	ct	D4	298.408
+108	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	18.0204	18.1449	0.12449	NOTE	D4	290.185
+109	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	18.1816	18.3449	0.16327	NOTE	F4	355.576
+110	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	18.3653	18.5347	0.16939	NOTE	A4	434.598
+111	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	18.5551	18.6184	0.063265	ct	C5	515.233
+112	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	18.6347	18.7755	0.14082	NOTE	A4	436.811
+113	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	18.7959	18.9551	0.15918	NOTE	F#4	366.582
+114	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	18.9898	19.1939	0.20408	NOTE	A4	441.272
+115	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	19.2061	19.3857	0.17959	NOTE	B4	497.231
+116	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	19.4184	19.5592	0.14082	NOTE	D5	586.5
+117	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	19.5776	19.7755	0.19796	NOTE	C#5	550.411
+118	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	19.8061	20.2327	0.42653	NOTE	D5	583.528
+119	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	20.2694	20.4429	0.17347	NOTE	E5	649.228
+120	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	20.4878	20.6429	0.1551	lngRoll_nt	F#5	727.851
+121	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	20.6653	20.7306	0.065306	lngRoll_ct	G#5	849.844
+122	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	20.7469	20.8061	0.059184	lngRoll_nt	F#5	731.558
+123	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	20.8245	20.8878	0.063265	lngRoll_str	F5	700.639
+124	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	20.9041	21.0755	0.17143	lngRoll_nt	F#5	731.558
+125	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	21.098	21.3	0.20204	NOTE	A5	882.851
+126	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	21.3184	21.4755	0.15714	NOTE	F#5	722.325
+127	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	21.5	21.6551	0.1551	NOTE	D5	583.528
+128	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	21.7082	21.8673	0.15918	lngRoll_nt	G5	783.495
+129	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	21.8878	21.9571	0.069388	lngRoll_ct	A5	869.497
+130	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	21.9796	22.0571	0.077551	lngRoll_nt	G5	779.524
+131	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	22.0714	22.1408	0.069388	lngRoll_str	F#5	754.202
+132	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	22.151	22.3224	0.17143	lngRoll_nt	G5	785.487
+133	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	22.3388	22.5184	0.17959	NOTE	B5	999.875
+134	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	22.5408	22.7265	0.18571	NOTE	G5	785.487
+135	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	22.7551	22.9408	0.18571	NOTE	E5	655.858
+136	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	22.9531	23.0673	0.11429	NOTE	F#5	740.909
+137	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	23.0816	23.3429	0.26122	BREATH	BREATH	0
+138	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	23.3592	23.5551	0.19592	NOTE	F#5	733.419
+139	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	23.5755	23.7755	0.2	NOTE	A5	880.612
+140	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	23.7959	23.9571	0.16122	NOTE	F#5	726.004
+141	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	23.9735	24.1694	0.19592	NOTE	A5	880.612
+142	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	24.1816	24.3714	0.1898	NOTE	G5	779.524
+143	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	24.3837	24.5571	0.17347	NOTE	A5	878.378
+144	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	24.6	24.7531	0.15306	NOTE	E5	657.527
+145	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	24.7633	24.8245	0.061224	ct	F#5	748.476
+146	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	24.849	25	0.15102	NOTE	E5	655.858
+147	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	25.0143	25.1653	0.15102	NOTE	F#5	726.004
+148	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	25.1776	25.4	0.22245	NOTE	G5	775.574
+149	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	25.4306	25.5878	0.15714	lngRoll_nt	F#5	731.558
+150	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	25.602	25.6755	0.073469	lngRoll_ct	G5	787.485
+151	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	25.6837	25.7469	0.063265	lngRoll_nt	F#5	735.284
+152	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	25.7531	25.8327	0.079592	lngRoll_str	F5	697.088
+153	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	25.8449	25.9857	0.14082	lngRoll_nt	F#5	731.558
+154	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	25.9878	26.0531	0.065306	ct	B5	984.751
+155	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	26.0633	26.2122	0.14898	NOTE	A5	876.149
+156	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	26.2408	26.3918	0.15102	NOTE	F#5	726.004
+157	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	26.4143	26.5388	0.12449	NOTE	D5	583.528
+158	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	26.6041	26.7898	0.18571	lngRoll_nt	G5	777.546
+159	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	26.8082	26.8837	0.07551	lngRoll_ct	Bb5	912.493
+160	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	26.8837	26.9653	0.081633	lngRoll_nt	G5	779.524
+161	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	26.9755	27.0204	0.044898	lngRoll_str	F#5	758.043
+162	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	27.0286	27.1939	0.16531	lngRoll_nt	G5	779.524
+163	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	27.2388	27.4265	0.18776	NOTE	B5	987.256
+164	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	27.4551	27.6224	0.16735	NOTE	G5	783.495
+165	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	27.651	27.8347	0.18367	NOTE	E5	652.535
+166	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	27.8347	27.9878	0.15306	NOTE	F#5	729.702
+167	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	28.0327	28.1347	0.10204	NOTE	A5	871.709
+168	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	28.2531	28.3939	0.14082	NOTE	F5	716.841
+169	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	28.4163	28.4714	0.055102	ct	G5	775.574
+170	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	28.4755	28.6449	0.16939	NOTE	E5	655.858
+171	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	28.6592	28.8041	0.1449	NOTE	D5	585.012
+172	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	28.8306	29.0265	0.19592	NOTE	E5	659.199
+173	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	29.0265	29.0796	0.053061	ct	G#5	847.688
+174	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	29.0959	29.2531	0.15714	NOTE	F#5	724.163
+175	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	29.2796	29.398	0.11837	NOTE	D5	587.992
+176	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	29.4143	29.6408	0.22653	NOTE	C#5	546.233
+177	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	29.6592	29.9224	0.26327	NOTE	D5	593.997
+178	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	29.9388	30.3408	0.40204	BREATH	BREATH	0
+179	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	30.349	30.5265	0.17755	lngRoll_nt	F#5	739.03
+180	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	30.5408	30.6122	0.071429	lngRoll_ct	G#5	813.925
+181	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	30.6224	30.698	0.07551	lngRoll_nt	F#5	735.284
+182	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	30.7061	30.7796	0.073469	lngRoll_str	F5	711.399
+183	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	30.7878	30.9204	0.13265	lngRoll_nt	F#5	739.03
+184	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	30.9408	31.0102	0.069388	ct	B5	984.751
+185	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	31.0469	31.1714	0.12449	NOTE	A5	878.378
+186	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	31.2082	31.3327	0.12449	NOTE	F#5	726.004
+187	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	31.3755	31.5388	0.16327	NOTE	D5	579.098
+188	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	31.6204	31.7755	0.1551	lngRoll_nt	G5	777.546
+189	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	31.7816	31.8612	0.079592	lngRoll_ct	A5	900.976
+190	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	31.8612	31.9429	0.081633	lngRoll_nt	G5	779.524
+191	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	31.951	32.0286	0.077551	lngRoll_str	F#5	752.288
+192	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	32.0449	32.1816	0.13673	lngRoll_nt	G5	779.524
+193	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	32.1959	32.2531	0.057143	ct	C#6	1081.7
+194	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	32.2714	32.4204	0.14898	NOTE	B5	1000.4
+195	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	32.4367	32.6286	0.19184	NOTE	G5	775.478
+196	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	32.6449	32.8163	0.17143	NOTE	E5	655.651
+197	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	32.8245	32.8776	0.053061	ct	G#5	843.37
+198	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	32.902	33.0327	0.13061	NOTE	F#5	731.868
+199	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	33.051	33.2122	0.16122	NOTE	E5	655.651
+200	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	33.2245	33.4367	0.21224	NOTE	F#5	729.753
+201	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	33.4551	33.6469	0.19184	NOTE	A5	878.241
+202	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	33.6796	33.8388	0.15918	NOTE	F#5	721.354
+203	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	33.851	34.0531	0.20204	NOTE	A5	868.133
+204	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	34.0776	34.2612	0.18367	NOTE	G5	777.725
+205	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	34.2714	34.4367	0.16531	NOTE	A5	873.173
+206	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	34.4531	34.598	0.1449	NOTE	E5	653.756
+207	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	34.6143	34.6755	0.061224	ct	G5	766.553
+208	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	34.7122	34.8571	0.1449	NOTE	E5	657.551
+209	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	34.8796	35.0102	0.13061	NOTE	F#5	725.541
+210	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.0327	35.2551	0.22245	NOTE	G5	775.478
+211	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.2612	35.3286	0.067347	str	E5	678.82
+212	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.3469	35.4633	0.11633	lngRoll_nt	F#5	731.868
+213	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.4837	35.549	0.065306	lngRoll_ct	G#5	812.23
+214	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.549	35.6469	0.097959	lngRoll_nt	F#5	729.753
+215	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.6612	35.7327	0.071429	lngRoll_str	F5	702.808
+216	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.7449	35.8714	0.12653	lngRoll_nt	F#5	727.644
+217	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.8755	35.9449	0.069388	NOTE	B5	983.174
+218	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	35.9551	36.1041	0.14898	NOTE	A5	873.173
+219	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	36.1388	36.2918	0.15306	NOTE	F#5	723.445
+220	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	36.3122	36.4592	0.14694	NOTE	D5	578.933
+221	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	36.4714	36.5551	0.083673	str	F5	708.937
+222	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	36.5673	36.702	0.13469	lngRoll_nt	G5	775.478
+223	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	36.7265	36.7918	0.065306	lngRoll_ct	A5	863.123
+224	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	36.8102	36.8796	0.069388	lngRoll_nt	G5	779.979
+225	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	36.8939	36.9735	0.079592	lngRoll_str	F#5	753.357
+226	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	36.9837	37.1143	0.13061	lngRoll_nt	G5	782.24
+227	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	37.1143	37.1776	0.063265	ct	C6	1047.81
+228	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	37.1918	37.3367	0.1449	NOTE	B5	994.622
+229	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	37.3571	37.549	0.19184	NOTE	G5	782.24
+230	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	37.5694	37.7388	0.16939	NOTE	E5	657.551
+231	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	37.7388	37.8592	0.12041	NOTE	F#5	738.25
+232	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	37.8755	38.1469	0.27143	BREATH	BREATH	0
+233	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	38.1633	38.3327	0.16939	NOTE	F#5	736.116
+234	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	38.3449	38.4163	0.071429	ct	G5	775.478
+235	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	38.4265	38.5755	0.14898	NOTE	E5	659.457
+236	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	38.598	38.7388	0.14082	NOTE	D5	589.073
+237	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	38.7633	38.9449	0.18163	NOTE	E5	655.651
+238	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	38.9449	39.0082	0.063265	ct	G#5	850.724
+239	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	39.0184	39.1735	0.1551	NOTE	F#5	729.753
+240	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	39.202	39.3408	0.13878	NOTE	D5	589.073
+241	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	39.3592	39.5388	0.17959	NOTE	C#5	544.797
+242	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	39.6041	40.0184	0.41429	NOTE	D5	580.611
+243	Lar_EssentialGuideCD2_Tk68Tu1R1_TheFrostIsAllOver.txt	40.0592	40.1857	0.12653	NOTE	A4	430.953

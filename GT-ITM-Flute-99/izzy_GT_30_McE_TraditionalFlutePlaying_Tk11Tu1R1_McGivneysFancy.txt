@@ -1,296 +1,296 @@
-1	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	0.68499	0.8751	0.19011	NOTE	B4	495.718	1
-2	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	0.8751	1.0333	0.15819	NOTE	E5	662.028	1
-3	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.0333	1.0942	0.060952	ct	F#5	757.873	2
-4	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.0942	1.2466	0.15238	NOTE	E5	660.692	1
-5	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.2466	1.4454	0.19882	NOTE	D5	589.42	1
-6	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.4454	1.6022	0.15673	lngRoll_nt	E5	662.146	
-7	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.6022	1.6675	0.065306	lngRoll_ct	G5	774.606	
-8	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.6675	1.7633	0.095782	lngRoll_nt	E5	661.968	
-9	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.7633	1.8024	0.039184	lngRoll_str	E5	654.411	
-10	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.8024	1.9795	0.17705	lngRoll_nt	E5	660.916	
-11	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.9795	2.1319	0.15238	NOTE	F#5	731.061	1
-12	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	2.1319	2.2073	0.075465	ct	G5	783.695	2
-13	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	2.2073	2.3147	0.10739	NOTE	E5	658.029	1
-14	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	2.3147	2.4874	0.1727	NOTE	D5	583.513	1
-15	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	2.4874	2.6776	0.19011	NOTE	B4	493.169	1
-16	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	2.6776	2.8111	0.13351	NOTE	A4	440.056	1
-17	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	2.8111	3.0084	0.19737	NOTE	B4	493.279	1
-18	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	3.0084	3.0578	0.049342	ct	C5	529.101	2
-19	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	3.0578	3.1492	0.091429	NOTE	B4	493.14	1
-20	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	3.1492	3.3408	0.19156	NOTE	A4	441.764	1
-21	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	3.3408	3.499	0.15819	NOTE	B4	495.507	1
-22	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	3.499	3.6339	0.13497	NOTE	D5	587.641	1
-23	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	3.6339	3.8777	0.24381	BREATH	BREATH	0	4
-24	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	3.8777	4.0838	0.20608	NOTE	D5	588.097	1
-25	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	4.0838	4.2289	0.14512	NOTE	C#5	544.89	1
-26	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	4.2289	4.5685	0.33959	NOTE	D5	588.46	1
-27	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	4.5685	4.7369	0.16834	NOTE	G5	783.755	1
-28	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	4.7369	4.8922	0.15528	NOTE	F#5	736.654	1
-29	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	4.8922	5.0852	0.19302	NOTE	E5	663.787	1
-30	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	5.0852	5.2376	0.15238	NOTE	D5	591.256	1
-31	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	5.2376	5.3972	0.15964	NOTE	B4	497.522	1
-32	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	5.3972	5.5438	0.14658	NOTE	G4	390.858	1
-33	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	5.5438	5.6076	0.063855	NOTE	C5	524	1
-34	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	5.6076	5.7339	0.12626	NOTE	A4	439.388	1
-35	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	5.7339	5.9283	0.19447	NOTE	D5	586.634	1
-36	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	5.9283	6.0546	0.12626	NOTE	B4	494.935	1
-37	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.0546	6.2099	0.15528	NOTE	A4	440.641	1
-38	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.2099	6.3753	0.16544	lngRoll_nt	G4	391.17	
-39	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.3753	6.429	0.053696	lngRoll_ct	Bb4	473	
-40	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.429	6.5263	0.097234	lngRoll_nt	G4	390.846	
-41	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.5263	6.5683	0.042086	lngRoll_str	G4	385.742	
-42	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.5683	6.7135	0.14512	lngRoll_nt	G4	391.962	
-43	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.7135	6.8789	0.16544	NOTE	A4	441.503	1
-44	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.8789	6.9994	0.12045	NOTE	B4	493.913	1
-45	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.9994	7.2098	0.21043	BREATH	BREATH	0	4
-46	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	7.2098	7.3941	0.18431	NOTE	G5	773.99	1
-47	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	7.3941	7.545	0.15093	NOTE	B4	492.7	1
-48	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	7.545	7.7206	0.1756	NOTE	E5	656.112	1
-49	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	7.7206	7.8861	0.16544	NOTE	D5	586.043	1
-50	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	7.8861	8.0486	0.16254	NOTE	B4	494.704	1
-51	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	8.0486	8.217	0.16834	NOTE	D5	584.765	1
-52	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	8.217	8.3853	0.16834	NOTE	E5	659.678	1
-53	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	8.3853	8.5174	0.13206	NOTE	G5	779.925	1
-54	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	8.5174	8.5551	0.037732	ct	G#5	818.891	2
-55	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	8.5551	8.7089	0.15383	NOTE	G5	779.846	1
-56	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	8.7089	8.8773	0.16834	NOTE	B4	492.888	1
-57	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	8.8773	9.0311	0.15383	NOTE	E4	327.969	1
-58	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	9.0311	9.1603	0.12916	NOTE	F#4	363.646	1
-59	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	9.1603	9.3547	0.19447	NOTE	G4	389.247	1
-60	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	9.3547	9.5086	0.15383	NOTE	A4	437.884	1
-61	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	9.5086	9.6711	0.16254	NOTE	B4	490.783	1
-62	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	9.6711	9.8177	0.14658	NOTE	D5	583.792	1
-63	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	9.8177	9.8656	0.047891	ct	C#5	557.667	2
-64	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	9.8656	9.986	0.12045	NOTE	B4	492.29	1
-65	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	9.986	10.1326	0.14658	NOTE	A4	440.199	1
-66	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	10.1326	10.2603	0.12771	NOTE	G4	389.016	1
-67	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	10.2603	10.3416	0.08127	NOTE	Bb4	480	1
-68	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	10.3416	10.4446	0.10304	NOTE	G4	389.083	1
-69	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	10.4446	10.7407	0.29605	NOTE	E4	328.206	1
-70	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	10.7407	11.2007	0.46005	NOTE	E4	327.991	1
-71	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	11.2007	11.4924	0.2917	BREATH	BREATH	0	4
-72	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	11.4924	11.6738	0.18141	NOTE	B4	494.645	1
-73	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	11.6738	11.7957	0.1219	NOTE	E5	660.046	1
-74	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	11.7957	11.8639	0.068209	ct	F#5	753.563	2
-75	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	11.8639	11.9946	0.13061	NOTE	E5	659.669	1
-76	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	11.9946	12.1353	0.14077	NOTE	D5	589.067	1
-77	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.1353	12.3225	0.18721	lngRoll_nt	E5	660.875	
-78	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.3225	12.3733	0.050794	lngRoll_ct	G5	766.59	
-79	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.3733	12.4488	0.075465	lngRoll_nt	E5	660.46	
-80	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.4488	12.4836	0.03483	lngRoll_str	E5	656.549	
-81	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.4836	12.6404	0.15673	lngRoll_nt	E5	661.899	
-82	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.6404	12.7623	0.1219	NOTE	F#5	731.465	1
-83	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.7623	12.8029	0.040635	ct	F5	681.95	2
-84	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.8029	12.8566	0.053696	NOTE	G5	776.39	1
-85	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.8566	12.9814	0.12481	NOTE	E5	660.982	1
-86	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.9814	13.1164	0.13497	NOTE	D5	588.368	1
-87	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	13.1164	13.1585	0.042086	ct	D5	599.185	2
-88	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	13.1585	13.3021	0.14367	NOTE	B4	495.245	1
-89	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	13.3021	13.4327	0.13061	NOTE	A4	441.511	1
-90	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	13.4327	13.6243	0.19156	NOTE	B4	495.189	1
-91	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	13.6243	13.6678	0.043537	ct	C5	527.438	2
-92	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	13.6678	13.7636	0.095782	NOTE	B4	493.826	1
-93	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	13.7636	13.9305	0.16689	NOTE	A4	440.874	1
-94	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	13.9305	14.0989	0.16834	NOTE	B4	495.305	1
-95	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	14.0989	14.2164	0.11755	NOTE	D5	586.238	1
-96	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	14.2164	14.4268	0.21043	BREATH	BREATH	0	4
-97	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	14.4268	14.6373	0.21043	NOTE	D5	586.031	1
-98	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	14.6373	14.7708	0.13351	NOTE	C#5	541.545	1
-99	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	14.7708	15.1234	0.35265	NOTE	D5	587.905	1
-100	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	15.1234	15.2903	0.16689	NOTE	G5	783.211	1
-101	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	15.2903	15.418	0.12771	NOTE	F#5	738.096	1
-102	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	15.418	15.6401	0.22204	NOTE	E5	661.482	1
-103	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	15.6401	15.7852	0.14512	NOTE	D5	590.032	1
-104	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	15.7852	15.9405	0.15528	NOTE	B4	495.401	1
-105	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	15.9405	16.1016	0.16109	NOTE	G4	390.767	1
-106	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	16.1016	16.2743	0.1727	NOTE	A4	439.073	1
-107	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	16.2743	16.4615	0.18721	NOTE	D5	585.049	1
-108	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	16.4615	16.5878	0.12626	NOTE	B4	492.616	1
-109	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	16.5878	16.7343	0.14658	NOTE	A4	440.08	1
-110	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	16.7343	16.8954	0.16109	NOTE	G4	389.411	1
-111	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	16.8954	16.9433	0.047891	NOTE	Bb4	476	1
-112	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	16.9433	17.0507	0.10739	NOTE	G4	389.496	1
-113	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	17.0507	17.0812	0.030476	NOTE	F#4	380.676	1
-114	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	17.0812	17.2524	0.17125	NOTE	G4	389.946	1
-115	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	17.2524	17.4077	0.15528	NOTE	A4	440.53	1
-116	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	17.4077	17.5311	0.12336	NOTE	B4	492.769	1
-117	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	17.5311	17.711	0.17995	BREATH	BREATH	0	4
-118	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	17.711	17.9171	0.20608	NOTE	G5	777.154	1
-119	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	17.9171	18.084	0.16689	NOTE	B4	493.882	1
-120	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	18.084	18.261	0.17705	NOTE	E5	658.016	1
-121	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	18.261	18.4091	0.14803	NOTE	D5	587.224	1
-122	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	18.4091	18.5876	0.1785	NOTE	B4	494.187	1
-123	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	18.5876	18.7385	0.15093	NOTE	D5	584.239	1
-124	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	18.7385	18.9127	0.17415	NOTE	E5	659.691	1
-125	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	18.9127	19.036	0.12336	NOTE	G5	780.928	1
-126	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	19.036	19.0839	0.047891	ct	G#5	825.533	2
-127	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	19.0839	19.2319	0.14803	NOTE	G5	780.471	1
-128	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	19.2319	19.3858	0.15383	NOTE	B4	490.738	1
-129	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	19.3858	19.5556	0.1698	NOTE	E4	328.385	1
-130	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	19.5556	19.6978	0.14222	NOTE	F#4	363.701	1
-131	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	19.6978	19.9082	0.21043	NOTE	G4	387.561	1
-132	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	19.9082	20.0548	0.14658	NOTE	A4	437.145	1
-133	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	20.0548	20.2202	0.16544	NOTE	B4	491.041	1
-134	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	20.2202	20.332	0.11175	NOTE	D5	583.224	1
-135	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	20.332	20.4074	0.075465	NOTE	F#5	750	1
-136	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	20.4074	20.5279	0.12045	NOTE	B4	491.44	1
-137	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	20.5279	20.673	0.14512	NOTE	A4	441.26	1
-138	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	20.673	20.8356	0.16254	NOTE	G4	389.001	1
-139	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	20.8356	20.8965	0.060952	NOTE	Bb4	476	1
-140	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	20.8965	21.0126	0.1161	NOTE	G4	388.379	1
-141	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	21.0126	21.3391	0.32653	NOTE	E4	328.972	1
-142	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	21.3391	21.4422	0.10304	NOTE	E5	662.405	1
-143	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	21.4422	21.7034	0.26122	BREATH	BREATH	0	4
-144	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	21.7034	21.9109	0.20753	NOTE	G4	389.728	1
-145	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	21.9109	22.0517	0.14077	NOTE	A4	438.059	1
-146	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	22.0517	22.0938	0.042086	ct	C5	532.005	2
-147	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	22.0938	22.2375	0.14367	NOTE	B4	493.87	1
-148	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	22.2375	22.384	0.14658	NOTE	G4	389.084	1
-149	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	22.384	22.4784	0.094331	NOTE	E4	331.953	1
-150	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	22.4784	22.7019	0.22349	NOTE	E4	331.14	1
-151	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	22.7019	22.7498	0.047891	ct	C5	532.505	2
-152	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	22.7498	22.892	0.14222	NOTE	B4	496.712	1
-153	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	22.892	23.0487	0.15673	NOTE	G4	391.51	1
-154	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.0487	23.2054	0.15673	NOTE	E4	330.095	1
-155	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.2054	23.3564	0.15093	NOTE	G4	387.376	1
-156	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.3564	23.3941	0.037732	ct	C5	517.457	2
-157	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.3941	23.5276	0.13351	NOTE	B4	491.609	1
-158	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.5276	23.6684	0.14077	NOTE	E4	328.849	1
-159	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.6684	23.7177	0.049342	ct	B4	489.865	2
-160	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.7177	23.8571	0.13932	NOTE	A4	439.563	1
-161	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.8571	23.9833	0.12626	NOTE	F#4	364.82	1
-162	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.9833	24.14	0.15673	lngRoll_nt	E4	328.597	
-163	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	24.14	24.1865	0.04644	lngRoll_ct	A4	433	
-164	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	24.1865	24.304	0.11755	lngRoll_nt	E4	328.325	
-165	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	24.304	24.3432	0.039184	lngRoll_str	E4	322.851	
-166	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	24.3432	24.4956	0.15238	lngRoll_nt	E4	328.191	
-167	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	24.4956	24.6639	0.16834	NOTE	B4	490.59	1
-168	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	24.6639	24.8366	0.1727	NOTE	A4	440.571	1
-169	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	24.8366	24.9832	0.14658	NOTE	F#4	365.044	1
-170	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	24.9832	25.1138	0.13061	NOTE	D4	293.337	1
-171	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	25.1138	25.3112	0.19737	BREATH	BREATH	0	4
-172	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	25.3112	25.3489	0.037732	NOTE	C5	529.156	1
-173	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	25.3489	25.4766	0.12771	NOTE	A4	439.271	1
-174	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	25.4766	25.6276	0.15093	NOTE	F#4	366.473	1
-175	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	25.6276	25.7814	0.15383	NOTE	D4	294.069	1
-176	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	25.7814	25.9367	0.15528	NOTE	F#4	364.467	1
-177	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	25.9367	26.1166	0.17995	NOTE	A4	439.567	1
-178	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	26.1166	26.2487	0.13206	NOTE	F#4	364.362	1
-179	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	26.2487	26.3227	0.074014	NOTE	B4	486	1
-180	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	26.3227	26.4432	0.12045	NOTE	F#4	364.064	1
-181	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	26.4432	26.5956	0.15238	NOTE	E4	328.472	1
-182	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	26.5956	26.7784	0.18286	NOTE	D4	291.83	1
-183	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	26.7784	26.8945	0.1161	NOTE	E4	328.479	1
-184	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	26.8945	26.9584	0.063855	NOTE	A4	436	1
-185	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	26.9584	27.0701	0.11175	NOTE	F#4	361.604	1
-186	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.0701	27.221	0.15093	NOTE	D4	291.184	1
-187	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.221	27.3995	0.1785	lngRoll_nt	G4	389.162	
-188	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.3995	27.4387	0.039184	lngRoll_ct	G4	394.454	
-189	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.4387	27.5447	0.10594	lngRoll_nt	G4	390.66	
-190	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.5447	27.5839	0.039184	lngRoll_str	G4	383.477	
-191	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.5839	27.7203	0.13642	lngRoll_nt	G4	390.526	
-192	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.7203	27.877	0.15673	NOTE	A4	442.681	1
-193	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.877	27.9975	0.12045	NOTE	B4	494.286	1
-194	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.9975	28.2108	0.21333	BREATH	BREATH	0	4
-195	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	28.2108	28.4038	0.19302	NOTE	G5	777.966	1
-196	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	28.4038	28.5533	0.14948	NOTE	B4	495.01	1
-197	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	28.5533	28.7405	0.18721	NOTE	E5	659.42	1
-198	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	28.7405	28.8871	0.14658	NOTE	D5	588.338	1
-199	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	28.8871	29.0598	0.1727	NOTE	B4	494.998	1
-200	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	29.0598	29.2049	0.14512	NOTE	D5	585.641	1
-201	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	29.2049	29.3863	0.18141	NOTE	E5	659.804	1
-202	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	29.3863	29.5358	0.14948	NOTE	G5	780.831	1
-203	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	29.5358	29.5837	0.047891	ct	G#5	842.168	2
-204	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	29.5837	29.7201	0.13642	NOTE	G5	780.525	1
-205	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	29.7201	29.8884	0.16834	NOTE	B4	494.527	1
-206	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	29.8884	29.977	0.088526	NOTE	E5	663.47	1
-207	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	29.977	30.1787	0.20172	BREATH	BREATH	0	4
-208	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	30.1787	30.3761	0.19737	NOTE	G4	392.716	1
-209	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	30.3761	30.5517	0.1756	NOTE	A4	441.836	1
-210	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	30.5517	30.7113	0.15964	NOTE	B4	492.102	1
-211	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	30.7113	30.868	0.15673	NOTE	D5	585.928	1
-212	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	30.868	31.003	0.13497	NOTE	B4	494.217	1
-213	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	31.003	31.151	0.14803	NOTE	A4	442.059	1
-214	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	31.151	31.3049	0.15383	NOTE	G4	391.339	1
-215	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	31.3049	31.3571	0.052245	NOTE	Bb4	480	1
-216	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	31.3571	31.4892	0.13206	NOTE	G4	390.722	1
-217	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	31.4892	31.8244	0.33524	NOTE	E4	329.886	1
-218	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	31.8244	31.9245	0.10014	NOTE	E4	331.537	1
-219	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	31.9245	32.1538	0.2293	BREATH	BREATH	0	4
-220	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	32.1538	32.3454	0.19156	NOTE	G4	390.256	1
-221	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	32.3454	32.5094	0.16399	NOTE	A4	437.791	1
-222	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	32.5094	32.5544	0.044989	ct	C5	526.409	2
-223	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	32.5544	32.7082	0.15383	NOTE	B4	493.789	1
-224	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	32.7082	32.8446	0.13642	NOTE	G4	388.845	1
-225	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	32.8446	32.9302	0.085624	NOTE	E4	331.487	1
-226	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	32.9302	33.1392	0.20898	BREATH	BREATH	0	4
-227	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	33.1392	33.1886	0.049342	ct	C5	532.341	2
-228	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	33.1886	33.3453	0.15673	NOTE	B4	495.382	1
-229	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	33.3453	33.4803	0.13497	NOTE	G4	389.526	1
-230	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	33.4803	33.6327	0.15238	NOTE	E4	330.026	1
-231	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	33.6327	33.801	0.16834	NOTE	G4	387.235	1
-232	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	33.801	33.846	0.044989	ct	C5	520.145	2
-233	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	33.846	33.9766	0.13061	NOTE	B4	492.58	1
-234	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	33.9766	34.1087	0.13206	NOTE	E4	329.617	1
-235	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.1087	34.1711	0.062404	ct	B4	496.439	2
-236	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.1711	34.2944	0.12336	NOTE	A4	441.113	1
-237	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.2944	34.4381	0.14367	NOTE	F#4	365.948	1
-238	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.4381	34.5789	0.14077	lngRoll_nt	E4	328.494	
-239	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.5789	34.6369	0.05805	lngRoll_ct	G#4	425	
-240	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.6369	34.7327	0.095782	lngRoll_nt	E4	329.682	
-241	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.7327	34.7632	0.030476	lngRoll_str	E4	326.975	
-242	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.7632	34.888	0.12481	lngRoll_nt	E4	329.492	
-243	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.888	35.0737	0.18576	NOTE	A4	441.073	1
-244	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	35.0737	35.1187	0.044989	NOTE	C5	510.474	1
-245	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	35.1187	35.2479	0.12916	NOTE	A4	441.507	1
-246	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	35.2479	35.3916	0.14367	NOTE	F#4	365.695	1
-247	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	35.3916	35.5323	0.14077	NOTE	D4	294.167	1
-248	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	35.5323	35.7195	0.18721	BREATH	BREATH	0	4
-249	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	35.7195	35.8908	0.17125	NOTE	A4	439.26	1
-250	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	35.8908	36.0374	0.14658	NOTE	F#4	366.994	1
-251	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	36.0374	36.2014	0.16399	NOTE	D4	294.032	1
-252	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	36.2014	36.3712	0.1698	NOTE	F#4	363.748	1
-253	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	36.3712	36.5308	0.15964	NOTE	A4	439.517	1
-254	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	36.5308	36.6469	0.1161	NOTE	F#4	365.474	1
-255	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	36.6469	36.7282	0.08127	NOTE	B4	489	1
-256	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	36.7282	36.8501	0.1219	NOTE	F#4	364.423	1
-257	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	36.8501	37.017	0.16689	NOTE	E4	328.613	1
-258	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.017	37.1882	0.17125	NOTE	D4	291.553	1
-259	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.1882	37.3203	0.13206	NOTE	E4	326.97	1
-260	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.3203	37.3827	0.062404	NOTE	G#4	419	1
-261	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.3827	37.4901	0.10739	NOTE	F#4	362.808	1
-262	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.4901	37.6468	0.15673	NOTE	D4	292.147	1
-263	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.6468	37.8064	0.15964	lngRoll_nt	G4	388.203	
-264	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.8064	37.8572	0.050794	lngRoll_ct	B4	486	
-265	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.8572	37.9704	0.1132	lngRoll_nt	G4	390.835	
-266	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.9704	38.0096	0.039184	lngRoll_str	G4	384.708	
-267	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	38.0096	38.1431	0.13351	lngRoll_nt	G4	390.937	
-268	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	38.1431	38.3129	0.1698	NOTE	A4	443.066	1
-269	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	38.3129	38.4435	0.13061	NOTE	B4	492.473	1
-270	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	38.4435	38.6249	0.18141	NOTE	G4	398.823	1
-271	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	38.6249	38.831	0.20608	NOTE	G5	777.516	1
-272	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	38.831	38.9776	0.14658	NOTE	B4	495.023	1
-273	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	38.9776	39.1532	0.1756	NOTE	E5	656.375	1
-274	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	39.1532	39.2896	0.13642	NOTE	D5	586.167	1
-275	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	39.2896	39.3259	0.036281	ct	D5	599.784	2
-276	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	39.3259	39.4754	0.14948	NOTE	B4	493.321	1
-277	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	39.4754	39.6263	0.15093	NOTE	D5	585.686	1
-278	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	39.6263	39.783	0.15673	NOTE	E5	658.555	1
-279	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	39.783	39.9151	0.13206	NOTE	G5	778.344	1
-280	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	39.9151	39.963	0.047891	NOTE	B5	990	1
-281	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	39.963	40.1154	0.15238	NOTE	G5	776.896	1
-282	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	40.1154	40.2823	0.16689	NOTE	B4	491.387	1
-283	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	40.2823	40.4521	0.1698	NOTE	E4	326.255	1
-284	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	40.4521	40.574	0.1219	NOTE	F#4	362.08	1
-285	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	40.574	40.7655	0.19156	NOTE	G4	387.104	1
-286	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	40.7655	40.9252	0.15964	NOTE	A4	436.861	1
-287	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	40.9252	41.0892	0.16399	NOTE	B4	491.014	1
-288	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	41.0892	41.2183	0.12916	NOTE	D5	584.05	1
-289	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	41.2183	41.2749	0.056599	NOTE	E5	646	1
-290	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	41.2749	41.4012	0.12626	NOTE	B4	492.203	1
-291	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	41.4012	41.5521	0.15093	NOTE	A4	441.169	1
-292	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	41.5521	41.7088	0.15673	NOTE	G4	387.347	1
-293	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	41.7088	41.7582	0.049342	NOTE	Bb4	476	1
-294	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	41.7582	41.8873	0.12916	NOTE	G4	388.554	1
-295	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	41.8873	42.1979	0.31057	NOTE	E4	328.539	1
-296	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	42.1979	42.6449	0.44698	NOTE	E4	328.418	1
+1	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	0.68499	0.8751	0.19011	NOTE	B4	495.718
+2	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	0.8751	1.0333	0.15819	NOTE	E5	662.028
+3	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.0333	1.0942	0.060952	ct	F#5	757.873
+4	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.0942	1.2466	0.15238	NOTE	E5	660.692
+5	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.2466	1.4454	0.19882	NOTE	D5	589.42
+6	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.4454	1.6022	0.15673	lngRoll_nt	E5	662.146
+7	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.6022	1.6675	0.065306	lngRoll_ct	G5	774.606
+8	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.6675	1.7633	0.095782	lngRoll_nt	E5	661.968
+9	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.7633	1.8024	0.039184	lngRoll_str	E5	654.411
+10	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.8024	1.9795	0.17705	lngRoll_nt	E5	660.916
+11	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	1.9795	2.1319	0.15238	NOTE	F#5	731.061
+12	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	2.1319	2.2073	0.075465	ct	G5	783.695
+13	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	2.2073	2.3147	0.10739	NOTE	E5	658.029
+14	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	2.3147	2.4874	0.1727	NOTE	D5	583.513
+15	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	2.4874	2.6776	0.19011	NOTE	B4	493.169
+16	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	2.6776	2.8111	0.13351	NOTE	A4	440.056
+17	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	2.8111	3.0084	0.19737	NOTE	B4	493.279
+18	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	3.0084	3.0578	0.049342	ct	C5	529.101
+19	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	3.0578	3.1492	0.091429	NOTE	B4	493.14
+20	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	3.1492	3.3408	0.19156	NOTE	A4	441.764
+21	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	3.3408	3.499	0.15819	NOTE	B4	495.507
+22	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	3.499	3.6339	0.13497	NOTE	D5	587.641
+23	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	3.6339	3.8777	0.24381	BREATH	BREATH	0
+24	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	3.8777	4.0838	0.20608	NOTE	D5	588.097
+25	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	4.0838	4.2289	0.14512	NOTE	C#5	544.89
+26	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	4.2289	4.5685	0.33959	NOTE	D5	588.46
+27	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	4.5685	4.7369	0.16834	NOTE	G5	783.755
+28	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	4.7369	4.8922	0.15528	NOTE	F#5	736.654
+29	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	4.8922	5.0852	0.19302	NOTE	E5	663.787
+30	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	5.0852	5.2376	0.15238	NOTE	D5	591.256
+31	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	5.2376	5.3972	0.15964	NOTE	B4	497.522
+32	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	5.3972	5.5438	0.14658	NOTE	G4	390.858
+33	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	5.5438	5.6076	0.063855	NOTE	C5	524
+34	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	5.6076	5.7339	0.12626	NOTE	A4	439.388
+35	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	5.7339	5.9283	0.19447	NOTE	D5	586.634
+36	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	5.9283	6.0546	0.12626	NOTE	B4	494.935
+37	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.0546	6.2099	0.15528	NOTE	A4	440.641
+38	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.2099	6.3753	0.16544	lngRoll_nt	G4	391.17
+39	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.3753	6.429	0.053696	lngRoll_ct	Bb4	473
+40	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.429	6.5263	0.097234	lngRoll_nt	G4	390.846
+41	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.5263	6.5683	0.042086	lngRoll_str	G4	385.742
+42	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.5683	6.7135	0.14512	lngRoll_nt	G4	391.962
+43	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.7135	6.8789	0.16544	NOTE	A4	441.503
+44	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.8789	6.9994	0.12045	NOTE	B4	493.913
+45	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	6.9994	7.2098	0.21043	BREATH	BREATH	0
+46	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	7.2098	7.3941	0.18431	NOTE	G5	773.99
+47	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	7.3941	7.545	0.15093	NOTE	B4	492.7
+48	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	7.545	7.7206	0.1756	NOTE	E5	656.112
+49	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	7.7206	7.8861	0.16544	NOTE	D5	586.043
+50	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	7.8861	8.0486	0.16254	NOTE	B4	494.704
+51	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	8.0486	8.217	0.16834	NOTE	D5	584.765
+52	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	8.217	8.3853	0.16834	NOTE	E5	659.678
+53	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	8.3853	8.5174	0.13206	NOTE	G5	779.925
+54	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	8.5174	8.5551	0.037732	ct	G#5	818.891
+55	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	8.5551	8.7089	0.15383	NOTE	G5	779.846
+56	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	8.7089	8.8773	0.16834	NOTE	B4	492.888
+57	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	8.8773	9.0311	0.15383	NOTE	E4	327.969
+58	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	9.0311	9.1603	0.12916	NOTE	F#4	363.646
+59	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	9.1603	9.3547	0.19447	NOTE	G4	389.247
+60	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	9.3547	9.5086	0.15383	NOTE	A4	437.884
+61	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	9.5086	9.6711	0.16254	NOTE	B4	490.783
+62	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	9.6711	9.8177	0.14658	NOTE	D5	583.792
+63	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	9.8177	9.8656	0.047891	ct	C#5	557.667
+64	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	9.8656	9.986	0.12045	NOTE	B4	492.29
+65	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	9.986	10.1326	0.14658	NOTE	A4	440.199
+66	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	10.1326	10.2603	0.12771	NOTE	G4	389.016
+67	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	10.2603	10.3416	0.08127	NOTE	Bb4	480
+68	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	10.3416	10.4446	0.10304	NOTE	G4	389.083
+69	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	10.4446	10.7407	0.29605	NOTE	E4	328.206
+70	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	10.7407	11.2007	0.46005	NOTE	E4	327.991
+71	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	11.2007	11.4924	0.2917	BREATH	BREATH	0
+72	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	11.4924	11.6738	0.18141	NOTE	B4	494.645
+73	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	11.6738	11.7957	0.1219	NOTE	E5	660.046
+74	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	11.7957	11.8639	0.068209	ct	F#5	753.563
+75	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	11.8639	11.9946	0.13061	NOTE	E5	659.669
+76	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	11.9946	12.1353	0.14077	NOTE	D5	589.067
+77	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.1353	12.3225	0.18721	lngRoll_nt	E5	660.875
+78	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.3225	12.3733	0.050794	lngRoll_ct	G5	766.59
+79	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.3733	12.4488	0.075465	lngRoll_nt	E5	660.46
+80	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.4488	12.4836	0.03483	lngRoll_str	E5	656.549
+81	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.4836	12.6404	0.15673	lngRoll_nt	E5	661.899
+82	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.6404	12.7623	0.1219	NOTE	F#5	731.465
+83	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.7623	12.8029	0.040635	ct	F5	681.95
+84	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.8029	12.8566	0.053696	NOTE	G5	776.39
+85	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.8566	12.9814	0.12481	NOTE	E5	660.982
+86	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	12.9814	13.1164	0.13497	NOTE	D5	588.368
+87	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	13.1164	13.1585	0.042086	ct	D5	599.185
+88	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	13.1585	13.3021	0.14367	NOTE	B4	495.245
+89	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	13.3021	13.4327	0.13061	NOTE	A4	441.511
+90	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	13.4327	13.6243	0.19156	NOTE	B4	495.189
+91	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	13.6243	13.6678	0.043537	ct	C5	527.438
+92	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	13.6678	13.7636	0.095782	NOTE	B4	493.826
+93	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	13.7636	13.9305	0.16689	NOTE	A4	440.874
+94	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	13.9305	14.0989	0.16834	NOTE	B4	495.305
+95	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	14.0989	14.2164	0.11755	NOTE	D5	586.238
+96	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	14.2164	14.4268	0.21043	BREATH	BREATH	0
+97	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	14.4268	14.6373	0.21043	NOTE	D5	586.031
+98	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	14.6373	14.7708	0.13351	NOTE	C#5	541.545
+99	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	14.7708	15.1234	0.35265	NOTE	D5	587.905
+100	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	15.1234	15.2903	0.16689	NOTE	G5	783.211
+101	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	15.2903	15.418	0.12771	NOTE	F#5	738.096
+102	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	15.418	15.6401	0.22204	NOTE	E5	661.482
+103	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	15.6401	15.7852	0.14512	NOTE	D5	590.032
+104	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	15.7852	15.9405	0.15528	NOTE	B4	495.401
+105	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	15.9405	16.1016	0.16109	NOTE	G4	390.767
+106	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	16.1016	16.2743	0.1727	NOTE	A4	439.073
+107	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	16.2743	16.4615	0.18721	NOTE	D5	585.049
+108	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	16.4615	16.5878	0.12626	NOTE	B4	492.616
+109	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	16.5878	16.7343	0.14658	NOTE	A4	440.08
+110	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	16.7343	16.8954	0.16109	NOTE	G4	389.411
+111	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	16.8954	16.9433	0.047891	NOTE	Bb4	476
+112	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	16.9433	17.0507	0.10739	NOTE	G4	389.496
+113	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	17.0507	17.0812	0.030476	NOTE	F#4	380.676
+114	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	17.0812	17.2524	0.17125	NOTE	G4	389.946
+115	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	17.2524	17.4077	0.15528	NOTE	A4	440.53
+116	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	17.4077	17.5311	0.12336	NOTE	B4	492.769
+117	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	17.5311	17.711	0.17995	BREATH	BREATH	0
+118	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	17.711	17.9171	0.20608	NOTE	G5	777.154
+119	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	17.9171	18.084	0.16689	NOTE	B4	493.882
+120	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	18.084	18.261	0.17705	NOTE	E5	658.016
+121	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	18.261	18.4091	0.14803	NOTE	D5	587.224
+122	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	18.4091	18.5876	0.1785	NOTE	B4	494.187
+123	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	18.5876	18.7385	0.15093	NOTE	D5	584.239
+124	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	18.7385	18.9127	0.17415	NOTE	E5	659.691
+125	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	18.9127	19.036	0.12336	NOTE	G5	780.928
+126	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	19.036	19.0839	0.047891	ct	G#5	825.533
+127	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	19.0839	19.2319	0.14803	NOTE	G5	780.471
+128	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	19.2319	19.3858	0.15383	NOTE	B4	490.738
+129	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	19.3858	19.5556	0.1698	NOTE	E4	328.385
+130	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	19.5556	19.6978	0.14222	NOTE	F#4	363.701
+131	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	19.6978	19.9082	0.21043	NOTE	G4	387.561
+132	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	19.9082	20.0548	0.14658	NOTE	A4	437.145
+133	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	20.0548	20.2202	0.16544	NOTE	B4	491.041
+134	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	20.2202	20.332	0.11175	NOTE	D5	583.224
+135	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	20.332	20.4074	0.075465	NOTE	F#5	750
+136	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	20.4074	20.5279	0.12045	NOTE	B4	491.44
+137	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	20.5279	20.673	0.14512	NOTE	A4	441.26
+138	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	20.673	20.8356	0.16254	NOTE	G4	389.001
+139	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	20.8356	20.8965	0.060952	NOTE	Bb4	476
+140	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	20.8965	21.0126	0.1161	NOTE	G4	388.379
+141	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	21.0126	21.3391	0.32653	NOTE	E4	328.972
+142	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	21.3391	21.4422	0.10304	NOTE	E5	662.405
+143	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	21.4422	21.7034	0.26122	BREATH	BREATH	0
+144	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	21.7034	21.9109	0.20753	NOTE	G4	389.728
+145	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	21.9109	22.0517	0.14077	NOTE	A4	438.059
+146	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	22.0517	22.0938	0.042086	ct	C5	532.005
+147	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	22.0938	22.2375	0.14367	NOTE	B4	493.87
+148	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	22.2375	22.384	0.14658	NOTE	G4	389.084
+149	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	22.384	22.4784	0.094331	NOTE	E4	331.953
+150	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	22.4784	22.7019	0.22349	NOTE	E4	331.14
+151	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	22.7019	22.7498	0.047891	ct	C5	532.505
+152	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	22.7498	22.892	0.14222	NOTE	B4	496.712
+153	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	22.892	23.0487	0.15673	NOTE	G4	391.51
+154	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.0487	23.2054	0.15673	NOTE	E4	330.095
+155	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.2054	23.3564	0.15093	NOTE	G4	387.376
+156	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.3564	23.3941	0.037732	ct	C5	517.457
+157	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.3941	23.5276	0.13351	NOTE	B4	491.609
+158	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.5276	23.6684	0.14077	NOTE	E4	328.849
+159	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.6684	23.7177	0.049342	ct	B4	489.865
+160	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.7177	23.8571	0.13932	NOTE	A4	439.563
+161	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.8571	23.9833	0.12626	NOTE	F#4	364.82
+162	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	23.9833	24.14	0.15673	lngRoll_nt	E4	328.597
+163	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	24.14	24.1865	0.04644	lngRoll_ct	A4	433
+164	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	24.1865	24.304	0.11755	lngRoll_nt	E4	328.325
+165	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	24.304	24.3432	0.039184	lngRoll_str	E4	322.851
+166	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	24.3432	24.4956	0.15238	lngRoll_nt	E4	328.191
+167	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	24.4956	24.6639	0.16834	NOTE	B4	490.59
+168	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	24.6639	24.8366	0.1727	NOTE	A4	440.571
+169	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	24.8366	24.9832	0.14658	NOTE	F#4	365.044
+170	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	24.9832	25.1138	0.13061	NOTE	D4	293.337
+171	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	25.1138	25.3112	0.19737	BREATH	BREATH	0
+172	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	25.3112	25.3489	0.037732	NOTE	C5	529.156
+173	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	25.3489	25.4766	0.12771	NOTE	A4	439.271
+174	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	25.4766	25.6276	0.15093	NOTE	F#4	366.473
+175	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	25.6276	25.7814	0.15383	NOTE	D4	294.069
+176	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	25.7814	25.9367	0.15528	NOTE	F#4	364.467
+177	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	25.9367	26.1166	0.17995	NOTE	A4	439.567
+178	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	26.1166	26.2487	0.13206	NOTE	F#4	364.362
+179	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	26.2487	26.3227	0.074014	NOTE	B4	486
+180	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	26.3227	26.4432	0.12045	NOTE	F#4	364.064
+181	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	26.4432	26.5956	0.15238	NOTE	E4	328.472
+182	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	26.5956	26.7784	0.18286	NOTE	D4	291.83
+183	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	26.7784	26.8945	0.1161	NOTE	E4	328.479
+184	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	26.8945	26.9584	0.063855	NOTE	A4	436
+185	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	26.9584	27.0701	0.11175	NOTE	F#4	361.604
+186	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.0701	27.221	0.15093	NOTE	D4	291.184
+187	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.221	27.3995	0.1785	lngRoll_nt	G4	389.162
+188	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.3995	27.4387	0.039184	lngRoll_ct	G4	394.454
+189	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.4387	27.5447	0.10594	lngRoll_nt	G4	390.66
+190	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.5447	27.5839	0.039184	lngRoll_str	G4	383.477
+191	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.5839	27.7203	0.13642	lngRoll_nt	G4	390.526
+192	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.7203	27.877	0.15673	NOTE	A4	442.681
+193	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.877	27.9975	0.12045	NOTE	B4	494.286
+194	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	27.9975	28.2108	0.21333	BREATH	BREATH	0
+195	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	28.2108	28.4038	0.19302	NOTE	G5	777.966
+196	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	28.4038	28.5533	0.14948	NOTE	B4	495.01
+197	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	28.5533	28.7405	0.18721	NOTE	E5	659.42
+198	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	28.7405	28.8871	0.14658	NOTE	D5	588.338
+199	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	28.8871	29.0598	0.1727	NOTE	B4	494.998
+200	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	29.0598	29.2049	0.14512	NOTE	D5	585.641
+201	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	29.2049	29.3863	0.18141	NOTE	E5	659.804
+202	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	29.3863	29.5358	0.14948	NOTE	G5	780.831
+203	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	29.5358	29.5837	0.047891	ct	G#5	842.168
+204	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	29.5837	29.7201	0.13642	NOTE	G5	780.525
+205	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	29.7201	29.8884	0.16834	NOTE	B4	494.527
+206	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	29.8884	29.977	0.088526	NOTE	E5	663.47
+207	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	29.977	30.1787	0.20172	BREATH	BREATH	0
+208	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	30.1787	30.3761	0.19737	NOTE	G4	392.716
+209	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	30.3761	30.5517	0.1756	NOTE	A4	441.836
+210	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	30.5517	30.7113	0.15964	NOTE	B4	492.102
+211	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	30.7113	30.868	0.15673	NOTE	D5	585.928
+212	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	30.868	31.003	0.13497	NOTE	B4	494.217
+213	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	31.003	31.151	0.14803	NOTE	A4	442.059
+214	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	31.151	31.3049	0.15383	NOTE	G4	391.339
+215	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	31.3049	31.3571	0.052245	NOTE	Bb4	480
+216	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	31.3571	31.4892	0.13206	NOTE	G4	390.722
+217	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	31.4892	31.8244	0.33524	NOTE	E4	329.886
+218	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	31.8244	31.9245	0.10014	NOTE	E4	331.537
+219	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	31.9245	32.1538	0.2293	BREATH	BREATH	0
+220	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	32.1538	32.3454	0.19156	NOTE	G4	390.256
+221	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	32.3454	32.5094	0.16399	NOTE	A4	437.791
+222	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	32.5094	32.5544	0.044989	ct	C5	526.409
+223	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	32.5544	32.7082	0.15383	NOTE	B4	493.789
+224	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	32.7082	32.8446	0.13642	NOTE	G4	388.845
+225	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	32.8446	32.9302	0.085624	NOTE	E4	331.487
+226	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	32.9302	33.1392	0.20898	BREATH	BREATH	0
+227	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	33.1392	33.1886	0.049342	ct	C5	532.341
+228	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	33.1886	33.3453	0.15673	NOTE	B4	495.382
+229	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	33.3453	33.4803	0.13497	NOTE	G4	389.526
+230	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	33.4803	33.6327	0.15238	NOTE	E4	330.026
+231	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	33.6327	33.801	0.16834	NOTE	G4	387.235
+232	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	33.801	33.846	0.044989	ct	C5	520.145
+233	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	33.846	33.9766	0.13061	NOTE	B4	492.58
+234	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	33.9766	34.1087	0.13206	NOTE	E4	329.617
+235	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.1087	34.1711	0.062404	ct	B4	496.439
+236	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.1711	34.2944	0.12336	NOTE	A4	441.113
+237	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.2944	34.4381	0.14367	NOTE	F#4	365.948
+238	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.4381	34.5789	0.14077	lngRoll_nt	E4	328.494
+239	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.5789	34.6369	0.05805	lngRoll_ct	G#4	425
+240	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.6369	34.7327	0.095782	lngRoll_nt	E4	329.682
+241	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.7327	34.7632	0.030476	lngRoll_str	E4	326.975
+242	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.7632	34.888	0.12481	lngRoll_nt	E4	329.492
+243	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	34.888	35.0737	0.18576	NOTE	A4	441.073
+244	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	35.0737	35.1187	0.044989	NOTE	C5	510.474
+245	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	35.1187	35.2479	0.12916	NOTE	A4	441.507
+246	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	35.2479	35.3916	0.14367	NOTE	F#4	365.695
+247	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	35.3916	35.5323	0.14077	NOTE	D4	294.167
+248	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	35.5323	35.7195	0.18721	BREATH	BREATH	0
+249	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	35.7195	35.8908	0.17125	NOTE	A4	439.26
+250	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	35.8908	36.0374	0.14658	NOTE	F#4	366.994
+251	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	36.0374	36.2014	0.16399	NOTE	D4	294.032
+252	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	36.2014	36.3712	0.1698	NOTE	F#4	363.748
+253	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	36.3712	36.5308	0.15964	NOTE	A4	439.517
+254	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	36.5308	36.6469	0.1161	NOTE	F#4	365.474
+255	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	36.6469	36.7282	0.08127	NOTE	B4	489
+256	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	36.7282	36.8501	0.1219	NOTE	F#4	364.423
+257	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	36.8501	37.017	0.16689	NOTE	E4	328.613
+258	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.017	37.1882	0.17125	NOTE	D4	291.553
+259	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.1882	37.3203	0.13206	NOTE	E4	326.97
+260	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.3203	37.3827	0.062404	NOTE	G#4	419
+261	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.3827	37.4901	0.10739	NOTE	F#4	362.808
+262	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.4901	37.6468	0.15673	NOTE	D4	292.147
+263	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.6468	37.8064	0.15964	lngRoll_nt	G4	388.203
+264	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.8064	37.8572	0.050794	lngRoll_ct	B4	486
+265	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.8572	37.9704	0.1132	lngRoll_nt	G4	390.835
+266	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	37.9704	38.0096	0.039184	lngRoll_str	G4	384.708
+267	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	38.0096	38.1431	0.13351	lngRoll_nt	G4	390.937
+268	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	38.1431	38.3129	0.1698	NOTE	A4	443.066
+269	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	38.3129	38.4435	0.13061	NOTE	B4	492.473
+270	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	38.4435	38.6249	0.18141	NOTE	G4	398.823
+271	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	38.6249	38.831	0.20608	NOTE	G5	777.516
+272	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	38.831	38.9776	0.14658	NOTE	B4	495.023
+273	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	38.9776	39.1532	0.1756	NOTE	E5	656.375
+274	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	39.1532	39.2896	0.13642	NOTE	D5	586.167
+275	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	39.2896	39.3259	0.036281	ct	D5	599.784
+276	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	39.3259	39.4754	0.14948	NOTE	B4	493.321
+277	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	39.4754	39.6263	0.15093	NOTE	D5	585.686
+278	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	39.6263	39.783	0.15673	NOTE	E5	658.555
+279	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	39.783	39.9151	0.13206	NOTE	G5	778.344
+280	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	39.9151	39.963	0.047891	NOTE	B5	990
+281	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	39.963	40.1154	0.15238	NOTE	G5	776.896
+282	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	40.1154	40.2823	0.16689	NOTE	B4	491.387
+283	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	40.2823	40.4521	0.1698	NOTE	E4	326.255
+284	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	40.4521	40.574	0.1219	NOTE	F#4	362.08
+285	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	40.574	40.7655	0.19156	NOTE	G4	387.104
+286	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	40.7655	40.9252	0.15964	NOTE	A4	436.861
+287	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	40.9252	41.0892	0.16399	NOTE	B4	491.014
+288	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	41.0892	41.2183	0.12916	NOTE	D5	584.05
+289	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	41.2183	41.2749	0.056599	NOTE	E5	646
+290	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	41.2749	41.4012	0.12626	NOTE	B4	492.203
+291	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	41.4012	41.5521	0.15093	NOTE	A4	441.169
+292	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	41.5521	41.7088	0.15673	NOTE	G4	387.347
+293	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	41.7088	41.7582	0.049342	NOTE	Bb4	476
+294	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	41.7582	41.8873	0.12916	NOTE	G4	388.554
+295	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	41.8873	42.1979	0.31057	NOTE	E4	328.539
+296	McE_TraditionalFlutePlaying_Tk11Tu1R1_McGivneysFancy.txt	42.1979	42.6449	0.44698	NOTE	E4	328.418

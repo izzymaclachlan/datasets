@@ -1,546 +1,550 @@
-1	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	0.72562	1.6486	0.92299	NOTE	Bb4	473.327	1
-2	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	1.6486	1.7183	0.069683	shRoll_ct	C#5	557.36	5
-3	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	1.7183	1.7923	0.073991	shRoll_nt	Bb4	473.38	1
-4	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	1.7923	1.8344	0.042086	shRoll_str	Bb4	463.227	3
-5	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	1.8344	2.0492	0.21478	shRoll_nt	Bb4	471.099	1
-6	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.0492	2.113	0.063878	shRoll_ct	C#5	550.945	5
-7	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.113	2.1522	0.039161	shRoll_nt	Bb4	475.029	1
-8	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.1522	2.187	0.03483	shRoll_str	Bb4	458.014	3
-9	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.187	2.3388	0.15175	shRoll_nt	Bb4	472.867	1
-10	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.3388	2.4857	0.14694	NOTE	G#4	426.993	1
-11	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.4857	2.7265	0.24082	NOTE	F4	355.213	1
-12	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.7265	2.8041	0.077551	ct	A4	430.713	2
-13	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.8041	2.9224	0.11837	NOTE	G#4	421.437	1
-14	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.9224	3.0653	0.14286	NOTE	F4	355.652	1
-15	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	3.0653	3.2694	0.20408	crann_nt	Eb4	317.097	
-16	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	3.2694	3.3306	0.061224	crann_ct	E4	321.86	
-17	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	3.3306	3.5102	0.17959	crann_nt	Eb4	315.534	
-18	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	3.5102	3.5875	0.077302	crann_ct	E4	321	
-19	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	3.5875	3.6776	0.090045	crann_nt	Eb4	317.707	
-20	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	3.6776	3.7469	0.069388	crann_ct	E4	321	
-21	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	3.7469	3.951	0.20408	crann_nt	Eb4	315.333	
-22	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	3.951	4.1	0.14898	NOTE	C#5	558.46	1
-23	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	4.1	4.2245	0.12449	NOTE	C5	527.381	1
-24	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	4.2245	4.4306	0.20612	NOTE	C#5	569.692	1
-25	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	4.4306	4.6061	0.17551	NOTE	Eb5	632.001	1
-26	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	4.6061	4.7796	0.17347	NOTE	F5	710.395	1
-27	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	4.7796	4.9306	0.15102	NOTE	Eb5	638.913	1
-28	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	4.9306	4.9776	0.046939	ct	F5	703.278	2
-29	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	4.9776	5.151	0.17347	NOTE	C#5	568.603	1
-30	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	5.151	5.298	0.14694	NOTE	Bb4	476.571	1
-31	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	5.298	5.4571	0.15918	NOTE	G#4	424.345	1
-32	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	5.4571	5.4918	0.034694	ct	G4	395.414	2
-33	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	5.4918	5.5429	0.05102	NOTE	G#4	420.64	1
-34	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	5.5429	5.6735	0.13061	NOTE	G4	392.737	1
-35	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	5.6735	5.8082	0.13469	NOTE	F4	355.728	1
-36	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	5.8082	5.9878	0.17959	NOTE	Eb4	316.641	1
-37	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	5.9878	6.1408	0.15306	NOTE	Bb4	473.378	1
-38	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	6.1408	6.3571	0.21633	BREATH	BREATH	0	4
-39	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	6.3571	6.5265	0.16939	NOTE	Bb4	472.731	1
-40	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	6.5265	6.5857	0.059184	ct	C5	514.047	2
-41	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	6.5857	6.6959	0.1102	NOTE	Bb4	474.08	1
-42	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	6.6959	6.8449	0.14898	NOTE	G#4	426.002	1
-43	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	6.8449	7.0204	0.17551	NOTE	F4	354.066	1
-44	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	7.0204	7.2224	0.20204	lngRoll_nt	G#4	418.202	
-45	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	7.2224	7.2694	0.046939	lngRoll_ct	Bb4	455.972	
-46	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	7.2694	7.3306	0.061224	lngRoll_nt	G#4	424.146	
-47	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	7.3306	7.3633	0.032653	lngRoll_str	G#4	417.506	
-48	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	7.3633	7.5306	0.16735	lngRoll_nt	G#4	422.054	
-49	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	7.5306	7.7163	0.18571	NOTE	C#5	566.644	1
-50	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	7.7163	7.849	0.13265	NOTE	G#4	421.269	1
-51	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	7.849	8.0286	0.17959	NOTE	F4	355.693	1
-52	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.0286	8.1851	0.15649	crann_nt	Eb4	316.014	
-53	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.1851	8.2367	0.051678	crann_ct	F#4	379.316	
-54	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.2367	8.2714	0.034694	crann_nt	Eb4	316	
-55	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.2714	8.3184	0.046939	crann_ct	G4	390	
-56	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.3184	8.349	0.030612	crann_nt	Eb4	315.664	
-57	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.349	8.4114	0.062449	crann_ct	G#4	410	
-58	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.4114	8.5408	0.12939	crann_nt	Eb4	315.642	
-59	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.5408	8.5898	0.04898	ct	F#4	378	2
-60	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.5898	8.7592	0.16939	NOTE	Eb4	314.908	1
-61	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.7592	8.8776	0.11837	NOTE	G4	392.512	1
-62	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.8776	9.0776	0.2	NOTE	Bb4	469.233	1
-63	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.0776	9.1776	0.1	NOTE	Eb4	314.799	1
-64	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.1776	9.249	0.071429	NOTE	F#4	370	1
-65	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.249	9.2673	0.018367	NOTE	Eb4	315.907	1
-66	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.2673	9.3286	0.061224	NOTE	G4	390	1
-67	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.3286	9.3633	0.034694	NOTE	Eb4	319.609	1
-68	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.3633	9.3857	0.022449	NOTE	G4	390	1
-69	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.3857	9.4327	0.046939	NOTE	Eb4	314.825	1
-70	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.4327	9.551	0.11837	NOTE	Eb4	315.712	1
-71	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.551	9.5959	0.044898	ct	Eb4	317.065	2
-72	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.5959	9.8735	0.27755	NOTE	Eb4	314.681	1
-73	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.8735	10.1102	0.23673	BREATH	BREATH	0	4
-74	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.1102	10.2571	0.14694	lngRoll_nt	Bb4	469.782	
-75	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.2571	10.3204	0.063265	lngRoll_ct	C#5	550.971	
-76	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.3204	10.3714	0.05102	lngRoll_nt	Bb4	474.461	
-77	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.3714	10.4204	0.04898	lngRoll_str	Bb4	465.8	
-78	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.4204	10.5531	0.13265	lngRoll_nt	Bb4	473.181	
-79	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.5531	10.6245	0.071429	ct	C5	533.753	2
-80	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.6245	10.7592	0.13469	NOTE	Bb4	471.204	1
-81	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.7592	10.8837	0.12449	NOTE	G#4	423.146	1
-82	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.8837	11.0612	0.17755	NOTE	F4	353.947	1
-83	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.0612	11.1306	0.069388	ct	A4	449.304	2
-84	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.1306	11.249	0.11837	NOTE	G#4	419.981	1
-85	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.249	11.3735	0.12449	NOTE	F4	354.266	1
-86	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.3735	11.5388	0.16531	NOTE	Eb4	315.046	1
-87	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.5388	11.5776	0.038776	ct	E4	327.444	2
-88	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.5776	11.7224	0.1449	crann_nt	Eb4	316.159	
-89	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.7224	11.7776	0.055102	crann_ct	G4	381.474	
-90	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.7776	11.802	0.02449	crann_nt	Eb4	316	
-91	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.802	11.8429	0.040816	crann_ct	G#4	408.727	
-92	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.8429	11.8673	0.02449	crann_nt	Eb4	316	
-93	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.8673	11.9449	0.077551	crann_ct	G#4	420	
-94	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.9449	12.0939	0.14898	crann_nt	Eb4	317.946	
-95	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	12.0939	12.2571	0.16327	NOTE	C#5	564.325	1
-96	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	12.2571	12.3857	0.12857	NOTE	C5	528.376	1
-97	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	12.3857	12.5837	0.19796	NOTE	C#5	567.856	1
-98	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	12.5837	12.7347	0.15102	NOTE	Eb5	625.721	1
-99	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	12.7347	12.8061	0.071429	ct	F#5	744.622	2
-100	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	12.8061	12.9061	0.1	NOTE	F5	688.692	1
-101	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	12.9061	13.0592	0.15306	NOTE	Eb5	636.082	1
-102	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	13.0592	13.2531	0.19388	NOTE	C#5	566.576	1
-103	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	13.2531	13.3857	0.13265	NOTE	Bb4	474.893	1
-104	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	13.3857	13.5327	0.14694	NOTE	G#4	422.836	1
-105	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	13.5327	13.5694	0.036735	ct	G4	399.276	2
-106	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	13.5694	13.6102	0.040816	NOTE	G#4	421.05	1
-107	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	13.6102	13.7327	0.12245	NOTE	G4	392.765	1
-108	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	13.7327	13.851	0.11837	NOTE	F4	354.382	1
-109	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	13.851	14.0469	0.19592	NOTE	Eb4	315.601	1
-110	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	14.0469	14.1796	0.13265	NOTE	Bb4	472.647	1
-111	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	14.1796	14.3694	0.1898	BREATH	BREATH	0	4
-112	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	14.3694	14.551	0.18163	NOTE	Bb4	475.261	1
-113	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	14.551	14.602	0.05102	ct	C5	514.939	2
-114	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	14.602	14.7245	0.12245	NOTE	Bb4	474.783	1
-115	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	14.7245	14.8633	0.13878	NOTE	G#4	427.006	1
-116	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	14.8633	15.0327	0.16939	NOTE	F4	355.337	1
-117	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	15.0327	15.2082	0.17551	lngRoll_nt	G#4	417.032	
-118	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	15.2082	15.2592	0.05102	lngRoll_ct	A4	451.549	
-119	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	15.2592	15.3245	0.065306	lngRoll_nt	G#4	425.463	
-120	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	15.3245	15.3653	0.040816	lngRoll_str	G#4	416.058	
-121	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	15.3653	15.5306	0.16531	lngRoll_nt	G#4	423.54	
-122	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	15.5306	15.7061	0.17551	NOTE	C#5	567.047	1
-123	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	15.7061	15.8327	0.12653	NOTE	G#4	422.073	1
-124	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	15.8327	16.0061	0.17347	NOTE	F4	356.27	1
-125	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.0061	16.1449	0.13878	crann_nt	Eb4	317.558	
-126	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.1449	16.2133	0.068435	crann_ct	F#4	370	
-127	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.2133	16.2598	0.04644	crann_nt	Eb4	320.204	
-128	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.2598	16.3004	0.040635	crann_ct	G4	390	
-129	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.3004	16.341	0.040635	crann_nt	Eb4	315.16	
-130	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.341	16.3991	0.05805	crann_ct	G#4	410	
-131	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.3991	16.4959	0.096825	crann_nt	Eb4	314.825	
-132	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.4959	16.551	0.055102	NOTE	F#4	370	1
-133	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.551	16.7163	0.16531	NOTE	Eb4	315.163	1
-134	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.7163	16.851	0.13469	NOTE	G4	387.113	1
-135	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.851	17.0204	0.16939	NOTE	Bb4	464.533	1
-136	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.0204	17.1204	0.1	crann_nt	Eb4	316.576	
-137	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.1204	17.1633	0.042857	crann_ct	F#4	370	
-138	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.1633	17.198	0.034694	crann_nt	Eb4	318.457	
-139	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.198	17.2429	0.044898	crann_ct	G4	390	
-140	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.2429	17.3	0.057143	crann_nt	Eb4	314.515	
-141	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.3	17.3571	0.057143	crann_ct	G#4	410	
-142	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.3571	17.4898	0.13265	crann_nt	Eb4	315.575	
-143	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.4898	17.551	0.061224	NOTE	F#4	370	1
-144	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.551	17.7898	0.23878	NOTE	Eb4	315.685	1
-145	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.7898	18.0419	0.25211	BREATH	BREATH	0	4
-146	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	18.0419	18.1714	0.12952	NOTE	D5	572.873	1
-147	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	18.1714	18.3	0.12857	NOTE	C5	535.667	1
-148	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	18.3	18.5	0.2	NOTE	D5	573.738	1
-149	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	18.5	18.6878	0.18776	NOTE	D5	571.921	1
-150	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	18.6878	18.8224	0.13469	NOTE	C5	536.19	1
-151	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	18.8224	18.998	0.17551	NOTE	C#5	567.883	1
-152	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	18.998	19.2082	0.2102	NOTE	D5	574.278	1
-153	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	19.2082	19.3429	0.13469	NOTE	Bb4	476.108	1
-154	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	19.3429	19.5163	0.17347	NOTE	G#4	427.435	1
-155	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	19.5163	19.6816	0.16531	NOTE	Bb4	465.386	1
-156	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	19.6816	19.8184	0.13673	NOTE	C5	520.265	1
-157	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	19.8184	20.0265	0.20816	NOTE	C#5	561.013	1
-158	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	20.0265	20.1694	0.14286	NOTE	Eb5	626.286	1
-159	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	20.1694	20.3204	0.15102	NOTE	G5	764.153	1
-160	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	20.3204	20.4898	0.16939	NOTE	Eb5	635.632	1
-161	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	20.4898	20.6449	0.1551	NOTE	Eb5	639.921	1
-162	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	20.6449	20.8306	0.18571	NOTE	G5	786.382	1
-163	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	20.8306	20.9939	0.16327	NOTE	Eb5	636.807	1
-164	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	20.9939	21.1408	0.14694	NOTE	Eb5	635.844	1
-165	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	21.1408	21.298	0.15714	NOTE	Bb4	478.503	1
-166	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	21.298	21.4714	0.17347	NOTE	G4	394.393	1
-167	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	21.4714	21.651	0.17959	NOTE	Eb4	315.551	1
-168	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	21.651	21.7898	0.13878	NOTE	G4	393.078	1
-169	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	21.7898	21.9571	0.16735	NOTE	Bb4	471.588	1
-170	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	21.9571	22.0776	0.12041	NOTE	C#5	566.672	1
-171	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	22.0776	22.3041	0.22653	BREATH	BREATH	0	4
-172	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	22.3041	22.502	0.19796	NOTE	D5	572.252	1
-173	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	22.502	22.6653	0.16327	NOTE	Eb5	637.541	1
-174	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	22.6653	22.7714	0.10612	NOTE	D5	580.54	1
-175	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	22.7714	22.9673	0.19592	NOTE	C5	536.782	1
-176	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	22.9673	23.1551	0.18776	NOTE	C#5	564.553	1
-177	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	23.1551	23.2918	0.13673	NOTE	Bb4	478.09	1
-178	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	23.2918	23.449	0.15714	NOTE	G#4	424.281	1
-179	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	23.449	23.6143	0.16531	NOTE	G4	394.936	1
-180	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	23.6143	23.7653	0.15102	NOTE	G#4	423.409	1
-181	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	23.7653	23.9429	0.17755	NOTE	F4	355.508	1
-182	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	23.9429	24.0959	0.15306	crann_nt	Eb4	317.988	
-183	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.0959	24.151	0.055102	crann_ct	F#4	370	
-184	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.151	24.1857	0.034694	crann_nt	E4	321.512	
-185	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.1857	24.2306	0.044898	crann_ct	G4	390	
-186	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.2306	24.2571	0.026531	crann_nt	Eb4	318.308	
-187	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.2571	24.3	0.042857	crann_ct	G#4	420	
-188	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.3	24.4286	0.12857	crann_nt	Eb4	315.905	
-189	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.4286	24.4735	0.044898	ct	Eb4	318.179	2
-190	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.4735	24.6367	0.16327	NOTE	Eb4	314.993	1
-191	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.6367	24.7429	0.10612	NOTE	G4	386.32	1
-192	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.7429	24.9612	0.21837	NOTE	Bb4	466.182	1
-193	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.9612	25.0857	0.12449	crann_nt	Eb4	315.43	
-194	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.0857	25.1245	0.038776	crann_ct	F#4	380.748	
-195	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.1245	25.1653	0.040816	crann_nt	Eb4	319.394	
-196	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.1653	25.2122	0.046939	crann_ct	G4	390	
-197	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.2122	25.2429	0.030612	crann_nt	Eb4	317.246	
-198	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.2429	25.2837	0.040816	crann_ct	G#4	410	
-199	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.2837	25.4408	0.15714	crann_nt	Eb4	315.141	
-200	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.4408	25.4857	0.044898	ct	A4	430	2
-201	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.4857	25.7388	0.25306	NOTE	Eb4	314.879	1
-202	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.7388	25.949	0.2102	BREATH	BREATH	0	4
-203	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.949	26.1245	0.17551	NOTE	C#5	568.081	1
-204	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	26.1245	26.2429	0.11837	NOTE	C5	535.556	1
-205	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	26.2429	26.4306	0.18776	NOTE	D5	576.245	1
-206	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	26.4306	26.4722	0.041587	ct	D5	597.624	2
-207	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	26.4722	26.6204	0.14821	NOTE	C#5	568.486	1
-208	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	26.6204	26.751	0.13061	NOTE	C5	537.734	1
-209	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	26.751	26.9184	0.16735	NOTE	C#5	567.542	1
-210	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	26.9184	26.9714	0.053061	ct	D5	591.898	2
-211	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	26.9714	27.1122	0.14082	NOTE	C#5	570.51	1
-212	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	27.1122	27.2429	0.13061	NOTE	Bb4	475.291	1
-213	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	27.2429	27.4306	0.18776	NOTE	A4	428.09	1
-214	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	27.4306	27.5816	0.15102	NOTE	Bb4	468.33	1
-215	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	27.5816	27.7245	0.14286	NOTE	C5	512.006	1
-216	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	27.7245	27.9531	0.22857	NOTE	C#5	561.146	1
-217	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	27.9531	28.0755	0.12245	NOTE	Eb5	629.409	1
-218	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	28.0755	28.2551	0.17959	NOTE	G5	786.38	1
-219	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	28.2551	28.4143	0.15918	NOTE	Eb5	638.089	1
-220	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	28.4143	28.5776	0.16327	NOTE	Eb5	637.207	1
-221	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	28.5776	28.7469	0.16939	NOTE	G5	786	1
-222	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	28.7469	28.902	0.1551	NOTE	Eb5	635.365	1
-223	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	28.902	29.0796	0.17755	NOTE	Eb5	634.459	1
-224	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	29.0796	29.202	0.12245	NOTE	B4	499.124	1
-225	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	29.202	29.4	0.19796	NOTE	G4	391.835	1
-226	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	29.4	29.5878	0.18776	NOTE	Eb4	315.682	1
-227	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	29.5878	29.7184	0.13061	NOTE	G4	393.492	1
-228	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	29.7184	29.8898	0.17143	NOTE	Bb4	472.776	1
-229	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	29.8898	29.9837	0.093878	NOTE	C#5	566.086	1
-230	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	29.9837	30.2163	0.23265	BREATH	BREATH	0	4
-231	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	30.2163	30.3959	0.17959	NOTE	D5	574.148	1
-232	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	30.3959	30.5694	0.17347	NOTE	Eb5	638.065	1
-233	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	30.5694	30.7041	0.13469	NOTE	D5	578.105	1
-234	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	30.7041	30.851	0.14694	NOTE	C5	536.236	1
-235	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	30.851	31.0571	0.20612	NOTE	C#5	565.579	1
-236	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	31.0571	31.1898	0.13265	NOTE	Bb4	475.292	1
-237	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	31.1898	31.3694	0.17959	NOTE	G#4	424.782	1
-238	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	31.3694	31.5224	0.15306	NOTE	G4	395.129	1
-239	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	31.5224	31.5653	0.042857	ct	Bb4	460.63	2
-240	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	31.5653	31.6796	0.11429	NOTE	G#4	422.395	1
-241	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	31.6796	31.8571	0.17755	NOTE	F4	355.772	1
-242	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	31.8571	32.0143	0.15714	crann_nt	Eb4	317.573	
-243	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.0143	32.051	0.036735	crann_ct	F#4	373.781	
-244	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.051	32.0776	0.026531	crann_nt	Eb4	317	
-245	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.0776	32.1122	0.034694	crann_ct	G4	390	
-246	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.1122	32.1531	0.040816	crann_nt	Eb4	317.001	
-247	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.1531	32.2061	0.053061	crann_ct	G#4	420	
-248	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.2061	32.3388	0.13265	crann_nt	Eb4	315.295	
-249	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.3388	32.3837	0.044898	NOTE	B4	490	1
-250	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.3837	32.5551	0.17143	NOTE	Eb4	315.133	1
-251	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.5551	32.6898	0.13469	NOTE	G4	387.957	1
-252	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.6898	32.8735	0.18367	NOTE	Bb4	466.014	1
-253	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.8735	32.9816	0.10816	crann_nt	Eb4	314.8	
-254	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.9816	33.0367	0.055102	crann_ct	F#4	370	
-255	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.0367	33.0714	0.034694	crann_nt	Eb4	319.745	
-256	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.0714	33.1082	0.036735	crann_ct	G4	390	
-257	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.1082	33.1581	0.049955	crann_nt	Eb4	317.455	
-258	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.1581	33.2046	0.04644	crann_ct	G#4	420	
-259	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.2046	33.3449	0.14034	crann_nt	Eb4	316.02	
-260	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.3449	33.3898	0.044898	NOTE	G#4	420	1
-261	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.3898	33.6102	0.22041	NOTE	Eb4	316.276	1
-262	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.6102	33.8714	0.26122	BREATH	BREATH	0	4
-263	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.8714	33.951	0.079592	ct	Bb5	907.962	2
-264	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.951	34.0449	0.093878	NOTE	G5	785.81	1
-265	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	34.0449	34.1914	0.14649	NOTE	Eb5	632.032	1
-266	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	34.1914	34.3592	0.1678	NOTE	Eb5	626.935	1
-267	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	34.3592	34.4306	0.071429	ct	D6	1193.83	2
-268	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	34.4306	34.5629	0.13229	NOTE	Bb5	945.091	1
-269	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	34.5629	34.679	0.1161	NOTE	Eb5	632.635	1
-270	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	34.679	34.8429	0.16385	NOTE	Eb5	627.325	1
-271	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	34.8429	34.9265	0.083673	ct	Bb5	917.525	2
-272	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	34.9265	35.049	0.12245	NOTE	G5	779.8	1
-273	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	35.049	35.1755	0.12653	NOTE	Eb5	632.459	1
-274	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	35.1755	35.2918	0.11633	NOTE	Eb5	629.738	1
-275	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	35.2918	35.3814	0.089569	ct	Bb5	925.703	2
-276	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	35.3814	35.5382	0.15676	NOTE	G#5	840.593	1
-277	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	35.5382	35.6571	0.11898	NOTE	F#5	733.221	1
-278	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	35.6571	35.8531	0.19592	NOTE	Eb5	639.47	1
-279	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	35.8531	36.1673	0.31429	NOTE	C#5	565.641	1
-280	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	36.1673	36.3347	0.16735	NOTE	F5	688.553	1
-281	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	36.3347	36.4184	0.083673	ct	C6	1030.34	2
-282	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	36.4184	36.5061	0.087755	ct	G#5	841.886	2
-283	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	36.5061	36.6643	0.15819	NOTE	F5	709.951	1
-284	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	36.6643	36.8857	0.22141	NOTE	Eb5	633.915	1
-285	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	36.8857	37.0551	0.16939	NOTE	C#5	556.363	1
-286	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	37.0551	37.1816	0.12653	NOTE	Eb5	630.544	1
-287	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	37.1816	37.3087	0.12703	NOTE	F5	709.907	1
-288	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	37.3087	37.3918	0.083175	ct	C6	1022.28	2
-289	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	37.3918	37.4571	0.065306	NOTE	G#5	824.914	1
-290	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	37.4571	37.6082	0.15102	NOTE	G5	807.224	1
-291	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	37.6082	37.8102	0.20204	NOTE	Eb5	639.237	1
-292	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	37.8102	38.1286	0.31837	NOTE	G5	783.971	1
-293	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	38.1286	38.2955	0.16696	NOTE	Eb5	634.938	1
-294	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	38.2955	38.3265	0.030998	ct	Bb5	945	2
-295	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	38.3265	38.4796	0.15306	NOTE	G#5	849.552	1
-296	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	38.4796	38.6449	0.16531	NOTE	Eb5	635.355	1
-297	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	38.6449	38.7832	0.13825	NOTE	Eb5	635.265	1
-298	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	38.7832	38.8296	0.04644	ct	Bb5	913.012	2
-299	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	38.8296	38.9816	0.15204	NOTE	G5	785.948	1
-300	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	38.9816	39.1242	0.14254	NOTE	Eb5	633.896	1
-301	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	39.1242	39.2983	0.17415	NOTE	Eb5	631.943	1
-302	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	39.2983	39.3419	0.043537	ct	Bb5	954	2
-303	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	39.3419	39.4289	0.087075	NOTE	G#5	841.101	1
-304	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	39.4289	39.545	0.1161	NOTE	F5	707.501	1
-305	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	39.545	39.7511	0.20608	NOTE	E5	646.773	1
-306	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	39.7511	39.9311	0.17995	NOTE	D5	571.703	1
-307	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	39.9311	40.0704	0.13932	NOTE	Eb5	627.007	1
-308	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.0704	40.2315	0.16109	NOTE	F5	701.637	1
-309	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.2315	40.4143	0.18286	NOTE	G#5	824.324	1
-310	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.4143	40.4637	0.049342	ct	C6	1028.82	2
-311	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.4637	40.5972	0.13351	NOTE	Bb5	947.209	1
-312	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.5972	40.7641	0.16689	NOTE	A5	857.294	1
-313	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.7641	40.7946	0.030476	ct	G5	784.746	2
-314	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.7946	40.841	0.04644	NOTE	G#5	826	1
-315	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.841	40.8947	0.053696	NOTE	F#5	729.74	1
-316	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.8947	41.0456	0.15093	NOTE	Eb5	636.992	1
-317	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	41.0456	41.2096	0.16399	NOTE	D5	591.741	1
-318	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	41.2096	41.3141	0.10451	NOTE	Eb5	634.175	1
-319	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	41.3141	41.3576	0.043515	str	D5	599.376	3
-320	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	41.3576	41.465	0.10739	NOTE	Eb5	636.88	1
-321	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	41.465	41.7205	0.25542	BREATH	BREATH	0	4
-322	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	41.7205	41.7625	0.042086	ct	Bb5	923	2
-323	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	41.7625	41.9207	0.15819	NOTE	G5	783.4	1
-324	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	41.9207	42.031	0.11029	NOTE	Eb5	634.838	1
-325	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.031	42.2502	0.21914	NOTE	Eb5	634.237	1
-326	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.2502	42.3068	0.056599	ct	Bb5	914	2
-327	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.3068	42.4707	0.16399	NOTE	G#5	845.771	1
-328	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.4707	42.5854	0.11465	NOTE	Eb5	635.29	1
-329	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.5854	42.6957	0.11029	NOTE	Eb5	633.194	1
-330	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.6957	42.7334	0.037732	ct	Bb5	914	2
-331	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.7334	42.909	0.1756	NOTE	G5	781.988	1
-332	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.909	42.9976	0.088526	NOTE	Eb5	630.582	1
-333	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.9976	43.1702	0.1727	NOTE	Eb5	631.667	1
-334	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	43.1702	43.208	0.037732	ct	A5	905	2
-335	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	43.208	43.3371	0.12916	NOTE	G#5	840.302	1
-336	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	43.3371	43.4924	0.15528	NOTE	F5	712.838	1
-337	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	43.4924	43.6608	0.16834	NOTE	Eb5	636.388	1
-338	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	43.6608	43.787	0.12626	NOTE	C5	524	1
-339	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	43.787	43.9815	0.19447	NOTE	C#5	561.622	1
-340	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	43.9815	44.1527	0.17125	NOTE	E5	668.086	1
-341	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	44.1527	44.2108	0.05805	NOTE	B4	503.669	1
-342	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	44.2108	44.34	0.12916	NOTE	G#4	410.836	1
-343	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	44.34	44.4996	0.15964	NOTE	F4	352.781	1
-344	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	44.4996	44.6462	0.14658	NOTE	Eb5	633.139	1
-345	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	44.6462	44.8276	0.18141	NOTE	D5	570.92	1
-346	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	44.8276	44.9451	0.11755	NOTE	Eb5	624.366	1
-347	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	44.9451	45.0932	0.14803	NOTE	F5	704.653	1
-348	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	45.0932	45.1309	0.037732	NOTE	G#5	807.302	1
-349	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	45.1309	45.1962	0.065306	ct	B5	997	2
-350	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	45.1962	45.3094	0.1132	NOTE	G#5	821.12	1
-351	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	45.3094	45.4284	0.119	NOTE	F#5	719.797	1
-352	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	45.4284	45.6214	0.19302	NOTE	Eb5	636.412	1
-353	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	45.6214	45.7157	0.094331	NOTE	G5	784.583	1
-354	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	45.7157	45.9799	0.26413	BREATH	BREATH	0	4
-355	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	45.9799	46.1018	0.1219	NOTE	Eb5	635.052	1
-356	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	46.1018	46.1772	0.075465	ct	Bb5	938	2
-357	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	46.1772	46.2962	0.119	NOTE	A5	859.617	1
-358	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	46.2962	46.4312	0.13497	NOTE	E5	642.251	1
-359	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	46.4312	46.5792	0.14803	NOTE	Eb5	637.663	1
-360	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	46.5792	46.646	0.066757	ct	G#5	848.875	2
-361	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	46.646	46.7693	0.12336	NOTE	G5	789.406	1
-362	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	46.7693	46.8985	0.12916	NOTE	E5	642.986	1
-363	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	46.8985	47.0668	0.16834	NOTE	Eb5	634.42	1
-364	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	47.0668	47.1249	0.05805	ct	A5	861.29	2
-365	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	47.1249	47.2628	0.13787	NOTE	G#5	841.853	1
-366	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	47.2628	47.3934	0.13061	NOTE	F#5	721.135	1
-367	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	47.3934	47.5937	0.20027	NOTE	Eb5	638.411	1
-368	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	47.5937	47.7562	0.16254	NOTE	D5	574.841	1
-369	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	47.7562	47.8897	0.13351	NOTE	Eb5	630.042	1
-370	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	47.8897	48.0479	0.15819	NOTE	E5	661.671	1
-371	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	48.0479	48.2177	0.1698	NOTE	G#5	822.844	1
-372	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	48.2177	48.2569	0.039184	ct	B5	1001.32	2
-373	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	48.2569	48.3614	0.10449	NOTE	Bb5	940.14	1
-374	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	48.3614	48.5471	0.18576	NOTE	A5	872.232	1
-375	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	48.5471	48.6705	0.12336	NOTE	F#5	751.526	1
-376	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	48.6705	48.8562	0.18576	NOTE	Eb5	638.062	1
-377	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	48.8562	49.0144	0.15819	NOTE	D5	591.596	1
-378	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	49.0144	49.1363	0.1219	NOTE	Eb5	639.082	1
-379	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	49.1363	49.3671	0.23075	BREATH	BREATH	0	4
-380	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	49.3671	49.5093	0.14222	NOTE	C5	529.208	1
-381	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	49.5093	49.5761	0.066757	ct	B4	480.784	2
-382	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	49.5761	49.6501	0.074014	NOTE	C#5	539.817	1
-383	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	49.6501	49.8474	0.19737	NOTE	Bb4	473.362	1
-384	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	49.8474	50.0027	0.15528	NOTE	Eb4	317.34	1
-385	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.0027	50.084	0.08127	lngRoll_nt	Bb4	471.924	
-386	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.084	50.1275	0.043537	lngRoll_ct	C5	536.375	
-387	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.1275	50.1711	0.043537	lngRoll_nt	Bb4	470.262	
-388	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.1711	50.2117	0.040635	lngRoll_str	Bb4	460.789	
-389	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.2117	50.3307	0.119	lngRoll_nt	Bb4	470.298	
-390	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.3307	50.4816	0.15093	NOTE	G#4	422.968	1
-391	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.4816	50.5687	0.087075	NOTE	F4	357.057	1
-392	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.5687	50.6659	0.097234	lngRoll_nt	G4	391.456	
-393	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.6659	50.708	0.042086	lngRoll_ct	G#4	424.142	
-394	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.708	50.7849	0.076916	lngRoll_nt	G4	394.291	
-395	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.7849	50.8256	0.040635	lngRoll_str	G4	384.558	
-396	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.8256	50.9504	0.12481	lngRoll_nt	G4	394.829	
-397	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.9504	51.02	0.06966	ct	A4	438.043	2
-398	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.02	51.1478	0.12771	NOTE	G#4	418.701	1
-399	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.1478	51.2813	0.13351	NOTE	F4	353.773	1
-400	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.2813	51.4525	0.17125	NOTE	Eb4	316.719	1
-401	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.4525	51.5875	0.13497	crann_nt	F4	351.748	
-402	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.5875	51.6484	0.060952	crann_ct	G4	381.956	
-403	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.6484	51.6789	0.030476	crann_nt	F#4	363.275	
-404	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.6789	51.7137	0.03483	crann_ct	G4	384.039	
-405	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.7137	51.7341	0.020317	crann_nt	F4	359.395	
-406	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.7341	51.7921	0.05805	crann_ct	F#4	369.498	
-407	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.7921	51.9372	0.14512	crann_nt	F4	351.261	
-408	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.9372	51.9982	0.060952	ct	F4	359.111	2
-409	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.9982	52.1027	0.10449	NOTE	F4	351.255	1
-410	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.1027	52.2681	0.16544	NOTE	G4	386.305	1
-411	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.2681	52.4103	0.14222	NOTE	F4	351.959	1
-412	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.4103	52.464	0.053696	ct	F#4	366.043	2
-413	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.464	52.5729	0.10884	crann_nt	F4	349.383	
-414	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.5729	52.6208	0.047891	crann_ct	F#4	380.237	
-415	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.6208	52.6556	0.03483	crann_nt	F4	356.048	
-416	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.6556	52.6948	0.039184	crann_ct	F#4	379.349	
-417	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.6948	52.7137	0.018866	crann_nt	F4	354.901	
-418	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.7137	52.7543	0.040635	crann_ct	F#4	377.608	
-419	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.7543	52.9009	0.14658	crann_nt	F4	348.371	
-420	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.9009	52.9459	0.044989	ct	F4	357.918	2
-421	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.9459	53.1113	0.16544	NOTE	F4	351.127	1
-422	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	53.1113	53.2361	0.12481	NOTE	G4	390.785	1
-423	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	53.2361	53.4291	0.19302	NOTE	G#4	420.79	1
-424	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	53.4291	53.5205	0.091429	NOTE	Bb4	472.887	1
-425	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	53.5205	53.7397	0.21914	BREATH	BREATH	0	4
-426	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	53.7397	53.9022	0.16254	NOTE	Bb4	470.982	1
-427	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	53.9022	54.101	0.19882	NOTE	Eb5	634.65	1
-428	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.101	54.2229	0.1219	NOTE	Bb4	474.336	1
-429	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.2229	54.3768	0.15383	NOTE	G#4	423.439	1
-430	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.3768	54.4392	0.062404	str	F#4	368.592	3
-431	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.4392	54.564	0.12481	lngRoll_nt	G4	393.372	
-432	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.564	54.6162	0.052245	lngRoll_ct	A4	439.352	
-433	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.6162	54.6656	0.049342	lngRoll_nt	G4	393.689	
-434	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.6656	54.7077	0.042086	lngRoll_str	G4	387.798	
-435	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.7077	54.8702	0.16254	lngRoll_nt	G4	394.346	
-436	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.8702	54.9181	0.047891	shRoll_ct	Bb4	457.625	5
-437	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.9181	54.9747	0.056599	shRoll_nt	G#4	424.562	1
-438	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.9747	55.0052	0.030476	shRoll_str	G#4	408.907	3
-439	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.0052	55.0676	0.062404	shRoll_nt	G#4	421.086	1
-440	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.0676	55.2025	0.13497	NOTE	F4	354.46	1
-441	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.2025	55.3752	0.1727	NOTE	Bb4	463.255	1
-442	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.3752	55.5146	0.13932	crann_nt	Eb4	316.551	
-443	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.5146	55.548	0.033401	crann_ct	G4	386	
-444	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.548	55.577	0.029025	crann_nt	Eb4	318.952	
-445	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.577	55.6176	0.040635	crann_ct	G#4	413	
-446	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.6176	55.6583	0.040635	crann_nt	Eb4	313.833	
-447	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.6583	55.6989	0.040635	crann_ct	A4	439	
-448	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.6989	55.8541	0.15526	crann_nt	Eb4	314.414	
-449	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.8541	56.053	0.19882	NOTE	Eb4	315.302	1
-450	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.053	56.2024	0.14948	NOTE	G4	388.865	1
-451	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.2024	56.3737	0.17125	NOTE	Bb4	465.325	1
-452	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.3737	56.4898	0.1161	crann_nt	Eb4	317.408	
-453	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.4898	56.5464	0.056599	crann_ct	G4	386	
-454	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.5464	56.5798	0.033379	crann_nt	Eb4	318.216	
-455	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.5798	56.6132	0.033379	crann_ct	G#4	413	
-456	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.6132	56.6436	0.030476	crann_nt	Eb4	317.785	
-457	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.6436	56.7104	0.066757	crann_ct	A4	439	
-458	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.7104	56.8439	0.13351	crann_nt	Eb4	315.333	
-459	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.8439	56.8976	0.053696	ct	A4	439	2
-460	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.8976	57.1385	0.24091	NOTE	Eb4	316.218	1
-461	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	57.1385	57.4215	0.28299	BREATH	BREATH	0	4
-462	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	57.4215	57.4708	0.049342	shRoll_ct	C#5	557	5
-463	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	57.4708	57.5144	0.043537	shRoll_nt	Bb4	471.159	1
-464	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	57.5144	57.5463	0.031927	shRoll_str	Bb4	461.682	3
-465	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	57.5463	57.7248	0.1785	shRoll_nt	Bb4	471.947	1
-466	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	57.7248	57.9193	0.19447	NOTE	Eb5	633.596	1
-467	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	57.9193	57.9759	0.056599	shRoll_ct	C#5	567.03	5
-468	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	57.9759	58.0267	0.050794	shRoll_nt	Bb4	470.738	1
-469	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.0267	58.0673	0.040635	shRoll_str	Bb4	456.595	3
-470	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.0673	58.1979	0.13061	shRoll_nt	Bb4	469.009	1
-471	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.1979	58.3314	0.13351	NOTE	G#4	423.23	1
-472	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.3314	58.4171	0.085624	NOTE	F4	358.831	1
-473	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.4171	58.5273	0.11029	NOTE	G4	393.927	1
-474	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.5273	58.5738	0.04644	shRoll_ct	A4	449.28	5
-475	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.5738	58.6347	0.060952	shRoll_nt	G4	393.725	1
-476	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.6347	58.6754	0.040635	shRoll_str	G4	388.077	3
-477	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.6754	58.8263	0.15093	shRoll_nt	G4	394.865	1
-478	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.8263	58.8931	0.066757	shRoll_ct	A4	450.716	5
-479	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.8931	58.9337	0.040635	shRoll_nt	G#4	425.042	1
-480	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.9337	58.97	0.036281	shRoll_str	G#4	408.737	3
-481	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.97	59.0266	0.056599	shRoll_nt	G#4	422.611	1
-482	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.0266	59.1615	0.13497	NOTE	F4	354.969	1
-483	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.1615	59.3371	0.1756	NOTE	Eb4	316.949	1
-484	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.3371	59.4779	0.14077	crann_nt	F4	349.832	
-485	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.4779	59.536	0.05805	crann_ct	G4	385.176	
-486	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.536	59.5679	0.031927	crann_nt	F#4	359.672	
-487	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.5679	59.6056	0.037755	crann_ct	G4	395.942	
-488	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.6056	59.639	0.033356	crann_nt	F4	350.051	
-489	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.639	59.6854	0.04644	crann_ct	A4	442	
-490	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.6854	59.8204	0.13497	crann_nt	F4	351.442	
-491	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.8204	59.8915	0.071111	NOTE	A4	442	1
-492	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.8915	60.0004	0.10884	NOTE	F4	351.8	1
-493	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.0004	60.0642	0.063855	ct	G#4	408.928	2
-494	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.0642	60.1339	0.06966	NOTE	G4	387.23	1
-495	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.1339	60.2819	0.14803	NOTE	F4	353.454	1
-496	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.2819	60.3341	0.052245	ct	A4	442	2
-497	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.3341	60.4401	0.10594	crann_nt	F4	351.492	
-498	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.4401	60.4865	0.04644	crann_ct	G4	382.013	
-499	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.4865	60.5286	0.042086	crann_nt	F#4	361.897	
-500	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.5286	60.5576	0.029025	crann_ct	F#4	378.869	
-501	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.5576	60.5881	0.030476	crann_nt	F#4	361.322	
-502	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.5881	60.6317	0.043537	crann_ct	F#4	373.28	
-503	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.6317	60.7652	0.13351	crann_nt	F4	351.34	
-504	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.7652	60.8247	0.059501	ct	F#4	359.646	2
-505	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.8247	60.9829	0.15819	NOTE	F4	351.693	1
-506	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.9829	61.083	0.10014	NOTE	G4	390.796	1
-507	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	61.083	61.276	0.19302	NOTE	G#4	420.207	1
-508	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	61.276	61.4269	0.15093	NOTE	Bb4	471.62	1
-509	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	61.4269	61.6141	0.18721	BREATH	BREATH	0	4
-510	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	61.6141	61.7825	0.16834	NOTE	Bb4	469.422	1
-511	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	61.7825	61.9552	0.1727	NOTE	Eb5	635.622	1
-512	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	61.9552	61.9958	0.040635	ct	C5	526.724	2
-513	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	61.9958	62.1047	0.10884	NOTE	Bb4	474.109	1
-514	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.1047	62.2411	0.13642	NOTE	G#4	425.444	1
-515	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.2411	62.2962	0.055147	str	F#4	361.647	3
-516	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.2962	62.4283	0.13206	lngRoll_nt	G4	394.932	
-517	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.4283	62.4733	0.044989	lngRoll_ct	A4	443.872	
-518	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.4733	62.5488	0.075465	lngRoll_nt	G4	394.855	
-519	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.5488	62.5792	0.030476	lngRoll_str	G4	388.001	
-520	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.5792	62.7345	0.15528	lngRoll_nt	G4	394.236	
-521	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.7345	62.7827	0.048141	shRoll_ct	Bb4	453.311	5
-522	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.7827	62.8306	0.047959	shRoll_nt	G#4	425.104	1
-523	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.8306	62.8592	0.028571	shRoll_str	G4	397.426	3
-524	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.8592	62.9133	0.054082	shRoll_nt	G#4	418.766	1
-525	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.9133	63.0673	0.15408	NOTE	F4	353.745	1
-526	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.0673	63.2582	0.19082	NOTE	Bb4	463.387	1
-527	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.2582	63.3878	0.12959	crann_nt	Eb4	316.926	
-528	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.3878	63.4286	0.040816	crann_ct	F#4	379.691	
-529	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.4286	63.4796	0.05102	crann_nt	Eb4	316.698	
-530	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.4796	63.5143	0.034694	crann_ct	F#4	373	
-531	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.5143	63.5429	0.028571	crann_nt	Eb4	317.954	
-532	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.5429	63.5867	0.043878	crann_ct	A4	439	
-533	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.5867	63.7296	0.14286	crann_nt	Eb4	316.105	
-534	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.7296	63.7571	0.027551	ct	A4	439	2
-535	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.7571	63.9337	0.17653	NOTE	Eb4	315.253	1
-536	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.9337	64.0663	0.13265	NOTE	G4	390.769	1
-537	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.0663	64.2561	0.1898	NOTE	Bb4	468.092	1
-538	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.2561	64.3612	0.1051	crann_nt	Eb4	316.753	
-539	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.3612	64.3898	0.028571	crann_ct	E4	337.975	
-540	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.3898	64.4306	0.040816	crann_nt	Eb4	318.334	
-541	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.4306	64.4745	0.043878	crann_ct	G4	394	
-542	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.4745	64.502	0.027551	crann_nt	Eb4	316.732	
-543	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.502	64.5592	0.057143	crann_ct	A4	430	
-544	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.5592	64.7092	0.15	crann_nt	Eb4	314.654	
-545	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.7092	64.7388	0.029592	ct	Eb4	318.082	2
-546	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.7388	64.9898	0.25102	NOTE	Eb4	314.777	1
+1	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	0.72562	1.6486	0.92299	NOTE	Bb4	473.327
+2	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	1.6486	1.7183	0.069683	shRoll_ct	C#5	557.36
+3	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	1.7183	1.7923	0.073991	shRoll_nt	Bb4	473.38
+4	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	1.7923	1.8344	0.042086	shRoll_str	Bb4	463.227
+5	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	1.8344	2.0492	0.21478	shRoll_nt	Bb4	471.099
+6	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.0492	2.113	0.063878	shRoll_ct	C#5	550.945
+7	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.113	2.1522	0.039161	shRoll_nt	Bb4	475.029
+8	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.1522	2.187	0.03483	shRoll_str	Bb4	458.014
+9	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.187	2.3388	0.15175	shRoll_nt	Bb4	472.867
+10	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.3388	2.4857	0.14694	NOTE	G#4	426.993
+11	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.4857	2.7265	0.24082	NOTE	F4	355.213
+12	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.7265	2.8041	0.077551	ct	A4	430.713
+13	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.8041	2.9224	0.11837	NOTE	G#4	421.437
+14	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	2.9224	3.0653	0.14286	NOTE	F4	355.652
+15	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	3.0653	3.2694	0.20408	crann_nt	Eb4	317.097
+16	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	3.2694	3.3306	0.061224	crann_ct	E4	321.86
+17	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	3.3306	3.5102	0.17959	crann_nt	Eb4	315.534
+18	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	3.5102	3.5875	0.077302	crann_ct	E4	321
+19	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	3.5875	3.6776	0.090045	crann_nt	Eb4	317.707
+20	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	3.6776	3.7469	0.069388	crann_ct	E4	321
+21	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	3.7469	3.951	0.20408	crann_nt	Eb4	315.333
+22	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	3.951	4.1	0.14898	NOTE	C#5	558.46
+23	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	4.1	4.2245	0.12449	NOTE	C5	527.381
+24	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	4.2245	4.4306	0.20612	NOTE	C#5	569.692
+25	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	4.4306	4.6061	0.17551	NOTE	Eb5	632.001
+26	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	4.6061	4.7796	0.17347	NOTE	F5	710.395
+27	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	4.7796	4.9306	0.15102	NOTE	Eb5	638.913
+28	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	4.9306	4.9776	0.046939	ct	F5	703.278
+29	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	4.9776	5.151	0.17347	NOTE	C#5	568.603
+30	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	5.151	5.298	0.14694	NOTE	Bb4	476.571
+31	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	5.298	5.4571	0.15918	NOTE	G#4	424.345
+32	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	5.4571	5.4918	0.034694	ct	G4	395.414
+33	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	5.4918	5.5429	0.05102	NOTE	G#4	420.64
+34	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	5.5429	5.6735	0.13061	NOTE	G4	392.737
+35	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	5.6735	5.8082	0.13469	NOTE	F4	355.728
+36	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	5.8082	5.9878	0.17959	NOTE	Eb4	316.641
+37	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	5.9878	6.1408	0.15306	NOTE	Bb4	473.378
+38	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	6.1408	6.3571	0.21633	BREATH	BREATH	0
+39	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	6.3571	6.5265	0.16939	NOTE	Bb4	472.731
+40	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	6.5265	6.5857	0.059184	ct	C5	514.047
+41	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	6.5857	6.6959	0.1102	NOTE	Bb4	474.08
+42	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	6.6959	6.8449	0.14898	NOTE	G#4	426.002
+43	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	6.8449	7.0204	0.17551	NOTE	F4	354.066
+44	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	7.0204	7.2224	0.20204	lngRoll_nt	G#4	418.202
+45	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	7.2224	7.2694	0.046939	lngRoll_ct	Bb4	455.972
+46	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	7.2694	7.3306	0.061224	lngRoll_nt	G#4	424.146
+47	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	7.3306	7.3633	0.032653	lngRoll_str	G#4	417.506
+48	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	7.3633	7.5306	0.16735	lngRoll_nt	G#4	422.054
+49	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	7.5306	7.7163	0.18571	NOTE	C#5	566.644
+50	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	7.7163	7.849	0.13265	NOTE	G#4	421.269
+51	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	7.849	8.0286	0.17959	NOTE	F4	355.693
+52	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.0286	8.1851	0.15649	crann_nt	Eb4	316.014
+53	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.1851	8.2367	0.051678	crann_ct	F#4	379.316
+54	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.2367	8.2714	0.034694	crann_nt	Eb4	316
+55	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.2714	8.3184	0.046939	crann_ct	G4	390
+56	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.3184	8.349	0.030612	crann_nt	Eb4	315.664
+57	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.349	8.4114	0.062449	crann_ct	G#4	410
+58	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.4114	8.5408	0.12939	crann_nt	Eb4	315.642
+59	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.5408	8.5898	0.04898	ct	F#4	378
+60	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.5898	8.7592	0.16939	NOTE	Eb4	314.908
+61	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.7592	8.8776	0.11837	NOTE	G4	392.512
+62	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	8.8776	9.0776	0.2	NOTE	Bb4	469.233
+63	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.0776	9.1776	0.1	NOTE	Eb4	314.799
+64	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.1776	9.249	0.071429	NOTE	F#4	370
+65	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.249	9.2673	0.018367	NOTE	Eb4	315.907
+66	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.2673	9.3286	0.061224	NOTE	G4	390
+67	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.3286	9.3633	0.034694	NOTE	Eb4	319.609
+68	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.3633	9.3857	0.022449	NOTE	G4	390
+69	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.3857	9.4327	0.046939	NOTE	Eb4	314.825
+70	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.4327	9.551	0.11837	NOTE	Eb4	315.712
+71	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.551	9.5959	0.044898	ct	Eb4	317.065
+72	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.5959	9.8735	0.27755	NOTE	Eb4	314.681
+73	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	9.8735	10.1102	0.23673	BREATH	BREATH	0
+74	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.1102	10.2571	0.14694	lngRoll_nt	Bb4	469.782
+75	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.2571	10.3204	0.063265	lngRoll_ct	C#5	550.971
+76	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.3204	10.3714	0.05102	lngRoll_nt	Bb4	474.461
+77	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.3714	10.4204	0.04898	lngRoll_str	Bb4	465.8
+78	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.4204	10.5531	0.13265	lngRoll_nt	Bb4	473.181
+79	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.5531	10.6245	0.071429	ct	C5	533.753
+80	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.6245	10.7592	0.13469	NOTE	Bb4	471.204
+81	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.7592	10.8837	0.12449	NOTE	G#4	423.146
+82	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	10.8837	11.0612	0.17755	NOTE	F4	353.947
+83	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.0612	11.1306	0.069388	ct	A4	449.304
+84	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.1306	11.249	0.11837	NOTE	G#4	419.981
+85	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.249	11.3735	0.12449	NOTE	F4	354.266
+86	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.3735	11.5388	0.16531	NOTE	Eb4	315.046
+87	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.5388	11.5776	0.038776	ct	E4	327.444
+88	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.5776	11.7224	0.1449	crann_nt	Eb4	316.159
+89	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.7224	11.7776	0.055102	crann_ct	G4	381.474
+90	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.7776	11.802	0.02449	crann_nt	Eb4	316
+91	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.802	11.8429	0.040816	crann_ct	G#4	408.727
+92	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.8429	11.8673	0.02449	crann_nt	Eb4	316
+93	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.8673	11.9449	0.077551	crann_ct	G#4	420
+94	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	11.9449	12.0939	0.14898	crann_nt	Eb4	317.946
+95	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	12.0939	12.2571	0.16327	NOTE	C#5	564.325
+96	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	12.2571	12.3857	0.12857	NOTE	C5	528.376
+97	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	12.3857	12.5837	0.19796	NOTE	C#5	567.856
+98	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	12.5837	12.7347	0.15102	NOTE	Eb5	625.721
+99	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	12.7347	12.8061	0.071429	ct	F#5	744.622
+100	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	12.8061	12.9061	0.1	NOTE	F5	688.692
+101	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	12.9061	13.0592	0.15306	NOTE	Eb5	636.082
+102	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	13.0592	13.2531	0.19388	NOTE	C#5	566.576
+103	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	13.2531	13.3857	0.13265	NOTE	Bb4	474.893
+104	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	13.3857	13.5327	0.14694	NOTE	G#4	422.836
+105	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	13.5327	13.5694	0.036735	ct	G4	399.276
+106	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	13.5694	13.6102	0.040816	NOTE	G#4	421.05
+107	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	13.6102	13.7327	0.12245	NOTE	G4	392.765
+108	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	13.7327	13.851	0.11837	NOTE	F4	354.382
+109	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	13.851	14.0469	0.19592	NOTE	Eb4	315.601
+110	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	14.0469	14.1796	0.13265	NOTE	Bb4	472.647
+111	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	14.1796	14.3694	0.1898	BREATH	BREATH	0
+112	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	14.3694	14.551	0.18163	NOTE	Bb4	475.261
+113	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	14.551	14.602	0.05102	ct	C5	514.939
+114	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	14.602	14.7245	0.12245	NOTE	Bb4	474.783
+115	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	14.7245	14.8633	0.13878	NOTE	G#4	427.006
+116	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	14.8633	15.0327	0.16939	NOTE	F4	355.337
+117	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	15.0327	15.2082	0.17551	lngRoll_nt	G#4	417.032
+118	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	15.2082	15.2592	0.05102	lngRoll_ct	A4	451.549
+119	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	15.2592	15.3245	0.065306	lngRoll_nt	G#4	425.463
+120	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	15.3245	15.3653	0.040816	lngRoll_str	G#4	416.058
+121	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	15.3653	15.5306	0.16531	lngRoll_nt	G#4	423.54
+122	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	15.5306	15.7061	0.17551	NOTE	C#5	567.047
+123	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	15.7061	15.8327	0.12653	NOTE	G#4	422.073
+124	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	15.8327	16.0061	0.17347	NOTE	F4	356.27
+125	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.0061	16.1449	0.13878	crann_nt	Eb4	317.558
+126	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.1449	16.2133	0.068435	crann_ct	F#4	370
+127	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.2133	16.2598	0.04644	crann_nt	Eb4	320.204
+128	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.2598	16.3004	0.040635	crann_ct	G4	390
+129	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.3004	16.341	0.040635	crann_nt	Eb4	315.16
+130	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.341	16.3991	0.05805	crann_ct	G#4	410
+131	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.3991	16.4959	0.096825	crann_nt	Eb4	314.825
+132	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.4959	16.551	0.055102	NOTE	F#4	370
+133	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.551	16.7163	0.16531	NOTE	Eb4	315.163
+134	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.7163	16.851	0.13469	NOTE	G4	387.113
+135	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	16.851	17.0204	0.16939	NOTE	Bb4	464.533
+136	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.0204	17.1204	0.1	crann_nt	Eb4	316.576
+137	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.1204	17.1633	0.042857	crann_ct	F#4	370
+138	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.1633	17.198	0.034694	crann_nt	Eb4	318.457
+139	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.198	17.2429	0.044898	crann_ct	G4	390
+140	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.2429	17.3	0.057143	crann_nt	Eb4	314.515
+141	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.3	17.3571	0.057143	crann_ct	G#4	410
+142	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.3571	17.4898	0.13265	crann_nt	Eb4	315.575
+143	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.4898	17.551	0.061224	NOTE	F#4	370
+144	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.551	17.7898	0.23878	NOTE	Eb4	315.685
+145	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	17.7898	18.0419	0.25211	BREATH	BREATH	0
+146	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	18.0419	18.1714	0.12952	NOTE	D5	572.873
+147	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	18.1714	18.3	0.12857	NOTE	C5	535.667
+148	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	18.3	18.5	0.2	NOTE	D5	573.738
+149	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	18.5	18.6878	0.18776	NOTE	D5	571.921
+150	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	18.6878	18.8224	0.13469	NOTE	C5	536.19
+151	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	18.8224	18.998	0.17551	NOTE	C#5	567.883
+152	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	18.998	19.2082	0.2102	NOTE	D5	574.278
+153	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	19.2082	19.3429	0.13469	NOTE	Bb4	476.108
+154	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	19.3429	19.5163	0.17347	NOTE	G#4	427.435
+155	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	19.5163	19.6816	0.16531	NOTE	Bb4	465.386
+156	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	19.6816	19.8184	0.13673	NOTE	C5	520.265
+157	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	19.8184	20.0265	0.20816	NOTE	C#5	561.013
+158	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	20.0265	20.1694	0.14286	NOTE	Eb5	626.286
+159	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	20.1694	20.3204	0.15102	NOTE	G5	764.153
+160	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	20.3204	20.4898	0.16939	NOTE	Eb5	635.632
+161	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	20.4898	20.6449	0.1551	NOTE	Eb5	639.921
+162	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	20.6449	20.8306	0.18571	NOTE	G5	786.382
+163	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	20.8306	20.9939	0.16327	NOTE	Eb5	636.807
+164	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	20.9939	21.1408	0.14694	NOTE	Eb5	635.844
+165	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	21.1408	21.298	0.15714	NOTE	Bb4	478.503
+166	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	21.298	21.4714	0.17347	NOTE	G4	394.393
+167	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	21.4714	21.651	0.17959	NOTE	Eb4	315.551
+168	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	21.651	21.7898	0.13878	NOTE	G4	393.078
+169	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	21.7898	21.9571	0.16735	NOTE	Bb4	471.588
+170	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	21.9571	22.0776	0.12041	NOTE	C#5	566.672
+171	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	22.0776	22.3041	0.22653	BREATH	BREATH	0
+172	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	22.3041	22.502	0.19796	NOTE	D5	572.252
+173	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	22.502	22.6653	0.16327	NOTE	Eb5	637.541
+174	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	22.6653	22.7714	0.10612	NOTE	D5	580.54
+175	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	22.7714	22.9673	0.19592	NOTE	C5	536.782
+176	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	22.9673	23.1551	0.18776	NOTE	C#5	564.553
+177	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	23.1551	23.2918	0.13673	NOTE	Bb4	478.09
+178	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	23.2918	23.449	0.15714	NOTE	G#4	424.281
+179	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	23.449	23.6143	0.16531	NOTE	G4	394.936
+180	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	23.6143	23.7653	0.15102	NOTE	G#4	423.409
+181	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	23.7653	23.9429	0.17755	NOTE	F4	355.508
+182	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	23.9429	24.0959	0.15306	crann_nt	Eb4	317.988
+183	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.0959	24.151	0.055102	crann_ct	F#4	370
+184	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.151	24.1857	0.034694	crann_nt	E4	321.512
+185	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.1857	24.2306	0.044898	crann_ct	G4	390
+186	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.2306	24.2571	0.026531	crann_nt	Eb4	318.308
+187	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.2571	24.3	0.042857	crann_ct	G#4	420
+188	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.3	24.4286	0.12857	crann_nt	Eb4	315.905
+189	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.4286	24.4735	0.044898	ct	Eb4	318.179
+190	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.4735	24.6367	0.16327	NOTE	Eb4	314.993
+191	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.6367	24.7429	0.10612	NOTE	G4	386.32
+192	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.7429	24.9612	0.21837	NOTE	Bb4	466.182
+193	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	24.9612	25.0857	0.12449	crann_nt	Eb4	315.43
+194	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.0857	25.1245	0.038776	crann_ct	F#4	380.748
+195	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.1245	25.1653	0.040816	crann_nt	Eb4	319.394
+196	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.1653	25.2122	0.046939	crann_ct	G4	390
+197	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.2122	25.2429	0.030612	crann_nt	Eb4	317.246
+198	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.2429	25.2837	0.040816	crann_ct	G#4	410
+199	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.2837	25.4408	0.15714	crann_nt	Eb4	315.141
+200	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.4408	25.4857	0.044898	ct	A4	430
+201	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.4857	25.7388	0.25306	NOTE	Eb4	314.879
+202	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.7388	25.949	0.2102	BREATH	BREATH	0
+203	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	25.949	26.1245	0.17551	NOTE	C#5	568.081
+204	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	26.1245	26.2429	0.11837	NOTE	C5	535.556
+205	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	26.2429	26.4306	0.18776	NOTE	D5	576.245
+206	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	26.4306	26.4722	0.041587	ct	D5	597.624
+207	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	26.4722	26.6204	0.14821	NOTE	C#5	568.486
+208	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	26.6204	26.751	0.13061	NOTE	C5	537.734
+209	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	26.751	26.9184	0.16735	NOTE	C#5	567.542
+210	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	26.9184	26.9714	0.053061	ct	D5	591.898
+211	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	26.9714	27.1122	0.14082	NOTE	C#5	570.51
+212	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	27.1122	27.2429	0.13061	NOTE	Bb4	475.291
+213	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	27.2429	27.4306	0.18776	NOTE	A4	428.09
+214	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	27.4306	27.5816	0.15102	NOTE	Bb4	468.33
+215	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	27.5816	27.7245	0.14286	NOTE	C5	512.006
+216	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	27.7245	27.9531	0.22857	NOTE	C#5	561.146
+217	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	27.9531	28.0755	0.12245	NOTE	Eb5	629.409
+218	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	28.0755	28.2551	0.17959	NOTE	G5	786.38
+219	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	28.2551	28.4143	0.15918	NOTE	Eb5	638.089
+220	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	28.4143	28.5776	0.16327	NOTE	Eb5	637.207
+221	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	28.5776	28.7469	0.16939	NOTE	G5	786
+222	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	28.7469	28.902	0.1551	NOTE	Eb5	635.365
+223	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	28.902	29.0796	0.17755	NOTE	Eb5	634.459
+224	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	29.0796	29.202	0.12245	NOTE	B4	499.124
+225	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	29.202	29.4	0.19796	NOTE	G4	391.835
+226	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	29.4	29.5878	0.18776	NOTE	Eb4	315.682
+227	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	29.5878	29.7184	0.13061	NOTE	G4	393.492
+228	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	29.7184	29.8898	0.17143	NOTE	Bb4	472.776
+229	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	29.8898	29.9837	0.093878	NOTE	C#5	566.086
+230	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	29.9837	30.2163	0.23265	BREATH	BREATH	0
+231	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	30.2163	30.3959	0.17959	NOTE	D5	574.148
+232	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	30.3959	30.5694	0.17347	NOTE	Eb5	638.065
+233	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	30.5694	30.7041	0.13469	NOTE	D5	578.105
+234	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	30.7041	30.851	0.14694	NOTE	C5	536.236
+235	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	30.851	31.0571	0.20612	NOTE	C#5	565.579
+236	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	31.0571	31.1898	0.13265	NOTE	Bb4	475.292
+237	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	31.1898	31.3694	0.17959	NOTE	G#4	424.782
+238	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	31.3694	31.5224	0.15306	NOTE	G4	395.129
+239	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	31.5224	31.5653	0.042857	ct	Bb4	460.63
+240	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	31.5653	31.6796	0.11429	NOTE	G#4	422.395
+241	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	31.6796	31.8571	0.17755	NOTE	F4	355.772
+242	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	31.8571	32.0143	0.15714	crann_nt	Eb4	317.573
+243	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.0143	32.051	0.036735	crann_ct	F#4	373.781
+244	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.051	32.0776	0.026531	crann_nt	Eb4	317
+245	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.0776	32.1122	0.034694	crann_ct	G4	390
+246	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.1122	32.1531	0.040816	crann_nt	Eb4	317.001
+247	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.1531	32.2061	0.053061	crann_ct	G#4	420
+248	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.2061	32.3388	0.13265	crann_nt	Eb4	315.295
+249	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.3388	32.3837	0.044898	NOTE	B4	490
+250	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.3837	32.5551	0.17143	NOTE	Eb4	315.133
+251	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.5551	32.6898	0.13469	NOTE	G4	387.957
+252	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.6898	32.8735	0.18367	NOTE	Bb4	466.014
+253	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.8735	32.9816	0.10816	crann_nt	Eb4	314.8
+254	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	32.9816	33.0367	0.055102	crann_ct	F#4	370
+255	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.0367	33.0714	0.034694	crann_nt	Eb4	319.745
+256	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.0714	33.1082	0.036735	crann_ct	G4	390
+257	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.1082	33.1581	0.049955	crann_nt	Eb4	317.455
+258	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.1581	33.2046	0.04644	crann_ct	G#4	420
+259	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.2046	33.3449	0.14034	crann_nt	Eb4	316.02
+260	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.3449	33.3898	0.044898	NOTE	G#4	420
+261	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.3898	33.6102	0.22041	NOTE	Eb4	316.276
+262	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.6102	33.8714	0.26122	BREATH	BREATH	0
+263	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.8714	33.951	0.079592	ct	Bb5	907.962
+264	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	33.951	34.0449	0.093878	NOTE	G5	785.81
+265	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	34.0449	34.1914	0.14649	NOTE	Eb5	632.032
+266	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	34.1914	34.3592	0.1678	NOTE	Eb5	626.935
+267	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	34.3592	34.4306	0.071429	ct	D6	1193.83
+268	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	34.4306	34.5629	0.13229	NOTE	Bb5	945.091
+269	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	34.5629	34.679	0.1161	NOTE	Eb5	632.635
+270	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	34.679	34.8429	0.16385	NOTE	Eb5	627.325
+271	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	34.8429	34.9265	0.083673	ct	Bb5	917.525
+272	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	34.9265	35.049	0.12245	NOTE	G5	779.8
+273	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	35.049	35.1755	0.12653	NOTE	Eb5	632.459
+274	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	35.1755	35.2918	0.11633	NOTE	Eb5	629.738
+275	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	35.2918	35.3814	0.089569	ct	Bb5	925.703
+276	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	35.3814	35.5382	0.15676	NOTE	G#5	840.593
+277	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	35.5382	35.6571	0.11898	NOTE	F#5	733.221
+278	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	35.6571	35.8531	0.19592	NOTE	Eb5	639.47
+279	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	35.8531	36.1673	0.31429	NOTE	C#5	565.641
+280	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	36.1673	36.3347	0.16735	NOTE	F5	688.553
+281	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	36.3347	36.4184	0.083673	ct	C6	1030.34
+282	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	36.4184	36.5061	0.087755	ct	G#5	841.886
+283	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	36.5061	36.6643	0.15819	NOTE	F5	709.951
+284	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	36.6643	36.8857	0.22141	NOTE	Eb5	633.915
+285	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	36.8857	37.0551	0.16939	NOTE	C#5	556.363
+286	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	37.0551	37.1816	0.12653	NOTE	Eb5	630.544
+287	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	37.1816	37.3087	0.12703	NOTE	F5	709.907
+288	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	37.3087	37.3918	0.083175	ct	C6	1022.28
+289	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	37.3918	37.4571	0.065306	NOTE	G#5	824.914
+290	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	37.4571	37.6082	0.15102	NOTE	G5	807.224
+291	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	37.6082	37.8102	0.20204	NOTE	Eb5	639.237
+292	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	37.8102	38.1286	0.31837	NOTE	G5	783.971
+293	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	38.1286	38.2955	0.16696	NOTE	Eb5	634.938
+294	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	38.2955	38.3265	0.030998	ct	Bb5	945
+295	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	38.3265	38.4796	0.15306	NOTE	G#5	849.552
+296	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	38.4796	38.6449	0.16531	NOTE	Eb5	635.355
+297	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	38.6449	38.7832	0.13825	NOTE	Eb5	635.265
+298	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	38.7832	38.8296	0.04644	ct	Bb5	913.012
+299	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	38.8296	38.9816	0.15204	NOTE	G5	785.948
+300	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	38.9816	39.1242	0.14254	NOTE	Eb5	633.896
+301	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	39.1242	39.2983	0.17415	NOTE	Eb5	631.943
+302	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	39.2983	39.3419	0.043537	ct	Bb5	954
+303	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	39.3419	39.4289	0.087075	NOTE	G#5	841.101
+304	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	39.4289	39.545	0.1161	NOTE	F5	707.501
+305	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	39.545	39.7511	0.20608	NOTE	E5	646.773
+306	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	39.7511	39.9311	0.17995	NOTE	D5	571.703
+307	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	39.9311	40.0704	0.13932	NOTE	Eb5	627.007
+308	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.0704	40.2315	0.16109	NOTE	F5	701.637
+309	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.2315	40.4143	0.18286	NOTE	G#5	824.324
+310	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.4143	40.4637	0.049342	ct	C6	1028.82
+311	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.4637	40.5972	0.13351	NOTE	Bb5	947.209
+312	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.5972	40.7641	0.16689	NOTE	A5	857.294
+313	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.7641	40.7946	0.030476	ct	G5	784.746
+314	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.7946	40.841	0.04644	NOTE	G#5	826
+315	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.841	40.8947	0.053696	NOTE	F#5	729.74
+316	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	40.8947	41.0456	0.15093	NOTE	Eb5	636.992
+317	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	41.0456	41.2096	0.16399	NOTE	D5	591.741
+318	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	41.2096	41.3141	0.10451	NOTE	Eb5	634.175
+319	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	41.3141	41.3576	0.043515	str	D5	599.376
+320	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	41.3576	41.465	0.10739	NOTE	Eb5	636.88
+321	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	41.465	41.7205	0.25542	BREATH	BREATH	0
+322	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	41.7205	41.7625	0.042086	ct	Bb5	923
+323	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	41.7625	41.9207	0.15819	NOTE	G5	783.4
+324	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	41.9207	42.031	0.11029	NOTE	Eb5	634.838
+325	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.031	42.2502	0.21914	NOTE	Eb5	634.237
+326	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.2502	42.3068	0.056599	ct	Bb5	914
+327	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.3068	42.4707	0.16399	NOTE	G#5	845.771
+328	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.4707	42.5854	0.11465	NOTE	Eb5	635.29
+329	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.5854	42.6957	0.11029	NOTE	Eb5	633.194
+330	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.6957	42.7334	0.037732	ct	Bb5	914
+331	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.7334	42.909	0.1756	NOTE	G5	781.988
+332	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.909	42.9976	0.088526	NOTE	Eb5	630.582
+333	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	42.9976	43.1702	0.1727	NOTE	Eb5	631.667
+334	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	43.1702	43.208	0.037732	ct	A5	905
+335	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	43.208	43.3371	0.12916	NOTE	G#5	840.302
+336	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	43.3371	43.4924	0.15528	NOTE	F5	712.838
+337	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	43.4924	43.6608	0.16834	NOTE	Eb5	636.388
+338	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	43.6608	43.787	0.12626	NOTE	C5	524
+339	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	43.787	43.9815	0.19447	NOTE	C#5	561.622
+340	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	43.9815	44.1527	0.17125	NOTE	E5	668.086
+341	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	44.1527	44.2108	0.05805	NOTE	B4	503.669
+342	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	44.2108	44.34	0.12916	NOTE	G#4	410.836
+343	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	44.34	44.4996	0.15964	NOTE	F4	352.781
+344	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	44.4996	44.6462	0.14658	NOTE	Eb5	633.139
+345	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	44.6462	44.8276	0.18141	NOTE	D5	570.92
+346	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	44.8276	44.9451	0.11755	NOTE	Eb5	624.366
+347	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	44.9451	45.0932	0.14803	NOTE	F5	704.653
+348	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	45.0932	45.1309	0.037732	NOTE	G#5	807.302
+349	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	45.1309	45.1962	0.065306	ct	B5	997
+350	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	45.1962	45.3094	0.1132	NOTE	G#5	821.12
+351	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	45.3094	45.4284	0.119	NOTE	F#5	719.797
+352	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	45.4284	45.6214	0.19302	NOTE	Eb5	636.412
+353	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	45.6214	45.7157	0.094331	NOTE	G5	784.583
+354	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	45.7157	45.9799	0.26413	BREATH	BREATH	0
+355	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	45.9799	46.1018	0.1219	NOTE	Eb5	635.052
+356	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	46.1018	46.1772	0.075465	ct	Bb5	938
+357	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	46.1772	46.2962	0.119	NOTE	A5	859.617
+358	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	46.2962	46.4312	0.13497	NOTE	E5	642.251
+359	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	46.4312	46.5792	0.14803	NOTE	Eb5	637.663
+360	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	46.5792	46.646	0.066757	ct	G#5	848.875
+361	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	46.646	46.7693	0.12336	NOTE	G5	789.406
+362	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	46.7693	46.8985	0.12916	NOTE	E5	642.986
+363	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	46.8985	47.0668	0.16834	NOTE	Eb5	634.42
+364	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	47.0668	47.1249	0.05805	ct	A5	861.29
+365	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	47.1249	47.2628	0.13787	NOTE	G#5	841.853
+366	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	47.2628	47.3934	0.13061	NOTE	F#5	721.135
+367	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	47.3934	47.5937	0.20027	NOTE	Eb5	638.411
+368	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	47.5937	47.7562	0.16254	NOTE	D5	574.841
+369	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	47.7562	47.8897	0.13351	NOTE	Eb5	630.042
+370	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	47.8897	48.0479	0.15819	NOTE	E5	661.671
+371	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	48.0479	48.2177	0.1698	NOTE	G#5	822.844
+372	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	48.2177	48.2569	0.039184	ct	B5	1001.32
+373	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	48.2569	48.3614	0.10449	NOTE	Bb5	940.14
+374	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	48.3614	48.5471	0.18576	NOTE	A5	872.232
+375	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	48.5471	48.6705	0.12336	NOTE	F#5	751.526
+376	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	48.6705	48.8562	0.18576	NOTE	Eb5	638.062
+377	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	48.8562	49.0144	0.15819	NOTE	D5	591.596
+378	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	49.0144	49.1363	0.1219	NOTE	Eb5	639.082
+379	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	49.1363	49.3671	0.23075	BREATH	BREATH	0
+380	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	49.3671	49.5093	0.14222	NOTE	C5	529.208
+381	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	49.5093	49.5761	0.066757	ct	B4	480.784
+382	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	49.5761	49.6501	0.074014	NOTE	C#5	539.817
+383	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	49.6501	49.8474	0.19737	NOTE	Bb4	473.362
+384	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	49.8474	50.0027	0.15528	NOTE	Eb4	317.34
+385	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.0027	50.084	0.08127	lngRoll_nt	Bb4	471.924
+386	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.084	50.1275	0.043537	lngRoll_ct	C5	536.375
+387	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.1275	50.1711	0.043537	lngRoll_nt	Bb4	470.262
+388	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.1711	50.2117	0.040635	lngRoll_str	Bb4	460.789
+389	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.2117	50.3307	0.119	lngRoll_nt	Bb4	470.298
+390	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.3307	50.4816	0.15093	NOTE	G#4	422.968
+391	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.4816	50.5687	0.087075	NOTE	F4	357.057
+392	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.5687	50.6659	0.097234	lngRoll_nt	G4	391.456
+393	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.6659	50.708	0.042086	lngRoll_ct	G#4	424.142
+394	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.708	50.7849	0.076916	lngRoll_nt	G4	394.291
+395	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.7849	50.8256	0.040635	lngRoll_str	G4	384.558
+396	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.8256	50.9504	0.12481	lngRoll_nt	G4	394.829
+397	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	50.9504	51.02	0.06966	ct	A4	438.043
+398	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.02	51.1478	0.12771	NOTE	G#4	418.701
+399	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.1478	51.2813	0.13351	NOTE	F4	353.773
+400	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.2813	51.4525	0.17125	NOTE	Eb4	316.719
+401	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.4525	51.5875	0.13497	crann_nt	F4	351.748
+402	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.5875	51.6484	0.060952	crann_ct	G4	381.956
+403	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.6484	51.6789	0.030476	crann_nt	F#4	363.275
+404	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.6789	51.7137	0.03483	crann_ct	G4	384.039
+405	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.7137	51.7341	0.020317	crann_nt	F4	359.395
+406	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.7341	51.7921	0.05805	crann_ct	F#4	369.498
+407	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.7921	51.9372	0.14512	crann_nt	F4	351.261
+408	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.9372	51.9982	0.060952	ct	F4	359.111
+409	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	51.9982	52.1027	0.10449	NOTE	F4	351.255
+410	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.1027	52.2681	0.16544	NOTE	G4	386.305
+411	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.2681	52.4103	0.14222	NOTE	F4	351.959
+412	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.4103	52.464	0.053696	ct	F#4	366.043
+413	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.464	52.5729	0.10884	crann_nt	F4	349.383
+414	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.5729	52.6208	0.047891	crann_ct	F#4	380.237
+415	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.6208	52.6556	0.03483	crann_nt	F4	356.048
+416	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.6556	52.6948	0.039184	crann_ct	F#4	379.349
+417	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.6948	52.7137	0.018866	crann_nt	F4	354.901
+418	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.7137	52.7543	0.040635	crann_ct	F#4	377.608
+419	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.7543	52.9009	0.14658	crann_nt	F4	348.371
+420	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.9009	52.9459	0.044989	ct	F4	357.918
+421	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	52.9459	53.1113	0.16544	NOTE	F4	351.127
+422	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	53.1113	53.2361	0.12481	NOTE	G4	390.785
+423	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	53.2361	53.4291	0.19302	NOTE	G#4	420.79
+424	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	53.4291	53.5205	0.091429	NOTE	Bb4	472.887
+425	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	53.5205	53.7397	0.21914	BREATH	BREATH	0
+426	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	53.7397	53.9022	0.16254	NOTE	Bb4	470.982
+427	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	53.9022	54.101	0.19882	NOTE	Eb5	634.65
+428	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.101	54.2229	0.1219	NOTE	Bb4	474.336
+429	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.2229	54.3768	0.15383	NOTE	G#4	423.439
+430	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.3768	54.4392	0.062404	str	F#4	368.592
+431	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.4392	54.564	0.12481	lngRoll_nt	G4	393.372
+432	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.564	54.6162	0.052245	lngRoll_ct	A4	439.352
+433	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.6162	54.6656	0.049342	lngRoll_nt	G4	393.689
+434	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.6656	54.7077	0.042086	lngRoll_str	G4	387.798
+435	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.7077	54.8702	0.16254	lngRoll_nt	G4	394.346
+436	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.8702	54.9181	0.047891	shRoll_ct	Bb4	457.625
+437	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.9181	54.9747	0.056599	shRoll_nt	G#4	424.562
+438	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	54.9747	55.0052	0.030476	shRoll_str	G#4	408.907
+439	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.0052	55.0676	0.062404	shRoll_nt	G#4	421.086
+440	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.0676	55.2025	0.13497	NOTE	F4	354.46
+441	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.2025	55.3752	0.1727	NOTE	Bb4	463.255
+442	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.3752	55.5146	0.13932	crann_nt	Eb4	316.551
+443	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.5146	55.548	0.033401	crann_ct	G4	386
+444	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.548	55.577	0.029025	crann_nt	Eb4	318.952
+445	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.577	55.6176	0.040635	crann_ct	G#4	413
+446	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.6176	55.6583	0.040635	crann_nt	Eb4	313.833
+447	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.6583	55.6989	0.040635	crann_ct	A4	439
+448	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.6989	55.8541	0.15526	crann_nt	Eb4	314.414
+449	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	55.8541	56.053	0.19882	NOTE	Eb4	315.302
+450	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.053	56.2024	0.14948	NOTE	G4	388.865
+451	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.2024	56.3737	0.17125	NOTE	Bb4	465.325
+452	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.3737	56.4898	0.1161	crann_nt	Eb4	317.408
+453	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.4898	56.5464	0.056599	crann_ct	G4	386
+454	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.5464	56.5798	0.033379	crann_nt	Eb4	318.216
+455	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.5798	56.6132	0.033379	crann_ct	G#4	413
+456	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.6132	56.6436	0.030476	crann_nt	Eb4	317.785
+457	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.6436	56.7104	0.066757	crann_ct	A4	439
+458	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.7104	56.8439	0.13351	crann_nt	Eb4	315.333
+459	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.8439	56.8976	0.053696	ct	A4	439
+460	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	56.8976	57.1385	0.24091	NOTE	Eb4	316.218
+461	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	57.1385	57.4215	0.28299	BREATH	BREATH	0
+462	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	57.4215	57.4708	0.049342	shRoll_ct	C#5	557
+463	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	57.4708	57.5144	0.043537	shRoll_nt	Bb4	471.159
+464	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	57.5144	57.5463	0.031927	shRoll_str	Bb4	461.682
+465	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	57.5463	57.7248	0.1785	shRoll_nt	Bb4	471.947
+466	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	57.7248	57.9193	0.19447	NOTE	Eb5	633.596
+467	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	57.9193	57.9759	0.056599	shRoll_ct	C#5	567.03
+468	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	57.9759	58.0267	0.050794	shRoll_nt	Bb4	470.738
+469	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.0267	58.0673	0.040635	shRoll_str	Bb4	456.595
+470	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.0673	58.1979	0.13061	shRoll_nt	Bb4	469.009
+471	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.1979	58.3314	0.13351	NOTE	G#4	423.23
+472	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.3314	58.4171	0.085624	NOTE	F4	358.831
+473	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.4171	58.5273	0.11029	NOTE	G4	393.927
+474	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.5273	58.5738	0.04644	shRoll_ct	A4	449.28
+475	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.5738	58.6347	0.060952	shRoll_nt	G4	393.725
+476	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.6347	58.6754	0.040635	shRoll_str	G4	388.077
+477	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.6754	58.8263	0.15093	shRoll_nt	G4	394.865
+478	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.8263	58.8931	0.066757	shRoll_ct	A4	450.716
+479	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.8931	58.9337	0.040635	shRoll_nt	G#4	425.042
+480	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.9337	58.97	0.036281	shRoll_str	G#4	408.737
+481	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	58.97	59.0266	0.056599	shRoll_nt	G#4	422.611
+482	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.0266	59.1615	0.13497	NOTE	F4	354.969
+483	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.1615	59.3371	0.1756	NOTE	Eb4	316.949
+484	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.3371	59.4779	0.14077	crann_nt	F4	349.832
+485	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.4779	59.536	0.05805	crann_ct	G4	385.176
+486	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.536	59.5679	0.031927	crann_nt	F#4	359.672
+487	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.5679	59.6056	0.037755	crann_ct	G4	395.942
+488	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.6056	59.639	0.033356	crann_nt	F4	350.051
+489	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.639	59.6854	0.04644	crann_ct	A4	442
+490	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.6854	59.8204	0.13497	crann_nt	F4	351.442
+491	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.8204	59.8915	0.071111	NOTE	A4	442
+492	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	59.8915	60.0004	0.10884	NOTE	F4	351.8
+493	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.0004	60.0642	0.063855	ct	G#4	408.928
+494	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.0642	60.1339	0.06966	NOTE	G4	387.23
+495	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.1339	60.2819	0.14803	NOTE	F4	353.454
+496	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.2819	60.3341	0.052245	ct	A4	442
+497	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.3341	60.4401	0.10594	crann_nt	F4	351.492
+498	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.4401	60.4865	0.04644	crann_ct	G4	382.013
+499	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.4865	60.5286	0.042086	crann_nt	F#4	361.897
+500	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.5286	60.5576	0.029025	crann_ct	F#4	378.869
+501	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.5576	60.5881	0.030476	crann_nt	F#4	361.322
+502	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.5881	60.6317	0.043537	crann_ct	F#4	373.28
+503	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.6317	60.7652	0.13351	crann_nt	F4	351.34
+504	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.7652	60.8247	0.059501	ct	F#4	359.646
+505	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.8247	60.9829	0.15819	NOTE	F4	351.693
+506	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	60.9829	61.083	0.10014	NOTE	G4	390.796
+507	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	61.083	61.276	0.19302	NOTE	G#4	420.207
+508	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	61.276	61.4269	0.15093	NOTE	Bb4	471.62
+509	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	61.4269	61.6141	0.18721	BREATH	BREATH	0
+510	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	61.6141	61.7825	0.16834	NOTE	Bb4	469.422
+511	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	61.7825	61.9552	0.1727	NOTE	Eb5	635.622
+512	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	61.9552	61.9958	0.040635	ct	C5	526.724
+513	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	61.9958	62.1047	0.10884	NOTE	Bb4	474.109
+514	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.1047	62.2411	0.13642	NOTE	G#4	425.444
+515	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.2411	62.2962	0.055147	str	F#4	361.647
+516	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.2962	62.4283	0.13206	lngRoll_nt	G4	394.932
+517	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.4283	62.4733	0.044989	lngRoll_ct	A4	443.872
+518	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.4733	62.5488	0.075465	lngRoll_nt	G4	394.855
+519	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.5488	62.5792	0.030476	lngRoll_str	G4	388.001
+520	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.5792	62.7345	0.15528	lngRoll_nt	G4	394.236
+521	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.7345	62.7827	0.048141	shRoll_ct	Bb4	453.311
+522	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.7827	62.8306	0.047959	shRoll_nt	G#4	425.104
+523	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.8306	62.8592	0.028571	shRoll_str	G4	397.426
+524	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.8592	62.9133	0.054082	shRoll_nt	G#4	418.766
+525	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	62.9133	63.0673	0.15408	NOTE	F4	353.745
+526	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.0673	63.2582	0.19082	NOTE	Bb4	463.387
+527	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.2582	63.3878	0.12959	crann_nt	Eb4	316.926
+528	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.3878	63.4286	0.040816	crann_ct	F#4	379.691
+529	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.4286	63.4796	0.05102	crann_nt	Eb4	316.698
+530	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.4796	63.5143	0.034694	crann_ct	F#4	373
+531	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.5143	63.5429	0.028571	crann_nt	Eb4	317.954
+532	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.5429	63.5867	0.043878	crann_ct	A4	439
+533	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.5867	63.7296	0.14286	crann_nt	Eb4	316.105
+534	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.7296	63.7571	0.027551	ct	A4	439
+535	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.7571	63.9337	0.17653	NOTE	Eb4	315.253
+536	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	63.9337	64.0663	0.13265	NOTE	G4	390.769
+537	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.0663	64.2561	0.1898	NOTE	Bb4	468.092
+538	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.2561	64.3612	0.1051	crann_nt	Eb4	316.753
+539	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.3612	64.3898	0.028571	crann_ct	E4	337.975
+540	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.3898	64.4306	0.040816	crann_nt	Eb4	318.334
+541	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.4306	64.4745	0.043878	crann_ct	G4	394
+542	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.4745	64.502	0.027551	crann_nt	Eb4	316.732
+543	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.502	64.5592	0.057143	crann_ct	A4	430
+544	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.5592	64.7092	0.15	crann_nt	Eb4	314.654
+545	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.7092	64.7388	0.029592	ct	Eb4	318.082
+546	Mol_MattMolloy_Tk10Tu1R1_TheHumoursOfBallyloughlin.txt	64.7388	64.9898	0.25102	NOTE	Eb4	314.777
+							
+							
+							
+							

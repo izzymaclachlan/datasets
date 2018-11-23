@@ -1,326 +1,326 @@
-1	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0	0.055147	0.055147	lngRoll_nt	G4	382.546	
-2	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.055147	0.084172	0.029025	lngRoll_ct	G4	393.742	
-3	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.084172	0.18721	0.10304	lngRoll_nt	G4	382.067	
-4	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.18721	0.21769	0.030476	lngRoll_str	F#4	375.426	
-5	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.21769	0.30912	0.091429	lngRoll_nt	G4	383.309	
-6	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.30912	0.40925	0.10014	ct	C#5	541.3	2
-7	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.40925	0.521	0.11175	NOTE	B4	488.335	1
-8	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.521	0.65161	0.13061	NOTE	A4	435.752	1
-9	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.65161	0.74594	0.094331	NOTE	G4	386.988	1
-10	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.74594	1.013	0.26703	BREATH	BREATH	0	4
-11	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.013	1.1436	0.13061	NOTE	G5	768.647	1
-12	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.1436	1.2118	0.068209	ct	G#5	835.802	2
-13	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.2118	1.3453	0.13351	NOTE	G5	773.708	1
-14	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.3453	1.563	0.21769	staccato	F#5	727.833	
-15	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.563	1.666	0.10304	NOTE	G5	769.488	1
-16	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.666	1.7212	0.055147	ct	E5	663.945	2
-17	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.7212	1.7923	0.071111	NOTE	G5	788.996	1
-18	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.7923	1.904	0.11175	NOTE	E5	647.018	1
-19	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.904	2.0129	0.10884	NOTE	D5	575.379	1
-20	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	2.0129	2.2349	0.22204	NOTE	E5	647.941	1
-21	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	2.2349	2.3859	0.15093	NOTE	C5	518.04	1
-22	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	2.3859	2.5644	0.1785	NOTE	A4	430.853	1
-23	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	2.5644	2.6834	0.119	NOTE	G4	382.175	1
-24	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	2.6834	2.9068	0.22349	NOTE	F4	357.531	1
-25	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	2.9068	3.0288	0.1219	NOTE	A4	429.45	1
-26	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	3.0288	3.2464	0.21769	NOTE	D4	287.366	1
-27	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	3.2464	3.3582	0.11175	NOTE	E4	322.077	1
-28	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	3.3582	3.5556	0.19737	NOTE	F4	356.733	1
-29	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	3.5556	3.6673	0.11175	NOTE	G4	382.903	1
-30	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	3.6673	3.8951	0.22785	NOTE	A4	435.416	1
-31	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	3.8951	4.0649	0.1698	NOTE	C5	521.613	1
-32	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	4.0649	4.1448	0.079819	NOTE	B4	482.777	1
-33	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	4.1448	4.2652	0.12045	NOTE	A4	434.248	1
-34	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	4.2652	4.3726	0.10739	NOTE	G4	381.502	1
-35	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	4.3726	4.5642	0.19156	NOTE	A4	431.581	1
-36	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	4.5642	4.7253	0.16109	NOTE	F4	356.82	1
-37	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	4.7253	4.7644	0.039184	ct	G#4	426.945	2
-38	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	4.7644	4.8951	0.13061	NOTE	F#4	379.894	1
-39	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	4.8951	5.0126	0.11755	NOTE	F4	354.287	1
-40	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.0126	5.194	0.18141	NOTE	E4	320.869	1
-41	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.194	5.3304	0.13642	NOTE	C#4	284.805	1
-42	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.3304	5.4262	0.095782	NOTE	G4	385.863	1
-43	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.4262	5.4668	0.040635	ct	G#4	421.083	2
-44	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.4668	5.7034	0.23655	NOTE	G4	381.784	1
-45	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.7034	5.776	0.072562	NOTE	B4	482.201	1
-46	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.776	5.8456	0.06966	NOTE	C5	530.503	1
-47	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.8456	5.9501	0.10449	NOTE	B4	485.679	1
-48	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.9501	6.0459	0.095782	NOTE	A4	433.565	1
-49	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	6.0459	6.1373	0.091429	NOTE	G4	384.861	1
-50	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	6.1373	6.4131	0.27574	BREATH	BREATH	0	4
-51	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	6.4131	6.5625	0.14948	NOTE	G5	774.244	1
-52	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	6.5625	6.6395	0.076916	ct	A5	863.943	2
-53	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	6.6395	6.7236	0.084172	NOTE	G5	769.784	1
-54	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	6.7236	6.9529	0.2293	staccato	G5	763.039	
-55	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	6.9529	7.1329	0.17995	NOTE	G5	773.925	1
-56	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	7.1329	7.1967	0.063855	ct	G#5	820.668	2
-57	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	7.2112	7.2998	0.088526	NOTE	E5	647.382	1
-58	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	7.2998	7.4159	0.1161	NOTE	D5	579.535	1
-59	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	7.4159	7.6597	0.24381	NOTE	E5	647.568	1
-60	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	7.6597	7.7845	0.12481	NOTE	C5	517.31	1
-61	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	7.7845	7.9514	0.16689	NOTE	A4	432.639	1
-62	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	7.9514	8.0733	0.1219	NOTE	G4	381.381	1
-63	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	8.0733	8.2866	0.21333	NOTE	F4	359.335	1
-64	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	8.2866	8.4158	0.12916	NOTE	A4	432.142	1
-65	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	8.4158	8.6204	0.20463	NOTE	D5	578.515	1
-66	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	8.6204	8.7554	0.13497	NOTE	B4	484.496	1
-67	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	8.7554	8.9629	0.20753	NOTE	C5	521.194	1
-68	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	8.9629	9.0964	0.13351	NOTE	A4	430.357	1
-69	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.0964	9.2865	0.19011	NOTE	D5	573.302	1
-70	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.2865	9.4302	0.14367	NOTE	F4	354.616	1
-71	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.4302	9.4752	0.044989	ct	A4	435.596	2
-72	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.4752	9.5216	0.04644	NOTE	C5	514.848	1
-73	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.5216	9.6305	0.10884	NOTE	A4	431.091	1
-74	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.6305	9.7872	0.15673	NOTE	G4	382.384	1
-75	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.7872	9.822	0.03483	ct	G#4	411.546	2
-76	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.822	9.9672	0.14512	NOTE	G4	381.092	1
-77	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.9672	10.0905	0.12336	NOTE	F4	355.651	1
-78	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.0905	10.2008	0.11029	NOTE	G4	385.82	1
-79	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.2008	10.4882	0.28735	BREATH	BREATH	0	4
-80	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.4882	10.5847	0.096531	NOTE	C#4	285.243	1
-81	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.5847	10.6786	0.093878	NOTE	E4	320.414	1
-82	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.6786	10.7684	0.089796	NOTE	F4	353.869	1
-83	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.7684	10.8296	0.061224	lngRoll_nt	G4	387.28	
-84	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.8296	10.8745	0.044898	lngRoll_ct	G#4	417.677	
-85	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.8745	10.9837	0.10918	lngRoll_nt	G4	381.511	
-86	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.9837	11.0184	0.034694	lngRoll_str	F#4	375.337	
-87	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.0184	11.1143	0.095918	lngRoll_nt	G4	384.829	
-88	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.1143	11.1939	0.079592	NOTE	B4	486.643	1
-89	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.1939	11.252	0.058163	ct	C5	527.673	2
-90	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.252	11.3551	0.10306	NOTE	B4	485.77	1
-91	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.3551	11.4694	0.11429	NOTE	A4	433.613	1
-92	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.4694	11.5398	0.070408	NOTE	G4	389.111	1
-93	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.5398	11.8092	0.26939	BREATH	BREATH	0	4
-94	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.8092	11.9255	0.11633	NOTE	G5	775.888	1
-95	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.9255	12.0082	0.082653	NOTE	A5	868.841	1
-96	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	12.0082	12.1439	0.13571	NOTE	G5	772.773	1
-97	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	12.1439	12.3439	0.2	staccato	F#5	730.977	
-98	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	12.3439	12.4724	0.12857	NOTE	A5	858.466	1
-99	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	12.4724	12.6653	0.19286	NOTE	E5	647.93	1
-100	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	12.6653	12.8051	0.1398	NOTE	D5	578.68	1
-101	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	12.8051	13.0184	0.21327	NOTE	E5	645.147	1
-102	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	13.0184	13.1276	0.10918	NOTE	C5	522.609	1
-103	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	13.1276	13.3276	0.2	NOTE	A4	434.8	1
-104	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	13.3276	13.4918	0.16429	NOTE	G4	381.992	1
-105	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	13.4918	13.5622	0.070408	NOTE	F4	355.934	1
-106	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	13.5622	13.6663	0.10408	NOTE	F#4	380.601	1
-107	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	13.6663	13.8031	0.13673	NOTE	A4	432.79	1
-108	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	13.8031	14.0133	0.2102	NOTE	D5	574.698	1
-109	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	14.0133	14.1418	0.12857	NOTE	E5	645.477	1
-110	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	14.1418	14.3235	0.18163	NOTE	F5	717.117	1
-111	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	14.3235	14.4612	0.13776	NOTE	A4	431.752	1
-112	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	14.4612	14.5929	0.13163	NOTE	A4	438.852	1
-113	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	14.5929	14.8153	0.22245	NOTE	C5	529.829	1
-114	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	14.8153	14.9102	0.094898	NOTE	B4	484.073	1
-115	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	14.9102	15.0245	0.11429	NOTE	A4	434.54	1
-116	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.0245	15.1235	0.09898	NOTE	G4	382.833	1
-117	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.1235	15.3224	0.19898	NOTE	A4	431.982	1
-118	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.3224	15.4898	0.16735	NOTE	F4	357.143	1
-119	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.4898	15.5286	0.038776	ct	G#4	416.697	2
-120	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.5286	15.6551	0.12653	NOTE	F#4	378.783	1
-121	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.6551	15.7735	0.11837	NOTE	F4	354.098	1
-122	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.7735	15.8092	0.035714	ct	E4	321.524	2
-123	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.8092	15.8714	0.062245	NOTE	G#4	426.256	1
-124	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.8714	15.9867	0.11531	NOTE	E4	321.23	1
-125	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.9867	16.1143	0.12755	NOTE	C#4	284.298	1
-126	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.1143	16.1786	0.064286	ct	G#4	413.176	2
-127	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.1786	16.3357	0.15714	NOTE	F#4	380.674	1
-128	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.3357	16.4929	0.15714	NOTE	C#4	285.278	1
-129	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.4929	16.5265	0.033673	ct	B4	498.576	2
-130	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.5265	16.5908	0.064286	NOTE	C5	530.038	1
-131	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.5908	16.6939	0.10306	NOTE	B4	484.929	1
-132	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.6939	16.8153	0.12143	NOTE	A4	432.205	1
-133	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.8153	16.8847	0.069388	NOTE	G4	385.715	1
-134	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.8847	17.1663	0.28163	BREATH	BREATH	0	4
-135	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.1663	17.2908	0.12449	NOTE	G5	775.837	1
-136	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.2908	17.3776	0.086735	NOTE	A5	868.898	1
-137	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.3776	17.4837	0.10612	NOTE	G5	768.401	1
-138	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.4837	17.5684	0.084694	NOTE	F#5	724.431	1
-139	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.5684	17.7122	0.14388	BREATH	BREATH	0	4
-140	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.7122	17.7867	0.07449	NOTE	G5	777.966	1
-141	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.7867	17.8337	0.046939	ct	F5	704.205	2
-142	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.8337	17.9143	0.080612	NOTE	F#5	753.996	1
-143	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.9143	18.0255	0.11122	NOTE	E5	647.853	1
-144	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	18.0255	18.1459	0.12041	NOTE	D5	577.146	1
-145	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	18.1459	18.3582	0.21224	NOTE	E5	648.093	1
-146	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	18.3582	18.4969	0.13878	NOTE	C5	523.415	1
-147	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	18.4969	18.6796	0.18265	NOTE	A4	433.862	1
-148	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	18.6796	18.8357	0.15612	NOTE	G4	383.106	1
-149	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	18.8357	19.0735	0.23776	NOTE	F4	358.702	1
-150	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	19.0735	19.1786	0.1051	NOTE	A4	431.45	1
-151	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	19.1786	19.3847	0.20612	NOTE	D5	578.393	1
-152	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	19.3847	19.5184	0.13367	NOTE	B4	485.694	1
-153	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	19.5184	19.7112	0.19286	NOTE	C5	521.627	1
-154	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	19.7112	19.8602	0.14898	NOTE	A4	431.938	1
-155	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	19.8602	20.0612	0.20102	NOTE	D5	574.854	1
-156	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.0612	20.1602	0.09898	NOTE	F4	356.139	1
-157	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.1602	20.2051	0.044898	NOTE	A4	430.814	1
-158	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.2051	20.2776	0.072449	ct	C5	517.99	2
-159	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.2776	20.3949	0.11735	NOTE	A4	431.224	1
-160	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.3949	20.5459	0.15102	NOTE	G4	381.578	1
-161	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.5459	20.5755	0.029592	ct	G#4	415.534	2
-162	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.5755	20.7214	0.14592	NOTE	G4	382.374	1
-163	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.7214	20.8643	0.14286	NOTE	F4	356.053	1
-164	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.8643	20.9796	0.11531	NOTE	G4	385.934	1
-165	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.9796	21.4235	0.44388	BREATH	BREATH	0	4
-166	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	21.4235	21.5541	0.13061	NOTE	B4	486.467	1
-167	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	21.5541	21.649	0.094898	NOTE	D5	578.457	1
-168	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	21.649	21.7265	0.077551	NOTE	E5	647.974	1
-169	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	21.7265	21.9092	0.18265	NOTE	D5	579.558	1
-170	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	21.9092	22.0735	0.16429	NOTE	B4	485.397	1
-171	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	22.0735	22.2194	0.14592	NOTE	D5	578.094	1
-172	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	22.2194	22.4247	0.20528	NOTE	G5	772.821	1
-173	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	22.4247	22.5561	0.13145	NOTE	D5	582.672	1
-174	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	22.5561	22.7296	0.17347	NOTE	B4	491.217	1
-175	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	22.7296	22.8357	0.10612	NOTE	D5	581.896	1
-176	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	22.8357	22.9316	0.095918	NOTE	G4	389.636	1
-177	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	22.9316	22.9745	0.042857	ct	A4	428.41	2
-178	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	22.9745	23.0398	0.065306	NOTE	G4	387.108	1
-179	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	23.0398	23.2071	0.16735	NOTE	F#5	761.874	1
-180	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	23.2071	23.3929	0.18571	NOTE	A5	856.912	1
-181	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	23.3929	23.5255	0.13265	NOTE	F#5	724.948	1
-182	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	23.5255	23.5633	0.037755	ct	G#5	830.749	2
-183	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	23.5633	23.7092	0.14592	NOTE	G5	773.795	1
-184	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	23.7092	23.8653	0.15612	NOTE	D5	579.182	1
-185	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	23.8653	23.951	0.085714	NOTE	B4	490.7	1
-186	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	23.951	24.2	0.24898	BREATH	BREATH	0	4
-187	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	24.2	24.3133	0.11327	NOTE	G5	774.589	1
-188	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	24.3133	24.3857	0.072449	NOTE	G#5	851.951	1
-189	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	24.3857	24.501	0.11531	NOTE	G5	774.784	1
-190	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	24.501	24.6847	0.18367	NOTE	F#5	728.276	1
-191	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	24.6847	24.8224	0.13776	NOTE	G5	767.54	1
-192	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	24.8224	24.8684	0.045918	ct	E5	664.228	2
-193	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	24.8684	24.9408	0.072449	NOTE	F#5	748.273	1
-194	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	24.9408	25.0418	0.10102	NOTE	E5	649	1
-195	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	25.0418	25.1847	0.14286	NOTE	D5	581.989	1
-196	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	25.1847	25.3541	0.16939	NOTE	C#5	542.343	1
-197	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	25.3541	25.4827	0.12857	NOTE	D5	578.315	1
-198	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	25.4827	25.5796	0.096939	NOTE	E5	645.594	1
-199	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	25.5796	25.6245	0.044898	ct	G5	801.572	2
-200	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	25.6245	25.7153	0.090816	NOTE	F5	714.902	1
-201	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	25.7153	25.8143	0.09898	NOTE	E5	645.203	1
-202	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	25.8143	26.0316	0.21735	NOTE	D5	579.74	1
-203	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.0316	26.1612	0.12959	NOTE	C#5	542.11	1
-204	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.1612	26.2592	0.097959	NOTE	D5	583.896	1
-205	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.2592	26.5194	0.2602	BREATH	BREATH	0	4
-206	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.5194	26.6031	0.083673	NOTE	D5	578.173	1
-207	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.6031	26.6857	0.082653	NOTE	E5	650.517	1
-208	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.6857	26.8286	0.14286	NOTE	F#5	719.815	1
-209	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.8286	26.8847	0.056122	ct	G#5	854.599	2
-210	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.8847	26.9663	0.081633	NOTE	G5	769.101	1
-211	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.9663	27.0306	0.064286	NOTE	F#5	724.661	1
-212	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	27.0306	27.15	0.11939	NOTE	G5	770.655	1
-213	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	27.15	27.3429	0.19286	NOTE	D5	574.667	1
-214	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	27.3429	27.4816	0.13878	NOTE	C5	522.913	1
-215	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	27.4816	27.5898	0.10816	NOTE	B4	485.952	1
-216	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	27.5898	27.6724	0.082653	NOTE	C5	528.962	1
-217	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	27.6724	27.8173	0.1449	NOTE	B4	484.969	1
-218	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	27.8173	27.9704	0.15306	NOTE	G4	385.625	1
-219	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	27.9704	28.2031	0.23265	BREATH	BREATH	0	4
-220	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	28.2031	28.2571	0.054082	ct	F#4	378.85	2
-221	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	28.2571	28.3929	0.13571	NOTE	E4	323.367	1
-222	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	28.3929	28.502	0.10918	NOTE	C5	518.675	1
-223	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	28.502	28.7143	0.21224	NOTE	A4	434.71	1
-224	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	28.7143	28.8327	0.11837	NOTE	G4	383.646	1
-225	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	28.8327	29.0418	0.20918	NOTE	F4	359.299	1
-226	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	29.0418	29.1643	0.12245	NOTE	A4	435.216	1
-227	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	29.1643	29.3633	0.19898	NOTE	D4	287.914	1
-228	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	29.3633	29.4878	0.12449	NOTE	E4	323.909	1
-229	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	29.4878	29.6929	0.2051	NOTE	G4	384.22	1
-230	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	29.6929	29.8367	0.14388	NOTE	B4	485.841	1
-231	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	29.8367	30.048	0.21122	NOTE	D5	580.305	1
-232	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	30.048	30.1612	0.11327	NOTE	B4	485.257	1
-233	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	30.1612	30.3622	0.20102	NOTE	C5	522.546	1
-234	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	30.3622	30.4969	0.13469	NOTE	A4	433.495	1
-235	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	30.4969	30.6857	0.18878	NOTE	D5	574.452	1
-236	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	30.6857	30.8255	0.1398	NOTE	F4	356.251	1
-237	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	30.8255	30.9153	0.089796	ct	C5	522.972	2
-238	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	30.9153	31.0418	0.12653	NOTE	A4	431.996	1
-239	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	31.0418	31.201	0.15918	NOTE	G4	381.551	1
-240	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	31.201	31.248	0.046939	ct	G#4	420.787	2
-241	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	31.248	31.3735	0.12551	NOTE	G4	383.633	1
-242	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	31.3735	31.5255	0.15204	NOTE	F4	357.374	1
-243	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	31.5255	31.7143	0.18878	NOTE	G4	387.539	1
-244	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	31.7143	32.0663	0.35204	NOTE	G4	383.475	1
-245	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	32.0663	32.1745	0.10816	NOTE	B4	487.945	1
-246	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	32.1745	32.2641	0.08966	NOTE	D5	573	1
-247	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	32.2641	32.3755	0.11136	NOTE	E5	646.825	1
-248	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	32.3755	32.5459	0.17041	NOTE	D5	579.922	1
-249	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	32.5459	32.7194	0.17347	NOTE	B4	485.505	1
-250	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	32.7194	32.8582	0.13878	NOTE	C#5	565	1
-251	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	32.8582	33.0622	0.20408	NOTE	G5	773.309	1
-252	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.0622	33.2061	0.14388	NOTE	D5	582.245	1
-253	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.2061	33.4019	0.1958	staccato	B4	490.224	
-254	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.402	33.502	0.1	NOTE	D5	580.241	1
-255	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.502	33.598	0.095918	lngRoll_nt	G5	773.445	
-256	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.598	33.6316	0.033673	lngRoll_ct	G#5	834.641	
-257	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.6316	33.7306	0.09898	lngRoll_nt	G5	775.998	
-258	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.7306	33.7765	0.045918	lngRoll_str	F#5	740.56	
-259	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.7765	33.8592	0.082653	lngRoll_nt	G5	769.647	
-260	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.8592	34.0449	0.18571	NOTE	A5	860.005	1
-261	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	34.0449	34.1969	0.15204	NOTE	F#5	726.128	1
-262	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	34.1969	34.2276	0.030612	ct	G5	797.225	2
-263	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	34.2276	34.3776	0.15	NOTE	G5	775.129	1
-264	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	34.3776	34.5357	0.15816	NOTE	D5	580.124	1
-265	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	34.5357	34.6388	0.10306	NOTE	B4	486.852	1
-266	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	34.6388	34.8755	0.23673	BREATH	BREATH	0	4
-267	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	34.8755	35.0214	0.14592	NOTE	G5	775.031	1
-268	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.0214	35.0663	0.044898	ct	G#5	842.539	2
-269	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.0663	35.1959	0.12959	NOTE	G5	777.64	1
-270	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.1959	35.3776	0.18163	NOTE	F#5	730.531	1
-271	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.3776	35.5031	0.12551	NOTE	G5	774.682	1
-272	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.5031	35.5439	0.040816	ct	E5	670.236	2
-273	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.5439	35.6173	0.073469	NOTE	F#5	749.186	1
-274	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.6173	35.7296	0.11224	NOTE	E5	651.902	1
-275	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.7296	35.8765	0.14694	NOTE	D5	583.124	1
-276	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.8765	36.0704	0.19388	NOTE	C#5	543.689	1
-277	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	36.0704	36.1857	0.11531	NOTE	D5	579.298	1
-278	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	36.1857	36.2949	0.10918	NOTE	E5	648.483	1
-279	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	36.2949	36.4276	0.13265	NOTE	F5	718.243	1
-280	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	36.4276	36.5306	0.10306	NOTE	E5	649.925	1
-281	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	36.5306	36.7592	0.22857	NOTE	D5	582.266	1
-282	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	36.7592	36.8622	0.10306	NOTE	C#5	545.229	1
-283	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	36.8622	36.9908	0.12857	NOTE	D5	582.68	1
-284	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	36.9908	37.2255	0.23469	BREATH	BREATH	0	4
-285	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.2255	37.3378	0.11224	NOTE	D5	577.869	1
-286	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.3378	37.4194	0.081633	NOTE	E5	651.515	1
-287	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.4194	37.5153	0.095918	NOTE	F#5	720.247	1
-288	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.5153	37.5918	0.076531	lngRoll_nt	G5	774.969	
-289	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.5918	37.6367	0.044898	lngRoll_ct	G#5	820.438	
-290	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.6367	37.7224	0.085714	lngRoll_nt	G5	771.249	
-291	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.7224	37.7673	0.044898	lngRoll_str	F#5	735.292	
-292	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.7673	37.8908	0.12347	lngRoll_nt	G5	770.153	
-293	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.8908	38.0694	0.17857	NOTE	D5	577.561	1
-294	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	38.0694	38.2235	0.15408	NOTE	C5	524.061	1
-295	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	38.2235	38.3316	0.10816	NOTE	B4	488.06	1
-296	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	38.3316	38.4173	0.085714	NOTE	C5	533.803	1
-297	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	38.4173	38.5459	0.12857	NOTE	B4	488.028	1
-298	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	38.5459	38.6765	0.13061	NOTE	G4	386.14	1
-299	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	38.6765	38.9122	0.23571	NOTE	G4	382.661	1
-300	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	38.9122	38.9724	0.060204	ct	F#5	760.946	2
-301	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	38.9724	39.1306	0.15816	NOTE	E5	646.891	1
-302	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	39.1306	39.2255	0.094898	NOTE	C5	518.076	1
-303	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	39.2255	39.4327	0.20714	NOTE	A4	434.339	1
-304	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	39.4327	39.5582	0.12551	NOTE	G4	382.884	1
-305	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	39.5582	39.7724	0.21429	NOTE	F4	358.213	1
-306	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	39.7724	39.8929	0.12041	NOTE	A4	429.544	1
-307	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	39.8929	40.1031	0.2102	NOTE	D4	287.419	1
-308	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	40.1031	40.2214	0.11837	NOTE	E4	322.48	1
-309	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	40.2214	40.4296	0.20816	NOTE	G4	383.137	1
-310	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	40.4296	40.5633	0.13367	NOTE	B4	485.415	1
-311	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	40.5633	40.7724	0.20918	NOTE	D5	578.025	1
-312	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	40.7724	40.8949	0.12245	NOTE	B4	488.9	1
-313	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	40.8949	41.1133	0.21837	NOTE	C5	524.715	1
-314	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	41.1133	41.2327	0.11939	NOTE	A4	433.607	1
-315	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	41.2327	41.4194	0.18673	NOTE	D5	573.667	1
-316	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	41.4194	41.5612	0.14184	NOTE	F4	355.332	1
-317	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	41.5612	41.6418	0.080612	ct	C5	524.778	2
-318	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	41.6418	41.7602	0.11837	NOTE	A4	434.021	1
-319	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	41.7602	41.9286	0.16837	NOTE	G4	382.01	1
-320	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	41.9286	41.9735	0.044898	ct	G#4	417.3	2
-321	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	41.9735	42.1102	0.13673	NOTE	G4	382.672	1
-322	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	42.1102	42.2327	0.12245	NOTE	F4	357.007	1
-323	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	42.2327	42.3378	0.1051	NOTE	G4	385.523	1
-324	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	42.3378	42.6173	0.27959	BREATH	BREATH	0	4
-325	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	42.6173	42.7	0.082653	NOTE	D4	285.568	1
-326	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	42.7	42.7949	0.094898	NOTE	E4	322.226	1
+1	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0	0.055147	0.055147	lngRoll_nt	G4	382.546
+2	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.055147	0.084172	0.029025	lngRoll_ct	G4	393.742
+3	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.084172	0.18721	0.10304	lngRoll_nt	G4	382.067
+4	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.18721	0.21769	0.030476	lngRoll_str	F#4	375.426
+5	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.21769	0.30912	0.091429	lngRoll_nt	G4	383.309
+6	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.30912	0.40925	0.10014	ct	C#5	541.3
+7	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.40925	0.521	0.11175	NOTE	B4	488.335
+8	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.521	0.65161	0.13061	NOTE	A4	435.752
+9	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.65161	0.74594	0.094331	NOTE	G4	386.988
+10	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	0.74594	1.013	0.26703	BREATH	BREATH	0
+11	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.013	1.1436	0.13061	NOTE	G5	768.647
+12	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.1436	1.2118	0.068209	ct	G#5	835.802
+13	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.2118	1.3453	0.13351	NOTE	G5	773.708
+14	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.3453	1.563	0.21769	staccato	F#5	727.833
+15	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.563	1.666	0.10304	NOTE	G5	769.488
+16	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.666	1.7212	0.055147	ct	E5	663.945
+17	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.7212	1.7923	0.071111	NOTE	G5	788.996
+18	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.7923	1.904	0.11175	NOTE	E5	647.018
+19	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	1.904	2.0129	0.10884	NOTE	D5	575.379
+20	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	2.0129	2.2349	0.22204	NOTE	E5	647.941
+21	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	2.2349	2.3859	0.15093	NOTE	C5	518.04
+22	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	2.3859	2.5644	0.1785	NOTE	A4	430.853
+23	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	2.5644	2.6834	0.119	NOTE	G4	382.175
+24	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	2.6834	2.9068	0.22349	NOTE	F4	357.531
+25	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	2.9068	3.0288	0.1219	NOTE	A4	429.45
+26	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	3.0288	3.2464	0.21769	NOTE	D4	287.366
+27	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	3.2464	3.3582	0.11175	NOTE	E4	322.077
+28	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	3.3582	3.5556	0.19737	NOTE	F4	356.733
+29	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	3.5556	3.6673	0.11175	NOTE	G4	382.903
+30	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	3.6673	3.8951	0.22785	NOTE	A4	435.416
+31	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	3.8951	4.0649	0.1698	NOTE	C5	521.613
+32	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	4.0649	4.1448	0.079819	NOTE	B4	482.777
+33	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	4.1448	4.2652	0.12045	NOTE	A4	434.248
+34	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	4.2652	4.3726	0.10739	NOTE	G4	381.502
+35	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	4.3726	4.5642	0.19156	NOTE	A4	431.581
+36	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	4.5642	4.7253	0.16109	NOTE	F4	356.82
+37	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	4.7253	4.7644	0.039184	ct	G#4	426.945
+38	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	4.7644	4.8951	0.13061	NOTE	F#4	379.894
+39	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	4.8951	5.0126	0.11755	NOTE	F4	354.287
+40	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.0126	5.194	0.18141	NOTE	E4	320.869
+41	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.194	5.3304	0.13642	NOTE	C#4	284.805
+42	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.3304	5.4262	0.095782	NOTE	G4	385.863
+43	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.4262	5.4668	0.040635	ct	G#4	421.083
+44	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.4668	5.7034	0.23655	NOTE	G4	381.784
+45	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.7034	5.776	0.072562	NOTE	B4	482.201
+46	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.776	5.8456	0.06966	NOTE	C5	530.503
+47	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.8456	5.9501	0.10449	NOTE	B4	485.679
+48	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	5.9501	6.0459	0.095782	NOTE	A4	433.565
+49	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	6.0459	6.1373	0.091429	NOTE	G4	384.861
+50	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	6.1373	6.4131	0.27574	BREATH	BREATH	0
+51	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	6.4131	6.5625	0.14948	NOTE	G5	774.244
+52	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	6.5625	6.6395	0.076916	ct	A5	863.943
+53	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	6.6395	6.7236	0.084172	NOTE	G5	769.784
+54	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	6.7236	6.9529	0.2293	staccato	G5	763.039
+55	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	6.9529	7.1329	0.17995	NOTE	G5	773.925
+56	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	7.1329	7.1967	0.063855	ct	G#5	820.668
+57	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	7.2112	7.2998	0.088526	NOTE	E5	647.382
+58	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	7.2998	7.4159	0.1161	NOTE	D5	579.535
+59	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	7.4159	7.6597	0.24381	NOTE	E5	647.568
+60	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	7.6597	7.7845	0.12481	NOTE	C5	517.31
+61	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	7.7845	7.9514	0.16689	NOTE	A4	432.639
+62	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	7.9514	8.0733	0.1219	NOTE	G4	381.381
+63	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	8.0733	8.2866	0.21333	NOTE	F4	359.335
+64	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	8.2866	8.4158	0.12916	NOTE	A4	432.142
+65	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	8.4158	8.6204	0.20463	NOTE	D5	578.515
+66	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	8.6204	8.7554	0.13497	NOTE	B4	484.496
+67	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	8.7554	8.9629	0.20753	NOTE	C5	521.194
+68	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	8.9629	9.0964	0.13351	NOTE	A4	430.357
+69	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.0964	9.2865	0.19011	NOTE	D5	573.302
+70	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.2865	9.4302	0.14367	NOTE	F4	354.616
+71	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.4302	9.4752	0.044989	ct	A4	435.596
+72	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.4752	9.5216	0.04644	NOTE	C5	514.848
+73	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.5216	9.6305	0.10884	NOTE	A4	431.091
+74	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.6305	9.7872	0.15673	NOTE	G4	382.384
+75	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.7872	9.822	0.03483	ct	G#4	411.546
+76	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.822	9.9672	0.14512	NOTE	G4	381.092
+77	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	9.9672	10.0905	0.12336	NOTE	F4	355.651
+78	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.0905	10.2008	0.11029	NOTE	G4	385.82
+79	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.2008	10.4882	0.28735	BREATH	BREATH	0
+80	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.4882	10.5847	0.096531	NOTE	C#4	285.243
+81	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.5847	10.6786	0.093878	NOTE	E4	320.414
+82	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.6786	10.7684	0.089796	NOTE	F4	353.869
+83	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.7684	10.8296	0.061224	lngRoll_nt	G4	387.28
+84	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.8296	10.8745	0.044898	lngRoll_ct	G#4	417.677
+85	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.8745	10.9837	0.10918	lngRoll_nt	G4	381.511
+86	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	10.9837	11.0184	0.034694	lngRoll_str	F#4	375.337
+87	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.0184	11.1143	0.095918	lngRoll_nt	G4	384.829
+88	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.1143	11.1939	0.079592	NOTE	B4	486.643
+89	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.1939	11.252	0.058163	ct	C5	527.673
+90	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.252	11.3551	0.10306	NOTE	B4	485.77
+91	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.3551	11.4694	0.11429	NOTE	A4	433.613
+92	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.4694	11.5398	0.070408	NOTE	G4	389.111
+93	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.5398	11.8092	0.26939	BREATH	BREATH	0
+94	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.8092	11.9255	0.11633	NOTE	G5	775.888
+95	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	11.9255	12.0082	0.082653	NOTE	A5	868.841
+96	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	12.0082	12.1439	0.13571	NOTE	G5	772.773
+97	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	12.1439	12.3439	0.2	staccato	F#5	730.977
+98	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	12.3439	12.4724	0.12857	NOTE	A5	858.466
+99	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	12.4724	12.6653	0.19286	NOTE	E5	647.93
+100	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	12.6653	12.8051	0.1398	NOTE	D5	578.68
+101	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	12.8051	13.0184	0.21327	NOTE	E5	645.147
+102	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	13.0184	13.1276	0.10918	NOTE	C5	522.609
+103	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	13.1276	13.3276	0.2	NOTE	A4	434.8
+104	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	13.3276	13.4918	0.16429	NOTE	G4	381.992
+105	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	13.4918	13.5622	0.070408	NOTE	F4	355.934
+106	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	13.5622	13.6663	0.10408	NOTE	F#4	380.601
+107	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	13.6663	13.8031	0.13673	NOTE	A4	432.79
+108	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	13.8031	14.0133	0.2102	NOTE	D5	574.698
+109	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	14.0133	14.1418	0.12857	NOTE	E5	645.477
+110	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	14.1418	14.3235	0.18163	NOTE	F5	717.117
+111	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	14.3235	14.4612	0.13776	NOTE	A4	431.752
+112	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	14.4612	14.5929	0.13163	NOTE	A4	438.852
+113	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	14.5929	14.8153	0.22245	NOTE	C5	529.829
+114	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	14.8153	14.9102	0.094898	NOTE	B4	484.073
+115	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	14.9102	15.0245	0.11429	NOTE	A4	434.54
+116	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.0245	15.1235	0.09898	NOTE	G4	382.833
+117	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.1235	15.3224	0.19898	NOTE	A4	431.982
+118	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.3224	15.4898	0.16735	NOTE	F4	357.143
+119	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.4898	15.5286	0.038776	ct	G#4	416.697
+120	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.5286	15.6551	0.12653	NOTE	F#4	378.783
+121	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.6551	15.7735	0.11837	NOTE	F4	354.098
+122	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.7735	15.8092	0.035714	ct	E4	321.524
+123	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.8092	15.8714	0.062245	NOTE	G#4	426.256
+124	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.8714	15.9867	0.11531	NOTE	E4	321.23
+125	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	15.9867	16.1143	0.12755	NOTE	C#4	284.298
+126	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.1143	16.1786	0.064286	ct	G#4	413.176
+127	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.1786	16.3357	0.15714	NOTE	F#4	380.674
+128	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.3357	16.4929	0.15714	NOTE	C#4	285.278
+129	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.4929	16.5265	0.033673	ct	B4	498.576
+130	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.5265	16.5908	0.064286	NOTE	C5	530.038
+131	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.5908	16.6939	0.10306	NOTE	B4	484.929
+132	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.6939	16.8153	0.12143	NOTE	A4	432.205
+133	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.8153	16.8847	0.069388	NOTE	G4	385.715
+134	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	16.8847	17.1663	0.28163	BREATH	BREATH	0
+135	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.1663	17.2908	0.12449	NOTE	G5	775.837
+136	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.2908	17.3776	0.086735	NOTE	A5	868.898
+137	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.3776	17.4837	0.10612	NOTE	G5	768.401
+138	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.4837	17.5684	0.084694	NOTE	F#5	724.431
+139	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.5684	17.7122	0.14388	BREATH	BREATH	0
+140	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.7122	17.7867	0.07449	NOTE	G5	777.966
+141	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.7867	17.8337	0.046939	ct	F5	704.205
+142	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.8337	17.9143	0.080612	NOTE	F#5	753.996
+143	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	17.9143	18.0255	0.11122	NOTE	E5	647.853
+144	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	18.0255	18.1459	0.12041	NOTE	D5	577.146
+145	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	18.1459	18.3582	0.21224	NOTE	E5	648.093
+146	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	18.3582	18.4969	0.13878	NOTE	C5	523.415
+147	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	18.4969	18.6796	0.18265	NOTE	A4	433.862
+148	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	18.6796	18.8357	0.15612	NOTE	G4	383.106
+149	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	18.8357	19.0735	0.23776	NOTE	F4	358.702
+150	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	19.0735	19.1786	0.1051	NOTE	A4	431.45
+151	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	19.1786	19.3847	0.20612	NOTE	D5	578.393
+152	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	19.3847	19.5184	0.13367	NOTE	B4	485.694
+153	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	19.5184	19.7112	0.19286	NOTE	C5	521.627
+154	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	19.7112	19.8602	0.14898	NOTE	A4	431.938
+155	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	19.8602	20.0612	0.20102	NOTE	D5	574.854
+156	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.0612	20.1602	0.09898	NOTE	F4	356.139
+157	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.1602	20.2051	0.044898	NOTE	A4	430.814
+158	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.2051	20.2776	0.072449	ct	C5	517.99
+159	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.2776	20.3949	0.11735	NOTE	A4	431.224
+160	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.3949	20.5459	0.15102	NOTE	G4	381.578
+161	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.5459	20.5755	0.029592	ct	G#4	415.534
+162	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.5755	20.7214	0.14592	NOTE	G4	382.374
+163	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.7214	20.8643	0.14286	NOTE	F4	356.053
+164	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.8643	20.9796	0.11531	NOTE	G4	385.934
+165	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	20.9796	21.4235	0.44388	BREATH	BREATH	0
+166	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	21.4235	21.5541	0.13061	NOTE	B4	486.467
+167	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	21.5541	21.649	0.094898	NOTE	D5	578.457
+168	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	21.649	21.7265	0.077551	NOTE	E5	647.974
+169	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	21.7265	21.9092	0.18265	NOTE	D5	579.558
+170	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	21.9092	22.0735	0.16429	NOTE	B4	485.397
+171	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	22.0735	22.2194	0.14592	NOTE	D5	578.094
+172	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	22.2194	22.4247	0.20528	NOTE	G5	772.821
+173	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	22.4247	22.5561	0.13145	NOTE	D5	582.672
+174	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	22.5561	22.7296	0.17347	NOTE	B4	491.217
+175	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	22.7296	22.8357	0.10612	NOTE	D5	581.896
+176	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	22.8357	22.9316	0.095918	NOTE	G4	389.636
+177	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	22.9316	22.9745	0.042857	ct	A4	428.41
+178	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	22.9745	23.0398	0.065306	NOTE	G4	387.108
+179	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	23.0398	23.2071	0.16735	NOTE	F#5	761.874
+180	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	23.2071	23.3929	0.18571	NOTE	A5	856.912
+181	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	23.3929	23.5255	0.13265	NOTE	F#5	724.948
+182	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	23.5255	23.5633	0.037755	ct	G#5	830.749
+183	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	23.5633	23.7092	0.14592	NOTE	G5	773.795
+184	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	23.7092	23.8653	0.15612	NOTE	D5	579.182
+185	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	23.8653	23.951	0.085714	NOTE	B4	490.7
+186	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	23.951	24.2	0.24898	BREATH	BREATH	0
+187	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	24.2	24.3133	0.11327	NOTE	G5	774.589
+188	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	24.3133	24.3857	0.072449	NOTE	G#5	851.951
+189	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	24.3857	24.501	0.11531	NOTE	G5	774.784
+190	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	24.501	24.6847	0.18367	NOTE	F#5	728.276
+191	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	24.6847	24.8224	0.13776	NOTE	G5	767.54
+192	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	24.8224	24.8684	0.045918	ct	E5	664.228
+193	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	24.8684	24.9408	0.072449	NOTE	F#5	748.273
+194	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	24.9408	25.0418	0.10102	NOTE	E5	649
+195	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	25.0418	25.1847	0.14286	NOTE	D5	581.989
+196	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	25.1847	25.3541	0.16939	NOTE	C#5	542.343
+197	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	25.3541	25.4827	0.12857	NOTE	D5	578.315
+198	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	25.4827	25.5796	0.096939	NOTE	E5	645.594
+199	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	25.5796	25.6245	0.044898	ct	G5	801.572
+200	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	25.6245	25.7153	0.090816	NOTE	F5	714.902
+201	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	25.7153	25.8143	0.09898	NOTE	E5	645.203
+202	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	25.8143	26.0316	0.21735	NOTE	D5	579.74
+203	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.0316	26.1612	0.12959	NOTE	C#5	542.11
+204	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.1612	26.2592	0.097959	NOTE	D5	583.896
+205	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.2592	26.5194	0.2602	BREATH	BREATH	0
+206	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.5194	26.6031	0.083673	NOTE	D5	578.173
+207	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.6031	26.6857	0.082653	NOTE	E5	650.517
+208	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.6857	26.8286	0.14286	NOTE	F#5	719.815
+209	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.8286	26.8847	0.056122	ct	G#5	854.599
+210	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.8847	26.9663	0.081633	NOTE	G5	769.101
+211	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	26.9663	27.0306	0.064286	NOTE	F#5	724.661
+212	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	27.0306	27.15	0.11939	NOTE	G5	770.655
+213	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	27.15	27.3429	0.19286	NOTE	D5	574.667
+214	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	27.3429	27.4816	0.13878	NOTE	C5	522.913
+215	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	27.4816	27.5898	0.10816	NOTE	B4	485.952
+216	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	27.5898	27.6724	0.082653	NOTE	C5	528.962
+217	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	27.6724	27.8173	0.1449	NOTE	B4	484.969
+218	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	27.8173	27.9704	0.15306	NOTE	G4	385.625
+219	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	27.9704	28.2031	0.23265	BREATH	BREATH	0
+220	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	28.2031	28.2571	0.054082	ct	F#4	378.85
+221	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	28.2571	28.3929	0.13571	NOTE	E4	323.367
+222	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	28.3929	28.502	0.10918	NOTE	C5	518.675
+223	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	28.502	28.7143	0.21224	NOTE	A4	434.71
+224	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	28.7143	28.8327	0.11837	NOTE	G4	383.646
+225	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	28.8327	29.0418	0.20918	NOTE	F4	359.299
+226	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	29.0418	29.1643	0.12245	NOTE	A4	435.216
+227	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	29.1643	29.3633	0.19898	NOTE	D4	287.914
+228	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	29.3633	29.4878	0.12449	NOTE	E4	323.909
+229	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	29.4878	29.6929	0.2051	NOTE	G4	384.22
+230	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	29.6929	29.8367	0.14388	NOTE	B4	485.841
+231	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	29.8367	30.048	0.21122	NOTE	D5	580.305
+232	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	30.048	30.1612	0.11327	NOTE	B4	485.257
+233	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	30.1612	30.3622	0.20102	NOTE	C5	522.546
+234	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	30.3622	30.4969	0.13469	NOTE	A4	433.495
+235	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	30.4969	30.6857	0.18878	NOTE	D5	574.452
+236	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	30.6857	30.8255	0.1398	NOTE	F4	356.251
+237	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	30.8255	30.9153	0.089796	ct	C5	522.972
+238	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	30.9153	31.0418	0.12653	NOTE	A4	431.996
+239	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	31.0418	31.201	0.15918	NOTE	G4	381.551
+240	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	31.201	31.248	0.046939	ct	G#4	420.787
+241	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	31.248	31.3735	0.12551	NOTE	G4	383.633
+242	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	31.3735	31.5255	0.15204	NOTE	F4	357.374
+243	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	31.5255	31.7143	0.18878	NOTE	G4	387.539
+244	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	31.7143	32.0663	0.35204	NOTE	G4	383.475
+245	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	32.0663	32.1745	0.10816	NOTE	B4	487.945
+246	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	32.1745	32.2641	0.08966	NOTE	D5	573
+247	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	32.2641	32.3755	0.11136	NOTE	E5	646.825
+248	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	32.3755	32.5459	0.17041	NOTE	D5	579.922
+249	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	32.5459	32.7194	0.17347	NOTE	B4	485.505
+250	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	32.7194	32.8582	0.13878	NOTE	C#5	565
+251	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	32.8582	33.0622	0.20408	NOTE	G5	773.309
+252	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.0622	33.2061	0.14388	NOTE	D5	582.245
+253	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.2061	33.4019	0.1958	staccato	B4	490.224
+254	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.402	33.502	0.1	NOTE	D5	580.241
+255	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.502	33.598	0.095918	lngRoll_nt	G5	773.445
+256	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.598	33.6316	0.033673	lngRoll_ct	G#5	834.641
+257	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.6316	33.7306	0.09898	lngRoll_nt	G5	775.998
+258	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.7306	33.7765	0.045918	lngRoll_str	F#5	740.56
+259	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.7765	33.8592	0.082653	lngRoll_nt	G5	769.647
+260	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	33.8592	34.0449	0.18571	NOTE	A5	860.005
+261	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	34.0449	34.1969	0.15204	NOTE	F#5	726.128
+262	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	34.1969	34.2276	0.030612	ct	G5	797.225
+263	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	34.2276	34.3776	0.15	NOTE	G5	775.129
+264	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	34.3776	34.5357	0.15816	NOTE	D5	580.124
+265	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	34.5357	34.6388	0.10306	NOTE	B4	486.852
+266	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	34.6388	34.8755	0.23673	BREATH	BREATH	0
+267	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	34.8755	35.0214	0.14592	NOTE	G5	775.031
+268	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.0214	35.0663	0.044898	ct	G#5	842.539
+269	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.0663	35.1959	0.12959	NOTE	G5	777.64
+270	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.1959	35.3776	0.18163	NOTE	F#5	730.531
+271	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.3776	35.5031	0.12551	NOTE	G5	774.682
+272	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.5031	35.5439	0.040816	ct	E5	670.236
+273	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.5439	35.6173	0.073469	NOTE	F#5	749.186
+274	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.6173	35.7296	0.11224	NOTE	E5	651.902
+275	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.7296	35.8765	0.14694	NOTE	D5	583.124
+276	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	35.8765	36.0704	0.19388	NOTE	C#5	543.689
+277	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	36.0704	36.1857	0.11531	NOTE	D5	579.298
+278	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	36.1857	36.2949	0.10918	NOTE	E5	648.483
+279	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	36.2949	36.4276	0.13265	NOTE	F5	718.243
+280	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	36.4276	36.5306	0.10306	NOTE	E5	649.925
+281	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	36.5306	36.7592	0.22857	NOTE	D5	582.266
+282	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	36.7592	36.8622	0.10306	NOTE	C#5	545.229
+283	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	36.8622	36.9908	0.12857	NOTE	D5	582.68
+284	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	36.9908	37.2255	0.23469	BREATH	BREATH	0
+285	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.2255	37.3378	0.11224	NOTE	D5	577.869
+286	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.3378	37.4194	0.081633	NOTE	E5	651.515
+287	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.4194	37.5153	0.095918	NOTE	F#5	720.247
+288	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.5153	37.5918	0.076531	lngRoll_nt	G5	774.969
+289	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.5918	37.6367	0.044898	lngRoll_ct	G#5	820.438
+290	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.6367	37.7224	0.085714	lngRoll_nt	G5	771.249
+291	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.7224	37.7673	0.044898	lngRoll_str	F#5	735.292
+292	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.7673	37.8908	0.12347	lngRoll_nt	G5	770.153
+293	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	37.8908	38.0694	0.17857	NOTE	D5	577.561
+294	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	38.0694	38.2235	0.15408	NOTE	C5	524.061
+295	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	38.2235	38.3316	0.10816	NOTE	B4	488.06
+296	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	38.3316	38.4173	0.085714	NOTE	C5	533.803
+297	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	38.4173	38.5459	0.12857	NOTE	B4	488.028
+298	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	38.5459	38.6765	0.13061	NOTE	G4	386.14
+299	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	38.6765	38.9122	0.23571	NOTE	G4	382.661
+300	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	38.9122	38.9724	0.060204	ct	F#5	760.946
+301	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	38.9724	39.1306	0.15816	NOTE	E5	646.891
+302	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	39.1306	39.2255	0.094898	NOTE	C5	518.076
+303	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	39.2255	39.4327	0.20714	NOTE	A4	434.339
+304	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	39.4327	39.5582	0.12551	NOTE	G4	382.884
+305	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	39.5582	39.7724	0.21429	NOTE	F4	358.213
+306	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	39.7724	39.8929	0.12041	NOTE	A4	429.544
+307	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	39.8929	40.1031	0.2102	NOTE	D4	287.419
+308	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	40.1031	40.2214	0.11837	NOTE	E4	322.48
+309	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	40.2214	40.4296	0.20816	NOTE	G4	383.137
+310	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	40.4296	40.5633	0.13367	NOTE	B4	485.415
+311	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	40.5633	40.7724	0.20918	NOTE	D5	578.025
+312	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	40.7724	40.8949	0.12245	NOTE	B4	488.9
+313	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	40.8949	41.1133	0.21837	NOTE	C5	524.715
+314	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	41.1133	41.2327	0.11939	NOTE	A4	433.607
+315	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	41.2327	41.4194	0.18673	NOTE	D5	573.667
+316	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	41.4194	41.5612	0.14184	NOTE	F4	355.332
+317	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	41.5612	41.6418	0.080612	ct	C5	524.778
+318	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	41.6418	41.7602	0.11837	NOTE	A4	434.021
+319	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	41.7602	41.9286	0.16837	NOTE	G4	382.01
+320	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	41.9286	41.9735	0.044898	ct	G#4	417.3
+321	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	41.9735	42.1102	0.13673	NOTE	G4	382.672
+322	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	42.1102	42.2327	0.12245	NOTE	F4	357.007
+323	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	42.2327	42.3378	0.1051	NOTE	G4	385.523
+324	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	42.3378	42.6173	0.27959	BREATH	BREATH	0
+325	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	42.6173	42.7	0.082653	NOTE	D4	285.568
+326	McD_DarbysFarewell_Tk3Tu2R1_DunphysHornpipe.txt	42.7	42.7949	0.094898	NOTE	E4	322.226

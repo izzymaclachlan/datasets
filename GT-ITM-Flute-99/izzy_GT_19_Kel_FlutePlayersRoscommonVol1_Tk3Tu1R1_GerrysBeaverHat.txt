@@ -1,238 +1,238 @@
-1	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	0.1132	1.0333	0.92009	NOTE	A4	444.64	1
-2	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	1.0594	1.4512	0.39184	NOTE	D4	292.31	1
-3	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	1.4512	1.6399	0.18866	NOTE	F#4	372.749	1
-4	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	1.6544	1.904	0.24961	NOTE	A4	444.64	1
-5	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	1.9273	2.1478	0.22059	NOTE	D5	594.679	1
-6	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	2.1595	2.3713	0.21188	BREATH	BREATH	0	4
-7	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	2.3829	2.5977	0.21478	NOTE	F#6	1544.34	1
-8	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	2.5977	2.7661	0.16834	NOTE	F#5	742.272	1
-9	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	2.769	2.9431	0.17415	NOTE	D5	590.175	1
-10	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	2.9634	3.1492	0.18576	NOTE	C5	516.046	1
-11	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	3.1637	3.216	0.052245	ct	C#5	554.962	2
-12	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	3.2218	3.3524	0.13061	NOTE	B4	501.816	1
-13	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	3.3582	3.4859	0.12771	NOTE	Bb4	456.304	1
-14	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	3.5033	3.6746	0.17125	NOTE	F#4	375.184	1
-15	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	3.6949	3.8893	0.19447	lngRoll_nt	A4	446.209	
-16	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	3.898	3.9358	0.037732	lngRoll_ct	C5	521.85	
-17	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	3.9445	4.0345	0.089977	lngRoll_nt	Bb4	456.304	
-18	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	4.0432	4.0751	0.031927	lngRoll_ct	A4	429.078	
-19	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	4.1041	4.2086	0.10449	lngRoll_nt	Bb4	453.759	
-20	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	4.2144	4.3857	0.17125	lngRoll_ct	D5	593.485	
-21	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	4.4002	4.5366	0.13642	lngRoll_nt	A4	448.712	
-22	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	4.5569	4.7311	0.17415	lngRoll_str	F#4	375.184	
-23	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	4.7369	4.8849	0.14803	lngRoll_nt	E4	335.481	
-24	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	4.8936	5.0474	0.15383	NOTE	A4	446.209	1
-25	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	5.0474	5.21	0.16254	NOTE	F#4	379.404	1
-26	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	5.2216	5.3348	0.1132	NOTE	A4	441.246	1
-27	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	5.3609	5.5496	0.18866	NOTE	F#4	377.288	1
-28	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	5.5525	5.7208	0.16834	NOTE	E4	337.362	1
-29	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	5.7237	5.8659	0.14222	NOTE	D4	293.343	1
-30	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	5.8892	6.0372	0.14803	NOTE	F#4	373.092	1
-31	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	6.0459	6.1852	0.13932	NOTE	A4	446.209	1
-32	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	6.1968	6.3594	0.16254	NOTE	D5	590.175	1
-33	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	6.3855	6.5016	0.1161	NOTE	A5	902.762	1
-34	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	6.5248	6.6554	0.13061	NOTE	G5	793.797	1
-35	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	6.6554	6.6873	0.031927	NOTE	A5	902.762	1
-36	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	6.6873	6.7918	0.10449	NOTE	G5	784.968	1
-37	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	6.7976	7.0095	0.21188	BREATH	BREATH	0	4
-38	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	7.0095	7.1866	0.17705	NOTE	B4	499.017	1
-39	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	7.1924	7.2388	0.04644	ct	C#5	539.659	2
-40	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	7.2504	7.3665	0.1161	NOTE	B4	507.46	1
-41	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	7.3839	7.5059	0.1219	NOTE	Bb4	456.304	1
-42	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	7.5059	7.6626	0.15673	NOTE	F#4	379.404	1
-43	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	7.6742	7.8571	0.18286	lngRoll_nt	A4	451.228	
-44	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	7.8687	7.9122	0.043537	lngRoll_ct	C5	518.94	
-45	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	7.9325	7.9993	0.066757	lngRoll_nt	Bb4	456.304	
-46	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	8.0109	8.0428	0.031927	lngRoll_ct	A4	431.485	
-47	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	8.0602	8.1647	0.10449	lngRoll_nt	Bb4	458.863	
-48	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	8.1734	8.336	0.16254	lngRoll_ct	D5	577.119	
-49	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	8.3476	8.4811	0.13351	lngRoll_nt	A4	446.209	
-50	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	8.4898	8.6465	0.15673	lngRoll_str	F#4	371.011	
-51	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	8.6465	8.841	0.19447	lngRoll_nt	D4	294.988	
-52	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	8.8584	8.9629	0.10449	NOTE	E4	335.481	1
-53	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	8.9832	9.1109	0.12771	NOTE	D4	298.306	1
-54	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	9.1341	9.2851	0.15093	NOTE	D4	294.988	1
-55	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	9.3112	9.4592	0.14803	BREATH	BREATH	0	4
-56	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	9.4766	9.6421	0.16544	NOTE	A4	451.228	1
-57	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	9.6624	9.7959	0.13351	NOTE	D4	299.979	1
-58	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	9.7959	9.9788	0.18286	NOTE	F#4	373.092	1
-59	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	9.9875	10.1355	0.14803	NOTE	Bb4	456.304	1
-60	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	10.1384	10.2951	0.15673	NOTE	D5	586.883	1
-61	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	10.3097	10.3648	0.055147	ct	Bb5	960.042	2
-62	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	10.3735	10.4548	0.08127	NOTE	A5	877.867	1
-63	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	10.4693	10.597	0.12771	NOTE	G5	798.249	1
-64	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	10.5999	10.7073	0.10739	NOTE	F#5	759.064	1
-65	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	10.7247	10.9453	0.22059	NOTE	F#5	759.064	1
-66	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	10.9482	11.0788	0.13061	NOTE	B4	507.46	1
-67	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.0817	11.1195	0.037732	ct	C#5	539.659	2
-68	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.1427	11.2588	0.1161	NOTE	B4	499.017	1
-69	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.2675	11.3894	0.1219	NOTE	A4	446.209	1
-70	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.3894	11.5461	0.15673	NOTE	F#4	366.884	1
-71	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.5693	11.7116	0.14222	lngRoll_nt	A4	448.712	
-72	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.729	11.7638	0.03483	lngRoll_ct	C5	524.777	
-73	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.7667	11.8625	0.095782	lngRoll_nt	A4	446.209	
-74	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.8712	11.9002	0.029025	lngRoll_ct	G#4	424.306	
-75	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.9234	12.0163	0.09288	lngRoll_nt	A4	448.712	
-76	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	12.0279	12.1847	0.15673	lngRoll_ct	D5	593.485	
-77	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	12.2079	12.3414	0.13351	lngRoll_nt	A4	446.209	
-78	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	12.3443	12.5185	0.17415	lngRoll_str	F#4	375.184	
-79	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	12.5243	12.6578	0.13351	lngRoll_nt	E4	329.899	
-80	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	12.6723	12.8029	0.13061	NOTE	A4	446.209	1
-81	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	12.8116	12.9625	0.15093	NOTE	F#4	375.184	1
-82	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	12.9683	13.0206	0.052245	ct	A4	448.712	2
-83	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	13.0322	13.128	0.095782	NOTE	G4	396.764	1
-84	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	13.1483	13.2876	0.13932	NOTE	F#4	368.942	1
-85	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	13.2905	13.4298	0.13932	NOTE	E4	337.362	1
-86	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	13.4356	13.5895	0.15383	NOTE	D4	298.306	1
-87	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	13.5953	13.7636	0.16834	NOTE	F#4	371.011	1
-88	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	13.7694	13.9088	0.13932	NOTE	A4	441.246	1
-89	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	13.932	14.0655	0.13351	NOTE	D5	586.883	1
-90	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	14.0916	14.1351	0.043537	ct	B5	992.804	2
-91	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	14.1351	14.2077	0.072562	NOTE	Bb5	923.184	1
-92	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	14.2164	14.3761	0.15964	NOTE	G#5	811.755	1
-93	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	14.379	14.4834	0.10449	NOTE	F#5	759.064	1
-94	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	14.5067	14.6924	0.18576	BREATH	BREATH	0	4
-95	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	14.6924	14.8579	0.16544	NOTE	B4	504.63	1
-96	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	14.8666	14.9304	0.063855	ct	C#5	545.729	2
-97	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	14.9304	15.0436	0.1132	NOTE	B4	507.46	1
-98	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.0436	15.1684	0.12481	NOTE	Bb4	453.759	1
-99	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.1742	15.3455	0.17125	NOTE	F#4	373.092	1
-100	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.3571	15.5051	0.14803	lngRoll_nt	A4	446.209	
-101	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.5138	15.5661	0.052245	lngRoll_ct	C5	516.046	
-102	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.5777	15.6532	0.075465	lngRoll_nt	Bb4	453.759	
-103	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.6677	15.6996	0.031927	lngRoll_ct	G#4	426.685	
-104	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.7141	15.8041	0.089977	lngRoll_nt	Bb4	456.304	
-105	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.8041	15.9695	0.16544	lngRoll_ct	D5	593.485	
-106	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.9956	16.0363	0.040635	lngRoll_nt	C#5	551.867	
-107	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.0508	16.1408	0.089977	lngRoll_str	A4	443.721	
-108	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.1495	16.2975	0.14803	lngRoll_nt	F#4	371.011	
-109	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.3062	16.4862	0.17995	NOTE	D4	299.979	1
-110	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.492	16.5355	0.043537	ct	E4	328.059	2
-111	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.5355	16.5936	0.05805	NOTE	D4	294.988	1
-112	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.5965	16.6197	0.02322	ct	E4	329.899	2
-113	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.6197	16.7503	0.13061	NOTE	D4	294.988	1
-114	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.7764	16.9157	0.13932	NOTE	D4	294.988	1
-115	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.9302	17.058	0.12771	BREATH	BREATH	0	4
-116	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	17.0696	17.2321	0.16254	NOTE	A4	448.712	1
-117	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	17.235	17.3221	0.087075	NOTE	D5	583.61	1
-118	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	17.3366	17.5078	0.17125	NOTE	D5	593.485	1
-119	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	17.5311	17.6994	0.16834	NOTE	F#5	742.272	1
-120	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	17.6994	17.7429	0.043537	ct	B5	1015.26	2
-121	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	17.7429	17.8678	0.12481	NOTE	A5	868.102	1
-122	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	17.8707	17.9926	0.1219	NOTE	F#5	746.435	1
-123	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	17.9926	18.1696	0.17705	NOTE	D5	590.175	1
-124	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.1841	18.3641	0.17995	lngRoll_nt	G5	789.37	
-125	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.3641	18.4134	0.049342	lngRoll_ct	G#5	834.774	
-126	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.4308	18.4802	0.049342	lngRoll_nt	G5	807.228	
-127	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.4976	18.5179	0.020317	lngRoll_ct	G5	771.907	
-128	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.5295	18.6108	0.08127	lngRoll_nt	G#5	811.755	
-129	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.6282	18.814	0.18576	lngRoll_ct	F#5	759.064	
-130	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.8227	18.8517	0.029025	lngRoll_ct	G#5	816.307	
-131	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.8517	18.8981	0.04644	lngRoll_nt	F#5	750.622	
-132	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.8981	18.9417	0.043537	lngRoll_ct	F5	686.372	
-133	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.9504	19.0984	0.14803	lngRoll_nt	F#5	742.272	
-134	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	19.0984	19.2145	0.1161	lngRoll_ct	D5	593.485	
-135	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	19.2319	19.438	0.20608	lngRoll_nt	BREATH	0	
-136	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	19.438	19.5976	0.15964	lngRoll_str	F#5	746.435	
-137	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	19.5976	19.647	0.049342	lngRoll_nt	B5	998.371	
-138	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	19.6499	19.7718	0.1219	NOTE	A5	872.971	1
-139	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	19.7718	19.9024	0.13061	NOTE	F#5	746.435	1
-140	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	19.9053	20.0678	0.16254	NOTE	D5	593.485	1
-141	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	20.0707	20.1956	0.12481	NOTE	C#5	558.075	1
-142	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	20.2043	20.3784	0.17415	NOTE	D5	596.813	1
-143	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	20.3784	20.5177	0.13932	NOTE	E5	652.679	1
-144	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	20.5235	20.5729	0.049342	str	D5	577.119	3
-145	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	20.5845	20.7151	0.13061	NOTE	E5	663.723	1
-146	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	20.7383	20.8312	0.09288	NOTE	F#5	742.272	1
-147	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	20.866	21.0024	0.13642	NOTE	E5	656.34	1
-148	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	21.0112	21.1273	0.1161	NOTE	D5	590.175	1
-149	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	21.1389	21.3072	0.16834	NOTE	D5	590.175	1
-150	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	21.3159	21.4959	0.17995	NOTE	F5	717.778	1
-151	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	21.4959	21.5626	0.066757	ct	B5	981.761	2
-152	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	21.5626	21.6671	0.10449	NOTE	A5	858.447	1
-153	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	21.6671	21.7658	0.098685	NOTE	F#5	746.435	1
-154	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	21.7658	21.9516	0.18576	NOTE	D5	586.883	1
-155	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	21.9661	22.117	0.15093	NOTE	G4	398.99	1
-156	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	22.1344	22.2563	0.1219	NOTE	B4	501.816	1
-157	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	22.2592	22.4247	0.16544	NOTE	D5	590.175	1
-158	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	22.4508	22.6046	0.15383	lngRoll_nt	F#5	746.435	
-159	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	22.6162	22.6743	0.05805	lngRoll_ct	G5	771.907	
-160	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	22.6772	22.7556	0.078367	lngRoll_nt	F#5	738.133	
-161	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	22.7556	22.7875	0.031927	lngRoll_ct	F5	694.092	
-162	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	22.7933	22.9007	0.10739	lngRoll_nt	F#5	759.064	
-163	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	22.9123	23.0748	0.16254	lngRoll_ct	B4	499.017	
-164	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.0748	23.1358	0.060952	lngRoll_ct	C5	530.68	
-165	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.1416	23.1967	0.055147	lngRoll_nt	B4	504.63	
-166	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.2112	23.2461	0.03483	lngRoll_ct	Bb4	479.859	
-167	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.2722	23.3651	0.09288	lngRoll_nt	C5	510.306	
-168	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.3651	23.5218	0.15673	lngRoll_ct	Bb4	453.759	
-169	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.5305	23.6727	0.14222	lngRoll_nt	F#4	371.011	
-170	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.6727	23.8382	0.16544	lngRoll_str	A4	448.712	
-171	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.8411	23.992	0.15093	lngRoll_nt	D5	590.175	
-172	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.992	24.1429	0.15093	NOTE	E5	663.723	1
-173	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	24.1429	24.2997	0.15673	NOTE	D5	586.883	1
-174	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	24.3229	24.4274	0.10449	NOTE	D5	583.61	1
-175	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	24.4535	24.6393	0.18576	BREATH	BREATH	0	4
-176	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	24.6422	24.796	0.15383	NOTE	B4	504.63	1
-177	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	24.8134	24.9498	0.13642	lngRoll_nt	A4	446.209	
-178	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	24.9556	24.9905	0.03483	lngRoll_ct	B4	496.234	
-179	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	24.9934	25.1008	0.10739	lngRoll_nt	Bb4	453.759	
-180	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	25.1008	25.1211	0.020317	lngRoll_ct	G#4	421.939	
-181	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	25.1385	25.2488	0.11029	lngRoll_nt	Bb4	461.436	
-182	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	25.2575	25.3997	0.14222	lngRoll_ct	F#4	377.288	
-183	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	25.4142	25.542	0.12771	lngRoll_nt	A5	872.971	
-184	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	25.5507	25.7393	0.18866	lngRoll_str	F#5	729.923	
-185	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	25.748	25.9454	0.19737	lngRoll_nt	G5	807.228	
-186	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	25.9541	25.9947	0.040635	lngRoll_ct	G#5	853.659	
-187	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.0093	26.0702	0.060952	lngRoll_nt	G5	802.726	
-188	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.0789	26.1079	0.029025	lngRoll_ct	G5	780.59	
-189	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.1312	26.224	0.09288	lngRoll_nt	G5	807.228	
-190	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.2327	26.3634	0.13061	lngRoll_ct	F#5	738.133	
-191	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.3692	26.4185	0.049342	lngRoll_nt	B5	998.371	
-192	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.4185	26.5375	0.119	lngRoll_str	A5	863.261	
-193	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.5375	26.6478	0.11029	lngRoll_nt	F#5	746.435	
-194	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.6536	26.7581	0.10449	NOTE	D5	593.485	1
-195	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.7842	26.9758	0.19156	BREATH	BREATH	0	4
-196	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.9787	27.1586	0.17995	NOTE	F#5	746.435	1
-197	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	27.1586	27.2167	0.05805	ct	C6	1020.96	2
-198	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	27.2225	27.3067	0.084172	NOTE	A5	858.447	1
-199	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	27.3067	27.4315	0.12481	NOTE	F#5	746.435	1
-200	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	27.4315	27.5998	0.16834	NOTE	D5	590.175	1
-201	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	27.6143	27.7507	0.13642	NOTE	C#5	548.789	1
-202	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	27.7537	27.9249	0.17125	NOTE	D5	586.883	1
-203	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	27.9249	28.0758	0.15093	NOTE	E5	667.445	1
-204	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	28.0845	28.1252	0.040635	str	D5	600.16	3
-205	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	28.1397	28.2413	0.10159	NOTE	E5	671.188	1
-206	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	28.2471	28.2906	0.043537	ct	G#5	839.456	2
-207	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	28.2906	28.3806	0.089977	NOTE	F#5	738.133	1
-208	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	28.4212	28.5315	0.11029	NOTE	E5	678.737	1
-209	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	28.5373	28.6418	0.10449	NOTE	D5	596.813	1
-210	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	28.6505	28.8537	0.20317	BREATH	BREATH	0	4
-211	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	28.8537	29.022	0.16834	NOTE	F#5	738.133	1
-212	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.0278	29.0801	0.052245	ct	B5	981.761	2
-213	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.0801	29.1962	0.1161	NOTE	A5	877.867	1
-214	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.202	29.3036	0.10159	NOTE	F#5	729.923	1
-215	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.3036	29.4661	0.16254	NOTE	D5	590.175	1
-216	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.4864	29.53	0.043537	ct	G#5	825.489	2
-217	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.5358	29.6403	0.10449	NOTE	G5	780.59	1
-218	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.6403	29.7535	0.1132	NOTE	D5	603.526	1
-219	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.7535	29.7796	0.026122	str	C#5	570.7	3
-220	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.8057	29.9276	0.1219	NOTE	D5	593.485	1
-221	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.9799	30.0292	0.049342	ct	G#5	848.898	2
-222	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.0292	30.125	0.095782	NOTE	F#5	746.435	1
-223	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.125	30.2382	0.1132	NOTE	D5	600.16	1
-224	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.2527	30.2788	0.026122	str	D5	580.356	3
-225	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.2933	30.4617	0.16834	NOTE	D5	593.485	1
-226	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.4675	30.6155	0.14803	lngRoll_nt	B4	501.816	
-227	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.6242	30.659	0.03483	lngRoll_ct	C5	533.656	
-228	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.6649	30.7374	0.072562	lngRoll_nt	B4	504.63	
-229	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.749	30.781	0.031927	lngRoll_ct	B4	482.55	
-230	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.7926	30.8912	0.098685	lngRoll_nt	B4	507.46	
-231	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.9	31.0596	0.15964	lngRoll_ct	A4	451.228	
-232	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	31.0741	31.2134	0.13932	lngRoll_nt	F#4	373.092	
-233	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	31.2134	31.3702	0.15673	lngRoll_str	A4	448.712	
-234	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	31.376	31.5269	0.15093	lngRoll_nt	D5	590.175	
-235	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	31.5269	31.582	0.055147	ct	G5	763.322	2
-236	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	31.5878	31.6691	0.08127	NOTE	E5	671.188	1
-237	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	31.6894	31.82	0.13061	NOTE	D5	590.175	1
-238	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	31.8433	31.9768	0.13351	NOTE	D5	590.175	1
+1	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	0.1132	1.0333	0.92009	NOTE	A4	444.64
+2	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	1.0594	1.4512	0.39184	NOTE	D4	292.31
+3	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	1.4512	1.6399	0.18866	NOTE	F#4	372.749
+4	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	1.6544	1.904	0.24961	NOTE	A4	444.64
+5	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	1.9273	2.1478	0.22059	NOTE	D5	594.679
+6	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	2.1595	2.3713	0.21188	BREATH	BREATH	0
+7	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	2.3829	2.5977	0.21478	NOTE	F#6	1544.34
+8	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	2.5977	2.7661	0.16834	NOTE	F#5	742.272
+9	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	2.769	2.9431	0.17415	NOTE	D5	590.175
+10	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	2.9634	3.1492	0.18576	NOTE	C5	516.046
+11	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	3.1637	3.216	0.052245	ct	C#5	554.962
+12	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	3.2218	3.3524	0.13061	NOTE	B4	501.816
+13	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	3.3582	3.4859	0.12771	NOTE	Bb4	456.304
+14	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	3.5033	3.6746	0.17125	NOTE	F#4	375.184
+15	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	3.6949	3.8893	0.19447	lngRoll_nt	A4	446.209
+16	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	3.898	3.9358	0.037732	lngRoll_ct	C5	521.85
+17	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	3.9445	4.0345	0.089977	lngRoll_nt	Bb4	456.304
+18	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	4.0432	4.0751	0.031927	lngRoll_ct	A4	429.078
+19	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	4.1041	4.2086	0.10449	lngRoll_nt	Bb4	453.759
+20	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	4.2144	4.3857	0.17125	lngRoll_ct	D5	593.485
+21	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	4.4002	4.5366	0.13642	lngRoll_nt	A4	448.712
+22	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	4.5569	4.7311	0.17415	lngRoll_str	F#4	375.184
+23	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	4.7369	4.8849	0.14803	lngRoll_nt	E4	335.481
+24	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	4.8936	5.0474	0.15383	NOTE	A4	446.209
+25	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	5.0474	5.21	0.16254	NOTE	F#4	379.404
+26	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	5.2216	5.3348	0.1132	NOTE	A4	441.246
+27	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	5.3609	5.5496	0.18866	NOTE	F#4	377.288
+28	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	5.5525	5.7208	0.16834	NOTE	E4	337.362
+29	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	5.7237	5.8659	0.14222	NOTE	D4	293.343
+30	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	5.8892	6.0372	0.14803	NOTE	F#4	373.092
+31	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	6.0459	6.1852	0.13932	NOTE	A4	446.209
+32	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	6.1968	6.3594	0.16254	NOTE	D5	590.175
+33	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	6.3855	6.5016	0.1161	NOTE	A5	902.762
+34	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	6.5248	6.6554	0.13061	NOTE	G5	793.797
+35	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	6.6554	6.6873	0.031927	NOTE	A5	902.762
+36	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	6.6873	6.7918	0.10449	NOTE	G5	784.968
+37	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	6.7976	7.0095	0.21188	BREATH	BREATH	0
+38	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	7.0095	7.1866	0.17705	NOTE	B4	499.017
+39	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	7.1924	7.2388	0.04644	ct	C#5	539.659
+40	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	7.2504	7.3665	0.1161	NOTE	B4	507.46
+41	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	7.3839	7.5059	0.1219	NOTE	Bb4	456.304
+42	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	7.5059	7.6626	0.15673	NOTE	F#4	379.404
+43	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	7.6742	7.8571	0.18286	lngRoll_nt	A4	451.228
+44	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	7.8687	7.9122	0.043537	lngRoll_ct	C5	518.94
+45	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	7.9325	7.9993	0.066757	lngRoll_nt	Bb4	456.304
+46	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	8.0109	8.0428	0.031927	lngRoll_ct	A4	431.485
+47	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	8.0602	8.1647	0.10449	lngRoll_nt	Bb4	458.863
+48	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	8.1734	8.336	0.16254	lngRoll_ct	D5	577.119
+49	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	8.3476	8.4811	0.13351	lngRoll_nt	A4	446.209
+50	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	8.4898	8.6465	0.15673	lngRoll_str	F#4	371.011
+51	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	8.6465	8.841	0.19447	lngRoll_nt	D4	294.988
+52	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	8.8584	8.9629	0.10449	NOTE	E4	335.481
+53	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	8.9832	9.1109	0.12771	NOTE	D4	298.306
+54	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	9.1341	9.2851	0.15093	NOTE	D4	294.988
+55	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	9.3112	9.4592	0.14803	BREATH	BREATH	0
+56	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	9.4766	9.6421	0.16544	NOTE	A4	451.228
+57	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	9.6624	9.7959	0.13351	NOTE	D4	299.979
+58	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	9.7959	9.9788	0.18286	NOTE	F#4	373.092
+59	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	9.9875	10.1355	0.14803	NOTE	Bb4	456.304
+60	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	10.1384	10.2951	0.15673	NOTE	D5	586.883
+61	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	10.3097	10.3648	0.055147	ct	Bb5	960.042
+62	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	10.3735	10.4548	0.08127	NOTE	A5	877.867
+63	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	10.4693	10.597	0.12771	NOTE	G5	798.249
+64	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	10.5999	10.7073	0.10739	NOTE	F#5	759.064
+65	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	10.7247	10.9453	0.22059	NOTE	F#5	759.064
+66	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	10.9482	11.0788	0.13061	NOTE	B4	507.46
+67	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.0817	11.1195	0.037732	ct	C#5	539.659
+68	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.1427	11.2588	0.1161	NOTE	B4	499.017
+69	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.2675	11.3894	0.1219	NOTE	A4	446.209
+70	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.3894	11.5461	0.15673	NOTE	F#4	366.884
+71	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.5693	11.7116	0.14222	lngRoll_nt	A4	448.712
+72	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.729	11.7638	0.03483	lngRoll_ct	C5	524.777
+73	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.7667	11.8625	0.095782	lngRoll_nt	A4	446.209
+74	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.8712	11.9002	0.029025	lngRoll_ct	G#4	424.306
+75	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	11.9234	12.0163	0.09288	lngRoll_nt	A4	448.712
+76	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	12.0279	12.1847	0.15673	lngRoll_ct	D5	593.485
+77	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	12.2079	12.3414	0.13351	lngRoll_nt	A4	446.209
+78	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	12.3443	12.5185	0.17415	lngRoll_str	F#4	375.184
+79	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	12.5243	12.6578	0.13351	lngRoll_nt	E4	329.899
+80	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	12.6723	12.8029	0.13061	NOTE	A4	446.209
+81	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	12.8116	12.9625	0.15093	NOTE	F#4	375.184
+82	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	12.9683	13.0206	0.052245	ct	A4	448.712
+83	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	13.0322	13.128	0.095782	NOTE	G4	396.764
+84	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	13.1483	13.2876	0.13932	NOTE	F#4	368.942
+85	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	13.2905	13.4298	0.13932	NOTE	E4	337.362
+86	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	13.4356	13.5895	0.15383	NOTE	D4	298.306
+87	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	13.5953	13.7636	0.16834	NOTE	F#4	371.011
+88	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	13.7694	13.9088	0.13932	NOTE	A4	441.246
+89	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	13.932	14.0655	0.13351	NOTE	D5	586.883
+90	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	14.0916	14.1351	0.043537	ct	B5	992.804
+91	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	14.1351	14.2077	0.072562	NOTE	Bb5	923.184
+92	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	14.2164	14.3761	0.15964	NOTE	G#5	811.755
+93	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	14.379	14.4834	0.10449	NOTE	F#5	759.064
+94	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	14.5067	14.6924	0.18576	BREATH	BREATH	0
+95	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	14.6924	14.8579	0.16544	NOTE	B4	504.63
+96	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	14.8666	14.9304	0.063855	ct	C#5	545.729
+97	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	14.9304	15.0436	0.1132	NOTE	B4	507.46
+98	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.0436	15.1684	0.12481	NOTE	Bb4	453.759
+99	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.1742	15.3455	0.17125	NOTE	F#4	373.092
+100	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.3571	15.5051	0.14803	lngRoll_nt	A4	446.209
+101	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.5138	15.5661	0.052245	lngRoll_ct	C5	516.046
+102	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.5777	15.6532	0.075465	lngRoll_nt	Bb4	453.759
+103	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.6677	15.6996	0.031927	lngRoll_ct	G#4	426.685
+104	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.7141	15.8041	0.089977	lngRoll_nt	Bb4	456.304
+105	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.8041	15.9695	0.16544	lngRoll_ct	D5	593.485
+106	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	15.9956	16.0363	0.040635	lngRoll_nt	C#5	551.867
+107	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.0508	16.1408	0.089977	lngRoll_str	A4	443.721
+108	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.1495	16.2975	0.14803	lngRoll_nt	F#4	371.011
+109	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.3062	16.4862	0.17995	NOTE	D4	299.979
+110	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.492	16.5355	0.043537	ct	E4	328.059
+111	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.5355	16.5936	0.05805	NOTE	D4	294.988
+112	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.5965	16.6197	0.02322	ct	E4	329.899
+113	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.6197	16.7503	0.13061	NOTE	D4	294.988
+114	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.7764	16.9157	0.13932	NOTE	D4	294.988
+115	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	16.9302	17.058	0.12771	BREATH	BREATH	0
+116	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	17.0696	17.2321	0.16254	NOTE	A4	448.712
+117	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	17.235	17.3221	0.087075	NOTE	D5	583.61
+118	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	17.3366	17.5078	0.17125	NOTE	D5	593.485
+119	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	17.5311	17.6994	0.16834	NOTE	F#5	742.272
+120	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	17.6994	17.7429	0.043537	ct	B5	1015.26
+121	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	17.7429	17.8678	0.12481	NOTE	A5	868.102
+122	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	17.8707	17.9926	0.1219	NOTE	F#5	746.435
+123	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	17.9926	18.1696	0.17705	NOTE	D5	590.175
+124	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.1841	18.3641	0.17995	lngRoll_nt	G5	789.37
+125	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.3641	18.4134	0.049342	lngRoll_ct	G#5	834.774
+126	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.4308	18.4802	0.049342	lngRoll_nt	G5	807.228
+127	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.4976	18.5179	0.020317	lngRoll_ct	G5	771.907
+128	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.5295	18.6108	0.08127	lngRoll_nt	G#5	811.755
+129	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.6282	18.814	0.18576	lngRoll_ct	F#5	759.064
+130	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.8227	18.8517	0.029025	lngRoll_ct	G#5	816.307
+131	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.8517	18.8981	0.04644	lngRoll_nt	F#5	750.622
+132	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.8981	18.9417	0.043537	lngRoll_ct	F5	686.372
+133	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	18.9504	19.0984	0.14803	lngRoll_nt	F#5	742.272
+134	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	19.0984	19.2145	0.1161	lngRoll_ct	D5	593.485
+135	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	19.2319	19.438	0.20608	lngRoll_nt	BREATH	0
+136	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	19.438	19.5976	0.15964	lngRoll_str	F#5	746.435
+137	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	19.5976	19.647	0.049342	lngRoll_nt	B5	998.371
+138	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	19.6499	19.7718	0.1219	NOTE	A5	872.971
+139	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	19.7718	19.9024	0.13061	NOTE	F#5	746.435
+140	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	19.9053	20.0678	0.16254	NOTE	D5	593.485
+141	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	20.0707	20.1956	0.12481	NOTE	C#5	558.075
+142	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	20.2043	20.3784	0.17415	NOTE	D5	596.813
+143	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	20.3784	20.5177	0.13932	NOTE	E5	652.679
+144	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	20.5235	20.5729	0.049342	str	D5	577.119
+145	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	20.5845	20.7151	0.13061	NOTE	E5	663.723
+146	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	20.7383	20.8312	0.09288	NOTE	F#5	742.272
+147	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	20.866	21.0024	0.13642	NOTE	E5	656.34
+148	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	21.0112	21.1273	0.1161	NOTE	D5	590.175
+149	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	21.1389	21.3072	0.16834	NOTE	D5	590.175
+150	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	21.3159	21.4959	0.17995	NOTE	F5	717.778
+151	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	21.4959	21.5626	0.066757	ct	B5	981.761
+152	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	21.5626	21.6671	0.10449	NOTE	A5	858.447
+153	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	21.6671	21.7658	0.098685	NOTE	F#5	746.435
+154	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	21.7658	21.9516	0.18576	NOTE	D5	586.883
+155	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	21.9661	22.117	0.15093	NOTE	G4	398.99
+156	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	22.1344	22.2563	0.1219	NOTE	B4	501.816
+157	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	22.2592	22.4247	0.16544	NOTE	D5	590.175
+158	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	22.4508	22.6046	0.15383	lngRoll_nt	F#5	746.435
+159	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	22.6162	22.6743	0.05805	lngRoll_ct	G5	771.907
+160	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	22.6772	22.7556	0.078367	lngRoll_nt	F#5	738.133
+161	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	22.7556	22.7875	0.031927	lngRoll_ct	F5	694.092
+162	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	22.7933	22.9007	0.10739	lngRoll_nt	F#5	759.064
+163	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	22.9123	23.0748	0.16254	lngRoll_ct	B4	499.017
+164	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.0748	23.1358	0.060952	lngRoll_ct	C5	530.68
+165	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.1416	23.1967	0.055147	lngRoll_nt	B4	504.63
+166	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.2112	23.2461	0.03483	lngRoll_ct	Bb4	479.859
+167	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.2722	23.3651	0.09288	lngRoll_nt	C5	510.306
+168	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.3651	23.5218	0.15673	lngRoll_ct	Bb4	453.759
+169	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.5305	23.6727	0.14222	lngRoll_nt	F#4	371.011
+170	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.6727	23.8382	0.16544	lngRoll_str	A4	448.712
+171	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.8411	23.992	0.15093	lngRoll_nt	D5	590.175
+172	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	23.992	24.1429	0.15093	NOTE	E5	663.723
+173	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	24.1429	24.2997	0.15673	NOTE	D5	586.883
+174	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	24.3229	24.4274	0.10449	NOTE	D5	583.61
+175	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	24.4535	24.6393	0.18576	BREATH	BREATH	0
+176	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	24.6422	24.796	0.15383	NOTE	B4	504.63
+177	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	24.8134	24.9498	0.13642	lngRoll_nt	A4	446.209
+178	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	24.9556	24.9905	0.03483	lngRoll_ct	B4	496.234
+179	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	24.9934	25.1008	0.10739	lngRoll_nt	Bb4	453.759
+180	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	25.1008	25.1211	0.020317	lngRoll_ct	G#4	421.939
+181	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	25.1385	25.2488	0.11029	lngRoll_nt	Bb4	461.436
+182	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	25.2575	25.3997	0.14222	lngRoll_ct	F#4	377.288
+183	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	25.4142	25.542	0.12771	lngRoll_nt	A5	872.971
+184	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	25.5507	25.7393	0.18866	lngRoll_str	F#5	729.923
+185	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	25.748	25.9454	0.19737	lngRoll_nt	G5	807.228
+186	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	25.9541	25.9947	0.040635	lngRoll_ct	G#5	853.659
+187	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.0093	26.0702	0.060952	lngRoll_nt	G5	802.726
+188	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.0789	26.1079	0.029025	lngRoll_ct	G5	780.59
+189	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.1312	26.224	0.09288	lngRoll_nt	G5	807.228
+190	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.2327	26.3634	0.13061	lngRoll_ct	F#5	738.133
+191	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.3692	26.4185	0.049342	lngRoll_nt	B5	998.371
+192	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.4185	26.5375	0.119	lngRoll_str	A5	863.261
+193	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.5375	26.6478	0.11029	lngRoll_nt	F#5	746.435
+194	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.6536	26.7581	0.10449	NOTE	D5	593.485
+195	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.7842	26.9758	0.19156	BREATH	BREATH	0
+196	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	26.9787	27.1586	0.17995	NOTE	F#5	746.435
+197	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	27.1586	27.2167	0.05805	ct	C6	1020.96
+198	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	27.2225	27.3067	0.084172	NOTE	A5	858.447
+199	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	27.3067	27.4315	0.12481	NOTE	F#5	746.435
+200	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	27.4315	27.5998	0.16834	NOTE	D5	590.175
+201	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	27.6143	27.7507	0.13642	NOTE	C#5	548.789
+202	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	27.7537	27.9249	0.17125	NOTE	D5	586.883
+203	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	27.9249	28.0758	0.15093	NOTE	E5	667.445
+204	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	28.0845	28.1252	0.040635	str	D5	600.16
+205	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	28.1397	28.2413	0.10159	NOTE	E5	671.188
+206	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	28.2471	28.2906	0.043537	ct	G#5	839.456
+207	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	28.2906	28.3806	0.089977	NOTE	F#5	738.133
+208	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	28.4212	28.5315	0.11029	NOTE	E5	678.737
+209	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	28.5373	28.6418	0.10449	NOTE	D5	596.813
+210	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	28.6505	28.8537	0.20317	BREATH	BREATH	0
+211	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	28.8537	29.022	0.16834	NOTE	F#5	738.133
+212	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.0278	29.0801	0.052245	ct	B5	981.761
+213	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.0801	29.1962	0.1161	NOTE	A5	877.867
+214	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.202	29.3036	0.10159	NOTE	F#5	729.923
+215	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.3036	29.4661	0.16254	NOTE	D5	590.175
+216	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.4864	29.53	0.043537	ct	G#5	825.489
+217	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.5358	29.6403	0.10449	NOTE	G5	780.59
+218	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.6403	29.7535	0.1132	NOTE	D5	603.526
+219	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.7535	29.7796	0.026122	str	C#5	570.7
+220	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.8057	29.9276	0.1219	NOTE	D5	593.485
+221	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	29.9799	30.0292	0.049342	ct	G#5	848.898
+222	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.0292	30.125	0.095782	NOTE	F#5	746.435
+223	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.125	30.2382	0.1132	NOTE	D5	600.16
+224	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.2527	30.2788	0.026122	str	D5	580.356
+225	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.2933	30.4617	0.16834	NOTE	D5	593.485
+226	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.4675	30.6155	0.14803	lngRoll_nt	B4	501.816
+227	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.6242	30.659	0.03483	lngRoll_ct	C5	533.656
+228	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.6649	30.7374	0.072562	lngRoll_nt	B4	504.63
+229	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.749	30.781	0.031927	lngRoll_ct	B4	482.55
+230	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.7926	30.8912	0.098685	lngRoll_nt	B4	507.46
+231	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	30.9	31.0596	0.15964	lngRoll_ct	A4	451.228
+232	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	31.0741	31.2134	0.13932	lngRoll_nt	F#4	373.092
+233	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	31.2134	31.3702	0.15673	lngRoll_str	A4	448.712
+234	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	31.376	31.5269	0.15093	lngRoll_nt	D5	590.175
+235	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	31.5269	31.582	0.055147	ct	G5	763.322
+236	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	31.5878	31.6691	0.08127	NOTE	E5	671.188
+237	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	31.6894	31.82	0.13061	NOTE	D5	590.175
+238	Kel_FlutePlayersRoscommonVol1_Tk3Tu1R1_GerrysBeaverHat.txt	31.8433	31.9768	0.13351	NOTE	D5	590.175

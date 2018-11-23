@@ -1,145 +1,145 @@
-1	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	0.17959	0.24635	0.066757	ct	C#5	558.666	2
-2	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	0.24898	0.3854	0.13642	NOTE	B4	495.655	1
-3	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	0.4	0.54512	0.14512	NOTE	A4	439.927	1
-4	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	0.57143	0.71075	0.13932	NOTE	F#4	362.536	1
-5	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	0.72653	0.84844	0.1219	NOTE	B4	487.836	1
-6	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	0.87347	0.90902	0.035556	ct	Bb4	464.768	2
-7	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	0.92653	1.0434	0.11683	NOTE	A4	439.751	1
-8	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	1.0531	1.1978	0.14476	NOTE	F#4	360.693	1
-9	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	1.2245	1.3794	0.15492	NOTE	E4	327.128	1
-10	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	1.4041	1.5285	0.12444	NOTE	F#4	363.958	1
-11	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	1.5429	1.8857	0.34286	NOTE	D4	288.842	1
-12	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	1.9061	2.0483	0.14222	NOTE	F#4	363.958	1
-13	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	2.0694	2.1938	0.12444	NOTE	A4	434.52	1
-14	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	2.2122	2.2402	0.027937	ct	C5	532.553	2
-15	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	2.2531	2.3877	0.1346	NOTE	B4	483.739	1
-16	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	2.4245	2.5312	0.10667	NOTE	A4	442.587	1
-17	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	2.551	2.711	0.16	NOTE	D5	583.039	1
-18	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	2.7143	2.8692	0.15492	NOTE	B4	494.612	1
-19	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	2.8816	2.9146	0.033016	ct	C#5	552.02	2
-20	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	2.9224	3.0494	0.12698	NOTE	B4	501.622	1
-21	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	3.0735	3.1979	0.12444	NOTE	A4	442.587	1
-22	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	3.2286	3.3657	0.13714	NOTE	F#4	363.121	1
-23	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	3.3918	3.5306	0.13878	NOTE	B4	490.234	1
-24	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	3.5306	3.5459	0.015238	ct	C5	513.773	2
-25	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	3.5673	3.7045	0.13714	NOTE	A4	436.724	1
-26	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	3.7143	3.8514	0.13714	NOTE	F#4	367.493	1
-27	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	3.8653	4.0101	0.14476	NOTE	A4	439.751	1
-28	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	4.0367	4.1713	0.1346	NOTE	B4	495.655	1
-29	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	4.1959	4.3356	0.13968	NOTE	D5	572.198	1
-30	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	4.351	4.4755	0.12444	NOTE	E5	652.703	1
-31	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	4.4898	4.5228	0.033016	ct	G#5	849.288	2
-32	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	4.5388	4.681	0.14222	NOTE	F#5	726.927	1
-33	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	4.6816	4.8265	0.1449	NOTE	D5	586.058	1
-34	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	4.8531	5	0.14694	NOTE	E5	668.513	1
-35	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	5.0122	5.1612	0.14898	NOTE	F#5	726.927	1
-36	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	5.1796	5.3306	0.15102	NOTE	D5	586.058	1
-37	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	5.3347	5.4816	0.14694	NOTE	B4	495.655	1
-38	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	5.4898	5.5082	0.018367	ct	C5	526.218	2
-39	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	5.5265	5.6673	0.14082	NOTE	B4	489.759	1
-40	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	5.6776	5.8204	0.14286	NOTE	A4	429.351	1
-41	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	5.8449	5.998	0.15306	NOTE	F#4	363.121	1
-42	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	6.0082	6.1265	0.11837	NOTE	B4	483.933	1
-43	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	6.1388	6.1612	0.022449	ct	C5	519.958	2
-44	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	6.1755	6.2959	0.12041	NOTE	A4	432.858	1
-45	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	6.3184	6.4592	0.14082	NOTE	F#4	365.58	1
-46	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	6.4776	6.6429	0.16531	NOTE	E4	329.969	1
-47	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	6.6531	6.7959	0.14286	NOTE	F#4	375.462	1
-48	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	6.8082	7.1184	0.3102	NOTE	D4	289.271	1
-49	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	7.1388	7.2694	0.13061	NOTE	F#4	371.917	1
-50	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	7.2816	7.4102	0.12857	NOTE	A4	434.52	1
-51	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	7.4286	7.4592	0.030612	ct	C5	532.553	2
-52	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	7.4735	7.5878	0.11429	NOTE	B4	483.933	1
-53	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	7.6204	7.7408	0.12041	NOTE	A4	434.52	1
-54	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	7.7837	7.9388	0.1551	NOTE	D5	572.198	1
-55	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	7.9633	8.0959	0.13265	NOTE	B4	483.933	1
-56	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	8.102	8.1367	0.034694	ct	C#5	538.964	2
-57	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	8.1429	8.2755	0.13265	NOTE	B4	483.933	1
-58	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	8.2898	8.4286	0.13878	NOTE	A4	434.52	1
-59	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	8.4408	8.5837	0.14286	NOTE	F#4	365.58	1
-60	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	8.5918	8.7408	0.14898	NOTE	B4	483.933	1
-61	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	8.751	8.7918	0.040816	ct	C#5	538.964	2
-62	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	8.7918	8.9245	0.13265	NOTE	A4	434.52	1
-63	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	8.9388	9.0755	0.13673	NOTE	F#4	371.917	1
-64	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	9.0939	9.2429	0.14898	NOTE	A4	439.751	1
-65	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	9.2531	9.3898	0.13673	NOTE	B4	495.655	1
-66	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	9.4163	9.5443	0.12796	NOTE	D5	577.878	1
-67	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	9.5577	9.6536	0.095918	NOTE	E5	660.32	1
-68	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	9.698	9.7265	0.028571	ct	G#5	809.591	2
-69	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	9.7347	9.8959	0.16122	NOTE	F#5	735.679	1
-70	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	9.9224	10.0347	0.11224	NOTE	D5	572.198	1
-71	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	10.0367	10.2082	0.17143	NOTE	E5	660.32	1
-72	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	10.2163	10.3633	0.14694	BREATH	BREATH	0	4
-73	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	10.3673	10.5755	0.20816	NOTE	A4	429.351	1
-74	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	10.5837	10.7102	0.12653	NOTE	C#5	538.964	1
-75	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	10.7143	10.8694	0.1551	NOTE	D5	588.245	1
-76	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	11.0531	11.2327	0.17959	NOTE	F#5	741.226	1
-77	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	11.2327	11.3796	0.14694	NOTE	D5	572.198	1
-78	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	11.3878	11.5551	0.16735	NOTE	E5	644.939	1
-79	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	11.5673	11.7	0.13265	NOTE	F#5	726.927	1
-80	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	11.702	11.7408	0.038776	ct	G#5	839.185	2
-81	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	11.7551	11.8714	0.11633	NOTE	G5	788.823	1
-82	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	11.8939	11.998	0.10408	NOTE	E5	660.561	1
-83	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	12.0082	12.1939	0.18571	NOTE	A5	877.635	1
-84	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	12.2041	12.3551	0.15102	NOTE	F#5	735.679	1
-85	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	12.3551	12.5102	0.1551	NOTE	D5	586.058	1
-86	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	12.5347	12.649	0.11429	NOTE	F#5	726.927	1
-87	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	12.6735	12.6959	0.022449	ct	G5	771.75	2
-88	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	12.7102	12.8367	0.12653	NOTE	E5	668.513	1
-89	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	12.8531	12.9837	0.13061	NOTE	D5	579.087	1
-90	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13	13.1388	0.13878	NOTE	B4	489.759	1
-91	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.1429	13.2918	0.14898	NOTE	C#5	545.429	1
-92	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.2939	13.3612	0.067347	crann_nt	D5	572.198	
-93	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.3755	13.4204	0.044898	crann_ct	C5	532.553	
-94	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.4327	13.4816	0.04898	crann_nt	D5	572.198	
-95	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.4878	13.5449	0.057143	crann_ct	C5	528.718	
-96	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.5449	13.6061	0.061224	crann_nt	D5	575.315	
-97	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.6449	13.7898	0.1449	NOTE	F#5	735.679	1
-98	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.7959	13.949	0.15306	NOTE	D5	579.087	1
-99	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.9673	14.1122	0.1449	NOTE	E5	654.476	1
-100	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	14.1265	14.249	0.12245	NOTE	F#5	724.932	1
-101	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	14.2776	14.3122	0.034694	ct	A5	880.332	2
-102	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	14.3143	14.4449	0.13061	NOTE	G5	790.445	1
-103	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	14.4449	14.5878	0.14286	NOTE	E5	652.703	1
-104	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	14.6	14.7673	0.16735	NOTE	A5	881.546	1
-105	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	14.7837	14.9102	0.12653	NOTE	F#5	741.226	1
-106	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	14.9102	15.0735	0.16327	NOTE	D5	586.058	1
-107	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	15.0816	15.2429	0.16122	NOTE	F#5	724.932	1
-108	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	15.251	15.2735	0.022449	str	D5	600.254	3
-109	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	15.2898	15.5878	0.29796	NOTE	E5	660.32	1
-110	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	15.598	15.8612	0.26327	BREATH	BREATH	0	4
-111	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	15.8653	15.9755	0.1102	NOTE	D5	598.799	1
-112	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	15.9959	16.2245	0.22857	BREATH	BREATH	0	4
-113	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	16.2286	16.3857	0.15714	NOTE	F#5	735.679	1
-114	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	16.3918	16.5347	0.14286	NOTE	D5	593.114	1
-115	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	16.5551	16.6918	0.13673	NOTE	E5	660.32	1
-116	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	16.702	16.8224	0.12041	NOTE	F5	718.28	1
-117	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	16.8408	16.8959	0.055102	ct	A5	901.656	2
-118	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	16.9061	17.0184	0.11224	NOTE	G5	799.961	1
-119	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	17.0204	17.1531	0.13265	NOTE	E5	652.703	1
-120	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	17.1592	17.351	0.19184	NOTE	A5	890.93	1
-121	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	17.351	17.4898	0.13878	NOTE	F#5	753.498	1
-122	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	17.4939	17.6571	0.16327	NOTE	D5	586.058	1
-123	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	17.6694	17.7755	0.10612	NOTE	F#5	726.927	1
-124	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	17.7755	17.8082	0.032653	ct	G5	762.57	2
-125	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	17.8122	17.9837	0.17143	NOTE	E5	668.513	1
-126	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	17.9878	18.1286	0.14082	NOTE	D5	593.114	1
-127	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	18.1388	18.298	0.15918	NOTE	B4	495.655	1
-128	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	18.3184	18.4592	0.14082	NOTE	C#5	558.666	1
-129	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	18.4612	18.6204	0.15918	NOTE	D5	593.114	1
-130	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	18.6327	18.7776	0.1449	NOTE	E5	660.561	1
-131	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	18.7837	18.9224	0.13878	NOTE	F#5	735.679	1
-132	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	18.9224	19.0837	0.16122	NOTE	G5	790.445	1
-133	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	19.0939	19.2714	0.17755	NOTE	A5	880.332	1
-134	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	19.2816	19.398	0.11633	NOTE	F#5	726.927	1
-135	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	19.4122	19.5551	0.14286	NOTE	B5	992.245	1
-136	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	19.5551	19.7143	0.15918	NOTE	F#5	726.927	1
-137	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	19.7184	19.898	0.17959	NOTE	A5	901.656	1
-138	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	19.9061	20.0469	0.14082	NOTE	F#5	735.679	1
-139	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	20.049	20.2163	0.16735	NOTE	E5	652.703	1
-140	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	20.2551	20.3571	0.10204	NOTE	G5	795.867	1
-141	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	20.3592	20.3959	0.036735	ct	A5	873.742	2
-142	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	20.4327	20.549	0.11633	NOTE	F#5	741.226	1
-143	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	20.551	20.6939	0.14286	NOTE	E5	652.703	1
-144	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	20.702	20.8653	0.16327	NOTE	D5	572.198	1
-145	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	20.8735	21.0918	0.21837	NOTE	B4	483.933	1
+1	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	0.17959	0.24635	0.066757	ct	C#5	558.666
+2	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	0.24898	0.3854	0.13642	NOTE	B4	495.655
+3	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	0.4	0.54512	0.14512	NOTE	A4	439.927
+4	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	0.57143	0.71075	0.13932	NOTE	F#4	362.536
+5	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	0.72653	0.84844	0.1219	NOTE	B4	487.836
+6	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	0.87347	0.90902	0.035556	ct	Bb4	464.768
+7	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	0.92653	1.0434	0.11683	NOTE	A4	439.751
+8	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	1.0531	1.1978	0.14476	NOTE	F#4	360.693
+9	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	1.2245	1.3794	0.15492	NOTE	E4	327.128
+10	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	1.4041	1.5285	0.12444	NOTE	F#4	363.958
+11	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	1.5429	1.8857	0.34286	NOTE	D4	288.842
+12	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	1.9061	2.0483	0.14222	NOTE	F#4	363.958
+13	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	2.0694	2.1938	0.12444	NOTE	A4	434.52
+14	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	2.2122	2.2402	0.027937	ct	C5	532.553
+15	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	2.2531	2.3877	0.1346	NOTE	B4	483.739
+16	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	2.4245	2.5312	0.10667	NOTE	A4	442.587
+17	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	2.551	2.711	0.16	NOTE	D5	583.039
+18	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	2.7143	2.8692	0.15492	NOTE	B4	494.612
+19	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	2.8816	2.9146	0.033016	ct	C#5	552.02
+20	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	2.9224	3.0494	0.12698	NOTE	B4	501.622
+21	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	3.0735	3.1979	0.12444	NOTE	A4	442.587
+22	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	3.2286	3.3657	0.13714	NOTE	F#4	363.121
+23	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	3.3918	3.5306	0.13878	NOTE	B4	490.234
+24	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	3.5306	3.5459	0.015238	ct	C5	513.773
+25	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	3.5673	3.7045	0.13714	NOTE	A4	436.724
+26	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	3.7143	3.8514	0.13714	NOTE	F#4	367.493
+27	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	3.8653	4.0101	0.14476	NOTE	A4	439.751
+28	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	4.0367	4.1713	0.1346	NOTE	B4	495.655
+29	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	4.1959	4.3356	0.13968	NOTE	D5	572.198
+30	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	4.351	4.4755	0.12444	NOTE	E5	652.703
+31	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	4.4898	4.5228	0.033016	ct	G#5	849.288
+32	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	4.5388	4.681	0.14222	NOTE	F#5	726.927
+33	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	4.6816	4.8265	0.1449	NOTE	D5	586.058
+34	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	4.8531	5	0.14694	NOTE	E5	668.513
+35	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	5.0122	5.1612	0.14898	NOTE	F#5	726.927
+36	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	5.1796	5.3306	0.15102	NOTE	D5	586.058
+37	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	5.3347	5.4816	0.14694	NOTE	B4	495.655
+38	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	5.4898	5.5082	0.018367	ct	C5	526.218
+39	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	5.5265	5.6673	0.14082	NOTE	B4	489.759
+40	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	5.6776	5.8204	0.14286	NOTE	A4	429.351
+41	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	5.8449	5.998	0.15306	NOTE	F#4	363.121
+42	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	6.0082	6.1265	0.11837	NOTE	B4	483.933
+43	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	6.1388	6.1612	0.022449	ct	C5	519.958
+44	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	6.1755	6.2959	0.12041	NOTE	A4	432.858
+45	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	6.3184	6.4592	0.14082	NOTE	F#4	365.58
+46	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	6.4776	6.6429	0.16531	NOTE	E4	329.969
+47	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	6.6531	6.7959	0.14286	NOTE	F#4	375.462
+48	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	6.8082	7.1184	0.3102	NOTE	D4	289.271
+49	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	7.1388	7.2694	0.13061	NOTE	F#4	371.917
+50	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	7.2816	7.4102	0.12857	NOTE	A4	434.52
+51	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	7.4286	7.4592	0.030612	ct	C5	532.553
+52	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	7.4735	7.5878	0.11429	NOTE	B4	483.933
+53	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	7.6204	7.7408	0.12041	NOTE	A4	434.52
+54	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	7.7837	7.9388	0.1551	NOTE	D5	572.198
+55	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	7.9633	8.0959	0.13265	NOTE	B4	483.933
+56	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	8.102	8.1367	0.034694	ct	C#5	538.964
+57	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	8.1429	8.2755	0.13265	NOTE	B4	483.933
+58	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	8.2898	8.4286	0.13878	NOTE	A4	434.52
+59	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	8.4408	8.5837	0.14286	NOTE	F#4	365.58
+60	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	8.5918	8.7408	0.14898	NOTE	B4	483.933
+61	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	8.751	8.7918	0.040816	ct	C#5	538.964
+62	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	8.7918	8.9245	0.13265	NOTE	A4	434.52
+63	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	8.9388	9.0755	0.13673	NOTE	F#4	371.917
+64	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	9.0939	9.2429	0.14898	NOTE	A4	439.751
+65	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	9.2531	9.3898	0.13673	NOTE	B4	495.655
+66	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	9.4163	9.5443	0.12796	NOTE	D5	577.878
+67	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	9.5577	9.6536	0.095918	NOTE	E5	660.32
+68	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	9.698	9.7265	0.028571	ct	G#5	809.591
+69	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	9.7347	9.8959	0.16122	NOTE	F#5	735.679
+70	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	9.9224	10.0347	0.11224	NOTE	D5	572.198
+71	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	10.0367	10.2082	0.17143	NOTE	E5	660.32
+72	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	10.2163	10.3633	0.14694	BREATH	BREATH	0
+73	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	10.3673	10.5755	0.20816	NOTE	A4	429.351
+74	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	10.5837	10.7102	0.12653	NOTE	C#5	538.964
+75	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	10.7143	10.8694	0.1551	NOTE	D5	588.245
+76	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	11.0531	11.2327	0.17959	NOTE	F#5	741.226
+77	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	11.2327	11.3796	0.14694	NOTE	D5	572.198
+78	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	11.3878	11.5551	0.16735	NOTE	E5	644.939
+79	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	11.5673	11.7	0.13265	NOTE	F#5	726.927
+80	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	11.702	11.7408	0.038776	ct	G#5	839.185
+81	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	11.7551	11.8714	0.11633	NOTE	G5	788.823
+82	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	11.8939	11.998	0.10408	NOTE	E5	660.561
+83	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	12.0082	12.1939	0.18571	NOTE	A5	877.635
+84	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	12.2041	12.3551	0.15102	NOTE	F#5	735.679
+85	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	12.3551	12.5102	0.1551	NOTE	D5	586.058
+86	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	12.5347	12.649	0.11429	NOTE	F#5	726.927
+87	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	12.6735	12.6959	0.022449	ct	G5	771.75
+88	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	12.7102	12.8367	0.12653	NOTE	E5	668.513
+89	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	12.8531	12.9837	0.13061	NOTE	D5	579.087
+90	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13	13.1388	0.13878	NOTE	B4	489.759
+91	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.1429	13.2918	0.14898	NOTE	C#5	545.429
+92	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.2939	13.3612	0.067347	crann_nt	D5	572.198
+93	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.3755	13.4204	0.044898	crann_ct	C5	532.553
+94	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.4327	13.4816	0.04898	crann_nt	D5	572.198
+95	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.4878	13.5449	0.057143	crann_ct	C5	528.718
+96	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.5449	13.6061	0.061224	crann_nt	D5	575.315
+97	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.6449	13.7898	0.1449	NOTE	F#5	735.679
+98	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.7959	13.949	0.15306	NOTE	D5	579.087
+99	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	13.9673	14.1122	0.1449	NOTE	E5	654.476
+100	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	14.1265	14.249	0.12245	NOTE	F#5	724.932
+101	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	14.2776	14.3122	0.034694	ct	A5	880.332
+102	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	14.3143	14.4449	0.13061	NOTE	G5	790.445
+103	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	14.4449	14.5878	0.14286	NOTE	E5	652.703
+104	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	14.6	14.7673	0.16735	NOTE	A5	881.546
+105	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	14.7837	14.9102	0.12653	NOTE	F#5	741.226
+106	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	14.9102	15.0735	0.16327	NOTE	D5	586.058
+107	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	15.0816	15.2429	0.16122	NOTE	F#5	724.932
+108	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	15.251	15.2735	0.022449	str	D5	600.254
+109	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	15.2898	15.5878	0.29796	NOTE	E5	660.32
+110	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	15.598	15.8612	0.26327	BREATH	BREATH	0
+111	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	15.8653	15.9755	0.1102	NOTE	D5	598.799
+112	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	15.9959	16.2245	0.22857	BREATH	BREATH	0
+113	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	16.2286	16.3857	0.15714	NOTE	F#5	735.679
+114	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	16.3918	16.5347	0.14286	NOTE	D5	593.114
+115	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	16.5551	16.6918	0.13673	NOTE	E5	660.32
+116	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	16.702	16.8224	0.12041	NOTE	F5	718.28
+117	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	16.8408	16.8959	0.055102	ct	A5	901.656
+118	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	16.9061	17.0184	0.11224	NOTE	G5	799.961
+119	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	17.0204	17.1531	0.13265	NOTE	E5	652.703
+120	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	17.1592	17.351	0.19184	NOTE	A5	890.93
+121	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	17.351	17.4898	0.13878	NOTE	F#5	753.498
+122	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	17.4939	17.6571	0.16327	NOTE	D5	586.058
+123	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	17.6694	17.7755	0.10612	NOTE	F#5	726.927
+124	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	17.7755	17.8082	0.032653	ct	G5	762.57
+125	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	17.8122	17.9837	0.17143	NOTE	E5	668.513
+126	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	17.9878	18.1286	0.14082	NOTE	D5	593.114
+127	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	18.1388	18.298	0.15918	NOTE	B4	495.655
+128	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	18.3184	18.4592	0.14082	NOTE	C#5	558.666
+129	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	18.4612	18.6204	0.15918	NOTE	D5	593.114
+130	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	18.6327	18.7776	0.1449	NOTE	E5	660.561
+131	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	18.7837	18.9224	0.13878	NOTE	F#5	735.679
+132	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	18.9224	19.0837	0.16122	NOTE	G5	790.445
+133	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	19.0939	19.2714	0.17755	NOTE	A5	880.332
+134	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	19.2816	19.398	0.11633	NOTE	F#5	726.927
+135	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	19.4122	19.5551	0.14286	NOTE	B5	992.245
+136	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	19.5551	19.7143	0.15918	NOTE	F#5	726.927
+137	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	19.7184	19.898	0.17959	NOTE	A5	901.656
+138	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	19.9061	20.0469	0.14082	NOTE	F#5	735.679
+139	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	20.049	20.2163	0.16735	NOTE	E5	652.703
+140	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	20.2551	20.3571	0.10204	NOTE	G5	795.867
+141	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	20.3592	20.3959	0.036735	ct	A5	873.742
+142	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	20.4327	20.549	0.11633	NOTE	F#5	741.226
+143	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	20.551	20.6939	0.14286	NOTE	E5	652.703
+144	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	20.702	20.8653	0.16327	NOTE	D5	572.198
+145	Lar_EssentialGuideCD2_Tk91Tu1R1_TheLadyOnTheIsland.txt	20.8735	21.0918	0.21837	NOTE	B4	483.933

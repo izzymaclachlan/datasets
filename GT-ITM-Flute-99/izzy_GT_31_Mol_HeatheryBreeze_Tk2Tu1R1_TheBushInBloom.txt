@@ -1,166 +1,166 @@
-1	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	0.8098	1.5615	0.75175	NOTE	Eb5	640.293	1
-2	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	1.5615	1.6196	0.05805	str	Eb5	626.292	3
-3	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	1.6225	2.4555	0.83302	NOTE	Eb5	632.255	1
-4	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	2.47	2.6906	0.22059	NOTE	C5	523.104	1
-5	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	2.6993	2.9068	0.20753	NOTE	G#4	421.998	1
-6	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	2.9185	2.9591	0.040635	ct	C5	528.085	2
-7	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	2.9693	3.0883	0.119	NOTE	Bb4	474.312	1
-8	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	3.0984	3.261	0.16254	NOTE	G#4	420.667	1
-9	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	3.2755	3.4409	0.16544	NOTE	F4	356.951	1
-10	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	3.4409	3.5759	0.13497	NOTE	G4	392.429	1
-11	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	3.5918	3.6397	0.047891	shRoll_ct	Bb4	471.326	5
-12	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	3.6397	3.705	0.065306	shRoll_nt	G#4	423.333	6
-13	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	3.721	3.7616	0.040635	shRoll_str	G4	397.418	6
-14	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	3.7747	3.8748	0.10014	shRoll_nt	G#4	426.016	6
-15	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	3.8864	4.0258	0.13932	NOTE	C5	536.491	1
-16	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	4.0287	4.2028	0.17415	NOTE	Eb5	632.255	1
-17	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	4.2057	4.3595	0.15383	NOTE	F#5	719.67	1
-18	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	4.3595	4.4974	0.13787	NOTE	G5	788.703	1
-19	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	4.5076	4.5482	0.040635	ct	Bb5	917.818	2
-20	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	4.5526	4.6222	0.06966	NOTE	G#5	842.791	1
-21	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	4.628	4.7543	0.12626	NOTE	F5	708.393	1
-22	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	4.7557	4.911	0.15528	NOTE	Eb5	636.261	1
-23	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	4.9168	5.0489	0.13206	NOTE	G#4	419.341	1
-24	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	5.0532	5.1664	0.1132	NOTE	C5	536.491	1
-25	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	5.1751	5.3203	0.14512	NOTE	G#4	427.363	1
-26	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	5.3275	5.3653	0.037732	ct	C5	528.085	2
-27	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	5.3696	5.4639	0.094331	NOTE	Bb4	469.839	1
-28	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	5.4639	5.596	0.13206	NOTE	G#4	426.016	1
-29	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	5.596	5.7397	0.14367	NOTE	F4	358.08	1
-30	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	5.7426	5.8877	0.14512	NOTE	G4	396.165	1
-31	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	5.8877	6.0009	0.1132	NOTE	A4	428.716	1
-32	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.0009	6.1243	0.12336	NOTE	C5	529.755	1
-33	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.1243	6.2955	0.17125	NOTE	Bb4	472.817	1
-34	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.3013	6.3898	0.088526	NOTE	G4	394.916	1
-35	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.3898	6.5234	0.13351	lngRoll_nt	G#5	848.132	6
-36	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.5306	6.5843	0.053696	lngRoll_ct	A5	897.748	6
-37	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.5916	6.6249	0.033379	lngRoll_nt	G#5	850.814	6
-38	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.6395	6.6743	0.03483	lngRoll_str	G#5	821.762	6
-39	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.6902	6.7817	0.091429	lngRoll_nt	G#5	848.132	6
-40	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.7817	6.892	0.11029	NOTE	F5	715.138	1
-41	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.892	7.0444	0.15238	NOTE	Eb5	634.255	1
-42	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.0444	7.1358	0.091429	NOTE	G#4	423.333	1
-43	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.1372	7.2853	0.14803	NOTE	C5	536.491	1
-44	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.2969	7.4188	0.1219	NOTE	G#4	426.016	1
-45	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.4347	7.4667	0.031927	ct	C5	531.431	2
-46	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.4681	7.5537	0.085624	NOTE	Bb4	468.358	1
-47	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.5799	7.6945	0.11465	NOTE	G#4	426.016	1
-48	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.7076	7.8063	0.098685	NOTE	F4	359.213	1
-49	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.8106	7.9006	0.089977	NOTE	G4	392.429	1
-50	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.9107	7.9456	0.03483	lngRoll_nt	G#4	419.341	6
-51	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.9528	7.9935	0.040635	lngRoll_ct	Bb4	468.358	6
-52	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.9935	8.037	0.043537	lngRoll_nt	G#4	420.667	6
-53	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.0443	8.0704	0.026122	lngRoll_str	G#4	408.878	6
-54	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.0805	8.1923	0.11175	lngRoll_nt	G#4	424.672	6
-55	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.2	8.2837	0.083673	NOTE	D5	578.74	1
-56	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.2939	8.4071	0.11327	NOTE	Eb5	638.274	1
-57	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.4102	8.5786	0.16837	NOTE	F5	717.4	1
-58	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.5837	8.7296	0.14592	NOTE	G5	796.212	1
-59	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.7296	8.7643	0.034694	ct	C6	1028.34	2
-60	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.7694	8.8724	0.10306	NOTE	G#5	848.132	1
-61	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.8724	8.9398	0.067347	NOTE	F5	715.138	1
-62	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.9398	9.0602	0.12041	NOTE	Eb5	640.293	1
-63	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.0694	9.2286	0.15918	BREATH	BREATH	0	4
-64	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.2306	9.3296	0.09898	NOTE	C5	529.755	1
-65	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.3316	9.4704	0.13878	NOTE	G#4	427.363	1
-66	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.4786	9.5092	0.030612	ct	C5	526.419	2
-67	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.5133	9.6173	0.10408	NOTE	Bb4	474.312	1
-68	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.6194	9.7306	0.11122	NOTE	G#4	427.363	1
-69	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.7306	9.852	0.12143	NOTE	F4	355.826	1
-70	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.8592	9.9561	0.096939	NOTE	G4	397.418	1
-71	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.9561	10.1051	0.14898	NOTE	G#4	427.363	1
-72	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.1051	10.2286	0.12347	NOTE	C5	531.431	1
-73	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.2286	10.3765	0.14796	NOTE	Bb4	475.813	1
-74	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.3765	10.4745	0.097959	NOTE	G5	793.701	1
-75	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.4745	10.6041	0.12959	lngRoll_nt	G#5	853.506	6
-76	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.6133	10.6592	0.045918	lngRoll_ct	A5	886.477	6
-77	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.6612	10.7061	0.044898	lngRoll_nt	A5	858.915	6
-78	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.7133	10.7704	0.057143	lngRoll_str	G#5	840.133	6
-79	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.7796	10.8347	0.055102	lngRoll_nt	G#5	853.506	6
-80	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.8429	10.9714	0.12857	BREATH	BREATH	0	4
-81	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.9796	11.2184	0.23878	bend	G#5	850.814	6
-82	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	11.2184	11.3449	0.12653	NOTE	E5	644.351	1
-83	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	11.352	11.4765	0.12449	NOTE	A5	856.206	1
-84	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	11.4776	11.6173	0.1398	NOTE	F#5	721.946	1
-85	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	11.6173	11.7316	0.11429	NOTE	G#5	850.814	1
-86	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	11.7316	11.8592	0.12755	NOTE	Eb5	638.274	1
-87	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	11.8633	12.0071	0.14388	NOTE	F#5	719.67	1
-88	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.0071	12.0429	0.035714	ct	Bb5	950.267	2
-89	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.0469	12.1082	0.061224	NOTE	G#5	848.132	1
-90	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.1082	12.2184	0.1102	NOTE	Eb5	634.255	1
-91	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.2194	12.3541	0.13469	NOTE	C6	1064.7	1
-92	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.3541	12.4469	0.092857	NOTE	G#5	853.506	1
-93	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.4592	12.4959	0.036735	ct	C6	1061.34	2
-94	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.4969	12.5969	0.1	NOTE	Bb5	938.337	1
-95	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.5969	12.7235	0.12653	NOTE	G#5	848.132	1
-96	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.7245	12.852	0.12755	NOTE	F#5	721.946	1
-97	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.852	12.9612	0.10918	NOTE	G#5	845.457	1
-98	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.9714	13.0051	0.033673	shRoll_ct	C6	1025.1	5
-99	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.0133	13.052	0.038776	shRoll_nt	G#5	848.132	6
-100	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.0582	13.0867	0.028571	shRoll_str	G#5	814.012	6
-101	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.0959	13.202	0.10612	shRoll_nt	G#5	845.457	6
-102	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.2031	13.3265	0.12347	NOTE	E5	642.319	1
-103	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.3306	13.3622	0.031633	ct	Bb5	923.634	2
-104	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.3643	13.4541	0.089796	NOTE	G#5	845.457	1
-105	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.4561	13.602	0.14592	NOTE	F5	706.159	1
-106	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.6051	13.6347	0.029592	ct	A5	858.915	2
-107	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.648	13.7204	0.072449	NOTE	G#5	829.585	1
-108	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.7316	13.8276	0.095918	NOTE	Eb5	634.255	1
-109	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.8296	13.9459	0.11633	NOTE	C5	534.799	1
-110	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.9633	13.9939	0.030612	NOTE	C6	1064.7	1
-111	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.0041	14.1122	0.10816	NOTE	Bb5	953.272	1
-112	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.1143	14.2122	0.097959	NOTE	G#5	845.457	1
-113	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.2122	14.3255	0.11327	NOTE	F5	715.138	1
-114	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.3306	14.4408	0.1102	NOTE	G5	791.198	1
-115	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.452	14.549	0.096939	lngRoll_nt	G#5	853.506	6
-116	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.549	14.5949	0.045918	lngRoll_ct	Bb5	912.038	6
-117	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.6051	14.6714	0.066327	lngRoll_nt	A5	856.206	6
-118	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.6776	14.7102	0.032653	lngRoll_str	G5	793.701	6
-119	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.7112	14.7939	0.082653	lngRoll_nt	A5	856.206	6
-120	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.801	14.9224	0.12143	BREATH	BREATH	0	4
-121	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.9306	15.0847	0.15408	NOTE	C6	1061.34	1
-122	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.0847	15.1704	0.085714	NOTE	A5	864.358	1
-123	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.1704	15.201	0.030612	shRoll_ct	C6	1031.6	5
-124	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.201	15.2561	0.055102	shRoll_nt	A5	858.915	6
-125	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.2673	15.3204	0.053061	shRoll_str	G5	793.701	6
-126	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.3224	15.4051	0.082653	shRoll_nt	G#5	850.814	6
-127	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.4143	15.4735	0.059184	ct	C6	1064.7	2
-128	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.4796	15.5745	0.094898	NOTE	Bb5	938.337	1
-129	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.5745	15.6796	0.1051	NOTE	A5	856.206	1
-130	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.6796	15.8031	0.12347	NOTE	F5	715.138	1
-131	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.8031	15.9214	0.11837	NOTE	G5	798.73	1
-132	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.9214	15.95	0.028571	ct	B5	1009.04	2
-133	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.9571	16.0378	0.080612	NOTE	A5	858.915	1
-134	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	16.0378	16.1582	0.12041	NOTE	F5	715.138	1
-135	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	16.1582	16.2837	0.12551	NOTE	G5	798.73	1
-136	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	16.2837	16.3867	0.10306	NOTE	Eb5	630.261	1
-137	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	16.3888	16.5153	0.12653	NOTE	F5	712.882	1
-138	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	16.5184	16.6388	0.12041	NOTE	Eb5	630.261	1
-139	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	16.6408	16.751	0.1102	NOTE	C5	534.799	1
-140	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	16.7571	16.8898	0.13265	BREATH	BREATH	0	4
-141	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	16.8898	16.999	0.10918	NOTE	F5	715.138	1
-142	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.0041	17.1031	0.09898	NOTE	A5	856.206	1
-143	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.1102	17.1653	0.055102	shRoll_ct	C6	1028.34	5
-144	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.1653	17.2214	0.056122	shRoll_nt	G#5	853.506	6
-145	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.2357	17.2765	0.040816	shRoll_str	G#5	819.17	6
-146	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.2837	17.3898	0.10612	shRoll_nt	G#5	853.506	6
-147	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.3929	17.5204	0.12755	NOTE	F#5	719.67	1
-148	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.5224	17.6245	0.10204	NOTE	Bb5	944.283	1
-149	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.6367	17.6673	0.030612	shRoll_ct	C#6	1088.5	5
-150	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.6765	17.7184	0.041837	shRoll_nt	Bb5	944.283	6
-151	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.7245	17.7643	0.039796	shRoll_str	Bb5	909.162	6
-152	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.7694	17.8714	0.10204	shRoll_nt	Bb5	935.377	6
-153	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.8755	17.9112	0.035714	ct	C6	1058	2
-154	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.9194	18.0051	0.085714	NOTE	Bb5	935.377	1
-155	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	18.0071	18.1439	0.13673	NOTE	G#5	850.814	1
-156	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	18.1439	18.2724	0.12857	NOTE	F5	712.882	1
-157	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	18.2765	18.3796	0.10306	NOTE	G5	791.198	1
-158	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	18.3837	18.4847	0.10102	lngRoll_nt	G#5	853.506	6
-159	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	18.4878	18.5245	0.036735	lngRoll_ct	Bb5	941.305	6
-160	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	18.5286	18.5724	0.043878	lngRoll_nt	A5	856.206	6
-161	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	18.5908	18.6418	0.05102	lngRoll_str	G#5	834.843	6
-162	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	18.651	18.7286	0.077551	lngRoll_nt	G#5	853.506	6
-								2
-								1
-								3
-								1
+1	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	0.8098	1.5615	0.75175	NOTE	Eb5	640.293
+2	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	1.5615	1.6196	0.05805	str	Eb5	626.292
+3	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	1.6225	2.4555	0.83302	NOTE	Eb5	632.255
+4	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	2.47	2.6906	0.22059	NOTE	C5	523.104
+5	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	2.6993	2.9068	0.20753	NOTE	G#4	421.998
+6	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	2.9185	2.9591	0.040635	ct	C5	528.085
+7	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	2.9693	3.0883	0.119	NOTE	Bb4	474.312
+8	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	3.0984	3.261	0.16254	NOTE	G#4	420.667
+9	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	3.2755	3.4409	0.16544	NOTE	F4	356.951
+10	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	3.4409	3.5759	0.13497	NOTE	G4	392.429
+11	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	3.5918	3.6397	0.047891	shRoll_ct	Bb4	471.326
+12	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	3.6397	3.705	0.065306	shRoll_nt	G#4	423.333
+13	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	3.721	3.7616	0.040635	shRoll_str	G4	397.418
+14	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	3.7747	3.8748	0.10014	shRoll_nt	G#4	426.016
+15	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	3.8864	4.0258	0.13932	NOTE	C5	536.491
+16	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	4.0287	4.2028	0.17415	NOTE	Eb5	632.255
+17	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	4.2057	4.3595	0.15383	NOTE	F#5	719.67
+18	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	4.3595	4.4974	0.13787	NOTE	G5	788.703
+19	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	4.5076	4.5482	0.040635	ct	Bb5	917.818
+20	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	4.5526	4.6222	0.06966	NOTE	G#5	842.791
+21	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	4.628	4.7543	0.12626	NOTE	F5	708.393
+22	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	4.7557	4.911	0.15528	NOTE	Eb5	636.261
+23	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	4.9168	5.0489	0.13206	NOTE	G#4	419.341
+24	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	5.0532	5.1664	0.1132	NOTE	C5	536.491
+25	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	5.1751	5.3203	0.14512	NOTE	G#4	427.363
+26	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	5.3275	5.3653	0.037732	ct	C5	528.085
+27	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	5.3696	5.4639	0.094331	NOTE	Bb4	469.839
+28	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	5.4639	5.596	0.13206	NOTE	G#4	426.016
+29	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	5.596	5.7397	0.14367	NOTE	F4	358.08
+30	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	5.7426	5.8877	0.14512	NOTE	G4	396.165
+31	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	5.8877	6.0009	0.1132	NOTE	A4	428.716
+32	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.0009	6.1243	0.12336	NOTE	C5	529.755
+33	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.1243	6.2955	0.17125	NOTE	Bb4	472.817
+34	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.3013	6.3898	0.088526	NOTE	G4	394.916
+35	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.3898	6.5234	0.13351	lngRoll_nt	G#5	848.132
+36	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.5306	6.5843	0.053696	lngRoll_ct	A5	897.748
+37	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.5916	6.6249	0.033379	lngRoll_nt	G#5	850.814
+38	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.6395	6.6743	0.03483	lngRoll_str	G#5	821.762
+39	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.6902	6.7817	0.091429	lngRoll_nt	G#5	848.132
+40	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.7817	6.892	0.11029	NOTE	F5	715.138
+41	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	6.892	7.0444	0.15238	NOTE	Eb5	634.255
+42	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.0444	7.1358	0.091429	NOTE	G#4	423.333
+43	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.1372	7.2853	0.14803	NOTE	C5	536.491
+44	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.2969	7.4188	0.1219	NOTE	G#4	426.016
+45	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.4347	7.4667	0.031927	ct	C5	531.431
+46	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.4681	7.5537	0.085624	NOTE	Bb4	468.358
+47	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.5799	7.6945	0.11465	NOTE	G#4	426.016
+48	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.7076	7.8063	0.098685	NOTE	F4	359.213
+49	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.8106	7.9006	0.089977	NOTE	G4	392.429
+50	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.9107	7.9456	0.03483	lngRoll_nt	G#4	419.341
+51	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.9528	7.9935	0.040635	lngRoll_ct	Bb4	468.358
+52	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	7.9935	8.037	0.043537	lngRoll_nt	G#4	420.667
+53	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.0443	8.0704	0.026122	lngRoll_str	G#4	408.878
+54	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.0805	8.1923	0.11175	lngRoll_nt	G#4	424.672
+55	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.2	8.2837	0.083673	NOTE	D5	578.74
+56	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.2939	8.4071	0.11327	NOTE	Eb5	638.274
+57	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.4102	8.5786	0.16837	NOTE	F5	717.4
+58	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.5837	8.7296	0.14592	NOTE	G5	796.212
+59	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.7296	8.7643	0.034694	ct	C6	1028.34
+60	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.7694	8.8724	0.10306	NOTE	G#5	848.132
+61	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.8724	8.9398	0.067347	NOTE	F5	715.138
+62	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	8.9398	9.0602	0.12041	NOTE	Eb5	640.293
+63	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.0694	9.2286	0.15918	BREATH	BREATH	0
+64	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.2306	9.3296	0.09898	NOTE	C5	529.755
+65	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.3316	9.4704	0.13878	NOTE	G#4	427.363
+66	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.4786	9.5092	0.030612	ct	C5	526.419
+67	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.5133	9.6173	0.10408	NOTE	Bb4	474.312
+68	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.6194	9.7306	0.11122	NOTE	G#4	427.363
+69	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.7306	9.852	0.12143	NOTE	F4	355.826
+70	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.8592	9.9561	0.096939	NOTE	G4	397.418
+71	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	9.9561	10.1051	0.14898	NOTE	G#4	427.363
+72	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.1051	10.2286	0.12347	NOTE	C5	531.431
+73	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.2286	10.3765	0.14796	NOTE	Bb4	475.813
+74	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.3765	10.4745	0.097959	NOTE	G5	793.701
+75	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.4745	10.6041	0.12959	lngRoll_nt	G#5	853.506
+76	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.6133	10.6592	0.045918	lngRoll_ct	A5	886.477
+77	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.6612	10.7061	0.044898	lngRoll_nt	A5	858.915
+78	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.7133	10.7704	0.057143	lngRoll_str	G#5	840.133
+79	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.7796	10.8347	0.055102	lngRoll_nt	G#5	853.506
+80	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.8429	10.9714	0.12857	BREATH	BREATH	0
+81	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	10.9796	11.2184	0.23878	bend	G#5	850.814
+82	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	11.2184	11.3449	0.12653	NOTE	E5	644.351
+83	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	11.352	11.4765	0.12449	NOTE	A5	856.206
+84	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	11.4776	11.6173	0.1398	NOTE	F#5	721.946
+85	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	11.6173	11.7316	0.11429	NOTE	G#5	850.814
+86	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	11.7316	11.8592	0.12755	NOTE	Eb5	638.274
+87	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	11.8633	12.0071	0.14388	NOTE	F#5	719.67
+88	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.0071	12.0429	0.035714	ct	Bb5	950.267
+89	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.0469	12.1082	0.061224	NOTE	G#5	848.132
+90	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.1082	12.2184	0.1102	NOTE	Eb5	634.255
+91	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.2194	12.3541	0.13469	NOTE	C6	1064.7
+92	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.3541	12.4469	0.092857	NOTE	G#5	853.506
+93	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.4592	12.4959	0.036735	ct	C6	1061.34
+94	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.4969	12.5969	0.1	NOTE	Bb5	938.337
+95	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.5969	12.7235	0.12653	NOTE	G#5	848.132
+96	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.7245	12.852	0.12755	NOTE	F#5	721.946
+97	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.852	12.9612	0.10918	NOTE	G#5	845.457
+98	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	12.9714	13.0051	0.033673	shRoll_ct	C6	1025.1
+99	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.0133	13.052	0.038776	shRoll_nt	G#5	848.132
+100	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.0582	13.0867	0.028571	shRoll_str	G#5	814.012
+101	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.0959	13.202	0.10612	shRoll_nt	G#5	845.457
+102	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.2031	13.3265	0.12347	NOTE	E5	642.319
+103	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.3306	13.3622	0.031633	ct	Bb5	923.634
+104	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.3643	13.4541	0.089796	NOTE	G#5	845.457
+105	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.4561	13.602	0.14592	NOTE	F5	706.159
+106	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.6051	13.6347	0.029592	ct	A5	858.915
+107	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.648	13.7204	0.072449	NOTE	G#5	829.585
+108	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.7316	13.8276	0.095918	NOTE	Eb5	634.255
+109	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.8296	13.9459	0.11633	NOTE	C5	534.799
+110	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	13.9633	13.9939	0.030612	NOTE	C6	1064.7
+111	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.0041	14.1122	0.10816	NOTE	Bb5	953.272
+112	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.1143	14.2122	0.097959	NOTE	G#5	845.457
+113	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.2122	14.3255	0.11327	NOTE	F5	715.138
+114	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.3306	14.4408	0.1102	NOTE	G5	791.198
+115	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.452	14.549	0.096939	lngRoll_nt	G#5	853.506
+116	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.549	14.5949	0.045918	lngRoll_ct	Bb5	912.038
+117	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.6051	14.6714	0.066327	lngRoll_nt	A5	856.206
+118	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.6776	14.7102	0.032653	lngRoll_str	G5	793.701
+119	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.7112	14.7939	0.082653	lngRoll_nt	A5	856.206
+120	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.801	14.9224	0.12143	BREATH	BREATH	0
+121	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	14.9306	15.0847	0.15408	NOTE	C6	1061.34
+122	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.0847	15.1704	0.085714	NOTE	A5	864.358
+123	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.1704	15.201	0.030612	shRoll_ct	C6	1031.6
+124	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.201	15.2561	0.055102	shRoll_nt	A5	858.915
+125	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.2673	15.3204	0.053061	shRoll_str	G5	793.701
+126	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.3224	15.4051	0.082653	shRoll_nt	G#5	850.814
+127	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.4143	15.4735	0.059184	ct	C6	1064.7
+128	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.4796	15.5745	0.094898	NOTE	Bb5	938.337
+129	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.5745	15.6796	0.1051	NOTE	A5	856.206
+130	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.6796	15.8031	0.12347	NOTE	F5	715.138
+131	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.8031	15.9214	0.11837	NOTE	G5	798.73
+132	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.9214	15.95	0.028571	ct	B5	1009.04
+133	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	15.9571	16.0378	0.080612	NOTE	A5	858.915
+134	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	16.0378	16.1582	0.12041	NOTE	F5	715.138
+135	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	16.1582	16.2837	0.12551	NOTE	G5	798.73
+136	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	16.2837	16.3867	0.10306	NOTE	Eb5	630.261
+137	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	16.3888	16.5153	0.12653	NOTE	F5	712.882
+138	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	16.5184	16.6388	0.12041	NOTE	Eb5	630.261
+139	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	16.6408	16.751	0.1102	NOTE	C5	534.799
+140	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	16.7571	16.8898	0.13265	BREATH	BREATH	0
+141	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	16.8898	16.999	0.10918	NOTE	F5	715.138
+142	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.0041	17.1031	0.09898	NOTE	A5	856.206
+143	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.1102	17.1653	0.055102	shRoll_ct	C6	1028.34
+144	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.1653	17.2214	0.056122	shRoll_nt	G#5	853.506
+145	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.2357	17.2765	0.040816	shRoll_str	G#5	819.17
+146	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.2837	17.3898	0.10612	shRoll_nt	G#5	853.506
+147	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.3929	17.5204	0.12755	NOTE	F#5	719.67
+148	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.5224	17.6245	0.10204	NOTE	Bb5	944.283
+149	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.6367	17.6673	0.030612	shRoll_ct	C#6	1088.5
+150	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.6765	17.7184	0.041837	shRoll_nt	Bb5	944.283
+151	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.7245	17.7643	0.039796	shRoll_str	Bb5	909.162
+152	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.7694	17.8714	0.10204	shRoll_nt	Bb5	935.377
+153	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.8755	17.9112	0.035714	ct	C6	1058
+154	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	17.9194	18.0051	0.085714	NOTE	Bb5	935.377
+155	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	18.0071	18.1439	0.13673	NOTE	G#5	850.814
+156	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	18.1439	18.2724	0.12857	NOTE	F5	712.882
+157	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	18.2765	18.3796	0.10306	NOTE	G5	791.198
+158	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	18.3837	18.4847	0.10102	lngRoll_nt	G#5	853.506
+159	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	18.4878	18.5245	0.036735	lngRoll_ct	Bb5	941.305
+160	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	18.5286	18.5724	0.043878	lngRoll_nt	A5	856.206
+161	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	18.5908	18.6418	0.05102	lngRoll_str	G#5	834.843
+162	Mol_HeatheryBreeze_Tk2Tu1R1_TheBushInBloom.txt	18.651	18.7286	0.077551	lngRoll_nt	G#5	853.506
+							
+							
+							
+							

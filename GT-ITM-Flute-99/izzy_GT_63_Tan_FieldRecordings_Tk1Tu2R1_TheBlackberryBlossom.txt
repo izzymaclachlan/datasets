@@ -1,311 +1,311 @@
-1	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.041333	0.122	0.080667	lngRoll_nt	F#5	740.316	
-2	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.12533	0.15267	0.027333	lngRoll_ct	G5	795.969	
-3	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.15333	0.19533	0.042	lngRoll_nt	F#5	736.747	
-4	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.196	0.23333	0.037333	lngRoll_str	F5	686.891	
-5	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.23867	0.322	0.083333	lngRoll_nt	F#5	743.902	
-6	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.32333	0.43533	0.112	NOTE	D5	585.643	1
-7	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.44067	0.566	0.12533	NOTE	F#5	733.195	1
-8	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.566	0.696	0.13	NOTE	E5	662.442	1
-9	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.702	0.81867	0.11667	NOTE	A5	880.983	1
-10	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.81867	0.95333	0.13467	NOTE	C#6	1084.45	1
-11	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.968	1.0747	0.10667	NOTE	E5	654.488	1
-12	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	1.0813	1.1907	0.10933	NOTE	D5	585.643	1
-13	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	1.2067	1.3347	0.128	NOTE	C#5	543.381	1
-14	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	1.3387	1.4547	0.116	NOTE	D5	587.06	1
-15	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	1.468	1.616	0.148	NOTE	A5	876.737	1
-16	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	1.756	1.8587	0.10267	NOTE	A5	864.118	1
-17	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	1.8613	1.968	0.10667	NOTE	F#5	731.426	1
-18	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	1.984	2.12	0.136	NOTE	A5	874.621	1
-19	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	2.1413	2.2733	0.132	NOTE	D4	289.222	1
-20	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	2.276	2.3973	0.12133	NOTE	F#4	360.346	1
-21	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	2.4013	2.5227	0.12133	NOTE	A4	435.078	1
-22	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	2.5267	2.6493	0.12267	NOTE	D4	287.828	1
-23	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	2.6533	2.7613	0.108	NOTE	F#4	361.218	1
-24	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	2.776	2.888	0.112	NOTE	A4	436.13	1
-25	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	2.8933	3.028	0.13467	NOTE	D5	582.82	1
-26	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.028	3.1467	0.11867	NOTE	F#5	729.661	1
-27	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.1467	3.2213	0.074667	NOTE	G5	771.357	1
-28	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.228	3.4173	0.18933	BREATH	BREATH	0	4
-29	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.42	3.5413	0.12133	NOTE	F#5	727.9	1
-30	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.5413	3.592	0.050667	ct	A5	872.51	2
-31	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.5987	3.6733	0.074667	NOTE	G5	776.968	1
-32	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.6733	3.7987	0.12533	NOTE	E5	667.262	1
-33	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.8	3.9467	0.14667	NOTE	A5	874.621	1
-34	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.9467	3.9787	0.032083	shRoll_ct	B5	975.078	5
-35	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.9787	4.0537	0.075	shRoll_nt	A5	874.621	1
-36	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.0566	4.0987	0.042188	shRoll_str	G#5	841.455	3
-37	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.0997	4.1906	0.090938	shRoll_nt	A5	876.737	1
-38	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.1953	4.3359	0.14062	NOTE	F#4	363.846	1
-39	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.3434	4.4794	0.13594	NOTE	A4	445.718	1
-40	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.485	4.5178	0.032813	shRoll_ct	Bb4	479.225	5
-41	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.5281	4.5919	0.06375	shRoll_nt	A4	443.569	1
-42	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.5947	4.6256	0.030937	shRoll_str	G#4	410.566	3
-43	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.6416	4.725	0.083437	shRoll_nt	A4	442.499	1
-44	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.7278	4.83	0.10219	NOTE	E4	327.942	1
-45	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.8497	4.9688	0.11906	NOTE	A4	440.366	1
-46	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.9688	5.0034	0.034688	shRoll_ct	B4	480.384	5
-47	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.0053	5.0775	0.072188	shRoll_nt	A4	439.303	1
-48	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.0803	5.1131	0.032813	shRoll_str	G#4	426.749	3
-49	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.1131	5.2491	0.13594	shRoll_nt	A4	437.185	1
-50	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.2493	5.492	0.24267	NOTE	D4	292.031	1
-51	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.4987	5.704	0.20533	BREATH	BREATH	0	4
-52	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.72	5.764	0.044	ct	C#5	548.658	2
-53	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.768	5.8707	0.10267	NOTE	B4	490.945	1
-54	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.88	5.9867	0.10667	NOTE	A4	442.499	1
-55	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.9867	6.1093	0.12267	NOTE	F#4	368.268	1
-56	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	6.1093	6.2427	0.13333	NOTE	A5	876.737	1
-57	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	6.2427	6.3787	0.136	NOTE	D5	585.643	1
-58	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	6.3787	6.4947	0.116	NOTE	F#5	729.661	1
-59	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	6.496	6.6373	0.14133	NOTE	A5	887.393	1
-60	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	6.6413	6.7467	0.10533	NOTE	D5	584.23	1
-61	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	6.7467	6.8787	0.132	NOTE	F#5	726.143	1
-62	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	6.8853	7.0227	0.13733	NOTE	A5	868.304	1
-63	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.0227	7.14	0.11733	NOTE	D5	584.23	1
-64	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.144	7.236	0.092	NOTE	F#5	733.195	1
-65	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.2387	7.348	0.10933	NOTE	A5	870.404	1
-66	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.3547	7.5187	0.164	BREATH	BREATH	0	4
-67	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.524	7.5853	0.061333	ct	A5	880.983	2
-68	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.5853	7.6747	0.089333	NOTE	G5	775.093	1
-69	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.6747	7.764	0.089333	NOTE	E5	664.045	1
-70	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.7707	7.824	0.053333	ct	A5	864.118	2
-71	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.8347	7.9347	0.1	NOTE	F#5	736.747	1
-72	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.9347	8.04	0.10533	NOTE	E5	667.262	1
-73	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.0507	8.1507	0.1	NOTE	D5	591.331	1
-74	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.1507	8.284	0.13333	NOTE	E5	665.652	1
-75	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.292	8.3427	0.050667	ct	G#5	851.682	2
-76	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.3427	8.4507	0.108	NOTE	F#5	731.426	1
-77	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.452	8.5693	0.11733	NOTE	E5	665.652	1
-78	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.5693	8.692	0.12267	NOTE	D5	585.643	1
-79	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.692	8.832	0.14	NOTE	F#5	724.391	1
-80	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.832	8.9413	0.10933	NOTE	E5	664.045	1
-81	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.9413	9.056	0.11467	NOTE	A5	878.857	1
-82	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	9.064	9.18	0.116	NOTE	C#6	1079.22	1
-83	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	9.18	9.3173	0.13733	NOTE	E5	660.844	1
-84	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	9.32	9.424	0.104	NOTE	D5	584.23	1
-85	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	9.4307	9.5973	0.16667	BREATH	BREATH	0	4
-86	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	9.6093	9.716	0.10667	NOTE	D5	588.48	1
-87	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	9.72	9.852	0.132	NOTE	A4	440.366	1
-88	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	9.8587	9.908	0.049333	ct	C5	538.154	2
-89	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	9.912	9.9987	0.086667	NOTE	B4	490.945	1
-90	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.0067	10.132	0.12533	NOTE	A4	439.303	1
-91	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.1373	10.2413	0.104	NOTE	F#4	366.493	1
-92	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.2413	10.3813	0.14	NOTE	A5	876.737	1
-93	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.3813	10.4933	0.112	NOTE	D5	581.413	1
-94	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.5027	10.6373	0.13467	NOTE	F#5	729.661	1
-95	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.6413	10.676	0.034667	shRoll_ct	G#5	851.682	5
-96	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.676	10.7373	0.061333	shRoll_nt	F#5	736.747	1
-97	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.7413	10.768	0.026667	shRoll_str	F5	688.553	3
-98	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.768	10.8147	0.046667	shRoll_nt	F#5	736.747	1
-99	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.824	10.9227	0.098667	NOTE	F#5	727.9	1
-100	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.932	11.1547	0.22267	NOTE	F#5	731.426	1
-101	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	11.16	11.2627	0.10267	NOTE	F#5	727.9	1
-102	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	11.2707	11.404	0.13333	NOTE	A5	874.621	1
-103	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	11.412	11.52	0.108	NOTE	G5	767.638	1
-104	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	11.52	11.6533	0.13333	NOTE	B5	984.547	1
-105	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	11.66	11.8053	0.14533	NOTE	F#5	731.426	1
-106	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	11.8053	11.9067	0.10133	NOTE	B5	989.316	1
-107	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	11.9067	12.0227	0.116	NOTE	E5	652.908	1
-108	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.0227	12.1693	0.14667	NOTE	D5	584.23	1
-109	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.1827	12.248	0.065333	NOTE	B4	492.132	1
-110	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.248	12.3293	0.081333	NOTE	C5	536.856	1
-111	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.3413	12.432	0.090667	NOTE	D5	585.643	1
-112	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.4373	12.5493	0.112	lngRoll_nt	F#5	729.661	
-113	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.5493	12.6027	0.053333	lngRoll_ct	G#5	845.53	
-114	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.604	12.6747	0.070667	lngRoll_nt	F#5	734.969	
-115	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.676	12.7227	0.046667	lngRoll_str	E5	672.116	
-116	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.724	12.8013	0.077333	lngRoll_nt	F#5	729.661	
-117	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.804	12.9707	0.16667	BREATH	BREATH	0	4
-118	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.9707	13.068	0.097333	NOTE	E5	649.761	1
-119	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.0907	13.22	0.12933	NOTE	A4	450.046	1
-120	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.224	13.276	0.052	shRoll_ct	B4	487.399	5
-121	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.276	13.332	0.056	shRoll_nt	A4	445.718	1
-122	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.3373	13.3693	0.032	shRoll_str	G#4	419.592	3
-123	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.3693	13.4427	0.073333	shRoll_nt	A4	444.642	1
-124	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.452	13.5933	0.14133	NOTE	D4	298.451	1
-125	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.5933	13.7267	0.13333	NOTE	A4	442.499	1
-126	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.7347	13.7747	0.04	shRoll_ct	B4	481.546	5
-127	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.78	13.86	0.08	shRoll_nt	A4	440.366	1
-128	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.8653	13.8947	0.029333	shRoll_str	A4	427.781	3
-129	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.8987	13.9827	0.084	shRoll_nt	A4	439.303	1
-130	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.9827	14.0227	0.04	ct	C5	509.064	2
-131	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	14.0227	14.108	0.085333	NOTE	B4	490.945	1
-132	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	14.116	14.2387	0.12267	NOTE	A4	435.078	1
-133	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	14.2427	14.304	0.061333	NOTE	F#4	367.379	1
-134	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	14.3093	14.524	0.21467	BREATH	BREATH	0	4
-135	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	14.524	14.624	0.1	NOTE	D5	582.82	1
-136	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	14.624	14.7693	0.14533	NOTE	F#5	726.143	1
-137	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	14.7733	14.888	0.11467	NOTE	A5	872.51	1
-138	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	14.8987	15.0213	0.12267	NOTE	D5	594.195	1
-139	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.0213	15.1413	0.12	NOTE	F#5	724.391	1
-140	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.1413	15.256	0.11467	NOTE	A5	876.737	1
-141	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.264	15.3933	0.12933	NOTE	D5	582.82	1
-142	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.412	15.52	0.108	NOTE	F#5	731.426	1
-143	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.52	15.6107	0.090667	NOTE	A5	874.621	1
-144	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.6147	15.7867	0.172	BREATH	BREATH	0	4
-145	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.796	15.84	0.044	ct	A5	876.737	2
-146	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.844	15.9373	0.093333	NOTE	G5	773.223	1
-147	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.9387	16.04	0.10133	NOTE	E5	657.658	1
-148	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.0427	16.092	0.049333	ct	A5	859.953	2
-149	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.092	16.192	0.1	NOTE	F#5	731.426	1
-150	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.1973	16.296	0.098667	NOTE	E5	665.652	1
-151	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.308	16.4173	0.10933	NOTE	D5	582.82	1
-152	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.428	16.54	0.112	NOTE	A5	870.404	1
-153	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.54	16.6747	0.13467	NOTE	D5	584.23	1
-154	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.684	16.804	0.12	NOTE	F#5	734.969	1
-155	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.8107	16.8707	0.06	shRoll_ct	G#5	851.682	5
-156	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.8707	16.9853	0.11467	shRoll_nt	F#5	733.195	1
-157	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.9853	17.0253	0.04	shRoll_str	E5	660.844	3
-158	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.0253	17.136	0.11067	shRoll_nt	F#5	733.195	1
-159	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.1453	17.2013	0.056	shRoll_ct	A5	864.118	5
-160	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.2013	17.2853	0.084	shRoll_nt	F#5	733.195	1
-161	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.2853	17.3253	0.04	shRoll_str	E5	667.262	3
-162	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.3387	17.4013	0.062667	shRoll_nt	F#5	729.661	1
-163	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.4093	17.568	0.15867	BREATH	BREATH	0	4
-164	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.5733	17.672	0.098667	lngRoll_nt	G5	784.514	
-165	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.672	17.7267	0.054667	lngRoll_ct	A5	880.983	
-166	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.7307	17.8253	0.094667	lngRoll_nt	G5	788.314	
-167	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.8373	17.8747	0.037333	lngRoll_str	F#5	756.59	
-168	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.876	17.9213	0.045333	lngRoll_nt	G5	786.412	
-169	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.9213	18.0427	0.12133	NOTE	D5	584.23	1
-170	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.0427	18.0853	0.042667	ct	F#5	720.899	2
-171	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.0853	18.2013	0.116	NOTE	E5	660.844	1
-172	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.2213	18.3707	0.14933	NOTE	D5	582.82	1
-173	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.3707	18.444	0.073333	NOTE	B4	499.319	1
-174	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.444	18.5013	0.057333	NOTE	C#5	539.456	1
-175	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.5013	18.572	0.070667	NOTE	D5	578.611	1
-176	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.5893	18.704	0.11467	NOTE	A4	441.431	1
-177	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.7067	18.7493	0.042667	ct	B4	487.399	2
-178	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.7587	18.836	0.077333	NOTE	A4	437.185	1
-179	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.836	18.952	0.116	NOTE	F#4	364.726	1
-180	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.9587	19.0853	0.12667	NOTE	A4	439.303	1
-181	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.0893	19.2019	0.11254	NOTE	D4	289.922	1
-182	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.2019	19.3481	0.14625	NOTE	F#5	727.9	1
-183	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.35	19.3987	0.04875	shRoll_ct	G#5	853.742	5
-184	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.3997	19.4578	0.058125	shRoll_nt	F#5	722.643	1
-185	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.4672	19.5056	0.038437	shRoll_str	E5	675.371	3
-186	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.5066	19.6041	0.0975	shRoll_nt	F#5	722.643	1
-187	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.6041	19.7091	0.105	NOTE	G5	776.968	1
-188	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.7128	19.8675	0.15469	BREATH	BREATH	0	4
-189	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.8731	19.9153	0.042188	NOTE	F#5	747.505	1
-190	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.9284	20.0091	0.080625	NOTE	F5	719.159	1
-191	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.0091	20.1319	0.12281	NOTE	D5	587.06	1
-192	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.1337	20.1694	0.035625	ct	F5	703.69	2
-193	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.1694	20.2922	0.12281	NOTE	E5	665.652	1
-194	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.2922	20.4159	0.12375	NOTE	D5	588.48	1
-195	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.4272	20.535	0.10781	NOTE	B4	489.76	1
-196	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.535	20.6531	0.11812	NOTE	A4	437.185	1
-197	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.6597	20.78	0.12031	NOTE	D4	290.623	1
-198	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.78	20.9187	0.13867	NOTE	F#4	364.726	1
-199	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.9213	21.0075	0.086167	NOTE	A4	432.98	1
-200	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	21.0075	21.1612	0.15375	NOTE	D4	288.524	1
-201	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	21.1762	21.2981	0.12187	NOTE	F#4	360.346	1
-202	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	21.3075	21.4369	0.12937	NOTE	A4	437.185	1
-203	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	21.4369	21.5606	0.12375	NOTE	D4	289.922	1
-204	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	21.5644	21.66	0.095625	NOTE	F#5	720.899	1
-205	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	21.66	21.7688	0.10875	NOTE	G5	769.495	1
-206	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	21.7781	21.945	0.16687	BREATH	BREATH	0	4
-207	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	21.9506	22.0369	0.08625	NOTE	F#5	729.661	1
-208	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.0369	22.1887	0.15188	NOTE	G5	778.848	1
-209	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.1962	22.3163	0.12	NOTE	E5	667.262	1
-210	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.3238	22.4681	0.14438	NOTE	B4	492.132	1
-211	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.4681	22.5206	0.0525	shRoll_ct	C#5	540.761	5
-212	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.5206	22.59	0.069375	shRoll_nt	B4	492.132	1
-213	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.59	22.6275	0.0375	shRoll_str	Bb4	473.471	3
-214	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.6313	22.7194	0.088125	shRoll_nt	B4	492.132	1
-215	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.7194	22.8337	0.11438	lngRoll_nt	A4	438.243	
-216	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.8337	22.8731	0.039375	lngRoll_ct	B4	485.05	
-217	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.8825	22.9462	0.06375	lngRoll_nt	A4	440.366	
-218	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.9519	22.98	0.028125	lngRoll_str	G#4	423.667	
-219	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.98	23.0794	0.099375	lngRoll_nt	A4	440.366	
-220	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	23.0869	23.3269	0.24	BREATH	BREATH	0	4
-221	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	23.3344	23.46	0.12562	NOTE	B4	489.76	1
-222	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	23.46	23.5744	0.11438	NOTE	D5	584.23	1
-223	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	23.5744	23.7206	0.14625	NOTE	F#5	738.529	1
-224	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	23.7206	23.7656	0.045	ct	B5	968.036	2
-225	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	23.7731	23.88	0.10687	NOTE	A5	866.209	1
-226	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	23.88	23.985	0.105	NOTE	F#5	733.195	1
-227	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	23.9962	24.0956	0.099375	NOTE	E5	667.262	1
-228	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	24.0956	24.2362	0.14062	NOTE	A5	855.807	1
-229	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	24.2456	24.3637	0.11812	NOTE	F#5	727.9	1
-230	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	24.3769	24.4838	0.10688	NOTE	E5	659.249	1
-231	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	24.4838	24.5813	0.0975	NOTE	D5	587.06	1
-232	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	24.5888	24.7481	0.15937	BREATH	BREATH	0	4
-233	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	24.7556	24.8606	0.105	NOTE	D5	588.48	1
-234	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	24.8606	24.9956	0.135	NOTE	F#5	738.529	1
-235	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	24.9975	25.05	0.0525	shRoll_ct	G#5	853.742	5
-236	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.0519	25.1325	0.080625	shRoll_nt	F#5	745.701	1
-237	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.1363	25.1738	0.0375	shRoll_str	F5	703.69	3
-238	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.1944	25.3556	0.16125	shRoll_nt	F#5	738.529	1
-239	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.3556	25.4044	0.04875	shRoll_ct	G#5	847.576	5
-240	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.4062	25.4794	0.073125	shRoll_nt	F#5	740.316	1
-241	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.4812	25.515	0.03375	shRoll_str	F5	703.69	3
-242	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.515	25.5544	0.039375	shRoll_nt	F#5	736.747	1
-243	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.5656	25.74	0.17438	BREATH	BREATH	0	4
-244	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.7437	25.845	0.10125	lngRoll_nt	G5	782.62	
-245	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.845	25.9031	0.058125	lngRoll_ct	A5	878.857	
-246	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.9031	26.0025	0.099375	lngRoll_nt	G5	780.732	
-247	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.0138	26.0625	0.04875	lngRoll_str	F#5	756.59	
-248	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.0663	26.1337	0.0675	lngRoll_nt	G5	784.514	
-249	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.1506	26.2594	0.10875	NOTE	D5	582.82	1
-250	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.2594	26.3119	0.0525	ct	F#5	733.195	2
-251	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.3175	26.4131	0.095625	NOTE	E5	662.442	1
-252	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.4131	26.5406	0.1275	NOTE	D5	588.48	1
-253	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.5425	26.5987	0.05625	NOTE	B4	489.76	1
-254	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.5987	26.6625	0.06375	NOTE	C5	535.56	1
-255	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.6625	26.7488	0.08625	NOTE	D5	582.82	1
-256	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.7544	26.8987	0.14438	NOTE	A4	436.13	1
-257	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.8987	26.9569	0.058125	ct	B4	488.578	2
-258	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.9569	27.0469	0.09	NOTE	A4	439.303	1
-259	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.0525	27.1725	0.12	NOTE	F#4	360.346	1
-260	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.1725	27.3019	0.12937	NOTE	A4	439.303	1
-261	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.3019	27.4369	0.135	NOTE	D4	290.623	1
-262	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.4369	27.5719	0.135	NOTE	F#4	361.218	1
-263	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.5738	27.6169	0.043125	shRoll_ct	G#4	426.749	5
-264	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.6169	27.7031	0.08625	shRoll_nt	F#4	362.092	1
-265	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.7031	27.7413	0.038208	shRoll_str	F4	349.204	3
-266	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.7413	27.8347	0.093333	shRoll_nt	F#4	363.846	1
-267	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.8347	27.912	0.077333	NOTE	G5	763.938	1
-268	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.92	28.0773	0.15733	BREATH	BREATH	0	4
-269	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	28.0773	28.2453	0.168	NOTE	F#5	726.143	1
-270	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	28.2453	28.3547	0.10933	NOTE	D5	588.48	1
-271	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	28.3547	28.488	0.13333	NOTE	E5	659.249	1
-272	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	28.488	28.6293	0.14133	NOTE	D5	588.48	1
-273	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	28.6293	28.7333	0.104	NOTE	B4	490.945	1
-274	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	28.7333	28.832	0.098667	NOTE	A4	444.642	1
-275	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	28.84	28.9707	0.13067	NOTE	D5	584.23	1
-276	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	28.9707	29.1147	0.144	NOTE	F#5	729.661	1
-277	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	29.1333	29.2693	0.136	NOTE	A5	870.404	1
-278	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	29.2693	29.3867	0.11733	NOTE	D5	581.413	1
-279	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	29.3867	29.5013	0.11467	NOTE	F#5	727.9	1
-280	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	29.5013	29.6267	0.12533	NOTE	A5	870.404	1
-281	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	29.6267	29.7707	0.144	NOTE	D5	580.01	1
-282	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	29.7707	29.8587	0.088	NOTE	F5	719.159	1
-283	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	29.8587	29.9547	0.096	NOTE	G5	771.357	1
-284	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	29.968	30.1253	0.15733	BREATH	BREATH	0	4
-285	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.1253	30.2373	0.112	NOTE	F#5	724.391	1
-286	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.2373	30.296	0.058667	ct	A5	883.115	2
-287	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.304	30.4053	0.10133	NOTE	G5	775.093	1
-288	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.4053	30.536	0.13067	NOTE	E5	660.844	1
-289	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.5467	30.6773	0.13067	NOTE	B5	986.929	1
-290	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.6773	30.7333	0.056	shRoll_ct	C6	1058.56	5
-291	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.744	30.816	0.072	shRoll_nt	B5	977.436	1
-292	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.816	30.8587	0.042667	shRoll_str	Bb5	954.103	3
-293	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.8613	30.9253	0.064	shRoll_nt	B5	977.436	1
-294	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.928	31.0213	0.093333	lngRoll_nt	A5	883.115	
-295	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.0213	31.0667	0.045333	lngRoll_ct	B5	961.044	
-296	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.0773	31.1173	0.04	lngRoll_nt	A5	885.251	
-297	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.136	31.176	0.04	lngRoll_str	G#5	849.627	
-298	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.176	31.2427	0.066667	lngRoll_nt	A5	883.115	
-299	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.2587	31.4027	0.144	BREATH	BREATH	0	4
-300	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.4133	31.5333	0.12	NOTE	A4	438.243	1
-301	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.5333	31.656	0.12267	NOTE	B4	490.945	1
-302	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.656	31.7733	0.11733	NOTE	D5	587.06	1
-303	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.7733	31.896	0.12267	NOTE	F#5	729.661	1
-304	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.9013	31.9573	0.056	ct	Bb5	958.725	2
-305	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.9573	32.064	0.10667	NOTE	A5	864.118	1
-306	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	32.0747	32.176	0.10133	NOTE	F#5	727.9	1
-307	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	32.176	32.2907	0.11467	NOTE	E5	665.652	1
-308	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	32.2907	32.4187	0.128	NOTE	A5	878.857	1
-309	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	32.4187	32.576	0.15733	NOTE	F#5	724.391	1
-310	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	32.592	32.6773	0.085333	NOTE	E5	662.442	1
-311	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	32.68	32.8267	0.14667	NOTE	D5	588.48	1
+1	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.041333	0.122	0.080667	lngRoll_nt	F#5	740.316
+2	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.12533	0.15267	0.027333	lngRoll_ct	G5	795.969
+3	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.15333	0.19533	0.042	lngRoll_nt	F#5	736.747
+4	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.196	0.23333	0.037333	lngRoll_str	F5	686.891
+5	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.23867	0.322	0.083333	lngRoll_nt	F#5	743.902
+6	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.32333	0.43533	0.112	NOTE	D5	585.643
+7	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.44067	0.566	0.12533	NOTE	F#5	733.195
+8	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.566	0.696	0.13	NOTE	E5	662.442
+9	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.702	0.81867	0.11667	NOTE	A5	880.983
+10	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.81867	0.95333	0.13467	NOTE	C#6	1084.45
+11	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	0.968	1.0747	0.10667	NOTE	E5	654.488
+12	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	1.0813	1.1907	0.10933	NOTE	D5	585.643
+13	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	1.2067	1.3347	0.128	NOTE	C#5	543.381
+14	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	1.3387	1.4547	0.116	NOTE	D5	587.06
+15	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	1.468	1.616	0.148	NOTE	A5	876.737
+16	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	1.756	1.8587	0.10267	NOTE	A5	864.118
+17	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	1.8613	1.968	0.10667	NOTE	F#5	731.426
+18	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	1.984	2.12	0.136	NOTE	A5	874.621
+19	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	2.1413	2.2733	0.132	NOTE	D4	289.222
+20	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	2.276	2.3973	0.12133	NOTE	F#4	360.346
+21	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	2.4013	2.5227	0.12133	NOTE	A4	435.078
+22	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	2.5267	2.6493	0.12267	NOTE	D4	287.828
+23	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	2.6533	2.7613	0.108	NOTE	F#4	361.218
+24	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	2.776	2.888	0.112	NOTE	A4	436.13
+25	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	2.8933	3.028	0.13467	NOTE	D5	582.82
+26	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.028	3.1467	0.11867	NOTE	F#5	729.661
+27	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.1467	3.2213	0.074667	NOTE	G5	771.357
+28	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.228	3.4173	0.18933	BREATH	BREATH	0
+29	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.42	3.5413	0.12133	NOTE	F#5	727.9
+30	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.5413	3.592	0.050667	ct	A5	872.51
+31	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.5987	3.6733	0.074667	NOTE	G5	776.968
+32	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.6733	3.7987	0.12533	NOTE	E5	667.262
+33	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.8	3.9467	0.14667	NOTE	A5	874.621
+34	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.9467	3.9787	0.032083	shRoll_ct	B5	975.078
+35	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	3.9787	4.0537	0.075	shRoll_nt	A5	874.621
+36	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.0566	4.0987	0.042188	shRoll_str	G#5	841.455
+37	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.0997	4.1906	0.090938	shRoll_nt	A5	876.737
+38	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.1953	4.3359	0.14062	NOTE	F#4	363.846
+39	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.3434	4.4794	0.13594	NOTE	A4	445.718
+40	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.485	4.5178	0.032813	shRoll_ct	Bb4	479.225
+41	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.5281	4.5919	0.06375	shRoll_nt	A4	443.569
+42	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.5947	4.6256	0.030937	shRoll_str	G#4	410.566
+43	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.6416	4.725	0.083437	shRoll_nt	A4	442.499
+44	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.7278	4.83	0.10219	NOTE	E4	327.942
+45	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.8497	4.9688	0.11906	NOTE	A4	440.366
+46	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	4.9688	5.0034	0.034688	shRoll_ct	B4	480.384
+47	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.0053	5.0775	0.072188	shRoll_nt	A4	439.303
+48	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.0803	5.1131	0.032813	shRoll_str	G#4	426.749
+49	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.1131	5.2491	0.13594	shRoll_nt	A4	437.185
+50	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.2493	5.492	0.24267	NOTE	D4	292.031
+51	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.4987	5.704	0.20533	BREATH	BREATH	0
+52	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.72	5.764	0.044	ct	C#5	548.658
+53	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.768	5.8707	0.10267	NOTE	B4	490.945
+54	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.88	5.9867	0.10667	NOTE	A4	442.499
+55	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	5.9867	6.1093	0.12267	NOTE	F#4	368.268
+56	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	6.1093	6.2427	0.13333	NOTE	A5	876.737
+57	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	6.2427	6.3787	0.136	NOTE	D5	585.643
+58	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	6.3787	6.4947	0.116	NOTE	F#5	729.661
+59	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	6.496	6.6373	0.14133	NOTE	A5	887.393
+60	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	6.6413	6.7467	0.10533	NOTE	D5	584.23
+61	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	6.7467	6.8787	0.132	NOTE	F#5	726.143
+62	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	6.8853	7.0227	0.13733	NOTE	A5	868.304
+63	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.0227	7.14	0.11733	NOTE	D5	584.23
+64	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.144	7.236	0.092	NOTE	F#5	733.195
+65	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.2387	7.348	0.10933	NOTE	A5	870.404
+66	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.3547	7.5187	0.164	BREATH	BREATH	0
+67	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.524	7.5853	0.061333	ct	A5	880.983
+68	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.5853	7.6747	0.089333	NOTE	G5	775.093
+69	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.6747	7.764	0.089333	NOTE	E5	664.045
+70	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.7707	7.824	0.053333	ct	A5	864.118
+71	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.8347	7.9347	0.1	NOTE	F#5	736.747
+72	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	7.9347	8.04	0.10533	NOTE	E5	667.262
+73	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.0507	8.1507	0.1	NOTE	D5	591.331
+74	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.1507	8.284	0.13333	NOTE	E5	665.652
+75	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.292	8.3427	0.050667	ct	G#5	851.682
+76	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.3427	8.4507	0.108	NOTE	F#5	731.426
+77	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.452	8.5693	0.11733	NOTE	E5	665.652
+78	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.5693	8.692	0.12267	NOTE	D5	585.643
+79	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.692	8.832	0.14	NOTE	F#5	724.391
+80	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.832	8.9413	0.10933	NOTE	E5	664.045
+81	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	8.9413	9.056	0.11467	NOTE	A5	878.857
+82	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	9.064	9.18	0.116	NOTE	C#6	1079.22
+83	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	9.18	9.3173	0.13733	NOTE	E5	660.844
+84	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	9.32	9.424	0.104	NOTE	D5	584.23
+85	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	9.4307	9.5973	0.16667	BREATH	BREATH	0
+86	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	9.6093	9.716	0.10667	NOTE	D5	588.48
+87	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	9.72	9.852	0.132	NOTE	A4	440.366
+88	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	9.8587	9.908	0.049333	ct	C5	538.154
+89	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	9.912	9.9987	0.086667	NOTE	B4	490.945
+90	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.0067	10.132	0.12533	NOTE	A4	439.303
+91	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.1373	10.2413	0.104	NOTE	F#4	366.493
+92	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.2413	10.3813	0.14	NOTE	A5	876.737
+93	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.3813	10.4933	0.112	NOTE	D5	581.413
+94	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.5027	10.6373	0.13467	NOTE	F#5	729.661
+95	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.6413	10.676	0.034667	shRoll_ct	G#5	851.682
+96	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.676	10.7373	0.061333	shRoll_nt	F#5	736.747
+97	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.7413	10.768	0.026667	shRoll_str	F5	688.553
+98	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.768	10.8147	0.046667	shRoll_nt	F#5	736.747
+99	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.824	10.9227	0.098667	NOTE	F#5	727.9
+100	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	10.932	11.1547	0.22267	NOTE	F#5	731.426
+101	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	11.16	11.2627	0.10267	NOTE	F#5	727.9
+102	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	11.2707	11.404	0.13333	NOTE	A5	874.621
+103	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	11.412	11.52	0.108	NOTE	G5	767.638
+104	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	11.52	11.6533	0.13333	NOTE	B5	984.547
+105	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	11.66	11.8053	0.14533	NOTE	F#5	731.426
+106	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	11.8053	11.9067	0.10133	NOTE	B5	989.316
+107	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	11.9067	12.0227	0.116	NOTE	E5	652.908
+108	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.0227	12.1693	0.14667	NOTE	D5	584.23
+109	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.1827	12.248	0.065333	NOTE	B4	492.132
+110	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.248	12.3293	0.081333	NOTE	C5	536.856
+111	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.3413	12.432	0.090667	NOTE	D5	585.643
+112	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.4373	12.5493	0.112	lngRoll_nt	F#5	729.661
+113	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.5493	12.6027	0.053333	lngRoll_ct	G#5	845.53
+114	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.604	12.6747	0.070667	lngRoll_nt	F#5	734.969
+115	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.676	12.7227	0.046667	lngRoll_str	E5	672.116
+116	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.724	12.8013	0.077333	lngRoll_nt	F#5	729.661
+117	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.804	12.9707	0.16667	BREATH	BREATH	0
+118	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	12.9707	13.068	0.097333	NOTE	E5	649.761
+119	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.0907	13.22	0.12933	NOTE	A4	450.046
+120	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.224	13.276	0.052	shRoll_ct	B4	487.399
+121	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.276	13.332	0.056	shRoll_nt	A4	445.718
+122	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.3373	13.3693	0.032	shRoll_str	G#4	419.592
+123	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.3693	13.4427	0.073333	shRoll_nt	A4	444.642
+124	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.452	13.5933	0.14133	NOTE	D4	298.451
+125	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.5933	13.7267	0.13333	NOTE	A4	442.499
+126	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.7347	13.7747	0.04	shRoll_ct	B4	481.546
+127	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.78	13.86	0.08	shRoll_nt	A4	440.366
+128	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.8653	13.8947	0.029333	shRoll_str	A4	427.781
+129	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.8987	13.9827	0.084	shRoll_nt	A4	439.303
+130	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	13.9827	14.0227	0.04	ct	C5	509.064
+131	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	14.0227	14.108	0.085333	NOTE	B4	490.945
+132	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	14.116	14.2387	0.12267	NOTE	A4	435.078
+133	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	14.2427	14.304	0.061333	NOTE	F#4	367.379
+134	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	14.3093	14.524	0.21467	BREATH	BREATH	0
+135	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	14.524	14.624	0.1	NOTE	D5	582.82
+136	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	14.624	14.7693	0.14533	NOTE	F#5	726.143
+137	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	14.7733	14.888	0.11467	NOTE	A5	872.51
+138	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	14.8987	15.0213	0.12267	NOTE	D5	594.195
+139	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.0213	15.1413	0.12	NOTE	F#5	724.391
+140	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.1413	15.256	0.11467	NOTE	A5	876.737
+141	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.264	15.3933	0.12933	NOTE	D5	582.82
+142	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.412	15.52	0.108	NOTE	F#5	731.426
+143	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.52	15.6107	0.090667	NOTE	A5	874.621
+144	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.6147	15.7867	0.172	BREATH	BREATH	0
+145	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.796	15.84	0.044	ct	A5	876.737
+146	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.844	15.9373	0.093333	NOTE	G5	773.223
+147	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	15.9387	16.04	0.10133	NOTE	E5	657.658
+148	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.0427	16.092	0.049333	ct	A5	859.953
+149	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.092	16.192	0.1	NOTE	F#5	731.426
+150	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.1973	16.296	0.098667	NOTE	E5	665.652
+151	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.308	16.4173	0.10933	NOTE	D5	582.82
+152	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.428	16.54	0.112	NOTE	A5	870.404
+153	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.54	16.6747	0.13467	NOTE	D5	584.23
+154	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.684	16.804	0.12	NOTE	F#5	734.969
+155	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.8107	16.8707	0.06	shRoll_ct	G#5	851.682
+156	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.8707	16.9853	0.11467	shRoll_nt	F#5	733.195
+157	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	16.9853	17.0253	0.04	shRoll_str	E5	660.844
+158	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.0253	17.136	0.11067	shRoll_nt	F#5	733.195
+159	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.1453	17.2013	0.056	shRoll_ct	A5	864.118
+160	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.2013	17.2853	0.084	shRoll_nt	F#5	733.195
+161	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.2853	17.3253	0.04	shRoll_str	E5	667.262
+162	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.3387	17.4013	0.062667	shRoll_nt	F#5	729.661
+163	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.4093	17.568	0.15867	BREATH	BREATH	0
+164	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.5733	17.672	0.098667	lngRoll_nt	G5	784.514
+165	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.672	17.7267	0.054667	lngRoll_ct	A5	880.983
+166	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.7307	17.8253	0.094667	lngRoll_nt	G5	788.314
+167	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.8373	17.8747	0.037333	lngRoll_str	F#5	756.59
+168	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.876	17.9213	0.045333	lngRoll_nt	G5	786.412
+169	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	17.9213	18.0427	0.12133	NOTE	D5	584.23
+170	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.0427	18.0853	0.042667	ct	F#5	720.899
+171	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.0853	18.2013	0.116	NOTE	E5	660.844
+172	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.2213	18.3707	0.14933	NOTE	D5	582.82
+173	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.3707	18.444	0.073333	NOTE	B4	499.319
+174	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.444	18.5013	0.057333	NOTE	C#5	539.456
+175	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.5013	18.572	0.070667	NOTE	D5	578.611
+176	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.5893	18.704	0.11467	NOTE	A4	441.431
+177	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.7067	18.7493	0.042667	ct	B4	487.399
+178	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.7587	18.836	0.077333	NOTE	A4	437.185
+179	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.836	18.952	0.116	NOTE	F#4	364.726
+180	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	18.9587	19.0853	0.12667	NOTE	A4	439.303
+181	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.0893	19.2019	0.11254	NOTE	D4	289.922
+182	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.2019	19.3481	0.14625	NOTE	F#5	727.9
+183	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.35	19.3987	0.04875	shRoll_ct	G#5	853.742
+184	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.3997	19.4578	0.058125	shRoll_nt	F#5	722.643
+185	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.4672	19.5056	0.038437	shRoll_str	E5	675.371
+186	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.5066	19.6041	0.0975	shRoll_nt	F#5	722.643
+187	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.6041	19.7091	0.105	NOTE	G5	776.968
+188	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.7128	19.8675	0.15469	BREATH	BREATH	0
+189	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.8731	19.9153	0.042188	NOTE	F#5	747.505
+190	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	19.9284	20.0091	0.080625	NOTE	F5	719.159
+191	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.0091	20.1319	0.12281	NOTE	D5	587.06
+192	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.1337	20.1694	0.035625	ct	F5	703.69
+193	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.1694	20.2922	0.12281	NOTE	E5	665.652
+194	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.2922	20.4159	0.12375	NOTE	D5	588.48
+195	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.4272	20.535	0.10781	NOTE	B4	489.76
+196	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.535	20.6531	0.11812	NOTE	A4	437.185
+197	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.6597	20.78	0.12031	NOTE	D4	290.623
+198	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.78	20.9187	0.13867	NOTE	F#4	364.726
+199	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	20.9213	21.0075	0.086167	NOTE	A4	432.98
+200	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	21.0075	21.1612	0.15375	NOTE	D4	288.524
+201	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	21.1762	21.2981	0.12187	NOTE	F#4	360.346
+202	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	21.3075	21.4369	0.12937	NOTE	A4	437.185
+203	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	21.4369	21.5606	0.12375	NOTE	D4	289.922
+204	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	21.5644	21.66	0.095625	NOTE	F#5	720.899
+205	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	21.66	21.7688	0.10875	NOTE	G5	769.495
+206	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	21.7781	21.945	0.16687	BREATH	BREATH	0
+207	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	21.9506	22.0369	0.08625	NOTE	F#5	729.661
+208	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.0369	22.1887	0.15188	NOTE	G5	778.848
+209	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.1962	22.3163	0.12	NOTE	E5	667.262
+210	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.3238	22.4681	0.14438	NOTE	B4	492.132
+211	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.4681	22.5206	0.0525	shRoll_ct	C#5	540.761
+212	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.5206	22.59	0.069375	shRoll_nt	B4	492.132
+213	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.59	22.6275	0.0375	shRoll_str	Bb4	473.471
+214	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.6313	22.7194	0.088125	shRoll_nt	B4	492.132
+215	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.7194	22.8337	0.11438	lngRoll_nt	A4	438.243
+216	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.8337	22.8731	0.039375	lngRoll_ct	B4	485.05
+217	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.8825	22.9462	0.06375	lngRoll_nt	A4	440.366
+218	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.9519	22.98	0.028125	lngRoll_str	G#4	423.667
+219	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	22.98	23.0794	0.099375	lngRoll_nt	A4	440.366
+220	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	23.0869	23.3269	0.24	BREATH	BREATH	0
+221	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	23.3344	23.46	0.12562	NOTE	B4	489.76
+222	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	23.46	23.5744	0.11438	NOTE	D5	584.23
+223	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	23.5744	23.7206	0.14625	NOTE	F#5	738.529
+224	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	23.7206	23.7656	0.045	ct	B5	968.036
+225	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	23.7731	23.88	0.10687	NOTE	A5	866.209
+226	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	23.88	23.985	0.105	NOTE	F#5	733.195
+227	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	23.9962	24.0956	0.099375	NOTE	E5	667.262
+228	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	24.0956	24.2362	0.14062	NOTE	A5	855.807
+229	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	24.2456	24.3637	0.11812	NOTE	F#5	727.9
+230	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	24.3769	24.4838	0.10688	NOTE	E5	659.249
+231	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	24.4838	24.5813	0.0975	NOTE	D5	587.06
+232	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	24.5888	24.7481	0.15937	BREATH	BREATH	0
+233	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	24.7556	24.8606	0.105	NOTE	D5	588.48
+234	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	24.8606	24.9956	0.135	NOTE	F#5	738.529
+235	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	24.9975	25.05	0.0525	shRoll_ct	G#5	853.742
+236	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.0519	25.1325	0.080625	shRoll_nt	F#5	745.701
+237	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.1363	25.1738	0.0375	shRoll_str	F5	703.69
+238	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.1944	25.3556	0.16125	shRoll_nt	F#5	738.529
+239	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.3556	25.4044	0.04875	shRoll_ct	G#5	847.576
+240	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.4062	25.4794	0.073125	shRoll_nt	F#5	740.316
+241	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.4812	25.515	0.03375	shRoll_str	F5	703.69
+242	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.515	25.5544	0.039375	shRoll_nt	F#5	736.747
+243	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.5656	25.74	0.17438	BREATH	BREATH	0
+244	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.7437	25.845	0.10125	lngRoll_nt	G5	782.62
+245	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.845	25.9031	0.058125	lngRoll_ct	A5	878.857
+246	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	25.9031	26.0025	0.099375	lngRoll_nt	G5	780.732
+247	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.0138	26.0625	0.04875	lngRoll_str	F#5	756.59
+248	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.0663	26.1337	0.0675	lngRoll_nt	G5	784.514
+249	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.1506	26.2594	0.10875	NOTE	D5	582.82
+250	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.2594	26.3119	0.0525	ct	F#5	733.195
+251	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.3175	26.4131	0.095625	NOTE	E5	662.442
+252	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.4131	26.5406	0.1275	NOTE	D5	588.48
+253	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.5425	26.5987	0.05625	NOTE	B4	489.76
+254	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.5987	26.6625	0.06375	NOTE	C5	535.56
+255	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.6625	26.7488	0.08625	NOTE	D5	582.82
+256	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.7544	26.8987	0.14438	NOTE	A4	436.13
+257	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.8987	26.9569	0.058125	ct	B4	488.578
+258	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	26.9569	27.0469	0.09	NOTE	A4	439.303
+259	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.0525	27.1725	0.12	NOTE	F#4	360.346
+260	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.1725	27.3019	0.12937	NOTE	A4	439.303
+261	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.3019	27.4369	0.135	NOTE	D4	290.623
+262	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.4369	27.5719	0.135	NOTE	F#4	361.218
+263	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.5738	27.6169	0.043125	shRoll_ct	G#4	426.749
+264	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.6169	27.7031	0.08625	shRoll_nt	F#4	362.092
+265	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.7031	27.7413	0.038208	shRoll_str	F4	349.204
+266	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.7413	27.8347	0.093333	shRoll_nt	F#4	363.846
+267	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.8347	27.912	0.077333	NOTE	G5	763.938
+268	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	27.92	28.0773	0.15733	BREATH	BREATH	0
+269	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	28.0773	28.2453	0.168	NOTE	F#5	726.143
+270	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	28.2453	28.3547	0.10933	NOTE	D5	588.48
+271	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	28.3547	28.488	0.13333	NOTE	E5	659.249
+272	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	28.488	28.6293	0.14133	NOTE	D5	588.48
+273	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	28.6293	28.7333	0.104	NOTE	B4	490.945
+274	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	28.7333	28.832	0.098667	NOTE	A4	444.642
+275	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	28.84	28.9707	0.13067	NOTE	D5	584.23
+276	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	28.9707	29.1147	0.144	NOTE	F#5	729.661
+277	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	29.1333	29.2693	0.136	NOTE	A5	870.404
+278	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	29.2693	29.3867	0.11733	NOTE	D5	581.413
+279	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	29.3867	29.5013	0.11467	NOTE	F#5	727.9
+280	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	29.5013	29.6267	0.12533	NOTE	A5	870.404
+281	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	29.6267	29.7707	0.144	NOTE	D5	580.01
+282	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	29.7707	29.8587	0.088	NOTE	F5	719.159
+283	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	29.8587	29.9547	0.096	NOTE	G5	771.357
+284	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	29.968	30.1253	0.15733	BREATH	BREATH	0
+285	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.1253	30.2373	0.112	NOTE	F#5	724.391
+286	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.2373	30.296	0.058667	ct	A5	883.115
+287	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.304	30.4053	0.10133	NOTE	G5	775.093
+288	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.4053	30.536	0.13067	NOTE	E5	660.844
+289	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.5467	30.6773	0.13067	NOTE	B5	986.929
+290	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.6773	30.7333	0.056	shRoll_ct	C6	1058.56
+291	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.744	30.816	0.072	shRoll_nt	B5	977.436
+292	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.816	30.8587	0.042667	shRoll_str	Bb5	954.103
+293	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.8613	30.9253	0.064	shRoll_nt	B5	977.436
+294	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	30.928	31.0213	0.093333	lngRoll_nt	A5	883.115
+295	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.0213	31.0667	0.045333	lngRoll_ct	B5	961.044
+296	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.0773	31.1173	0.04	lngRoll_nt	A5	885.251
+297	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.136	31.176	0.04	lngRoll_str	G#5	849.627
+298	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.176	31.2427	0.066667	lngRoll_nt	A5	883.115
+299	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.2587	31.4027	0.144	BREATH	BREATH	0
+300	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.4133	31.5333	0.12	NOTE	A4	438.243
+301	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.5333	31.656	0.12267	NOTE	B4	490.945
+302	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.656	31.7733	0.11733	NOTE	D5	587.06
+303	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.7733	31.896	0.12267	NOTE	F#5	729.661
+304	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.9013	31.9573	0.056	ct	Bb5	958.725
+305	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	31.9573	32.064	0.10667	NOTE	A5	864.118
+306	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	32.0747	32.176	0.10133	NOTE	F#5	727.9
+307	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	32.176	32.2907	0.11467	NOTE	E5	665.652
+308	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	32.2907	32.4187	0.128	NOTE	A5	878.857
+309	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	32.4187	32.576	0.15733	NOTE	F#5	724.391
+310	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	32.592	32.6773	0.085333	NOTE	E5	662.442
+311	Tan_FieldRecordings_Tk1Tu2R1_TheBlackberryBlossom.txt	32.68	32.8267	0.14667	NOTE	D5	588.48

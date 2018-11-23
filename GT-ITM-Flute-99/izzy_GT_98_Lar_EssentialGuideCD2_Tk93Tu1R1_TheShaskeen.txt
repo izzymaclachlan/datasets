@@ -1,329 +1,329 @@
-1	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	0.21043	0.37878	0.16834	NOTE	D4	292.968	1
-2	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	0.38748	0.52245	0.13497	lngRoll_nt	G4	385.99	
-3	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	0.52245	0.56599	0.043537	lngRoll_ct	A4	432.352	
-4	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	0.58921	0.67628	0.087075	lngRoll_nt	G4	390.546	
-5	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	0.68644	0.74159	0.055147	lngRoll_str	G4	384.484	
-6	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	0.75029	0.81995	0.06966	lngRoll_nt	G4	393.613	
-7	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	0.84463	0.99701	0.15238	NOTE	A4	436.601	1
-8	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	1.0072	1.0522	0.044989	ct	B4	508.549	2
-9	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	1.0667	1.1886	0.1219	NOTE	A4	438.312	1
-10	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	1.2016	1.3337	0.13206	NOTE	B4	495.783	1
-11	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	1.3584	1.4962	0.13787	NOTE	C#5	546.711	1
-12	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	1.5151	1.6515	0.13642	NOTE	D5	590.041	1
-13	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	1.6893	1.817	0.12771	NOTE	F#5	724.539	1
-14	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	1.8199	1.8547	0.03483	ct	G5	762.333	2
-15	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	1.8707	1.9853	0.11465	NOTE	E5	653.202	1
-16	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.0071	2.1435	0.13642	NOTE	D5	583.158	1
-17	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.1841	2.3394	0.15528	NOTE	C5	514.551	1
-18	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.3539	2.4932	0.13932	lngRoll_nt	A4	433.199	
-19	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.5107	2.5571	0.04644	lngRoll_ct	C5	517.579	
-20	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.5745	2.634	0.059501	lngRoll_nt	A4	433.199	
-21	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.6529	2.7008	0.047891	lngRoll_str	G#4	425.641	
-22	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.7153	2.8241	0.10884	lngRoll_nt	A4	434.047	
-23	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.843	2.9678	0.12481	NOTE	B4	488.086	1
-24	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.9794	3.0288	0.049342	ct	C5	528.834	2
-25	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	3.0404	3.1434	0.10304	NOTE	B4	488.086	1
-26	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	3.184	3.3016	0.11755	NOTE	G4	392.077	1
-27	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	3.3335	3.4685	0.13497	NOTE	B4	487.133	1
-28	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	3.4946	3.6194	0.12481	NOTE	A4	429.823	1
-29	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	3.631	3.6804	0.049342	ct	B4	492.882	2
-30	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	3.6804	3.8023	0.1219	NOTE	G#4	427.309	1
-31	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	3.8284	3.9634	0.13497	NOTE	F#4	360.454	1
-32	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	4.0025	4.1375	0.13497	NOTE	A4	428.145	1
-33	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	4.1636	4.2812	0.11755	NOTE	G4	383.732	1
-34	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	4.3131	4.3915	0.078367	NOTE	B4	482.393	1
-35	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	4.4234	4.4829	0.059501	ct	B4	504.586	2
-36	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	4.4916	4.6222	0.13061	NOTE	A4	428.983	1
-37	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	4.6425	4.7659	0.12336	NOTE	G4	390.546	1
-38	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	4.7877	4.9371	0.14948	NOTE	F#4	363.285	1
-39	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	4.9618	5.0866	0.12481	NOTE	A4	428.983	1
-40	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	5.1244	5.2434	0.119	NOTE	E4	328.157	1
-41	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	5.2912	5.4132	0.1219	NOTE	A4	428.983	1
-42	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	5.4393	5.5902	0.15093	NOTE	D4	288.42	1
-43	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	5.6076	5.686	0.078367	lngRoll_nt	G4	382.983	
-44	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	5.6961	5.7527	0.056599	lngRoll_ct	A4	428.145	
-45	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	5.7629	5.8529	0.089977	lngRoll_nt	G4	388.262	
-46	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	5.8645	5.9066	0.042086	lngRoll_str	F#4	374.832	
-47	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	5.9095	5.9995	0.089977	lngRoll_nt	G4	386.746	
-48	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.0285	6.0952	0.066757	shRoll_ct	C5	517.579	5
-49	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.101	6.1852	0.084172	shRoll_nt	A4	431.508	1
-50	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.1881	6.2404	0.052245	shRoll_str	G#4	422.324	3
-51	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.2418	6.3782	0.13642	shRoll_nt	A4	433.199	1
-52	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.4029	6.5306	0.12771	NOTE	B4	489.999	1
-53	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.5509	6.6772	0.12626	NOTE	C#5	540.333	1
-54	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.699	6.8412	0.14222	NOTE	D5	582.018	1
-55	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.8571	6.9761	0.119	NOTE	F#5	723.123	1
-56	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.982	7.0313	0.049342	ct	F#5	754.914	2
-57	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	7.0531	7.1692	0.1161	NOTE	E5	649.381	1
-58	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	7.1953	7.3244	0.12916	NOTE	D5	579.746	1
-59	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	7.3491	7.4913	0.14222	NOTE	C5	518.592	1
-60	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	7.5117	7.6466	0.13497	lngRoll_nt	A4	436.601	
-61	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	7.6481	7.696	0.047891	lngRoll_ct	C5	513.546	
-62	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	7.7076	7.7772	0.06966	lngRoll_nt	A4	432.352	
-63	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	7.7859	7.844	0.05805	lngRoll_str	G#4	421.499	
-64	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	7.8614	7.9819	0.12045	lngRoll_nt	A4	436.601	
-65	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.0022	8.1226	0.12045	NOTE	F#5	721.711	1
-66	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.1299	8.1865	0.056599	ct	G#5	827.593	2
-67	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.1937	8.2924	0.098685	NOTE	F#5	720.301	1
-68	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.3113	8.4346	0.12336	NOTE	D5	580.881	1
-69	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.4622	8.5711	0.10884	NOTE	F5	718.893	1
-70	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.5827	8.6059	0.02322	ct	E5	643.062	2
-71	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.6146	8.6407	0.026122	NOTE	F#5	723.123	1
-72	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.6451	8.7554	0.11029	NOTE	E5	648.112	1
-73	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.8033	8.9281	0.12481	NOTE	D5	578.613	1
-74	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.9571	9.0877	0.13061	NOTE	B4	506.563	1
-75	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	9.108	9.2256	0.11755	NOTE	A4	433.199	1
-76	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	9.2546	9.3591	0.10449	NOTE	G4	385.236	1
-77	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	9.4346	9.51	0.075465	NOTE	Bb4	477.699	1
-78	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	9.5681	9.7001	0.13206	NOTE	A4	428.983	1
-79	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	9.7408	9.854	0.1132	NOTE	F4	359.047	1
-80	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	9.8757	9.928	0.052245	shRoll_ct	G#4	417.398	5
-81	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	9.9338	10.0122	0.078367	shRoll_nt	G4	384.484	1
-82	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.0194	10.0586	0.039184	shRoll_str	F#4	375.566	3
-83	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.0659	10.1703	0.10449	shRoll_nt	G4	386.746	1
-84	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.2023	10.3372	0.13497	NOTE	E4	326.237	1
-85	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.3837	10.4954	0.11175	NOTE	G4	382.983	1
-86	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.539	10.6652	0.12626	NOTE	D4	290.117	1
-87	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.6942	10.7987	0.10449	lngRoll_nt	G4	387.503	
-88	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.8103	10.8756	0.065306	lngRoll_ct	A4	435.748	
-89	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.8756	10.9714	0.095782	lngRoll_nt	G4	385.99	
-90	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.9787	11.0135	0.03483	lngRoll_str	F#4	379.998	
-91	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	11.028	11.1514	0.12336	lngRoll_nt	G4	388.262	
-92	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	11.1673	11.298	0.13061	NOTE	A4	434.047	1
-93	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	11.3023	11.3546	0.052245	NOTE	Bb4	479.57	1
-94	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	11.3734	11.4924	0.119	NOTE	A4	429.823	1
-95	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	11.5026	11.5171	0.014512	NOTE	B4	494.814	1
-96	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	11.6579	11.7827	0.12481	NOTE	C#5	541.391	1
-97	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	11.8117	11.9612	0.14948	NOTE	D5	587.737	1
-98	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	11.9815	12.1005	0.119	NOTE	F#5	724.539	1
-99	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.1034	12.1484	0.044989	ct	F#5	751.968	2
-100	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.1658	12.2993	0.13351	NOTE	E5	650.652	1
-101	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.3153	12.427	0.11175	NOTE	D5	580.881	1
-102	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.4706	12.6084	0.13787	NOTE	C5	513.546	1
-103	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.6418	12.7637	0.1219	lngRoll_nt	A4	437.455	
-104	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.7797	12.8247	0.044989	lngRoll_ct	B4	504.586	
-105	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.8319	12.9205	0.088526	lngRoll_nt	A4	436.601	
-106	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.935	12.9829	0.047891	lngRoll_str	G#4	420.675	
-107	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.9974	13.0844	0.087075	lngRoll_nt	A4	438.312	
-108	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	13.1207	13.2267	0.10594	NOTE	B4	487.133	1
-109	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	13.2455	13.2934	0.047891	ct	C5	526.769	2
-110	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	13.3123	13.4023	0.089977	NOTE	B4	486.181	1
-111	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	13.4603	13.5706	0.11029	NOTE	G4	389.783	1
-112	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	13.5938	13.7259	0.13206	NOTE	B4	487.133	1
-113	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	13.7448	13.8507	0.10594	NOTE	A4	435.748	1
-114	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	13.8638	13.9204	0.056599	ct	C5	511.541	2
-115	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	13.9392	14.0539	0.11465	NOTE	A4	434.047	1
-116	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	14.0815	14.2266	0.14512	NOTE	F#4	361.867	1
-117	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	14.2469	14.3775	0.13061	NOTE	A4	432.352	1
-118	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	14.3862	14.5154	0.12916	NOTE	G4	385.236	1
-119	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	14.5444	14.6387	0.094331	NOTE	B4	484.283	1
-120	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	14.6532	14.6852	0.031927	ct	Bb4	464.797	2
-121	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	14.6939	14.7229	0.029025	NOTE	B4	504.586	1
-122	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	14.7302	14.8724	0.14222	NOTE	A4	434.047	1
-123	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	14.8912	15.0001	0.10884	NOTE	G4	386.746	1
-124	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	15.0219	15.1844	0.16254	NOTE	F#4	362.575	1
-125	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	15.2047	15.3266	0.1219	NOTE	A4	429.823	1
-126	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	15.3673	15.4834	0.1161	NOTE	E4	326.237	1
-127	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	15.5429	15.6517	0.10884	NOTE	A4	431.508	1
-128	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	15.6764	15.7939	0.11755	NOTE	D4	290.117	1
-129	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	15.8273	15.926	0.098685	lngRoll_nt	G4	387.503	
-130	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	15.9405	15.9869	0.04644	lngRoll_ct	A4	431.508	
-131	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	16.0015	16.09	0.088526	lngRoll_nt	G4	387.503	
-132	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	16.1088	16.164	0.055147	lngRoll_str	F#4	379.256	
-133	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	16.1741	16.2743	0.10014	lngRoll_nt	G4	388.262	
-134	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	16.2961	16.3802	0.084172	NOTE	A4	441.754	1
-135	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	16.3976	16.6008	0.20317	BREATH	BREATH	0	4
-136	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	16.6153	16.759	0.14367	NOTE	B4	496.753	1
-137	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	16.7706	16.9143	0.14367	NOTE	C#5	543.513	1
-138	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	16.9332	17.0841	0.15093	NOTE	D5	582.018	1
-139	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	17.0971	17.2089	0.11175	NOTE	F#5	724.539	1
-140	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	17.219	17.2626	0.043537	ct	F#5	759.357	2
-141	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	17.2815	17.4063	0.12481	NOTE	E5	649.381	1
-142	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	17.4367	17.5615	0.12481	NOTE	D5	578.613	1
-143	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	17.5833	17.7313	0.14803	NOTE	C5	511.541	1
-144	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	17.7647	17.8358	0.071111	NOTE	A4	434.896	1
-145	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	17.8503	17.9461	0.095782	NOTE	A4	434.896	1
-146	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	17.9621	18.1783	0.21624	BREATH	BREATH	0	4
-147	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	18.1899	18.3104	0.12045	lngRoll_nt	F#5	732.657	
-148	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	18.3191	18.3989	0.079819	lngRoll_ct	G#5	838.775	
-149	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	18.4076	18.4541	0.04644	lngRoll_nt	F#5	729.361	
-150	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	18.4642	18.5339	0.06966	lngRoll_str	F5	716.325	
-151	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	18.5484	18.6572	0.10884	lngRoll_nt	F#5	731.007	
-152	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	18.6674	18.8314	0.16399	NOTE	D5	580.839	1
-153	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	18.8415	19.0012	0.15964	NOTE	E5	650.144	1
-154	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.0113	19.1521	0.14077	NOTE	D5	578.226	1
-155	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.1623	19.3176	0.15528	NOTE	B4	508.499	1
-156	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.3364	19.4772	0.14077	NOTE	A4	429.397	1
-157	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.4946	19.6383	0.14367	NOTE	G4	391.486	1
-158	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.6615	19.7602	0.098685	NOTE	B4	481.717	1
-159	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.7747	19.8052	0.030476	ct	A4	437.211	2
-160	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.8081	19.8356	0.027574	NOTE	Bb4	479.55	1
-161	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.8458	19.9503	0.10449	NOTE	A4	431.337	1
-162	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.9837	20.0896	0.10594	NOTE	F4	358.536	1
-163	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	20.1186	20.1535	0.03483	shRoll_ct	G#4	423.628	5
-164	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	20.1665	20.2638	0.097234	shRoll_nt	G4	384.489	1
-165	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	20.2667	20.3059	0.039184	shRoll_str	F#4	376.766	3
-166	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	20.3218	20.435	0.1132	shRoll_nt	G4	386.227	1
-167	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	20.4568	20.5859	0.12916	NOTE	B4	484.986	1
-168	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	20.6063	20.7441	0.13787	NOTE	C5	511.949	1
-169	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	20.7586	20.8747	0.1161	NOTE	D5	579.531	1
-170	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	20.9168	21.0257	0.10884	NOTE	G5	780.396	1
-171	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.0503	21.1055	0.055147	ct	A5	869.583	2
-172	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.1215	21.2434	0.1219	NOTE	G5	778.639	1
-173	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.2593	21.3725	0.1132	NOTE	F#5	722.813	1
-174	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.3725	21.4219	0.049342	shRoll_ct	A5	859.835	5
-175	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.448	21.5467	0.098685	shRoll_nt	G5	782.157	1
-176	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.5597	21.6033	0.043537	shRoll_str	F#5	759.567	3
-177	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.6236	21.7281	0.10449	shRoll_nt	G5	778.639	1
-178	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.7411	21.8659	0.12481	NOTE	F#5	727.719	1
-179	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.8746	22.0357	0.16109	NOTE	G5	776.885	1
-180	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	22.0459	22.1722	0.12626	lngRoll_nt	A5	880.311	
-181	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	22.1852	22.2607	0.075465	lngRoll_ct	B5	983.647	
-182	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	22.2607	22.3376	0.076916	lngRoll_nt	A5	880.311	
-183	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	22.3434	22.4058	0.062404	lngRoll_str	G#5	843.676	
-184	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	22.4189	22.5132	0.094331	lngRoll_nt	A5	880.311	
-185	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	22.5248	22.6714	0.14658	NOTE	G5	784.119	1
-186	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	22.6859	22.8368	0.15093	NOTE	F#5	725.333	1
-187	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	22.8528	23.0037	0.15093	NOTE	E5	650.668	1
-188	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	23.0153	23.1546	0.13932	NOTE	D5	583.69	1
-189	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	23.188	23.3172	0.12916	NOTE	C5	511.386	1
-190	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	23.3477	23.4536	0.10594	NOTE	B4	485.496	1
-191	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	23.4652	23.5189	0.053696	ct	C5	513.807	2
-192	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	23.5349	23.6321	0.097234	NOTE	B4	483.208	1
-193	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	23.664	23.8048	0.14077	NOTE	G4	385.192	1
-194	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	23.828	23.9427	0.11465	NOTE	B4	480.931	1
-195	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	23.9543	24.0675	0.1132	NOTE	A4	437.582	1
-196	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	24.0849	24.2373	0.15238	BREATH	BREATH	0	4
-197	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	24.2663	24.3592	0.09288	NOTE	F#4	363.967	1
-198	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	24.4346	24.5145	0.079819	NOTE	A4	431.426	1
-199	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	24.6161	24.7336	0.11755	NOTE	G4	387.93	1
-200	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	24.7438	24.8744	0.13061	NOTE	B4	480.931	1
-201	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	24.8903	24.9411	0.050794	ct	C5	510.18	2
-202	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	24.9426	25.079	0.13642	NOTE	A4	430.408	1
-203	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	25.1051	25.2183	0.1132	NOTE	G4	387.015	1
-204	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	25.2459	25.3678	0.1219	NOTE	F#4	362.253	1
-205	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	25.4142	25.526	0.11175	NOTE	D4	288.09	1
-206	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	25.5347	25.645	0.11029	NOTE	D5	586.453	1
-207	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	25.661	25.8569	0.19592	BREATH	BREATH	0	4
-208	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	25.8699	25.9889	0.119	NOTE	D5	585.07	1
-209	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.0325	26.1805	0.14803	NOTE	G5	778.583	1
-210	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.1849	26.2356	0.050794	ct	G#5	829.844	2
-211	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.2458	26.375	0.12916	NOTE	G5	782.269	1
-212	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.3851	26.507	0.1219	NOTE	F#5	721.915	1
-213	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.507	26.5636	0.056599	shRoll_ct	G#5	823.985	5
-214	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.5868	26.6928	0.10594	shRoll_nt	G5	778.583	1
-215	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.6986	26.7508	0.052245	shRoll_str	F#5	756.829	3
-216	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.7566	26.8713	0.11465	shRoll_nt	G5	780.424	1
-217	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.8785	27.0048	0.12626	NOTE	F#5	723.622	1
-218	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.0121	27.1557	0.14367	NOTE	G5	773.087	1
-219	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.1586	27.3052	0.14658	lngRoll_nt	A5	872.035	
-220	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.3197	27.3792	0.059501	lngRoll_ct	B5	965.239	
-221	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.3923	27.459	0.066757	lngRoll_nt	A5	865.879	
-222	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.4663	27.5127	0.04644	lngRoll_str	G#5	829.844	
-223	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.5229	27.6303	0.10739	lngRoll_nt	A5	867.926	
-224	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.6376	27.7885	0.15093	NOTE	G5	778.583	1
-225	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.7986	27.9423	0.14367	NOTE	F#5	727.048	1
-226	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.9554	28.0976	0.14222	NOTE	E5	650.668	1
-227	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	28.1121	28.2442	0.13206	NOTE	D5	582.313	1
-228	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	28.2601	28.4125	0.15238	NOTE	E5	646.075	1
-229	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	28.4198	28.4619	0.042086	shRoll_ct	G#5	823.985	5
-230	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	28.4793	28.5649	0.085624	shRoll_nt	F#5	721.915	1
-231	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	28.5838	28.6317	0.047891	shRoll_str	F5	701.745	3
-232	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	28.6404	28.7463	0.10594	shRoll_nt	F#5	723.622	1
-233	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	28.7608	28.8943	0.13351	NOTE	D5	578.203	1
-234	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	28.9205	29.0162	0.095782	NOTE	F5	716.819	1
-235	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	29.0322	29.0815	0.049342	ct	F#5	755.045	2
-236	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	29.099	29.2107	0.11175	NOTE	E5	647.603	1
-237	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	29.2325	29.366	0.13351	NOTE	D5	580.94	1
-238	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	29.4037	29.5213	0.11755	NOTE	C5	515.022	1
-239	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	29.5503	29.6751	0.12481	NOTE	A4	432.445	1
-240	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	29.6983	29.8478	0.14948	NOTE	G4	386.102	1
-241	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	29.8855	30.0045	0.119	NOTE	B4	484.351	1
-242	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	30.0263	30.1671	0.14077	NOTE	A4	433.468	1
-243	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	30.199	30.3137	0.11465	NOTE	F#4	359.695	1
-244	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	30.3383	30.3877	0.049342	ct	A4	429.393	2
-245	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	30.3993	30.6605	0.26122	NOTE	G4	389.767	1
-246	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	30.6881	30.8303	0.14222	NOTE	B4	487.794	1
-247	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	30.8492	30.9725	0.12336	NOTE	C5	517.46	1
-248	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	30.987	31.0712	0.084172	NOTE	D5	583.69	1
-249	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	31.0872	31.2613	0.17415	NOTE	D5	580.94	1
-250	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	31.27	31.4703	0.20027	NOTE	G5	784.119	1
-251	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	31.4819	31.6082	0.12626	NOTE	F#5	728.766	1
-252	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	31.6183	31.6909	0.072562	shRoll_ct	A5	855.715	5
-253	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	31.6996	31.7896	0.089977	shRoll_nt	G5	782.269	1
-254	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	31.7954	31.852	0.056599	shRoll_str	F#5	755.045	3
-255	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	31.8563	31.9463	0.089977	shRoll_nt	G5	784.119	1
-256	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	31.9565	32.0972	0.14077	NOTE	F#5	730.49	1
-257	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	32.1059	32.254	0.14803	NOTE	G5	780.424	1
-258	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	32.2685	32.4049	0.13642	lngRoll_nt	A5	882.393	
-259	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	32.4238	32.4905	0.066757	lngRoll_ct	B5	992.983	
-260	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	32.5079	32.566	0.05805	lngRoll_nt	A5	882.393	
-261	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	32.5718	32.6385	0.066757	lngRoll_str	A5	855.715	
-262	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	32.6487	32.7401	0.091429	lngRoll_nt	A5	880.311	
-263	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	32.7532	32.9012	0.14803	NOTE	G5	784.119	1
-264	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	32.9114	33.0696	0.15819	NOTE	F#5	721.915	1
-265	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	33.0884	33.2205	0.13206	NOTE	E5	653.749	1
-266	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	33.2321	33.3671	0.13497	NOTE	D5	583.69	1
-267	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	33.4019	33.5412	0.13932	NOTE	C5	510.18	1
-268	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	33.5775	33.6776	0.10014	NOTE	B4	482.069	1
-269	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	33.6863	33.7429	0.056599	ct	C5	510.18	2
-270	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	33.7531	33.8547	0.10159	NOTE	B4	484.351	1
-271	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	33.9069	34.0259	0.119	NOTE	G4	387.015	1
-272	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	34.0521	34.1537	0.10159	NOTE	B4	483.208	1
-273	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	34.2044	34.3525	0.14803	lngRoll_nt	A4	433.468	
-274	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	34.3592	34.4201	0.060952	lngRoll_ct	A4	441.26	
-275	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	34.4207	34.4671	0.04644	lngRoll_nt	A4	435.52	
-276	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	34.4729	34.5252	0.052245	lngRoll_str	G#4	421.357	
-277	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	34.5397	34.6688	0.12916	lngRoll_nt	A4	434.493	
-278	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	34.7022	34.8401	0.13787	NOTE	F#4	359.695	1
-279	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	34.8561	34.9838	0.12771	NOTE	G4	385.192	1
-280	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	35.0128	35.1115	0.098685	NOTE	B4	483.208	1
-281	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	35.1449	35.1927	0.047891	ct	C5	513.807	2
-282	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	35.2073	35.319	0.11175	NOTE	A4	429.393	1
-283	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	35.3364	35.4728	0.13642	NOTE	G4	386.102	1
-284	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	35.4844	35.6499	0.16544	NOTE	F#4	363.109	1
-285	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	35.6862	35.7761	0.089977	NOTE	D4	293.585	1
-286	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	35.8008	35.901	0.10014	NOTE	D5	583.69	1
-287	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	35.9126	36.1056	0.19302	BREATH	BREATH	0	4
-288	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	36.1245	36.2061	0.081633	NOTE	B4	496.9	1
-289	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	36.3349	36.4524	0.11755	lngRoll_nt	G4	386.102	
-290	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	36.4655	36.5105	0.044989	lngRoll_ct	A4	431.426	
-291	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	36.5235	36.615	0.091429	lngRoll_nt	G4	387.015	
-292	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	36.6193	36.6614	0.042086	lngRoll_str	F#4	377.983	
-293	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	36.6745	36.7746	0.10014	lngRoll_nt	G4	388.848	
-294	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	36.8022	36.9502	0.14803	NOTE	A4	436.55	1
-295	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	36.9792	37.091	0.11175	lngRoll_nt	F#4	363.967	
-296	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.1055	37.1447	0.039184	lngRoll_ct	G#4	417.395	
-297	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.1519	37.2317	0.079819	lngRoll_nt	F#4	360.546	
-298	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.2419	37.2811	0.039184	lngRoll_str	F4	346.358	
-299	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.2985	37.4378	0.13932	lngRoll_nt	F#4	365.691	
-300	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.4596	37.5989	0.13932	NOTE	D5	582.313	1
-301	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.6149	37.7353	0.12045	NOTE	F#5	720.212	1
-302	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.7484	37.7745	0.026122	ct	E5	650.668	2
-303	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.7789	37.8079	0.029025	NOTE	F#5	720.212	1
-304	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.8195	37.9254	0.10594	NOTE	E5	647.603	1
-305	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.9429	38.0822	0.13932	NOTE	D5	580.94	1
-306	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	38.1083	38.252	0.14367	NOTE	C5	511.386	1
-307	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	38.2723	38.402	0.12975	lngRoll_nt	A4	433.468	
-308	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	38.402	38.4398	0.037732	lngRoll_ct	C5	510.187	
-309	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	38.451	38.4964	0.045351	lngRoll_nt	A4	436.754	
-310	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	38.498	38.5415	0.043537	lngRoll_str	G#4	419.867	
-311	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	38.549	38.7061	0.15714	lngRoll_nt	A4	437.322	
-312	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	38.7184	39.0531	0.33469	NOTE	F#5	725.978	1
-313	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	39.0531	39.2041	0.15102	NOTE	D5	586.138	1
-314	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	39.2041	39.3367	0.13265	NOTE	F#5	719.64	1
-315	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	39.3367	39.3796	0.042857	ct	F#5	754.629	2
-316	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	39.3796	39.5429	0.16327	NOTE	E5	648.898	1
-317	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	39.5449	39.7041	0.15918	NOTE	D5	583.062	1
-318	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	39.7122	39.8673	0.1551	NOTE	C5	515.701	1
-319	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	39.8673	40.0204	0.15306	NOTE	A4	438.09	1
-320	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	40.0341	40.1357	0.10159	NOTE	G4	387.015	1
-321	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	40.2039	40.2765	0.072562	NOTE	Bb4	477.536	1
-322	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	40.3461	40.4971	0.15093	NOTE	G#4	426.361	1
-323	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	40.5101	40.6306	0.12045	NOTE	F4	355.473	1
-324	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	40.661	40.7104	0.049342	shRoll_ct	A4	431.426	5
-325	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	40.7278	40.8076	0.079819	shRoll_nt	G4	381.57	1
-326	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	40.8149	40.8555	0.040635	shRoll_str	F#4	370.909	3
-327	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	40.8657	40.9876	0.1219	shRoll_nt	F#4	379.772	1
-328	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	41.0224	41.1864	0.16399	NOTE	E4	324.196	1
-329	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	41.2111	41.3736	0.16254	NOTE	G4	382.472	1
+1	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	0.21043	0.37878	0.16834	NOTE	D4	292.968
+2	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	0.38748	0.52245	0.13497	lngRoll_nt	G4	385.99
+3	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	0.52245	0.56599	0.043537	lngRoll_ct	A4	432.352
+4	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	0.58921	0.67628	0.087075	lngRoll_nt	G4	390.546
+5	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	0.68644	0.74159	0.055147	lngRoll_str	G4	384.484
+6	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	0.75029	0.81995	0.06966	lngRoll_nt	G4	393.613
+7	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	0.84463	0.99701	0.15238	NOTE	A4	436.601
+8	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	1.0072	1.0522	0.044989	ct	B4	508.549
+9	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	1.0667	1.1886	0.1219	NOTE	A4	438.312
+10	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	1.2016	1.3337	0.13206	NOTE	B4	495.783
+11	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	1.3584	1.4962	0.13787	NOTE	C#5	546.711
+12	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	1.5151	1.6515	0.13642	NOTE	D5	590.041
+13	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	1.6893	1.817	0.12771	NOTE	F#5	724.539
+14	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	1.8199	1.8547	0.03483	ct	G5	762.333
+15	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	1.8707	1.9853	0.11465	NOTE	E5	653.202
+16	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.0071	2.1435	0.13642	NOTE	D5	583.158
+17	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.1841	2.3394	0.15528	NOTE	C5	514.551
+18	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.3539	2.4932	0.13932	lngRoll_nt	A4	433.199
+19	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.5107	2.5571	0.04644	lngRoll_ct	C5	517.579
+20	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.5745	2.634	0.059501	lngRoll_nt	A4	433.199
+21	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.6529	2.7008	0.047891	lngRoll_str	G#4	425.641
+22	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.7153	2.8241	0.10884	lngRoll_nt	A4	434.047
+23	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.843	2.9678	0.12481	NOTE	B4	488.086
+24	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	2.9794	3.0288	0.049342	ct	C5	528.834
+25	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	3.0404	3.1434	0.10304	NOTE	B4	488.086
+26	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	3.184	3.3016	0.11755	NOTE	G4	392.077
+27	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	3.3335	3.4685	0.13497	NOTE	B4	487.133
+28	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	3.4946	3.6194	0.12481	NOTE	A4	429.823
+29	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	3.631	3.6804	0.049342	ct	B4	492.882
+30	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	3.6804	3.8023	0.1219	NOTE	G#4	427.309
+31	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	3.8284	3.9634	0.13497	NOTE	F#4	360.454
+32	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	4.0025	4.1375	0.13497	NOTE	A4	428.145
+33	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	4.1636	4.2812	0.11755	NOTE	G4	383.732
+34	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	4.3131	4.3915	0.078367	NOTE	B4	482.393
+35	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	4.4234	4.4829	0.059501	ct	B4	504.586
+36	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	4.4916	4.6222	0.13061	NOTE	A4	428.983
+37	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	4.6425	4.7659	0.12336	NOTE	G4	390.546
+38	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	4.7877	4.9371	0.14948	NOTE	F#4	363.285
+39	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	4.9618	5.0866	0.12481	NOTE	A4	428.983
+40	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	5.1244	5.2434	0.119	NOTE	E4	328.157
+41	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	5.2912	5.4132	0.1219	NOTE	A4	428.983
+42	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	5.4393	5.5902	0.15093	NOTE	D4	288.42
+43	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	5.6076	5.686	0.078367	lngRoll_nt	G4	382.983
+44	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	5.6961	5.7527	0.056599	lngRoll_ct	A4	428.145
+45	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	5.7629	5.8529	0.089977	lngRoll_nt	G4	388.262
+46	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	5.8645	5.9066	0.042086	lngRoll_str	F#4	374.832
+47	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	5.9095	5.9995	0.089977	lngRoll_nt	G4	386.746
+48	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.0285	6.0952	0.066757	shRoll_ct	C5	517.579
+49	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.101	6.1852	0.084172	shRoll_nt	A4	431.508
+50	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.1881	6.2404	0.052245	shRoll_str	G#4	422.324
+51	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.2418	6.3782	0.13642	shRoll_nt	A4	433.199
+52	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.4029	6.5306	0.12771	NOTE	B4	489.999
+53	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.5509	6.6772	0.12626	NOTE	C#5	540.333
+54	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.699	6.8412	0.14222	NOTE	D5	582.018
+55	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.8571	6.9761	0.119	NOTE	F#5	723.123
+56	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	6.982	7.0313	0.049342	ct	F#5	754.914
+57	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	7.0531	7.1692	0.1161	NOTE	E5	649.381
+58	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	7.1953	7.3244	0.12916	NOTE	D5	579.746
+59	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	7.3491	7.4913	0.14222	NOTE	C5	518.592
+60	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	7.5117	7.6466	0.13497	lngRoll_nt	A4	436.601
+61	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	7.6481	7.696	0.047891	lngRoll_ct	C5	513.546
+62	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	7.7076	7.7772	0.06966	lngRoll_nt	A4	432.352
+63	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	7.7859	7.844	0.05805	lngRoll_str	G#4	421.499
+64	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	7.8614	7.9819	0.12045	lngRoll_nt	A4	436.601
+65	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.0022	8.1226	0.12045	NOTE	F#5	721.711
+66	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.1299	8.1865	0.056599	ct	G#5	827.593
+67	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.1937	8.2924	0.098685	NOTE	F#5	720.301
+68	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.3113	8.4346	0.12336	NOTE	D5	580.881
+69	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.4622	8.5711	0.10884	NOTE	F5	718.893
+70	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.5827	8.6059	0.02322	ct	E5	643.062
+71	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.6146	8.6407	0.026122	NOTE	F#5	723.123
+72	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.6451	8.7554	0.11029	NOTE	E5	648.112
+73	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.8033	8.9281	0.12481	NOTE	D5	578.613
+74	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	8.9571	9.0877	0.13061	NOTE	B4	506.563
+75	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	9.108	9.2256	0.11755	NOTE	A4	433.199
+76	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	9.2546	9.3591	0.10449	NOTE	G4	385.236
+77	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	9.4346	9.51	0.075465	NOTE	Bb4	477.699
+78	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	9.5681	9.7001	0.13206	NOTE	A4	428.983
+79	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	9.7408	9.854	0.1132	NOTE	F4	359.047
+80	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	9.8757	9.928	0.052245	shRoll_ct	G#4	417.398
+81	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	9.9338	10.0122	0.078367	shRoll_nt	G4	384.484
+82	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.0194	10.0586	0.039184	shRoll_str	F#4	375.566
+83	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.0659	10.1703	0.10449	shRoll_nt	G4	386.746
+84	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.2023	10.3372	0.13497	NOTE	E4	326.237
+85	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.3837	10.4954	0.11175	NOTE	G4	382.983
+86	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.539	10.6652	0.12626	NOTE	D4	290.117
+87	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.6942	10.7987	0.10449	lngRoll_nt	G4	387.503
+88	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.8103	10.8756	0.065306	lngRoll_ct	A4	435.748
+89	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.8756	10.9714	0.095782	lngRoll_nt	G4	385.99
+90	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	10.9787	11.0135	0.03483	lngRoll_str	F#4	379.998
+91	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	11.028	11.1514	0.12336	lngRoll_nt	G4	388.262
+92	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	11.1673	11.298	0.13061	NOTE	A4	434.047
+93	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	11.3023	11.3546	0.052245	NOTE	Bb4	479.57
+94	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	11.3734	11.4924	0.119	NOTE	A4	429.823
+95	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	11.5026	11.5171	0.014512	NOTE	B4	494.814
+96	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	11.6579	11.7827	0.12481	NOTE	C#5	541.391
+97	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	11.8117	11.9612	0.14948	NOTE	D5	587.737
+98	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	11.9815	12.1005	0.119	NOTE	F#5	724.539
+99	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.1034	12.1484	0.044989	ct	F#5	751.968
+100	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.1658	12.2993	0.13351	NOTE	E5	650.652
+101	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.3153	12.427	0.11175	NOTE	D5	580.881
+102	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.4706	12.6084	0.13787	NOTE	C5	513.546
+103	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.6418	12.7637	0.1219	lngRoll_nt	A4	437.455
+104	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.7797	12.8247	0.044989	lngRoll_ct	B4	504.586
+105	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.8319	12.9205	0.088526	lngRoll_nt	A4	436.601
+106	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.935	12.9829	0.047891	lngRoll_str	G#4	420.675
+107	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	12.9974	13.0844	0.087075	lngRoll_nt	A4	438.312
+108	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	13.1207	13.2267	0.10594	NOTE	B4	487.133
+109	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	13.2455	13.2934	0.047891	ct	C5	526.769
+110	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	13.3123	13.4023	0.089977	NOTE	B4	486.181
+111	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	13.4603	13.5706	0.11029	NOTE	G4	389.783
+112	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	13.5938	13.7259	0.13206	NOTE	B4	487.133
+113	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	13.7448	13.8507	0.10594	NOTE	A4	435.748
+114	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	13.8638	13.9204	0.056599	ct	C5	511.541
+115	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	13.9392	14.0539	0.11465	NOTE	A4	434.047
+116	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	14.0815	14.2266	0.14512	NOTE	F#4	361.867
+117	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	14.2469	14.3775	0.13061	NOTE	A4	432.352
+118	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	14.3862	14.5154	0.12916	NOTE	G4	385.236
+119	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	14.5444	14.6387	0.094331	NOTE	B4	484.283
+120	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	14.6532	14.6852	0.031927	ct	Bb4	464.797
+121	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	14.6939	14.7229	0.029025	NOTE	B4	504.586
+122	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	14.7302	14.8724	0.14222	NOTE	A4	434.047
+123	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	14.8912	15.0001	0.10884	NOTE	G4	386.746
+124	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	15.0219	15.1844	0.16254	NOTE	F#4	362.575
+125	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	15.2047	15.3266	0.1219	NOTE	A4	429.823
+126	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	15.3673	15.4834	0.1161	NOTE	E4	326.237
+127	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	15.5429	15.6517	0.10884	NOTE	A4	431.508
+128	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	15.6764	15.7939	0.11755	NOTE	D4	290.117
+129	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	15.8273	15.926	0.098685	lngRoll_nt	G4	387.503
+130	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	15.9405	15.9869	0.04644	lngRoll_ct	A4	431.508
+131	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	16.0015	16.09	0.088526	lngRoll_nt	G4	387.503
+132	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	16.1088	16.164	0.055147	lngRoll_str	F#4	379.256
+133	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	16.1741	16.2743	0.10014	lngRoll_nt	G4	388.262
+134	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	16.2961	16.3802	0.084172	NOTE	A4	441.754
+135	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	16.3976	16.6008	0.20317	BREATH	BREATH	0
+136	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	16.6153	16.759	0.14367	NOTE	B4	496.753
+137	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	16.7706	16.9143	0.14367	NOTE	C#5	543.513
+138	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	16.9332	17.0841	0.15093	NOTE	D5	582.018
+139	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	17.0971	17.2089	0.11175	NOTE	F#5	724.539
+140	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	17.219	17.2626	0.043537	ct	F#5	759.357
+141	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	17.2815	17.4063	0.12481	NOTE	E5	649.381
+142	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	17.4367	17.5615	0.12481	NOTE	D5	578.613
+143	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	17.5833	17.7313	0.14803	NOTE	C5	511.541
+144	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	17.7647	17.8358	0.071111	NOTE	A4	434.896
+145	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	17.8503	17.9461	0.095782	NOTE	A4	434.896
+146	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	17.9621	18.1783	0.21624	BREATH	BREATH	0
+147	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	18.1899	18.3104	0.12045	lngRoll_nt	F#5	732.657
+148	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	18.3191	18.3989	0.079819	lngRoll_ct	G#5	838.775
+149	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	18.4076	18.4541	0.04644	lngRoll_nt	F#5	729.361
+150	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	18.4642	18.5339	0.06966	lngRoll_str	F5	716.325
+151	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	18.5484	18.6572	0.10884	lngRoll_nt	F#5	731.007
+152	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	18.6674	18.8314	0.16399	NOTE	D5	580.839
+153	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	18.8415	19.0012	0.15964	NOTE	E5	650.144
+154	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.0113	19.1521	0.14077	NOTE	D5	578.226
+155	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.1623	19.3176	0.15528	NOTE	B4	508.499
+156	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.3364	19.4772	0.14077	NOTE	A4	429.397
+157	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.4946	19.6383	0.14367	NOTE	G4	391.486
+158	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.6615	19.7602	0.098685	NOTE	B4	481.717
+159	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.7747	19.8052	0.030476	ct	A4	437.211
+160	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.8081	19.8356	0.027574	NOTE	Bb4	479.55
+161	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.8458	19.9503	0.10449	NOTE	A4	431.337
+162	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	19.9837	20.0896	0.10594	NOTE	F4	358.536
+163	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	20.1186	20.1535	0.03483	shRoll_ct	G#4	423.628
+164	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	20.1665	20.2638	0.097234	shRoll_nt	G4	384.489
+165	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	20.2667	20.3059	0.039184	shRoll_str	F#4	376.766
+166	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	20.3218	20.435	0.1132	shRoll_nt	G4	386.227
+167	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	20.4568	20.5859	0.12916	NOTE	B4	484.986
+168	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	20.6063	20.7441	0.13787	NOTE	C5	511.949
+169	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	20.7586	20.8747	0.1161	NOTE	D5	579.531
+170	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	20.9168	21.0257	0.10884	NOTE	G5	780.396
+171	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.0503	21.1055	0.055147	ct	A5	869.583
+172	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.1215	21.2434	0.1219	NOTE	G5	778.639
+173	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.2593	21.3725	0.1132	NOTE	F#5	722.813
+174	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.3725	21.4219	0.049342	shRoll_ct	A5	859.835
+175	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.448	21.5467	0.098685	shRoll_nt	G5	782.157
+176	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.5597	21.6033	0.043537	shRoll_str	F#5	759.567
+177	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.6236	21.7281	0.10449	shRoll_nt	G5	778.639
+178	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.7411	21.8659	0.12481	NOTE	F#5	727.719
+179	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	21.8746	22.0357	0.16109	NOTE	G5	776.885
+180	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	22.0459	22.1722	0.12626	lngRoll_nt	A5	880.311
+181	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	22.1852	22.2607	0.075465	lngRoll_ct	B5	983.647
+182	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	22.2607	22.3376	0.076916	lngRoll_nt	A5	880.311
+183	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	22.3434	22.4058	0.062404	lngRoll_str	G#5	843.676
+184	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	22.4189	22.5132	0.094331	lngRoll_nt	A5	880.311
+185	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	22.5248	22.6714	0.14658	NOTE	G5	784.119
+186	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	22.6859	22.8368	0.15093	NOTE	F#5	725.333
+187	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	22.8528	23.0037	0.15093	NOTE	E5	650.668
+188	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	23.0153	23.1546	0.13932	NOTE	D5	583.69
+189	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	23.188	23.3172	0.12916	NOTE	C5	511.386
+190	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	23.3477	23.4536	0.10594	NOTE	B4	485.496
+191	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	23.4652	23.5189	0.053696	ct	C5	513.807
+192	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	23.5349	23.6321	0.097234	NOTE	B4	483.208
+193	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	23.664	23.8048	0.14077	NOTE	G4	385.192
+194	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	23.828	23.9427	0.11465	NOTE	B4	480.931
+195	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	23.9543	24.0675	0.1132	NOTE	A4	437.582
+196	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	24.0849	24.2373	0.15238	BREATH	BREATH	0
+197	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	24.2663	24.3592	0.09288	NOTE	F#4	363.967
+198	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	24.4346	24.5145	0.079819	NOTE	A4	431.426
+199	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	24.6161	24.7336	0.11755	NOTE	G4	387.93
+200	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	24.7438	24.8744	0.13061	NOTE	B4	480.931
+201	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	24.8903	24.9411	0.050794	ct	C5	510.18
+202	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	24.9426	25.079	0.13642	NOTE	A4	430.408
+203	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	25.1051	25.2183	0.1132	NOTE	G4	387.015
+204	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	25.2459	25.3678	0.1219	NOTE	F#4	362.253
+205	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	25.4142	25.526	0.11175	NOTE	D4	288.09
+206	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	25.5347	25.645	0.11029	NOTE	D5	586.453
+207	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	25.661	25.8569	0.19592	BREATH	BREATH	0
+208	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	25.8699	25.9889	0.119	NOTE	D5	585.07
+209	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.0325	26.1805	0.14803	NOTE	G5	778.583
+210	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.1849	26.2356	0.050794	ct	G#5	829.844
+211	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.2458	26.375	0.12916	NOTE	G5	782.269
+212	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.3851	26.507	0.1219	NOTE	F#5	721.915
+213	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.507	26.5636	0.056599	shRoll_ct	G#5	823.985
+214	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.5868	26.6928	0.10594	shRoll_nt	G5	778.583
+215	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.6986	26.7508	0.052245	shRoll_str	F#5	756.829
+216	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.7566	26.8713	0.11465	shRoll_nt	G5	780.424
+217	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	26.8785	27.0048	0.12626	NOTE	F#5	723.622
+218	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.0121	27.1557	0.14367	NOTE	G5	773.087
+219	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.1586	27.3052	0.14658	lngRoll_nt	A5	872.035
+220	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.3197	27.3792	0.059501	lngRoll_ct	B5	965.239
+221	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.3923	27.459	0.066757	lngRoll_nt	A5	865.879
+222	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.4663	27.5127	0.04644	lngRoll_str	G#5	829.844
+223	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.5229	27.6303	0.10739	lngRoll_nt	A5	867.926
+224	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.6376	27.7885	0.15093	NOTE	G5	778.583
+225	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.7986	27.9423	0.14367	NOTE	F#5	727.048
+226	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	27.9554	28.0976	0.14222	NOTE	E5	650.668
+227	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	28.1121	28.2442	0.13206	NOTE	D5	582.313
+228	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	28.2601	28.4125	0.15238	NOTE	E5	646.075
+229	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	28.4198	28.4619	0.042086	shRoll_ct	G#5	823.985
+230	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	28.4793	28.5649	0.085624	shRoll_nt	F#5	721.915
+231	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	28.5838	28.6317	0.047891	shRoll_str	F5	701.745
+232	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	28.6404	28.7463	0.10594	shRoll_nt	F#5	723.622
+233	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	28.7608	28.8943	0.13351	NOTE	D5	578.203
+234	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	28.9205	29.0162	0.095782	NOTE	F5	716.819
+235	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	29.0322	29.0815	0.049342	ct	F#5	755.045
+236	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	29.099	29.2107	0.11175	NOTE	E5	647.603
+237	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	29.2325	29.366	0.13351	NOTE	D5	580.94
+238	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	29.4037	29.5213	0.11755	NOTE	C5	515.022
+239	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	29.5503	29.6751	0.12481	NOTE	A4	432.445
+240	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	29.6983	29.8478	0.14948	NOTE	G4	386.102
+241	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	29.8855	30.0045	0.119	NOTE	B4	484.351
+242	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	30.0263	30.1671	0.14077	NOTE	A4	433.468
+243	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	30.199	30.3137	0.11465	NOTE	F#4	359.695
+244	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	30.3383	30.3877	0.049342	ct	A4	429.393
+245	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	30.3993	30.6605	0.26122	NOTE	G4	389.767
+246	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	30.6881	30.8303	0.14222	NOTE	B4	487.794
+247	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	30.8492	30.9725	0.12336	NOTE	C5	517.46
+248	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	30.987	31.0712	0.084172	NOTE	D5	583.69
+249	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	31.0872	31.2613	0.17415	NOTE	D5	580.94
+250	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	31.27	31.4703	0.20027	NOTE	G5	784.119
+251	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	31.4819	31.6082	0.12626	NOTE	F#5	728.766
+252	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	31.6183	31.6909	0.072562	shRoll_ct	A5	855.715
+253	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	31.6996	31.7896	0.089977	shRoll_nt	G5	782.269
+254	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	31.7954	31.852	0.056599	shRoll_str	F#5	755.045
+255	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	31.8563	31.9463	0.089977	shRoll_nt	G5	784.119
+256	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	31.9565	32.0972	0.14077	NOTE	F#5	730.49
+257	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	32.1059	32.254	0.14803	NOTE	G5	780.424
+258	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	32.2685	32.4049	0.13642	lngRoll_nt	A5	882.393
+259	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	32.4238	32.4905	0.066757	lngRoll_ct	B5	992.983
+260	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	32.5079	32.566	0.05805	lngRoll_nt	A5	882.393
+261	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	32.5718	32.6385	0.066757	lngRoll_str	A5	855.715
+262	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	32.6487	32.7401	0.091429	lngRoll_nt	A5	880.311
+263	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	32.7532	32.9012	0.14803	NOTE	G5	784.119
+264	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	32.9114	33.0696	0.15819	NOTE	F#5	721.915
+265	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	33.0884	33.2205	0.13206	NOTE	E5	653.749
+266	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	33.2321	33.3671	0.13497	NOTE	D5	583.69
+267	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	33.4019	33.5412	0.13932	NOTE	C5	510.18
+268	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	33.5775	33.6776	0.10014	NOTE	B4	482.069
+269	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	33.6863	33.7429	0.056599	ct	C5	510.18
+270	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	33.7531	33.8547	0.10159	NOTE	B4	484.351
+271	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	33.9069	34.0259	0.119	NOTE	G4	387.015
+272	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	34.0521	34.1537	0.10159	NOTE	B4	483.208
+273	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	34.2044	34.3525	0.14803	lngRoll_nt	A4	433.468
+274	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	34.3592	34.4201	0.060952	lngRoll_ct	A4	441.26
+275	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	34.4207	34.4671	0.04644	lngRoll_nt	A4	435.52
+276	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	34.4729	34.5252	0.052245	lngRoll_str	G#4	421.357
+277	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	34.5397	34.6688	0.12916	lngRoll_nt	A4	434.493
+278	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	34.7022	34.8401	0.13787	NOTE	F#4	359.695
+279	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	34.8561	34.9838	0.12771	NOTE	G4	385.192
+280	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	35.0128	35.1115	0.098685	NOTE	B4	483.208
+281	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	35.1449	35.1927	0.047891	ct	C5	513.807
+282	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	35.2073	35.319	0.11175	NOTE	A4	429.393
+283	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	35.3364	35.4728	0.13642	NOTE	G4	386.102
+284	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	35.4844	35.6499	0.16544	NOTE	F#4	363.109
+285	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	35.6862	35.7761	0.089977	NOTE	D4	293.585
+286	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	35.8008	35.901	0.10014	NOTE	D5	583.69
+287	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	35.9126	36.1056	0.19302	BREATH	BREATH	0
+288	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	36.1245	36.2061	0.081633	NOTE	B4	496.9
+289	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	36.3349	36.4524	0.11755	lngRoll_nt	G4	386.102
+290	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	36.4655	36.5105	0.044989	lngRoll_ct	A4	431.426
+291	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	36.5235	36.615	0.091429	lngRoll_nt	G4	387.015
+292	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	36.6193	36.6614	0.042086	lngRoll_str	F#4	377.983
+293	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	36.6745	36.7746	0.10014	lngRoll_nt	G4	388.848
+294	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	36.8022	36.9502	0.14803	NOTE	A4	436.55
+295	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	36.9792	37.091	0.11175	lngRoll_nt	F#4	363.967
+296	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.1055	37.1447	0.039184	lngRoll_ct	G#4	417.395
+297	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.1519	37.2317	0.079819	lngRoll_nt	F#4	360.546
+298	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.2419	37.2811	0.039184	lngRoll_str	F4	346.358
+299	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.2985	37.4378	0.13932	lngRoll_nt	F#4	365.691
+300	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.4596	37.5989	0.13932	NOTE	D5	582.313
+301	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.6149	37.7353	0.12045	NOTE	F#5	720.212
+302	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.7484	37.7745	0.026122	ct	E5	650.668
+303	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.7789	37.8079	0.029025	NOTE	F#5	720.212
+304	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.8195	37.9254	0.10594	NOTE	E5	647.603
+305	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	37.9429	38.0822	0.13932	NOTE	D5	580.94
+306	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	38.1083	38.252	0.14367	NOTE	C5	511.386
+307	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	38.2723	38.402	0.12975	lngRoll_nt	A4	433.468
+308	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	38.402	38.4398	0.037732	lngRoll_ct	C5	510.187
+309	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	38.451	38.4964	0.045351	lngRoll_nt	A4	436.754
+310	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	38.498	38.5415	0.043537	lngRoll_str	G#4	419.867
+311	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	38.549	38.7061	0.15714	lngRoll_nt	A4	437.322
+312	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	38.7184	39.0531	0.33469	NOTE	F#5	725.978
+313	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	39.0531	39.2041	0.15102	NOTE	D5	586.138
+314	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	39.2041	39.3367	0.13265	NOTE	F#5	719.64
+315	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	39.3367	39.3796	0.042857	ct	F#5	754.629
+316	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	39.3796	39.5429	0.16327	NOTE	E5	648.898
+317	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	39.5449	39.7041	0.15918	NOTE	D5	583.062
+318	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	39.7122	39.8673	0.1551	NOTE	C5	515.701
+319	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	39.8673	40.0204	0.15306	NOTE	A4	438.09
+320	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	40.0341	40.1357	0.10159	NOTE	G4	387.015
+321	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	40.2039	40.2765	0.072562	NOTE	Bb4	477.536
+322	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	40.3461	40.4971	0.15093	NOTE	G#4	426.361
+323	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	40.5101	40.6306	0.12045	NOTE	F4	355.473
+324	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	40.661	40.7104	0.049342	shRoll_ct	A4	431.426
+325	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	40.7278	40.8076	0.079819	shRoll_nt	G4	381.57
+326	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	40.8149	40.8555	0.040635	shRoll_str	F#4	370.909
+327	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	40.8657	40.9876	0.1219	shRoll_nt	F#4	379.772
+328	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	41.0224	41.1864	0.16399	NOTE	E4	324.196
+329	Lar_EssentialGuideCD2_Tk93Tu1R1_TheShaskeen.txt	41.2111	41.3736	0.16254	NOTE	G4	382.472

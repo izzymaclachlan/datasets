@@ -1,221 +1,221 @@
-1	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	0.64127	0.84082	0.19955	NOTE	B4	494.19	1
-2	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	0.84354	0.93515	0.09161	NOTE	C#5	549.121	1
-3	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	0.93696	1.1973	0.26032	NOTE	D5	589.094	1
-4	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	1.2535	1.3841	0.13061	NOTE	B4	492.457	1
-5	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	1.385	1.4893	0.10431	NOTE	G4	397.46	1
-6	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	1.4912	1.542	0.050794	ct	B4	501.184	2
-7	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	1.5483	1.6227	0.074376	NOTE	A4	441.64	1
-8	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	1.6272	1.7696	0.1424	NOTE	G4	389.17	1
-9	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	1.7751	1.9175	0.1424	NOTE	E4	332.26	1
-10	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	1.9193	2.0354	0.1161	NOTE	G4	396.066	1
-11	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	2.039	2.1778	0.13878	NOTE	D4	291.758	1
-12	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	2.1896	2.2694	0.079819	NOTE	G4	389.17	1
-13	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	2.273	2.3147	0.041723	ct	C#5	541.458	2
-14	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	2.3184	2.4073	0.088889	NOTE	B4	492.457	1
-15	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	2.4163	2.5288	0.11247	NOTE	G4	386.445	1
-16	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	2.5333	2.7991	0.26576	NOTE	A4	444.754	1
-17	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	2.8127	2.9333	0.12063	NOTE	A4	441.64	1
-18	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	2.937	3.0204	0.083447	NOTE	B4	497.675	1
-19	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.0231	3.3016	0.27846	NOTE	D5	589.094	1
-20	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.3098	3.3442	0.034467	ct	D5	587.028	2
-21	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.3488	3.4422	0.093424	NOTE	B4	492.457	1
-22	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.4494	3.5456	0.096145	NOTE	G4	387.805	1
-23	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.5519	3.5973	0.045351	ct	B4	497.675	2
-24	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.5991	3.6961	0.097052	NOTE	A4	437.009	1
-25	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.6989	3.8304	0.13152	NOTE	G4	391.914	1
-26	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.8385	3.9728	0.13424	NOTE	E4	328.776	1
-27	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.9764	4.0807	0.10431	NOTE	G4	391.914	1
-28	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	4.0907	4.2322	0.1415	NOTE	D4	293.815	1
-29	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	4.2331	4.3147	0.081633	NOTE	G4	390.54	1
-30	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	4.3265	4.3655	0.039002	ct	C#5	541.458	2
-31	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	4.371	4.4535	0.08254	NOTE	B4	494.19	1
-32	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	4.4626	4.6032	0.14059	NOTE	G4	393.293	1
-33	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	4.6032	4.732	0.1288	NOTE	E4	329.933	1
-34	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	4.7365	4.8417	0.10522	NOTE	G4	397.46	1
-35	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	4.849	5.0159	0.16689	NOTE	G4	393.293	1
-36	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.0177	5.1002	0.08254	NOTE	B4	502.948	1
-37	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.1156	5.1991	0.083447	NOTE	D5	595.336	1
-38	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.2036	5.3587	0.1551	BREATH	BREATH	0	4
-39	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.3642	5.4857	0.12154	NOTE	B4	501.184	1
-40	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.4957	5.6082	0.11247	NOTE	G4	393.293	1
-41	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.6127	5.6671	0.054422	ct	B4	504.718	2
-42	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.6698	5.7605	0.090703	NOTE	A4	441.64	1
-43	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.7642	5.8875	0.12336	NOTE	G4	393.293	1
-44	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.8912	6.0345	0.14331	NOTE	E4	338.148	1
-45	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	6.0345	6.137	0.10249	NOTE	G4	391.914	1
-46	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	6.1469	6.283	0.13605	NOTE	D4	290.735	1
-47	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	6.2866	6.3882	0.10159	NOTE	G4	386.445	1
-48	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	6.3946	6.4372	0.04263	ct	C#5	551.054	2
-49	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	6.4399	6.5152	0.075283	NOTE	B4	494.19	1
-50	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	6.517	6.6367	0.11973	NOTE	G4	389.17	1
-51	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	6.6404	6.8889	0.24853	NOTE	A4	443.194	1
-52	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	6.8971	7.0431	0.14603	NOTE	A4	447.89	1
-53	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.0431	7.0993	0.056236	NOTE	B4	497.675	1
-54	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.102	7.2408	0.13878	NOTE	D5	589.094	1
-55	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.2463	7.3887	0.1424	BREATH	BREATH	0	4
-56	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.3977	7.4385	0.040816	ct	C#5	554.939	2
-57	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.4458	7.5229	0.077098	NOTE	B4	494.19	1
-58	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.5293	7.6399	0.11066	NOTE	G4	390.54	1
-59	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.6454	7.6889	0.043537	ct	B4	501.184	2
-60	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.6907	7.7868	0.096145	NOTE	A4	446.319	1
-61	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.7995	7.9265	0.12698	NOTE	G4	396.066	1
-62	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.9338	8.0671	0.13333	NOTE	E4	334.603	1
-63	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.0717	8.166	0.094331	NOTE	G4	391.914	1
-64	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.1723	8.3329	0.16054	NOTE	D4	292.785	1
-65	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.342	8.4118	0.069841	NOTE	G4	393.293	1
-66	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.4118	8.4499	0.038095	ct	C#5	552.993	2
-67	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.4553	8.5497	0.094331	NOTE	B4	501.184	1
-68	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.5515	8.6848	0.13333	NOTE	G4	391.914	1
-69	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.6884	8.81	0.12154	NOTE	E4	332.26	1
-70	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.8109	8.9043	0.093424	NOTE	G4	389.17	1
-71	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.9061	8.9551	0.04898	NOTE	A4	438.548	1
-72	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.9578	9.0531	0.095238	NOTE	G4	391.914	1
-73	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.0549	9.1837	0.1288	NOTE	D4	291.758	1
-74	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.1918	9.2844	0.092517	lngRoll_nt	G4	391.914	
-75	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.2862	9.3188	0.032653	lngRoll_ct	A4	437.009	
-76	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.3252	9.4077	0.08254	lngRoll_nt	G4	394.678	
-77	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.4204	9.4503	0.029932	lngRoll_str	G4	385.09	
-78	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.4603	9.5628	0.10249	lngRoll_nt	G4	393.293	
-79	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.5628	9.649	0.086168	NOTE	B4	499.426	1
-80	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.6553	9.7778	0.12245	NOTE	D5	591.167	1
-81	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.785	9.9229	0.13787	BREATH	BREATH	0	4
-82	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.9256	10.0435	0.11791	NOTE	B4	502.948	1
-83	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.0499	10.2086	0.15873	NOTE	D5	589.094	1
-84	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.2177	10.2766	0.058957	NOTE	E5	668.519	1
-85	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.2766	10.3474	0.070748	NOTE	G5	783.023	1
-86	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.3546	10.4327	0.078005	NOTE	A5	882.373	1
-87	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.4327	10.4635	0.030839	ct	B5	977.014	2
-88	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.4689	10.5642	0.095238	NOTE	A5	876.195	1
-89	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.5687	10.6966	0.12789	NOTE	G5	794.105	1
-90	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.6975	10.8263	0.1288	NOTE	E5	649.99	1
-91	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.8263	10.9324	0.10612	NOTE	G5	785.779	1
-92	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.9324	10.9615	0.029025	ct	A5	894.861	2
-93	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.9642	11.0113	0.047166	NOTE	G5	796.9	1
-94	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.0113	11.0812	0.069841	NOTE	G4	397.46	1
-95	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.0921	11.2209	0.1288	NOTE	D4	292.785	1
-96	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.2245	11.3016	0.077098	lngRoll_nt	G4	391.914	
-97	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.3134	11.3424	0.029025	lngRoll_ct	A4	438.548	
-98	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.3442	11.4367	0.092517	lngRoll_nt	G4	396.066	
-99	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.4485	11.4685	0.019955	lngRoll_str	G4	382.393	
-100	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.4766	11.5546	0.078005	lngRoll_nt	G4	393.293	
-101	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.5546	11.6617	0.10703	NOTE	B4	497.675	1
-102	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.6671	11.7887	0.12154	NOTE	D5	589.094	1
-103	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.7959	11.961	0.16508	BREATH	BREATH	0	4
-104	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.961	12.0989	0.13787	NOTE	B4	502.948	1
-105	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.1016	12.2113	0.10975	NOTE	D5	595.336	1
-106	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.2168	12.3356	0.11882	NOTE	D5	591.167	1
-107	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.3356	12.439	0.1034	NOTE	E5	668.519	1
-108	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.4426	12.6122	0.16961	NOTE	G5	794.105	1
-109	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.615	12.7293	0.11429	NOTE	A5	891.722	1
-110	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.732	12.7927	0.060771	ct	C6	1059.24	2
-111	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.7982	12.8707	0.072562	NOTE	B5	983.903	1
-112	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.8707	12.9642	0.093424	NOTE	G5	791.32	1
-113	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.9642	13.0086	0.044444	cr	A5	891.722	
-114	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.0458	13.1111	0.065306	NOTE	G5	788.545	1
-115	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.1147	13.2163	0.10159	NOTE	D5	580.873	1
-116	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.2236	13.337	0.11338	lngRoll_nt	G4	394.678	
-117	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.3388	13.3741	0.035374	lngRoll_ct	A4	437.009	
-118	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.3751	13.4694	0.094331	lngRoll_nt	G4	396.066	
-119	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.4748	13.5093	0.034467	lngRoll_str	G4	383.739	
-120	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.5102	13.5637	0.053515	lngRoll_nt	G4	396.066	
-121	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.6317	13.7116	0.079819	NOTE	B4	499.426	1
-122	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.7243	13.8204	0.096145	NOTE	D5	587.028	1
-123	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.8286	13.9655	0.13696	BREATH	BREATH	0	4
-124	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.9737	14.1034	0.12971	NOTE	B4	506.494	1
-125	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.1043	14.2449	0.14059	NOTE	D5	591.167	1
-126	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.2449	14.3483	0.1034	NOTE	E5	666.174	1
-127	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.3637	14.4553	0.09161	NOTE	A5	885.478	1
-128	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.459	14.4998	0.040816	ct	B5	980.452	2
-129	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.5061	14.6104	0.10431	NOTE	A5	898.01	1
-130	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.6195	14.7374	0.11791	NOTE	G5	785.779	1
-131	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.742	14.8707	0.1288	NOTE	E5	677.98	1
-132	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.8735	14.9515	0.078005	NOTE	G5	785.779	1
-133	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.9569	14.9914	0.034467	ct	A5	891.722	2
-134	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.995	15.0875	0.092517	NOTE	G5	796.9	1
-135	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.0912	15.2127	0.12154	NOTE	D5	591.167	1
-136	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.2236	15.3188	0.095238	lngRoll_nt	G4	391.914	
-137	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.3188	15.3478	0.029025	lngRoll_ct	A4	438.548	
-138	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.3596	15.4531	0.093424	lngRoll_nt	G4	396.066	
-139	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.463	15.4912	0.028118	lngRoll_str	G4	382.393	
-140	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.502	15.6054	0.1034	lngRoll_nt	G4	390.54	
-141	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.6073	15.7079	0.10068	NOTE	B4	499.426	1
-142	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.7234	15.8141	0.090703	NOTE	D5	593.248	1
-143	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.8186	15.9646	0.14603	BREATH	BREATH	0	4
-144	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.9655	16.059	0.093424	NOTE	B4	497.675	1
-145	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.1088	16.234	0.12517	NOTE	D5	593.248	1
-146	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.244	16.2766	0.032653	ct	D5	601.644	2
-147	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.283	16.3655	0.08254	NOTE	D5	587.028	1
-148	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.3701	16.4508	0.080726	NOTE	E5	661.51	1
-149	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.4508	16.6231	0.17234	NOTE	G5	794.105	1
-150	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.6231	16.7247	0.10159	NOTE	A5	882.373	1
-151	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.732	16.7664	0.034467	ct	C#6	1081.81	2
-152	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.7683	16.8689	0.10068	NOTE	B5	977.014	1
-153	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.8707	17.0068	0.13605	NOTE	A5	879.278	1
-154	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.0141	17.1392	0.12517	NOTE	G5	785.779	1
-155	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.142	17.2336	0.09161	NOTE	E5	670.871	1
-156	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.2354	17.3342	0.098866	NOTE	D5	599.533	1
-157	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.3397	17.502	0.16236	BREATH	BREATH	0	4
-158	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.5039	17.6408	0.13696	NOTE	B4	497.675	1
-159	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.6444	17.7497	0.10522	NOTE	G4	390.54	1
-160	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.7569	17.7932	0.036281	ct	B4	495.929	2
-161	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.7968	17.8948	0.097959	NOTE	A4	447.89	1
-162	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.902	18.0263	0.12426	NOTE	G4	394.678	1
-163	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	18.0299	18.1678	0.13787	NOTE	E4	334.603	1
-164	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	18.1814	18.2766	0.095238	NOTE	G4	390.54	1
-165	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	18.2848	18.4181	0.13333	NOTE	D4	292.785	1
-166	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	18.4181	18.5134	0.095238	NOTE	G4	390.54	1
-167	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	18.5188	18.5633	0.044444	ct	C#5	545.276	2
-168	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	18.5633	18.6385	0.075283	NOTE	B4	506.494	1
-169	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	18.6485	18.7646	0.1161	NOTE	G4	393.293	1
-170	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	18.7673	19.1939	0.42653	NOTE	A4	447.89	1
-171	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.1939	19.2551	0.061224	NOTE	B4	495.929	1
-172	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.2622	19.3561	0.093878	NOTE	D5	597.431	1
-173	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.3592	19.5153	0.15612	BREATH	BREATH	0	4
-174	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.5153	19.5622	0.046939	ct	C#5	558.853	2
-175	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.5643	19.6531	0.088776	NOTE	B4	497.675	1
-176	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.6561	19.7673	0.11122	NOTE	G4	394.678	1
-177	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.7704	19.8184	0.047959	ct	B4	502.948	2
-178	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.8255	19.9061	0.080612	NOTE	A4	444.754	1
-179	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.9092	20.0418	0.13265	NOTE	G4	400.263	1
-180	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.0429	20.1837	0.14082	NOTE	E4	335.78	1
-181	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.1837	20.2857	0.10204	NOTE	G4	394.678	1
-182	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.2878	20.4347	0.14694	NOTE	D4	292.785	1
-183	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.4429	20.5378	0.094898	NOTE	G4	390.54	1
-184	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.5429	20.5745	0.031633	ct	C#5	552.993	2
-185	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.5786	20.648	0.069388	NOTE	B4	492.457	1
-186	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.6592	20.7959	0.13673	NOTE	G4	394.678	1
-187	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.798	20.9245	0.12653	NOTE	E4	333.429	1
-188	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.9255	21.1918	0.26633	NOTE	G4	397.46	1
-189	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	21.2	21.2806	0.080612	NOTE	B4	502.948	1
-190	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	21.2878	21.3612	0.073469	NOTE	D5	599.533	1
-191	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	21.3649	21.539	0.1741	BREATH	BREATH	0	4
-192	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	21.5439	21.6663	0.12245	NOTE	B4	502.948	1
-193	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	21.6704	21.799	0.12857	NOTE	G4	397.46	1
-194	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	21.8071	21.8459	0.038776	ct	B4	506.494	2
-195	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	21.849	21.9582	0.10918	NOTE	A4	447.89	1
-196	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	21.9582	22.0714	0.11327	NOTE	G4	394.678	1
-197	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	22.0755	22.2163	0.14082	NOTE	E4	332.26	1
-198	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	22.2163	22.3265	0.1102	NOTE	G4	393.293	1
-199	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	22.3337	22.4684	0.13469	NOTE	D4	292.785	1
-200	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	22.4745	22.551	0.076531	NOTE	G4	393.293	1
-201	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	22.5633	22.601	0.037755	ct	C#5	560.82	2
-202	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	22.602	22.6776	0.07551	NOTE	B4	494.19	1
-203	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	22.6847	22.8112	0.12653	NOTE	G4	389.17	1
-204	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	22.8133	23.2235	0.4102	NOTE	A4	444.754	1
-205	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	23.2276	23.3071	0.079592	NOTE	B4	495.929	1
-206	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	23.3204	23.549	0.22857	NOTE	D5	589.094	1
-207	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	23.5592	23.6061	0.046939	ct	C#5	560.82	2
-208	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	23.6122	23.6939	0.081633	NOTE	B4	497.675	1
-209	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	23.701	23.8153	0.11429	NOTE	G4	387.805	1
-210	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	23.8194	23.8541	0.034694	ct	B4	501.184	2
-211	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	23.8541	23.9541	0.1	NOTE	A4	446.319	1
-212	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	23.9561	24.0929	0.13673	NOTE	G4	394.678	1
-213	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.0969	24.2296	0.13265	NOTE	E4	334.603	1
-214	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.2337	24.3327	0.09898	NOTE	G4	397.46	1
-215	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.3398	24.4694	0.12959	NOTE	D4	290.735	1
-216	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.4745	24.5724	0.097959	NOTE	G4	390.54	1
-217	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.5857	24.6163	0.030612	ct	C#5	547.195	2
-218	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.6184	24.6918	0.073469	NOTE	B4	495.929	1
-219	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.7	24.8469	0.14694	NOTE	G4	396.066	1
-220	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.849	24.9827	0.13367	NOTE	E4	333.429	1
-221	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.9827	25.1673	0.18469	NOTE	G4	394.678	1
+1	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	0.64127	0.84082	0.19955	NOTE	B4	494.19
+2	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	0.84354	0.93515	0.09161	NOTE	C#5	549.121
+3	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	0.93696	1.1973	0.26032	NOTE	D5	589.094
+4	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	1.2535	1.3841	0.13061	NOTE	B4	492.457
+5	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	1.385	1.4893	0.10431	NOTE	G4	397.46
+6	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	1.4912	1.542	0.050794	ct	B4	501.184
+7	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	1.5483	1.6227	0.074376	NOTE	A4	441.64
+8	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	1.6272	1.7696	0.1424	NOTE	G4	389.17
+9	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	1.7751	1.9175	0.1424	NOTE	E4	332.26
+10	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	1.9193	2.0354	0.1161	NOTE	G4	396.066
+11	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	2.039	2.1778	0.13878	NOTE	D4	291.758
+12	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	2.1896	2.2694	0.079819	NOTE	G4	389.17
+13	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	2.273	2.3147	0.041723	ct	C#5	541.458
+14	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	2.3184	2.4073	0.088889	NOTE	B4	492.457
+15	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	2.4163	2.5288	0.11247	NOTE	G4	386.445
+16	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	2.5333	2.7991	0.26576	NOTE	A4	444.754
+17	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	2.8127	2.9333	0.12063	NOTE	A4	441.64
+18	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	2.937	3.0204	0.083447	NOTE	B4	497.675
+19	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.0231	3.3016	0.27846	NOTE	D5	589.094
+20	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.3098	3.3442	0.034467	ct	D5	587.028
+21	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.3488	3.4422	0.093424	NOTE	B4	492.457
+22	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.4494	3.5456	0.096145	NOTE	G4	387.805
+23	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.5519	3.5973	0.045351	ct	B4	497.675
+24	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.5991	3.6961	0.097052	NOTE	A4	437.009
+25	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.6989	3.8304	0.13152	NOTE	G4	391.914
+26	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.8385	3.9728	0.13424	NOTE	E4	328.776
+27	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	3.9764	4.0807	0.10431	NOTE	G4	391.914
+28	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	4.0907	4.2322	0.1415	NOTE	D4	293.815
+29	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	4.2331	4.3147	0.081633	NOTE	G4	390.54
+30	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	4.3265	4.3655	0.039002	ct	C#5	541.458
+31	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	4.371	4.4535	0.08254	NOTE	B4	494.19
+32	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	4.4626	4.6032	0.14059	NOTE	G4	393.293
+33	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	4.6032	4.732	0.1288	NOTE	E4	329.933
+34	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	4.7365	4.8417	0.10522	NOTE	G4	397.46
+35	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	4.849	5.0159	0.16689	NOTE	G4	393.293
+36	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.0177	5.1002	0.08254	NOTE	B4	502.948
+37	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.1156	5.1991	0.083447	NOTE	D5	595.336
+38	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.2036	5.3587	0.1551	BREATH	BREATH	0
+39	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.3642	5.4857	0.12154	NOTE	B4	501.184
+40	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.4957	5.6082	0.11247	NOTE	G4	393.293
+41	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.6127	5.6671	0.054422	ct	B4	504.718
+42	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.6698	5.7605	0.090703	NOTE	A4	441.64
+43	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.7642	5.8875	0.12336	NOTE	G4	393.293
+44	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	5.8912	6.0345	0.14331	NOTE	E4	338.148
+45	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	6.0345	6.137	0.10249	NOTE	G4	391.914
+46	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	6.1469	6.283	0.13605	NOTE	D4	290.735
+47	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	6.2866	6.3882	0.10159	NOTE	G4	386.445
+48	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	6.3946	6.4372	0.04263	ct	C#5	551.054
+49	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	6.4399	6.5152	0.075283	NOTE	B4	494.19
+50	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	6.517	6.6367	0.11973	NOTE	G4	389.17
+51	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	6.6404	6.8889	0.24853	NOTE	A4	443.194
+52	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	6.8971	7.0431	0.14603	NOTE	A4	447.89
+53	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.0431	7.0993	0.056236	NOTE	B4	497.675
+54	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.102	7.2408	0.13878	NOTE	D5	589.094
+55	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.2463	7.3887	0.1424	BREATH	BREATH	0
+56	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.3977	7.4385	0.040816	ct	C#5	554.939
+57	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.4458	7.5229	0.077098	NOTE	B4	494.19
+58	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.5293	7.6399	0.11066	NOTE	G4	390.54
+59	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.6454	7.6889	0.043537	ct	B4	501.184
+60	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.6907	7.7868	0.096145	NOTE	A4	446.319
+61	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.7995	7.9265	0.12698	NOTE	G4	396.066
+62	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	7.9338	8.0671	0.13333	NOTE	E4	334.603
+63	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.0717	8.166	0.094331	NOTE	G4	391.914
+64	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.1723	8.3329	0.16054	NOTE	D4	292.785
+65	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.342	8.4118	0.069841	NOTE	G4	393.293
+66	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.4118	8.4499	0.038095	ct	C#5	552.993
+67	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.4553	8.5497	0.094331	NOTE	B4	501.184
+68	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.5515	8.6848	0.13333	NOTE	G4	391.914
+69	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.6884	8.81	0.12154	NOTE	E4	332.26
+70	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.8109	8.9043	0.093424	NOTE	G4	389.17
+71	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.9061	8.9551	0.04898	NOTE	A4	438.548
+72	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	8.9578	9.0531	0.095238	NOTE	G4	391.914
+73	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.0549	9.1837	0.1288	NOTE	D4	291.758
+74	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.1918	9.2844	0.092517	lngRoll_nt	G4	391.914
+75	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.2862	9.3188	0.032653	lngRoll_ct	A4	437.009
+76	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.3252	9.4077	0.08254	lngRoll_nt	G4	394.678
+77	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.4204	9.4503	0.029932	lngRoll_str	G4	385.09
+78	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.4603	9.5628	0.10249	lngRoll_nt	G4	393.293
+79	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.5628	9.649	0.086168	NOTE	B4	499.426
+80	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.6553	9.7778	0.12245	NOTE	D5	591.167
+81	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.785	9.9229	0.13787	BREATH	BREATH	0
+82	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	9.9256	10.0435	0.11791	NOTE	B4	502.948
+83	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.0499	10.2086	0.15873	NOTE	D5	589.094
+84	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.2177	10.2766	0.058957	NOTE	E5	668.519
+85	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.2766	10.3474	0.070748	NOTE	G5	783.023
+86	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.3546	10.4327	0.078005	NOTE	A5	882.373
+87	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.4327	10.4635	0.030839	ct	B5	977.014
+88	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.4689	10.5642	0.095238	NOTE	A5	876.195
+89	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.5687	10.6966	0.12789	NOTE	G5	794.105
+90	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.6975	10.8263	0.1288	NOTE	E5	649.99
+91	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.8263	10.9324	0.10612	NOTE	G5	785.779
+92	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.9324	10.9615	0.029025	ct	A5	894.861
+93	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	10.9642	11.0113	0.047166	NOTE	G5	796.9
+94	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.0113	11.0812	0.069841	NOTE	G4	397.46
+95	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.0921	11.2209	0.1288	NOTE	D4	292.785
+96	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.2245	11.3016	0.077098	lngRoll_nt	G4	391.914
+97	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.3134	11.3424	0.029025	lngRoll_ct	A4	438.548
+98	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.3442	11.4367	0.092517	lngRoll_nt	G4	396.066
+99	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.4485	11.4685	0.019955	lngRoll_str	G4	382.393
+100	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.4766	11.5546	0.078005	lngRoll_nt	G4	393.293
+101	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.5546	11.6617	0.10703	NOTE	B4	497.675
+102	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.6671	11.7887	0.12154	NOTE	D5	589.094
+103	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.7959	11.961	0.16508	BREATH	BREATH	0
+104	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	11.961	12.0989	0.13787	NOTE	B4	502.948
+105	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.1016	12.2113	0.10975	NOTE	D5	595.336
+106	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.2168	12.3356	0.11882	NOTE	D5	591.167
+107	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.3356	12.439	0.1034	NOTE	E5	668.519
+108	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.4426	12.6122	0.16961	NOTE	G5	794.105
+109	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.615	12.7293	0.11429	NOTE	A5	891.722
+110	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.732	12.7927	0.060771	ct	C6	1059.24
+111	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.7982	12.8707	0.072562	NOTE	B5	983.903
+112	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.8707	12.9642	0.093424	NOTE	G5	791.32
+113	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	12.9642	13.0086	0.044444	cr	A5	891.722
+114	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.0458	13.1111	0.065306	NOTE	G5	788.545
+115	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.1147	13.2163	0.10159	NOTE	D5	580.873
+116	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.2236	13.337	0.11338	lngRoll_nt	G4	394.678
+117	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.3388	13.3741	0.035374	lngRoll_ct	A4	437.009
+118	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.3751	13.4694	0.094331	lngRoll_nt	G4	396.066
+119	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.4748	13.5093	0.034467	lngRoll_str	G4	383.739
+120	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.5102	13.5637	0.053515	lngRoll_nt	G4	396.066
+121	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.6317	13.7116	0.079819	NOTE	B4	499.426
+122	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.7243	13.8204	0.096145	NOTE	D5	587.028
+123	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.8286	13.9655	0.13696	BREATH	BREATH	0
+124	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	13.9737	14.1034	0.12971	NOTE	B4	506.494
+125	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.1043	14.2449	0.14059	NOTE	D5	591.167
+126	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.2449	14.3483	0.1034	NOTE	E5	666.174
+127	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.3637	14.4553	0.09161	NOTE	A5	885.478
+128	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.459	14.4998	0.040816	ct	B5	980.452
+129	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.5061	14.6104	0.10431	NOTE	A5	898.01
+130	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.6195	14.7374	0.11791	NOTE	G5	785.779
+131	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.742	14.8707	0.1288	NOTE	E5	677.98
+132	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.8735	14.9515	0.078005	NOTE	G5	785.779
+133	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.9569	14.9914	0.034467	ct	A5	891.722
+134	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	14.995	15.0875	0.092517	NOTE	G5	796.9
+135	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.0912	15.2127	0.12154	NOTE	D5	591.167
+136	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.2236	15.3188	0.095238	lngRoll_nt	G4	391.914
+137	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.3188	15.3478	0.029025	lngRoll_ct	A4	438.548
+138	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.3596	15.4531	0.093424	lngRoll_nt	G4	396.066
+139	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.463	15.4912	0.028118	lngRoll_str	G4	382.393
+140	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.502	15.6054	0.1034	lngRoll_nt	G4	390.54
+141	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.6073	15.7079	0.10068	NOTE	B4	499.426
+142	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.7234	15.8141	0.090703	NOTE	D5	593.248
+143	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.8186	15.9646	0.14603	BREATH	BREATH	0
+144	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	15.9655	16.059	0.093424	NOTE	B4	497.675
+145	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.1088	16.234	0.12517	NOTE	D5	593.248
+146	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.244	16.2766	0.032653	ct	D5	601.644
+147	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.283	16.3655	0.08254	NOTE	D5	587.028
+148	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.3701	16.4508	0.080726	NOTE	E5	661.51
+149	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.4508	16.6231	0.17234	NOTE	G5	794.105
+150	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.6231	16.7247	0.10159	NOTE	A5	882.373
+151	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.732	16.7664	0.034467	ct	C#6	1081.81
+152	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.7683	16.8689	0.10068	NOTE	B5	977.014
+153	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	16.8707	17.0068	0.13605	NOTE	A5	879.278
+154	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.0141	17.1392	0.12517	NOTE	G5	785.779
+155	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.142	17.2336	0.09161	NOTE	E5	670.871
+156	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.2354	17.3342	0.098866	NOTE	D5	599.533
+157	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.3397	17.502	0.16236	BREATH	BREATH	0
+158	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.5039	17.6408	0.13696	NOTE	B4	497.675
+159	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.6444	17.7497	0.10522	NOTE	G4	390.54
+160	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.7569	17.7932	0.036281	ct	B4	495.929
+161	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.7968	17.8948	0.097959	NOTE	A4	447.89
+162	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	17.902	18.0263	0.12426	NOTE	G4	394.678
+163	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	18.0299	18.1678	0.13787	NOTE	E4	334.603
+164	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	18.1814	18.2766	0.095238	NOTE	G4	390.54
+165	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	18.2848	18.4181	0.13333	NOTE	D4	292.785
+166	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	18.4181	18.5134	0.095238	NOTE	G4	390.54
+167	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	18.5188	18.5633	0.044444	ct	C#5	545.276
+168	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	18.5633	18.6385	0.075283	NOTE	B4	506.494
+169	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	18.6485	18.7646	0.1161	NOTE	G4	393.293
+170	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	18.7673	19.1939	0.42653	NOTE	A4	447.89
+171	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.1939	19.2551	0.061224	NOTE	B4	495.929
+172	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.2622	19.3561	0.093878	NOTE	D5	597.431
+173	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.3592	19.5153	0.15612	BREATH	BREATH	0
+174	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.5153	19.5622	0.046939	ct	C#5	558.853
+175	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.5643	19.6531	0.088776	NOTE	B4	497.675
+176	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.6561	19.7673	0.11122	NOTE	G4	394.678
+177	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.7704	19.8184	0.047959	ct	B4	502.948
+178	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.8255	19.9061	0.080612	NOTE	A4	444.754
+179	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	19.9092	20.0418	0.13265	NOTE	G4	400.263
+180	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.0429	20.1837	0.14082	NOTE	E4	335.78
+181	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.1837	20.2857	0.10204	NOTE	G4	394.678
+182	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.2878	20.4347	0.14694	NOTE	D4	292.785
+183	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.4429	20.5378	0.094898	NOTE	G4	390.54
+184	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.5429	20.5745	0.031633	ct	C#5	552.993
+185	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.5786	20.648	0.069388	NOTE	B4	492.457
+186	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.6592	20.7959	0.13673	NOTE	G4	394.678
+187	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.798	20.9245	0.12653	NOTE	E4	333.429
+188	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	20.9255	21.1918	0.26633	NOTE	G4	397.46
+189	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	21.2	21.2806	0.080612	NOTE	B4	502.948
+190	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	21.2878	21.3612	0.073469	NOTE	D5	599.533
+191	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	21.3649	21.539	0.1741	BREATH	BREATH	0
+192	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	21.5439	21.6663	0.12245	NOTE	B4	502.948
+193	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	21.6704	21.799	0.12857	NOTE	G4	397.46
+194	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	21.8071	21.8459	0.038776	ct	B4	506.494
+195	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	21.849	21.9582	0.10918	NOTE	A4	447.89
+196	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	21.9582	22.0714	0.11327	NOTE	G4	394.678
+197	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	22.0755	22.2163	0.14082	NOTE	E4	332.26
+198	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	22.2163	22.3265	0.1102	NOTE	G4	393.293
+199	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	22.3337	22.4684	0.13469	NOTE	D4	292.785
+200	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	22.4745	22.551	0.076531	NOTE	G4	393.293
+201	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	22.5633	22.601	0.037755	ct	C#5	560.82
+202	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	22.602	22.6776	0.07551	NOTE	B4	494.19
+203	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	22.6847	22.8112	0.12653	NOTE	G4	389.17
+204	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	22.8133	23.2235	0.4102	NOTE	A4	444.754
+205	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	23.2276	23.3071	0.079592	NOTE	B4	495.929
+206	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	23.3204	23.549	0.22857	NOTE	D5	589.094
+207	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	23.5592	23.6061	0.046939	ct	C#5	560.82
+208	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	23.6122	23.6939	0.081633	NOTE	B4	497.675
+209	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	23.701	23.8153	0.11429	NOTE	G4	387.805
+210	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	23.8194	23.8541	0.034694	ct	B4	501.184
+211	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	23.8541	23.9541	0.1	NOTE	A4	446.319
+212	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	23.9561	24.0929	0.13673	NOTE	G4	394.678
+213	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.0969	24.2296	0.13265	NOTE	E4	334.603
+214	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.2337	24.3327	0.09898	NOTE	G4	397.46
+215	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.3398	24.4694	0.12959	NOTE	D4	290.735
+216	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.4745	24.5724	0.097959	NOTE	G4	390.54
+217	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.5857	24.6163	0.030612	ct	C#5	547.195
+218	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.6184	24.6918	0.073469	NOTE	B4	495.929
+219	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.7	24.8469	0.14694	NOTE	G4	396.066
+220	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.849	24.9827	0.13367	NOTE	E4	333.429
+221	Tub_EaglesWhistle_Tk1Tu1R1_ForTheSakeOfOldDecency.txt	24.9827	25.1673	0.18469	NOTE	G4	394.678

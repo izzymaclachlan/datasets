@@ -1,161 +1,161 @@
-1	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.005805	0.075442	0.069637	ct	C#6	1079.32	2
-2	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.075465	0.15673	0.08127	NOTE	C6	1032.92	1
-3	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.15673	0.25544	0.098707	NOTE	Bb5	929.601	1
-4	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.25544	0.30186	0.046417	ct	G#5	852.254	2
-5	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.30186	0.3483	0.04644	NOTE	A5	875.773	1
-6	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.3483	0.42374	0.075442	NOTE	G5	789.169	1
-7	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.42374	0.54567	0.12193	NOTE	F5	700.515	1
-8	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.54567	0.69658	0.15091	NOTE	D5	581.678	1
-9	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.69658	0.81268	0.1161	NOTE	Bb4	464.878	1
-10	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.81268	0.94621	0.13354	NOTE	F5	702.445	1
-11	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.94621	1.0565	0.11029	NOTE	C5	519.58	1
-12	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.0565	1.0913	0.034807	str	B4	480.132	3
-13	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.0913	1.2132	0.1219	NOTE	C#5	568.253	1
-14	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.2132	1.3351	0.12193	NOTE	Bb4	466.765	1
-15	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.3351	1.4687	0.13351	NOTE	F5	702.689	1
-16	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.4687	1.5963	0.12769	NOTE	Bb4	465.905	1
-17	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.5963	1.7415	0.14515	NOTE	G4	390.575	1
-18	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.7415	1.8692	0.12773	NOTE	Bb4	463.96	1
-19	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.8692	1.9969	0.12769	NOTE	F5	701.315	1
-20	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.9969	2.1305	0.13354	BREATH	BREATH	0	4
-21	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.1305	2.1885	0.058027	ct	D6	1207.36	2
-22	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.1943	2.277	0.082744	NOTE	C6	1036.65	1
-23	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.277	2.3974	0.12043	NOTE	Bb5	924.61	1
-24	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.3974	2.4497	0.052245	ct	A5	905.583	2
-25	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.4497	2.5484	0.098685	NOTE	G5	787.048	1
-26	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.5484	2.6703	0.1219	NOTE	F5	700.184	1
-27	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.6703	2.827	0.15673	NOTE	D5	579.413	1
-28	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.827	2.9054	0.07839	NOTE	Bb4	465.456	1
-29	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.9054	2.9344	0.029025	str	Bb4	457.888	3
-30	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.9344	3.0592	0.12481	NOTE	Bb4	464.336	1
-31	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.0592	3.1826	0.12336	NOTE	C5	519.995	1
-32	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.1826	3.2363	0.053696	ct	D5	586.454	2
-33	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.2363	3.332	0.09576	NOTE	C5	515.469	1
-34	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.332	3.454	0.12193	NOTE	Bb4	466.361	1
-35	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.454	3.5933	0.13932	NOTE	F5	704.055	1
-36	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.5933	3.5991	0.005805	NOTE	D5	573.582	1
-37	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.6281	3.7036	0.075465	NOTE	D5	587.095	1
-38	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.7094	3.7268	0.017415	NOTE	B4	485.55	1
-39	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.7442	3.9938	0.24961	NOTE	C5	519.471	1
-40	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.9938	4.1274	0.13356	NOTE	D5	584.166	1
-41	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.1274	4.2492	0.12186	NOTE	Bb5	924.735	1
-42	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.2492	4.3073	0.05805	ct	D6	1188.35	2
-43	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.3073	4.4002	0.09288	NOTE	C6	1026.82	1
-44	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.406	4.4902	0.084195	NOTE	Bb5	927.029	1
-45	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.4902	4.5264	0.036281	ct	G#5	833.607	2
-46	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.5264	4.5685	0.042086	NOTE	A5	894.417	1
-47	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.5685	4.6672	0.098662	NOTE	G5	784.923	1
-48	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.673	4.7717	0.098685	NOTE	F5	699.82	1
-49	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.7717	4.9284	0.15673	NOTE	D5	576.16	1
-50	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.9284	5.0112	0.082721	NOTE	Bb4	464.809	1
-51	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.0112	5.0387	0.027574	str	A4	452.994	3
-52	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.0387	5.1839	0.14512	NOTE	Bb4	464.531	1
-53	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.1839	5.2869	0.10304	NOTE	C5	519.445	1
-54	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.2869	5.3522	0.065306	ct	Eb5	625.927	2
-55	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.3522	5.4407	0.088526	NOTE	C5	516.493	1
-56	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.4407	5.5612	0.12045	NOTE	Bb4	465.27	1
-57	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.5612	5.6831	0.12188	NOTE	F5	701.59	1
-58	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.6831	5.8108	0.12773	NOTE	Bb4	464.731	1
-59	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.8108	5.9443	0.13351	NOTE	G5	785.171	1
-60	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.9559	6.0836	0.12771	NOTE	Bb4	466.734	1
-61	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.101	6.2317	0.13061	NOTE	F5	702.249	1
-62	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.2317	6.3623	0.13063	BREATH	BREATH	0	4
-63	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.3623	6.416	0.053673	ct	C6	1065.56	2
-64	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.416	6.5088	0.09288	NOTE	C6	1039.88	1
-65	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.5088	6.6133	0.10449	NOTE	Bb5	928.468	1
-66	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.6133	6.6496	0.036281	ct	A5	862.982	2
-67	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.6496	6.6859	0.036281	NOTE	G#5	848.401	1
-68	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.6859	6.786	0.10014	NOTE	G5	784.031	1
-69	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.7918	6.8978	0.10594	NOTE	F5	701.23	1
-70	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.8978	7.0472	0.14946	NOTE	D5	579.661	1
-71	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.0472	7.1416	0.094354	NOTE	Bb4	465.967	1
-72	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.1416	7.1735	0.031927	str	Bb4	458.099	3
-73	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.1735	7.3027	0.12914	NOTE	Bb4	465.183	1
-74	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.3027	7.4129	0.11029	NOTE	C5	520.875	1
-75	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.4129	7.5697	0.15673	NOTE	D5	580.156	1
-76	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.5697	7.6655	0.095805	NOTE	G5	786.137	1
-77	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.6655	7.8193	0.15383	NOTE	F5	703.656	1
-78	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.8193	7.918	0.098685	NOTE	D5	584.56	1
-79	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.918	7.9775	0.059501	str	Bb4	479.337	3
-80	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.9775	8.1792	0.20172	NOTE	C5	517.893	1
-81	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	8.1792	8.2315	0.052245	NOTE	D5	572.327	1
-82	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	8.2315	8.3417	0.11027	NOTE	C5	515.403	1
-83	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	8.3417	8.4578	0.1161	NOTE	Bb4	463.343	1
-84	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	8.4637	8.5856	0.1219	NOTE	G4	391.27	1
-85	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	8.6204	8.7191	0.098685	NOTE	C5	515.561	1
-86	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	8.7191	8.8816	0.16254	NOTE	G4	391.735	1
-87	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	8.8816	8.9803	0.098685	NOTE	C5	516.497	1
-88	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	8.9861	9.1022	0.1161	NOTE	C#5	560.25	1
-89	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	9.108	9.2358	0.12773	NOTE	Bb4	471.051	1
-90	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	9.2358	9.3605	0.12478	NOTE	A4	436.969	1
-91	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	9.3605	9.4868	0.12626	NOTE	Bb4	463.179	1
-92	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	9.4868	9.6363	0.14946	NOTE	G4	388.514	1
-93	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	9.6363	9.7466	0.11032	NOTE	Bb5	924.224	1
-94	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	9.7466	9.8148	0.068209	ct	D6	1173.79	2
-95	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	9.8148	9.9033	0.088503	NOTE	C6	1032.42	1
-96	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	9.9033	10.002	0.098685	NOTE	A5	871.572	1
-97	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.002	10.0847	0.082744	ct	C#6	1117.94	2
-98	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.0847	10.1703	0.085601	NOTE	Bb5	928.786	1
-99	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.1703	10.269	0.098707	NOTE	G5	786.156	1
-100	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.269	10.42	0.15093	NOTE	F5	703.702	1
-101	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.42	10.536	0.11608	NOTE	Bb4	466.111	1
-102	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.536	10.6434	0.10741	NOTE	G4	394.987	1
-103	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.6434	10.8205	0.17705	BREATH	BREATH	0	4
-104	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.8205	10.8785	0.05805	ct	Eb6	1209.8	2
-105	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.8785	10.9772	0.098662	NOTE	C6	1038.05	1
-106	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.9772	11.0933	0.11612	NOTE	A5	871.522	1
-107	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.0933	11.2152	0.12188	NOTE	Bb5	923.787	1
-108	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.2152	11.3371	0.12188	NOTE	C6	1031.32	1
-109	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.3371	11.4039	0.06678	ct	Eb6	1256.03	2
-110	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.4039	11.4823	0.078367	NOTE	D6	1163.06	1
-111	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.4823	11.5708	0.088526	NOTE	C6	1044.77	1
-112	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.5708	11.6158	0.044989	ct	B5	963.563	2
-113	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.6158	11.6622	0.04644	NOTE	C#6	1104.11	1
-114	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.6622	11.7667	0.10451	NOTE	Bb5	936.249	1
-115	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.7667	11.8596	0.09288	NOTE	G5	784.517	1
-116	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.8596	12.0018	0.1422	NOTE	F5	705.245	1
-117	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.0018	12.1049	0.10304	NOTE	G5	783.921	1
-118	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.1049	12.1702	0.065306	ct	G5	775.157	2
-119	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.1702	12.2543	0.084172	NOTE	D5	578.248	1
-120	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.2543	12.3748	0.12045	NOTE	C5	518.728	1
-121	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.3748	12.4227	0.047891	shRoll_ct	C#5	559.957	5
-122	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.4227	12.4967	0.074014	shRoll_nt	C5	521.311	1
-123	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.4967	12.5344	0.037732	shRoll_str	B4	498.518	3
-124	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.5344	12.6549	0.12045	shRoll_nt	C5	525.565	1
-125	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.6549	12.8116	0.15676	NOTE	G4	392.628	1
-126	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.8116	12.9277	0.11605	NOTE	C5	521.653	1
-127	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.9277	12.9683	0.040635	str	Eb5	620.817	3
-128	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.9683	13.0946	0.12628	NOTE	C6	1028.3	1
-129	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	13.0946	13.1947	0.10014	NOTE	A5	876.504	1
-130	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	13.1947	13.3137	0.119	NOTE	Bb5	928.741	1
-131	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	13.3137	13.4676	0.15383	BREATH	BREATH	0	4
-132	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	13.4676	13.6185	0.15091	NOTE	C6	1045.06	1
-133	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	13.6243	13.723	0.098685	NOTE	Bb5	933.437	1
-134	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	13.7288	13.8971	0.16834	NOTE	G5	786.776	1
-135	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	13.8971	13.9973	0.10014	NOTE	C6	1035.55	1
-136	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	13.9973	14.0437	0.04644	ct	D6	1151.19	2
-137	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.0437	14.1641	0.12043	NOTE	C6	1035.02	1
-138	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.1641	14.2571	0.092925	NOTE	A5	876.1	1
-139	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.2571	14.3151	0.058027	ct	C#6	1123.39	2
-140	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.3151	14.4196	0.10449	NOTE	Bb5	928.898	1
-141	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.4196	14.5066	0.087052	NOTE	G5	789.672	1
-142	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.5067	14.6634	0.15673	NOTE	F5	705.22	1
-143	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.6634	14.7853	0.12193	NOTE	Bb5	922.091	1
-144	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.7853	14.8448	0.059478	NOTE	Eb6	1253.92	1
-145	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.8448	14.9377	0.09288	NOTE	D6	1167.41	1
-146	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.9377	15.0712	0.13351	NOTE	Bb5	929.776	1
-147	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.0712	15.2134	0.14222	NOTE	C6	1031.14	1
-148	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.2134	15.3252	0.11175	NOTE	D6	1154.38	1
-149	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.3252	15.3774	0.052245	ct	C6	1022.34	2
-150	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.3774	15.4703	0.092857	NOTE	Bb5	925.258	1
-151	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.4761	15.5791	0.10306	NOTE	G5	783.705	1
-152	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.5791	15.7315	0.15236	NOTE	F5	702.663	1
-153	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.7315	15.8592	0.12771	NOTE	G5	781.069	1
-154	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.8592	15.9173	0.058073	ct	C6	1025.69	2
-155	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.9173	15.9927	0.075442	NOTE	Bb5	925.122	1
-156	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.9927	16.119	0.12628	NOTE	G5	784.001	1
-157	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	16.119	16.2598	0.14075	NOTE	F5	703.48	1
-158	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	16.2598	16.3759	0.11615	NOTE	G5	785.1	1
-159	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	16.3759	16.4296	0.053673	ct	Eb5	629.645	2
-160	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	16.4296	16.5036	0.073991	NOTE	D5	583.1	1
-161	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	16.5094	16.6429	0.13354	NOTE	C5	518.442	1
+1	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.005805	0.075442	0.069637	ct	C#6	1079.32
+2	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.075465	0.15673	0.08127	NOTE	C6	1032.92
+3	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.15673	0.25544	0.098707	NOTE	Bb5	929.601
+4	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.25544	0.30186	0.046417	ct	G#5	852.254
+5	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.30186	0.3483	0.04644	NOTE	A5	875.773
+6	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.3483	0.42374	0.075442	NOTE	G5	789.169
+7	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.42374	0.54567	0.12193	NOTE	F5	700.515
+8	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.54567	0.69658	0.15091	NOTE	D5	581.678
+9	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.69658	0.81268	0.1161	NOTE	Bb4	464.878
+10	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.81268	0.94621	0.13354	NOTE	F5	702.445
+11	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	0.94621	1.0565	0.11029	NOTE	C5	519.58
+12	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.0565	1.0913	0.034807	str	B4	480.132
+13	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.0913	1.2132	0.1219	NOTE	C#5	568.253
+14	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.2132	1.3351	0.12193	NOTE	Bb4	466.765
+15	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.3351	1.4687	0.13351	NOTE	F5	702.689
+16	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.4687	1.5963	0.12769	NOTE	Bb4	465.905
+17	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.5963	1.7415	0.14515	NOTE	G4	390.575
+18	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.7415	1.8692	0.12773	NOTE	Bb4	463.96
+19	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.8692	1.9969	0.12769	NOTE	F5	701.315
+20	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	1.9969	2.1305	0.13354	BREATH	BREATH	0
+21	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.1305	2.1885	0.058027	ct	D6	1207.36
+22	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.1943	2.277	0.082744	NOTE	C6	1036.65
+23	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.277	2.3974	0.12043	NOTE	Bb5	924.61
+24	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.3974	2.4497	0.052245	ct	A5	905.583
+25	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.4497	2.5484	0.098685	NOTE	G5	787.048
+26	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.5484	2.6703	0.1219	NOTE	F5	700.184
+27	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.6703	2.827	0.15673	NOTE	D5	579.413
+28	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.827	2.9054	0.07839	NOTE	Bb4	465.456
+29	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.9054	2.9344	0.029025	str	Bb4	457.888
+30	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	2.9344	3.0592	0.12481	NOTE	Bb4	464.336
+31	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.0592	3.1826	0.12336	NOTE	C5	519.995
+32	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.1826	3.2363	0.053696	ct	D5	586.454
+33	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.2363	3.332	0.09576	NOTE	C5	515.469
+34	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.332	3.454	0.12193	NOTE	Bb4	466.361
+35	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.454	3.5933	0.13932	NOTE	F5	704.055
+36	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.5933	3.5991	0.005805	NOTE	D5	573.582
+37	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.6281	3.7036	0.075465	NOTE	D5	587.095
+38	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.7094	3.7268	0.017415	NOTE	B4	485.55
+39	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.7442	3.9938	0.24961	NOTE	C5	519.471
+40	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	3.9938	4.1274	0.13356	NOTE	D5	584.166
+41	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.1274	4.2492	0.12186	NOTE	Bb5	924.735
+42	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.2492	4.3073	0.05805	ct	D6	1188.35
+43	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.3073	4.4002	0.09288	NOTE	C6	1026.82
+44	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.406	4.4902	0.084195	NOTE	Bb5	927.029
+45	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.4902	4.5264	0.036281	ct	G#5	833.607
+46	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.5264	4.5685	0.042086	NOTE	A5	894.417
+47	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.5685	4.6672	0.098662	NOTE	G5	784.923
+48	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.673	4.7717	0.098685	NOTE	F5	699.82
+49	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.7717	4.9284	0.15673	NOTE	D5	576.16
+50	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	4.9284	5.0112	0.082721	NOTE	Bb4	464.809
+51	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.0112	5.0387	0.027574	str	A4	452.994
+52	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.0387	5.1839	0.14512	NOTE	Bb4	464.531
+53	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.1839	5.2869	0.10304	NOTE	C5	519.445
+54	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.2869	5.3522	0.065306	ct	Eb5	625.927
+55	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.3522	5.4407	0.088526	NOTE	C5	516.493
+56	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.4407	5.5612	0.12045	NOTE	Bb4	465.27
+57	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.5612	5.6831	0.12188	NOTE	F5	701.59
+58	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.6831	5.8108	0.12773	NOTE	Bb4	464.731
+59	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.8108	5.9443	0.13351	NOTE	G5	785.171
+60	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	5.9559	6.0836	0.12771	NOTE	Bb4	466.734
+61	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.101	6.2317	0.13061	NOTE	F5	702.249
+62	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.2317	6.3623	0.13063	BREATH	BREATH	0
+63	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.3623	6.416	0.053673	ct	C6	1065.56
+64	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.416	6.5088	0.09288	NOTE	C6	1039.88
+65	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.5088	6.6133	0.10449	NOTE	Bb5	928.468
+66	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.6133	6.6496	0.036281	ct	A5	862.982
+67	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.6496	6.6859	0.036281	NOTE	G#5	848.401
+68	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.6859	6.786	0.10014	NOTE	G5	784.031
+69	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.7918	6.8978	0.10594	NOTE	F5	701.23
+70	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	6.8978	7.0472	0.14946	NOTE	D5	579.661
+71	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.0472	7.1416	0.094354	NOTE	Bb4	465.967
+72	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.1416	7.1735	0.031927	str	Bb4	458.099
+73	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.1735	7.3027	0.12914	NOTE	Bb4	465.183
+74	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.3027	7.4129	0.11029	NOTE	C5	520.875
+75	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.4129	7.5697	0.15673	NOTE	D5	580.156
+76	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.5697	7.6655	0.095805	NOTE	G5	786.137
+77	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.6655	7.8193	0.15383	NOTE	F5	703.656
+78	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.8193	7.918	0.098685	NOTE	D5	584.56
+79	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.918	7.9775	0.059501	str	Bb4	479.337
+80	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	7.9775	8.1792	0.20172	NOTE	C5	517.893
+81	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	8.1792	8.2315	0.052245	NOTE	D5	572.327
+82	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	8.2315	8.3417	0.11027	NOTE	C5	515.403
+83	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	8.3417	8.4578	0.1161	NOTE	Bb4	463.343
+84	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	8.4637	8.5856	0.1219	NOTE	G4	391.27
+85	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	8.6204	8.7191	0.098685	NOTE	C5	515.561
+86	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	8.7191	8.8816	0.16254	NOTE	G4	391.735
+87	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	8.8816	8.9803	0.098685	NOTE	C5	516.497
+88	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	8.9861	9.1022	0.1161	NOTE	C#5	560.25
+89	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	9.108	9.2358	0.12773	NOTE	Bb4	471.051
+90	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	9.2358	9.3605	0.12478	NOTE	A4	436.969
+91	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	9.3605	9.4868	0.12626	NOTE	Bb4	463.179
+92	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	9.4868	9.6363	0.14946	NOTE	G4	388.514
+93	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	9.6363	9.7466	0.11032	NOTE	Bb5	924.224
+94	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	9.7466	9.8148	0.068209	ct	D6	1173.79
+95	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	9.8148	9.9033	0.088503	NOTE	C6	1032.42
+96	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	9.9033	10.002	0.098685	NOTE	A5	871.572
+97	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.002	10.0847	0.082744	ct	C#6	1117.94
+98	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.0847	10.1703	0.085601	NOTE	Bb5	928.786
+99	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.1703	10.269	0.098707	NOTE	G5	786.156
+100	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.269	10.42	0.15093	NOTE	F5	703.702
+101	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.42	10.536	0.11608	NOTE	Bb4	466.111
+102	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.536	10.6434	0.10741	NOTE	G4	394.987
+103	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.6434	10.8205	0.17705	BREATH	BREATH	0
+104	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.8205	10.8785	0.05805	ct	Eb6	1209.8
+105	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.8785	10.9772	0.098662	NOTE	C6	1038.05
+106	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	10.9772	11.0933	0.11612	NOTE	A5	871.522
+107	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.0933	11.2152	0.12188	NOTE	Bb5	923.787
+108	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.2152	11.3371	0.12188	NOTE	C6	1031.32
+109	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.3371	11.4039	0.06678	ct	Eb6	1256.03
+110	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.4039	11.4823	0.078367	NOTE	D6	1163.06
+111	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.4823	11.5708	0.088526	NOTE	C6	1044.77
+112	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.5708	11.6158	0.044989	ct	B5	963.563
+113	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.6158	11.6622	0.04644	NOTE	C#6	1104.11
+114	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.6622	11.7667	0.10451	NOTE	Bb5	936.249
+115	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.7667	11.8596	0.09288	NOTE	G5	784.517
+116	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	11.8596	12.0018	0.1422	NOTE	F5	705.245
+117	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.0018	12.1049	0.10304	NOTE	G5	783.921
+118	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.1049	12.1702	0.065306	ct	G5	775.157
+119	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.1702	12.2543	0.084172	NOTE	D5	578.248
+120	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.2543	12.3748	0.12045	NOTE	C5	518.728
+121	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.3748	12.4227	0.047891	shRoll_ct	C#5	559.957
+122	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.4227	12.4967	0.074014	shRoll_nt	C5	521.311
+123	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.4967	12.5344	0.037732	shRoll_str	B4	498.518
+124	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.5344	12.6549	0.12045	shRoll_nt	C5	525.565
+125	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.6549	12.8116	0.15676	NOTE	G4	392.628
+126	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.8116	12.9277	0.11605	NOTE	C5	521.653
+127	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.9277	12.9683	0.040635	str	Eb5	620.817
+128	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	12.9683	13.0946	0.12628	NOTE	C6	1028.3
+129	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	13.0946	13.1947	0.10014	NOTE	A5	876.504
+130	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	13.1947	13.3137	0.119	NOTE	Bb5	928.741
+131	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	13.3137	13.4676	0.15383	BREATH	BREATH	0
+132	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	13.4676	13.6185	0.15091	NOTE	C6	1045.06
+133	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	13.6243	13.723	0.098685	NOTE	Bb5	933.437
+134	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	13.7288	13.8971	0.16834	NOTE	G5	786.776
+135	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	13.8971	13.9973	0.10014	NOTE	C6	1035.55
+136	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	13.9973	14.0437	0.04644	ct	D6	1151.19
+137	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.0437	14.1641	0.12043	NOTE	C6	1035.02
+138	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.1641	14.2571	0.092925	NOTE	A5	876.1
+139	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.2571	14.3151	0.058027	ct	C#6	1123.39
+140	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.3151	14.4196	0.10449	NOTE	Bb5	928.898
+141	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.4196	14.5066	0.087052	NOTE	G5	789.672
+142	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.5067	14.6634	0.15673	NOTE	F5	705.22
+143	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.6634	14.7853	0.12193	NOTE	Bb5	922.091
+144	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.7853	14.8448	0.059478	NOTE	Eb6	1253.92
+145	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.8448	14.9377	0.09288	NOTE	D6	1167.41
+146	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	14.9377	15.0712	0.13351	NOTE	Bb5	929.776
+147	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.0712	15.2134	0.14222	NOTE	C6	1031.14
+148	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.2134	15.3252	0.11175	NOTE	D6	1154.38
+149	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.3252	15.3774	0.052245	ct	C6	1022.34
+150	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.3774	15.4703	0.092857	NOTE	Bb5	925.258
+151	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.4761	15.5791	0.10306	NOTE	G5	783.705
+152	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.5791	15.7315	0.15236	NOTE	F5	702.663
+153	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.7315	15.8592	0.12771	NOTE	G5	781.069
+154	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.8592	15.9173	0.058073	ct	C6	1025.69
+155	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.9173	15.9927	0.075442	NOTE	Bb5	925.122
+156	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	15.9927	16.119	0.12628	NOTE	G5	784.001
+157	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	16.119	16.2598	0.14075	NOTE	F5	703.48
+158	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	16.2598	16.3759	0.11615	NOTE	G5	785.1
+159	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	16.3759	16.4296	0.053673	ct	Eb5	629.645
+160	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	16.4296	16.5036	0.073991	NOTE	D5	583.1
+161	Bra_FirstMay_Tk1Tu2R3_TheFlowersOfRedHill.txt	16.5094	16.6429	0.13354	NOTE	C5	518.442

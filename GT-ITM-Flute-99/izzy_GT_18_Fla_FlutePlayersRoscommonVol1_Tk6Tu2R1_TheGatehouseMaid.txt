@@ -1,142 +1,142 @@
-1	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	0	0.19265	0.19265	NOTE	A4	451.875	1
-2	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	0.21224	0.36898	0.15673	BREATH	BREATH	0	4
-3	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	0.36898	0.51265	0.14367	NOTE	B4	495.268	1
-4	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	0.51265	0.64	0.12735	NOTE	D5	586.528	1
-5	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	0.64	0.77388	0.13388	NOTE	E5	670.957	1
-6	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	0.77388	0.89796	0.12408	NOTE	D5	591.329	1
-7	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	0.90449	1.009	0.10449	NOTE	B4	496.278	1
-8	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.009	1.1494	0.14041	NOTE	A4	452.796	1
-9	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.1755	1.329	0.15347	NOTE	G4	397.436	1
-10	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.3322	1.4498	0.11755	NOTE	B4	498.304	1
-11	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.4498	1.5935	0.14367	NOTE	A4	442.76	1
-12	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.6	1.7143	0.11429	NOTE	F#4	376.928	1
-13	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.7143	1.7698	0.05551	ct	A4	443.663	2
-14	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.7698	1.8645	0.094694	NOTE	G4	391.807	1
-15	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.8743	1.982	0.10776	NOTE	E4	333.551	1
-16	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.9918	2.129	0.13714	NOTE	D4	300.017	1
-17	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	2.129	2.2302	0.10122	NOTE	G5	801.095	1
-18	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	2.2302	2.3216	0.091429	NOTE	A5	896.097	1
-19	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	2.3347	2.5012	0.16653	BREATH	BREATH	0	4
-20	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	2.5012	2.5861	0.084898	NOTE	B5	1008.51	1
-21	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	2.5992	2.7527	0.15347	NOTE	D5	592.535	1
-22	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	2.7657	2.8931	0.12735	NOTE	E5	669.591	1
-23	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	2.8931	3.0367	0.14367	NOTE	D5	594.954	1
-24	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.0367	3.1151	0.078367	NOTE	B5	994.229	1
-25	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.151	3.3306	0.17959	NOTE	D5	591.329	1
-26	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.3469	3.4286	0.081633	NOTE	E5	670.957	1
-27	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.4286	3.5461	0.11755	NOTE	G5	804.366	1
-28	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.5461	3.6898	0.14367	NOTE	D5	601.047	1
-29	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.6898	3.8237	0.13388	NOTE	B4	501.36	1
-30	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.8302	3.8857	0.05551	ct	C5	530.796	2
-31	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.8955	3.951	0.05551	NOTE	B4	496.278	1
-32	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.9641	4.0784	0.11429	NOTE	A4	444.568	1
-33	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	4.0784	4.222	0.14367	NOTE	D5	603.501	1
-34	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	4.222	4.3559	0.13388	NOTE	B4	502.382	1
-35	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	4.3624	4.4669	0.10449	NOTE	A4	450.037	1
-36	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	4.48	4.6041	0.12408	BREATH	BREATH	0	4
-37	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	4.6041	4.7673	0.16327	NOTE	B4	499.321	1
-38	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	4.7706	4.8816	0.11102	NOTE	D5	601.047	1
-39	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	4.8816	5.0449	0.16327	NOTE	E5	669.591	1
-40	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.0449	5.1494	0.10449	NOTE	D5	598.602	1
-41	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.1494	5.2767	0.12735	NOTE	B4	504.434	1
-42	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.2833	5.4171	0.13388	NOTE	A4	451.875	1
-43	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.4171	5.5445	0.12735	lngRoll_nt	G4	399.059	
-44	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.5445	5.5967	0.052245	lngRoll_ct	A4	451.875	
-45	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.5967	5.6882	0.091429	lngRoll_nt	G4	401.506	
-46	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.6882	5.7273	0.039184	lngRoll_ct	G4	392.607	
-47	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.7404	5.8318	0.091429	lngRoll_nt	G4	397.436	
-48	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.8416	5.9559	0.11429	lngRoll_ct	A4	447.294	
-49	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.9755	6.1029	0.12735	lngRoll_nt	G4	393.407	
-50	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	6.1061	6.2269	0.12082	lngRoll_str	E4	332.873	
-51	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	6.2269	6.3641	0.13714	lngRoll_nt	D4	296.976	
-52	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	6.3641	6.449	0.084898	NOTE	G5	804.366	1
-53	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	6.4751	6.5469	0.071837	NOTE	A5	903.431	1
-54	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	6.5535	6.7461	0.19265	BREATH	BREATH	0	4
-55	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	6.7461	6.8506	0.10449	NOTE	B4	501.36	1
-56	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	6.8571	6.9878	0.13061	NOTE	D5	602.273	1
-57	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	6.9976	7.1216	0.12408	NOTE	E5	666.868	1
-58	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	7.1216	7.2588	0.13714	NOTE	D5	598.602	1
-59	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	7.2588	7.2686	0.0097959	NOTE	B4	493.253	1
-60	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	7.3894	7.5396	0.1502	NOTE	D5	596.168	1
-61	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	7.5624	7.6637	0.10122	NOTE	E5	664.156	1
-62	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	7.6637	7.778	0.11429	NOTE	G5	802.728	1
-63	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	7.778	7.9478	0.1698	NOTE	D5	604.732	1
-64	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	7.951	8.0522	0.10122	NOTE	B4	503.407	1
-65	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	8.0653	8.1078	0.042449	ct	C#5	540.62	2
-66	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	8.1078	8.1992	0.091429	NOTE	B4	501.36	1
-67	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	8.1992	8.3527	0.15347	NOTE	Bb4	454.645	1
-68	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	8.3559	8.4147	0.058776	NOTE	A5	897.925	1
-69	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	8.4212	8.5943	0.17306	BREATH	BREATH	0	4
-70	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	8.5976	8.6759	0.078367	NOTE	A5	897.925	1
-71	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	8.6857	8.898	0.21224	BREATH	BREATH	0	4
-72	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	8.898	9.0122	0.11429	NOTE	B5	1008.51	1
-73	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.0155	9.1331	0.11755	NOTE	A5	896.097	1
-74	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.1429	9.2082	0.065306	ct	B5	972.193	2
-75	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.2212	9.28	0.058776	NOTE	A5	897.925	1
-76	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.28	9.4041	0.12408	NOTE	G5	804.366	1
-77	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.4041	9.5412	0.13714	NOTE	F5	679.21	1
-78	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.5412	9.6522	0.11102	NOTE	F#5	744.434	1
-79	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.6522	9.7437	0.091429	NOTE	G5	806.007	1
-80	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.7437	9.822	0.078367	NOTE	Bb5	950.645	1
-81	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.822	9.9331	0.11102	NOTE	G5	797.837	1
-82	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.9331	10.0996	0.16653	NOTE	D5	593.744	1
-83	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	10.0996	10.2171	0.11755	NOTE	G5	797.837	1
-84	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	10.2335	10.3641	0.13061	NOTE	E5	670.957	1
-85	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	10.3739	10.4784	0.10449	NOTE	G5	802.728	1
-86	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	10.4784	10.5992	0.12082	NOTE	D5	596.168	1
-87	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	10.5992	10.72	0.12082	NOTE	G5	799.464	1
-88	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	10.72	10.8212	0.10122	NOTE	A5	896.097	1
-89	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	10.8245	11.0237	0.19918	BREATH	BREATH	0	4
-90	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.0237	11.1249	0.10122	NOTE	B5	1004.41	1
-91	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.1249	11.2555	0.13061	NOTE	A5	896.097	1
-92	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.2555	11.3143	0.058776	ct	B5	972.193	2
-93	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.3469	11.4253	0.078367	NOTE	A5	897.925	1
-94	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.4253	11.5265	0.10122	NOTE	G5	806.007	1
-95	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.5429	11.6702	0.12735	NOTE	F5	683.375	1
-96	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.6767	11.791	0.11429	NOTE	F#5	745.953	1
-97	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.8073	11.84	0.032653	ct	A5	899.756	2
-98	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.84	11.9053	0.065306	NOTE	G5	799.464	1
-99	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.9053	12.0686	0.16327	NOTE	E5	676.448	1
-100	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.0718	12.1927	0.12082	NOTE	Eb5	607.202	1
-101	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.1959	12.3461	0.1502	NOTE	B4	499.321	1
-102	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.3461	12.3951	0.04898	ct	C#5	541.722	2
-103	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.3951	12.4833	0.088163	NOTE	B4	502.382	1
-104	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.4833	12.5845	0.10122	NOTE	Bb4	453.72	1
-105	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.5845	12.6335	0.04898	ct	B4	498.304	2
-106	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.6629	12.8718	0.20898	NOTE	Bb4	454.645	1
-107	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.8718	12.9306	0.058776	NOTE	A5	899.756	1
-108	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.9502	13.1657	0.21551	BREATH	BREATH	0	4
-109	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	13.1657	13.2539	0.088163	NOTE	A5	901.592	1
-110	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	13.2702	13.3812	0.11102	NOTE	B5	1006.46	1
-111	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	13.3812	13.5347	0.15347	NOTE	A5	899.756	1
-112	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	13.5347	13.6849	0.1502	NOTE	G5	799.464	1
-113	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	13.6849	13.809	0.12408	NOTE	F5	683.375	1
-114	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	13.822	13.9363	0.11429	NOTE	F#5	745.953	1
-115	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	13.9363	13.9951	0.058776	NOTE	G5	806.007	1
-116	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.0931	14.1584	0.065306	NOTE	B5	1000.33	1
-117	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.178	14.3086	0.13061	NOTE	A5	883.406	1
-118	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.3086	14.4392	0.13061	NOTE	F#5	744.434	1
-119	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.4457	14.5731	0.12735	NOTE	G5	797.837	1
-120	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.5894	14.7265	0.13714	BREATH	BREATH	0	4
-121	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.7265	14.7984	0.071837	ct	B5	966.268	2
-122	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.7984	14.8963	0.097959	NOTE	G5	797.837	1
-123	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.8963	14.9976	0.10122	NOTE	F5	681.984	1
-124	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.9976	15.1543	0.15673	NOTE	Eb5	613.42	1
-125	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	15.1543	15.262	0.10776	NOTE	E5	670.957	1
-126	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	15.262	15.3829	0.12082	NOTE	G5	794.592	1
-127	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	15.3992	15.5167	0.11755	NOTE	A5	892.453	1
-128	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	15.5331	15.5951	0.062041	NOTE	B5	978.154	1
-129	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	15.6147	15.791	0.17633	BREATH	BREATH	0	4
-130	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	15.8008	15.8498	0.04898	ct	B5	984.152	2
-131	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	15.8498	15.951	0.10122	NOTE	A5	874.452	1
-132	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	15.9576	16.0686	0.11102	NOTE	F#5	748.999	1
-133	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.0849	16.1306	0.045714	ct	G#5	848.129	2
-134	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.1306	16.209	0.078367	NOTE	G5	799.464	1
-135	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.209	16.3037	0.094694	NOTE	E5	676.448	1
-136	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.3037	16.4473	0.14367	NOTE	D5	602.273	1
-137	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.4473	16.5747	0.12735	NOTE	B4	499.321	1
-138	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.6008	16.6498	0.04898	ct	C5	531.878	2
-139	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.6498	16.7184	0.068571	NOTE	B4	498.304	1
-140	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.7249	16.849	0.12408	NOTE	A4	446.384	1
-141	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.849	16.9894	0.14041	NOTE	D5	599.823	1
-142	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	17.0155	17.12	0.10449	NOTE	B4	508.562	1
+1	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	0	0.19265	0.19265	NOTE	A4	451.875
+2	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	0.21224	0.36898	0.15673	BREATH	BREATH	0
+3	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	0.36898	0.51265	0.14367	NOTE	B4	495.268
+4	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	0.51265	0.64	0.12735	NOTE	D5	586.528
+5	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	0.64	0.77388	0.13388	NOTE	E5	670.957
+6	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	0.77388	0.89796	0.12408	NOTE	D5	591.329
+7	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	0.90449	1.009	0.10449	NOTE	B4	496.278
+8	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.009	1.1494	0.14041	NOTE	A4	452.796
+9	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.1755	1.329	0.15347	NOTE	G4	397.436
+10	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.3322	1.4498	0.11755	NOTE	B4	498.304
+11	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.4498	1.5935	0.14367	NOTE	A4	442.76
+12	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.6	1.7143	0.11429	NOTE	F#4	376.928
+13	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.7143	1.7698	0.05551	ct	A4	443.663
+14	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.7698	1.8645	0.094694	NOTE	G4	391.807
+15	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.8743	1.982	0.10776	NOTE	E4	333.551
+16	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	1.9918	2.129	0.13714	NOTE	D4	300.017
+17	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	2.129	2.2302	0.10122	NOTE	G5	801.095
+18	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	2.2302	2.3216	0.091429	NOTE	A5	896.097
+19	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	2.3347	2.5012	0.16653	BREATH	BREATH	0
+20	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	2.5012	2.5861	0.084898	NOTE	B5	1008.51
+21	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	2.5992	2.7527	0.15347	NOTE	D5	592.535
+22	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	2.7657	2.8931	0.12735	NOTE	E5	669.591
+23	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	2.8931	3.0367	0.14367	NOTE	D5	594.954
+24	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.0367	3.1151	0.078367	NOTE	B5	994.229
+25	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.151	3.3306	0.17959	NOTE	D5	591.329
+26	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.3469	3.4286	0.081633	NOTE	E5	670.957
+27	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.4286	3.5461	0.11755	NOTE	G5	804.366
+28	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.5461	3.6898	0.14367	NOTE	D5	601.047
+29	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.6898	3.8237	0.13388	NOTE	B4	501.36
+30	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.8302	3.8857	0.05551	ct	C5	530.796
+31	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.8955	3.951	0.05551	NOTE	B4	496.278
+32	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	3.9641	4.0784	0.11429	NOTE	A4	444.568
+33	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	4.0784	4.222	0.14367	NOTE	D5	603.501
+34	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	4.222	4.3559	0.13388	NOTE	B4	502.382
+35	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	4.3624	4.4669	0.10449	NOTE	A4	450.037
+36	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	4.48	4.6041	0.12408	BREATH	BREATH	0
+37	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	4.6041	4.7673	0.16327	NOTE	B4	499.321
+38	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	4.7706	4.8816	0.11102	NOTE	D5	601.047
+39	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	4.8816	5.0449	0.16327	NOTE	E5	669.591
+40	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.0449	5.1494	0.10449	NOTE	D5	598.602
+41	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.1494	5.2767	0.12735	NOTE	B4	504.434
+42	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.2833	5.4171	0.13388	NOTE	A4	451.875
+43	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.4171	5.5445	0.12735	lngRoll_nt	G4	399.059
+44	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.5445	5.5967	0.052245	lngRoll_ct	A4	451.875
+45	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.5967	5.6882	0.091429	lngRoll_nt	G4	401.506
+46	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.6882	5.7273	0.039184	lngRoll_ct	G4	392.607
+47	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.7404	5.8318	0.091429	lngRoll_nt	G4	397.436
+48	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.8416	5.9559	0.11429	lngRoll_ct	A4	447.294
+49	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	5.9755	6.1029	0.12735	lngRoll_nt	G4	393.407
+50	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	6.1061	6.2269	0.12082	lngRoll_str	E4	332.873
+51	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	6.2269	6.3641	0.13714	lngRoll_nt	D4	296.976
+52	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	6.3641	6.449	0.084898	NOTE	G5	804.366
+53	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	6.4751	6.5469	0.071837	NOTE	A5	903.431
+54	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	6.5535	6.7461	0.19265	BREATH	BREATH	0
+55	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	6.7461	6.8506	0.10449	NOTE	B4	501.36
+56	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	6.8571	6.9878	0.13061	NOTE	D5	602.273
+57	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	6.9976	7.1216	0.12408	NOTE	E5	666.868
+58	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	7.1216	7.2588	0.13714	NOTE	D5	598.602
+59	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	7.2588	7.2686	0.0097959	NOTE	B4	493.253
+60	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	7.3894	7.5396	0.1502	NOTE	D5	596.168
+61	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	7.5624	7.6637	0.10122	NOTE	E5	664.156
+62	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	7.6637	7.778	0.11429	NOTE	G5	802.728
+63	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	7.778	7.9478	0.1698	NOTE	D5	604.732
+64	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	7.951	8.0522	0.10122	NOTE	B4	503.407
+65	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	8.0653	8.1078	0.042449	ct	C#5	540.62
+66	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	8.1078	8.1992	0.091429	NOTE	B4	501.36
+67	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	8.1992	8.3527	0.15347	NOTE	Bb4	454.645
+68	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	8.3559	8.4147	0.058776	NOTE	A5	897.925
+69	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	8.4212	8.5943	0.17306	BREATH	BREATH	0
+70	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	8.5976	8.6759	0.078367	NOTE	A5	897.925
+71	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	8.6857	8.898	0.21224	BREATH	BREATH	0
+72	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	8.898	9.0122	0.11429	NOTE	B5	1008.51
+73	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.0155	9.1331	0.11755	NOTE	A5	896.097
+74	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.1429	9.2082	0.065306	ct	B5	972.193
+75	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.2212	9.28	0.058776	NOTE	A5	897.925
+76	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.28	9.4041	0.12408	NOTE	G5	804.366
+77	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.4041	9.5412	0.13714	NOTE	F5	679.21
+78	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.5412	9.6522	0.11102	NOTE	F#5	744.434
+79	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.6522	9.7437	0.091429	NOTE	G5	806.007
+80	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.7437	9.822	0.078367	NOTE	Bb5	950.645
+81	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.822	9.9331	0.11102	NOTE	G5	797.837
+82	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	9.9331	10.0996	0.16653	NOTE	D5	593.744
+83	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	10.0996	10.2171	0.11755	NOTE	G5	797.837
+84	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	10.2335	10.3641	0.13061	NOTE	E5	670.957
+85	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	10.3739	10.4784	0.10449	NOTE	G5	802.728
+86	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	10.4784	10.5992	0.12082	NOTE	D5	596.168
+87	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	10.5992	10.72	0.12082	NOTE	G5	799.464
+88	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	10.72	10.8212	0.10122	NOTE	A5	896.097
+89	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	10.8245	11.0237	0.19918	BREATH	BREATH	0
+90	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.0237	11.1249	0.10122	NOTE	B5	1004.41
+91	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.1249	11.2555	0.13061	NOTE	A5	896.097
+92	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.2555	11.3143	0.058776	ct	B5	972.193
+93	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.3469	11.4253	0.078367	NOTE	A5	897.925
+94	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.4253	11.5265	0.10122	NOTE	G5	806.007
+95	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.5429	11.6702	0.12735	NOTE	F5	683.375
+96	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.6767	11.791	0.11429	NOTE	F#5	745.953
+97	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.8073	11.84	0.032653	ct	A5	899.756
+98	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.84	11.9053	0.065306	NOTE	G5	799.464
+99	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	11.9053	12.0686	0.16327	NOTE	E5	676.448
+100	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.0718	12.1927	0.12082	NOTE	Eb5	607.202
+101	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.1959	12.3461	0.1502	NOTE	B4	499.321
+102	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.3461	12.3951	0.04898	ct	C#5	541.722
+103	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.3951	12.4833	0.088163	NOTE	B4	502.382
+104	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.4833	12.5845	0.10122	NOTE	Bb4	453.72
+105	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.5845	12.6335	0.04898	ct	B4	498.304
+106	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.6629	12.8718	0.20898	NOTE	Bb4	454.645
+107	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.8718	12.9306	0.058776	NOTE	A5	899.756
+108	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	12.9502	13.1657	0.21551	BREATH	BREATH	0
+109	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	13.1657	13.2539	0.088163	NOTE	A5	901.592
+110	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	13.2702	13.3812	0.11102	NOTE	B5	1006.46
+111	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	13.3812	13.5347	0.15347	NOTE	A5	899.756
+112	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	13.5347	13.6849	0.1502	NOTE	G5	799.464
+113	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	13.6849	13.809	0.12408	NOTE	F5	683.375
+114	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	13.822	13.9363	0.11429	NOTE	F#5	745.953
+115	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	13.9363	13.9951	0.058776	NOTE	G5	806.007
+116	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.0931	14.1584	0.065306	NOTE	B5	1000.33
+117	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.178	14.3086	0.13061	NOTE	A5	883.406
+118	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.3086	14.4392	0.13061	NOTE	F#5	744.434
+119	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.4457	14.5731	0.12735	NOTE	G5	797.837
+120	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.5894	14.7265	0.13714	BREATH	BREATH	0
+121	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.7265	14.7984	0.071837	ct	B5	966.268
+122	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.7984	14.8963	0.097959	NOTE	G5	797.837
+123	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.8963	14.9976	0.10122	NOTE	F5	681.984
+124	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	14.9976	15.1543	0.15673	NOTE	Eb5	613.42
+125	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	15.1543	15.262	0.10776	NOTE	E5	670.957
+126	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	15.262	15.3829	0.12082	NOTE	G5	794.592
+127	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	15.3992	15.5167	0.11755	NOTE	A5	892.453
+128	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	15.5331	15.5951	0.062041	NOTE	B5	978.154
+129	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	15.6147	15.791	0.17633	BREATH	BREATH	0
+130	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	15.8008	15.8498	0.04898	ct	B5	984.152
+131	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	15.8498	15.951	0.10122	NOTE	A5	874.452
+132	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	15.9576	16.0686	0.11102	NOTE	F#5	748.999
+133	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.0849	16.1306	0.045714	ct	G#5	848.129
+134	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.1306	16.209	0.078367	NOTE	G5	799.464
+135	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.209	16.3037	0.094694	NOTE	E5	676.448
+136	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.3037	16.4473	0.14367	NOTE	D5	602.273
+137	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.4473	16.5747	0.12735	NOTE	B4	499.321
+138	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.6008	16.6498	0.04898	ct	C5	531.878
+139	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.6498	16.7184	0.068571	NOTE	B4	498.304
+140	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.7249	16.849	0.12408	NOTE	A4	446.384
+141	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	16.849	16.9894	0.14041	NOTE	D5	599.823
+142	Fla_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheGatehouseMaid.txt	17.0155	17.12	0.10449	NOTE	B4	508.562

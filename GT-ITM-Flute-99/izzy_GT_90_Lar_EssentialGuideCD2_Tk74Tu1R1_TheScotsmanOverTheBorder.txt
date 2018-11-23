@@ -1,236 +1,236 @@
-1	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	0.22422	0.35048	0.12626	crann_nt	D4	288.512	6
-2	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	0.35483	0.41796	0.063129	crann_ct	E4	325.868	6
-3	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	0.42014	0.46367	0.043537	crann_nt	D4	290.824	6
-4	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	0.46367	0.5181	0.054422	crann_ct	F4	350.145	6
-5	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	0.5181	0.55946	0.041361	crann_nt	D4	290.244	6
-6	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	0.56381	0.62041	0.056599	crann_ct	E4	325.218	6
-7	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	0.62259	0.77497	0.15238	crann_nt	D4	289.088	6
-8	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	0.80689	0.99846	0.19156	NOTE	F#4	360.787	1
-9	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	1.0072	1.1552	0.14803	NOTE	D4	290.244	1
-10	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	1.1929	1.3613	0.16834	NOTE	F#4	362.23	1
-11	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	1.3613	1.428	0.066757	ct	C5	520.896	2
-12	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	1.428	1.5848	0.15673	NOTE	A4	430.065	1
-13	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	1.5848	1.7502	0.16544	NOTE	F#4	360.787	1
-14	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	1.7502	1.9737	0.22349	NOTE	A4	436.987	1
-15	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	1.9824	2.3655	0.38313	NOTE	D5	579.021	1
-16	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	2.3829	2.5919	0.20898	NOTE	A4	431.785	1
-17	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	2.6064	2.7893	0.18286	lngRoll_nt	B4	487.691	6
-18	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	2.7922	2.8328	0.040635	lngRoll_ct	C5	525.072	6
-19	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	2.8328	2.9228	0.089977	lngRoll_nt	B4	485.749	6
-20	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	2.9286	2.9809	0.052245	lngRoll_str	Bb4	468.607	6
-21	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	2.9809	3.1579	0.17705	lngRoll_nt	B4	492.583	6
-22	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	3.1579	3.2218	0.063855	ct	C5	526.121	2
-23	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	3.2508	3.3698	0.119	NOTE	B4	490.621	1
-24	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	3.3698	3.5643	0.19447	NOTE	A4	430.924	1
-25	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	3.573	3.7645	0.19156	NOTE	B4	484.78	1
-26	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	3.7645	3.9503	0.18576	NOTE	D5	581.337	1
-27	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	3.9619	4.1332	0.17125	NOTE	E5	644.918	1
-28	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	4.1332	4.2812	0.14803	NOTE	F#5	721.188	1
-29	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	4.2986	4.3537	0.055147	ct	G5	762.641	2
-30	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	4.3537	4.5337	0.17995	NOTE	E5	648.791	1
-31	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	4.5424	4.6991	0.15673	NOTE	D5	579.021	1
-32	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	4.7137	4.8936	0.17995	NOTE	B4	487.691	1
-33	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	4.9139	5.1171	0.20317	NOTE	A4	433.512	1
-34	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	5.1374	5.2593	0.1219	NOTE	D4	288.512	1
-35	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	5.2854	5.4102	0.12481	NOTE	D4	287.936	1
-36	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	5.4712	5.6686	0.19737	NOTE	F#4	360.787	1
-37	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	5.6831	5.8253	0.14222	NOTE	D4	293.156	1
-38	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	5.8311	5.9966	0.16544	NOTE	F4	359.349	1
-39	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	5.9966	6.0952	0.098685	ct	C5	519.858	2
-40	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	6.0952	6.2055	0.11029	NOTE	A4	431.785	1
-41	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	6.2171	6.3797	0.16254	NOTE	F#4	360.787	1
-42	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	6.3884	6.6032	0.21478	NOTE	A4	435.246	1
-43	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	6.6032	6.7309	0.12771	NOTE	D5	587.168	1
-44	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	6.757	6.9776	0.22059	BREATH	BREATH	0	4
-45	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	6.9805	7.1953	0.21478	NOTE	A4	437.86	1
-46	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	7.2185	7.4043	0.18576	lngRoll_nt	B4	488.666	6
-47	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	7.4072	7.4768	0.06966	lngRoll_ct	C5	516.754	6
-48	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	7.4884	7.5378	0.049342	lngRoll_nt	B4	488.666	6
-49	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	7.5436	7.5958	0.052245	lngRoll_str	Bb4	475.2	6
-50	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	7.619	7.7874	0.16834	lngRoll_nt	B4	493.567	6
-51	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	7.799	7.9906	0.19156	NOTE	A4	435.246	1
-52	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	8.008	8.156	0.14803	NOTE	F#4	361.508	1
-53	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	8.156	8.3534	0.19737	NOTE	A4	436.987	1
-54	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	8.3534	8.5188	0.16544	NOTE	D5	585.997	1
-55	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	8.5856	8.7075	0.1219	NOTE	A4	429.207	1
-56	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	8.7191	8.9426	0.22349	NOTE	F#4	362.23	1
-57	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	8.9629	9.1051	0.14222	lngRoll_nt	E4	327.825	6
-58	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.1051	9.1719	0.066757	lngRoll_ct	G#4	420.725	6
-59	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.1719	9.2473	0.075465	lngRoll_nt	E4	327.825	6
-60	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.2677	9.3199	0.052245	lngRoll_str	Eb4	316.256	6
-61	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.3373	9.4795	0.14222	lngRoll_nt	E4	327.171	6
-62	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.497	9.6624	0.16544	crann_nt	D4	294.328	6
-63	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.6624	9.7292	0.066757	crann_ct	E4	325.218	6
-64	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.735	9.764	0.029025	crann_nt	D4	293.741	6
-65	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.764	9.8249	0.060952	crann_ct	F4	357.204	6
-66	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.8249	9.854	0.029025	crann_nt	D4	292.571	6
-67	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.8598	9.9207	0.060952	crann_ct	E4	326.519	6
-68	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.9207	10.0862	0.16544	crann_nt	D4	291.988	6
-69	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	10.121	10.301	0.17995	NOTE	F#4	360.787	1
-70	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	10.3126	10.4577	0.14512	NOTE	D4	293.156	1
-71	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	10.4925	10.658	0.16544	NOTE	F#4	361.508	1
-72	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	10.658	10.7189	0.060952	NOTE	C5	516.754	1
-73	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	10.7189	10.8815	0.16254	NOTE	A4	434.378	1
-74	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	10.8844	11.0469	0.16254	NOTE	F#4	366.594	1
-75	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	11.0527	11.2559	0.20317	NOTE	A4	436.116	1
-76	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	11.2617	11.5287	0.26703	NOTE	D5	589.517	1
-77	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	11.9234	12.1215	0.19805	NOTE	B4	490.621	1
-78	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	12.1215	12.1959	0.074467	lngRoll_nt	C5	522.98	6
-79	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	12.1959	12.4227	0.22676	lngRoll_ct	B4	493.567	6
-80	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	12.4408	12.5279	0.087075	lngRoll_nt	C5	532.46	6
-81	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	12.5351	12.6658	0.13061	lngRoll_str	B4	494.553	6
-82	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	12.6766	12.8363	0.15964	lngRoll_nt	A4	439.611	6
-83	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	12.8363	13.0358	0.19955	NOTE	B4	489.642	1
-84	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	13.0358	13.239	0.20317	NOTE	D5	580.178	1
-85	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	13.239	13.395	0.15601	NOTE	E5	651.386	1
-86	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	13.395	13.5982	0.20317	NOTE	F#5	724.072	1
-87	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	13.6091	13.8195	0.21043	NOTE	E5	651.386	1
-88	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	13.8268	13.9719	0.14512	NOTE	D5	584.829	1
-89	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	13.9719	14.1714	0.19955	NOTE	B4	488.666	1
-90	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	14.1714	14.3782	0.2068	NOTE	A4	437.86	1
-91	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	14.3782	14.5125	0.13424	NOTE	D4	289.088	1
-92	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	14.5887	14.7011	0.11247	NOTE	D4	286.789	1
-93	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	14.7011	14.7846	0.083447	ct	A4	436.987	2
-94	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	14.7918	14.9261	0.13424	NOTE	F#4	361.508	1
-95	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	14.9424	15.102	0.15964	NOTE	D4	291.405	1
-96	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	15.1256	15.2853	0.15964	NOTE	F#4	360.787	1
-97	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	15.2853	15.3488	0.063492	ct	C5	515.724	2
-98	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	15.3651	15.5029	0.13787	NOTE	A4	432.647	1
-99	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	15.5048	15.6717	0.16689	NOTE	F#4	362.954	1
-100	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	15.688	15.8785	0.19048	NOTE	A4	436.116	1
-101	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	15.8803	16.058	0.17778	NOTE	D5	588.341	1
-102	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	16.0726	16.2739	0.20136	BREATH	BREATH	0	4
-103	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	16.2866	16.4844	0.19773	NOTE	A4	434.378	1
-104	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	16.4971	16.6766	0.17959	lngRoll_nt	B4	488.666	6
-105	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	16.6912	16.7438	0.052608	lngRoll_ct	C5	530.338	6
-106	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	16.7456	16.7964	0.050794	lngRoll_nt	B4	488.666	6
-107	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	16.8145	16.8671	0.052608	lngRoll_str	Bb4	477.1	6
-108	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	16.8816	17.0667	0.18503	lngRoll_nt	B4	486.719	6
-109	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	17.0739	17.2535	0.17959	NOTE	A4	433.512	1
-110	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	17.2644	17.424	0.15964	NOTE	F#4	362.954	1
-111	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	17.4349	17.6036	0.16871	NOTE	G#4	427.497	1
-112	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	17.6109	17.7923	0.18141	NOTE	D5	588.341	1
-113	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	17.8431	17.8993	0.056236	NOTE	G#4	423.252	1
-114	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	17.9991	18.1442	0.14512	NOTE	F4	358.633	1
-115	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	18.1769	18.2295	0.052608	shRoll_ct	G#4	426.645	5
-116	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	18.244	18.3492	0.10522	shRoll_nt	E4	329.136	6
-117	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	18.3728	18.4272	0.054422	shRoll_str	Eb4	316.888	6
-118	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	18.4454	18.5615	0.1161	shRoll_nt	E4	327.171	6
-119	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	18.5814	18.7048	0.12336	NOTE	D4	289.666	1
-120	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	18.741	18.8825	0.1415	NOTE	D5	584.829	1
-121	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	18.9061	19.1327	0.22653	BREATH	BREATH	0	4
-122	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	19.1367	19.3204	0.18367	NOTE	A5	880.177	1
-123	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	19.3388	19.4143	0.07551	ct	B5	980.832	2
-124	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	19.4224	19.5571	0.13469	NOTE	A5	870.456	1
-125	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	19.5612	19.7204	0.15918	NOTE	F#5	720.7	1
-126	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	19.7286	19.8878	0.15918	NOTE	A5	868.042	1
-127	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	19.8959	19.9694	0.073469	ct	C6	1054.25	2
-128	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	19.9755	20.1204	0.1449	NOTE	B5	980.832	1
-129	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	20.1286	20.2755	0.14694	NOTE	A5	865.636	1
-130	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	20.2816	20.4878	0.20612	NOTE	G5	774.648	1
-131	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	20.5061	20.6714	0.16531	NOTE	F#5	724.713	1
-132	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	20.6796	20.851	0.17143	NOTE	G5	776.802	1
-133	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	20.8531	21.0469	0.19388	NOTE	E5	644.946	1
-134	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	21.0551	21.2408	0.18571	NOTE	D5	578.76	1
-135	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	21.2531	21.4347	0.18163	NOTE	F5	716.709	1
-136	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	21.4367	21.5735	0.13673	NOTE	A5	880.177	1
-137	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	21.5857	21.6653	0.079592	ct	B5	967.31	2
-138	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	21.6714	21.8306	0.15918	NOTE	A5	870.456	1
-139	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	21.8388	22.0061	0.16735	NOTE	F#5	720.7	1
-140	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	22.0122	22.1918	0.17959	NOTE	E5	646.74	1
-141	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	22.2061	22.4041	0.19796	NOTE	D5	575.555	1
-142	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	22.4224	22.5776	0.1551	NOTE	E5	641.375	1
-143	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	22.598	22.7429	0.1449	NOTE	F5	714.722	1
-144	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	22.8	22.9776	0.17755	NOTE	E5	648.538	1
-145	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	22.9796	23.1592	0.17959	NOTE	D5	573.96	1
-146	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	23.1673	23.3408	0.17347	NOTE	Bb4	479.188	1
-147	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	23.3571	23.549	0.19184	NOTE	D5	573.96	1
-148	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	23.5531	23.7327	0.17959	NOTE	F#5	720.7	1
-149	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	23.7367	23.8898	0.15306	NOTE	A5	872.876	1
-150	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	23.898	23.9714	0.073469	NOTE	B5	983.559	1
-151	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	23.9816	24.0653	0.083673	NOTE	A5	870.456	1
-152	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	24.0816	24.2816	0.2	BREATH	BREATH	0	4
-153	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	24.3	24.4959	0.19592	NOTE	A5	870.456	1
-154	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	24.4959	24.5735	0.077551	ct	C6	1039.72	2
-155	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	24.5857	24.7429	0.15714	NOTE	B5	972.697	1
-156	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	24.751	24.9184	0.16735	NOTE	A4	433.609	1
-157	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	24.9327	25.0878	0.1551	NOTE	G4	388.032	1
-158	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	25.0878	25.1551	0.067347	ct	G#5	821.156	2
-159	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	25.1694	25.3143	0.1449	NOTE	F#5	724.713	1
-160	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	25.3184	25.4673	0.14898	NOTE	E5	644.946	1
-161	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	25.4796	25.6939	0.21429	NOTE	D5	573.96	1
-162	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	25.7388	25.8959	0.15714	lngRoll_nt	B4	480.521	6
-163	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	25.8959	25.9551	0.059184	lngRoll_ct	C5	522.258	6
-164	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	25.9571	26.0184	0.061224	lngRoll_nt	B4	487.238	6
-165	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	26.0245	26.0673	0.042857	lngRoll_str	Bb4	468.662	6
-166	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	26.0857	26.2939	0.20816	lngRoll_nt	B4	485.887	6
-167	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	26.3041	26.4796	0.17551	NOTE	G#4	427.631	1
-168	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	26.4837	26.6571	0.17347	NOTE	F4	358.014	1
-169	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	26.6735	26.8592	0.18571	NOTE	A4	432.407	1
-170	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	26.8735	27.0184	0.1449	NOTE	D5	583.601	1
-171	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	27.0592	27.1633	0.10408	NOTE	G#4	421.736	1
-172	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	27.2735	27.402	0.12857	NOTE	F#4	362.012	1
-173	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	27.4857	27.5816	0.095918	NOTE	E4	324.862	1
-174	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	27.5898	27.6388	0.04898	ct	E4	335.867	2
-175	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	27.6429	27.8041	0.16122	NOTE	E4	323.961	1
-176	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	27.8204	28.002	0.18163	NOTE	D4	291.523	1
-177	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	28.3633	28.5429	0.17959	NOTE	A5	868.042	1
-178	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	28.5633	28.6776	0.11429	ct	B5	961.954	2
-179	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	28.6898	28.7939	0.10408	NOTE	A5	868.042	1
-180	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	28.8122	28.9388	0.12653	NOTE	F5	716.709	1
-181	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	28.9592	29.1469	0.18776	NOTE	A5	863.236	1
-182	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	29.149	29.2327	0.083673	ct	C6	1036.84	2
-183	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	29.2388	29.3653	0.12653	NOTE	B5	978.113	1
-184	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	29.3776	29.5265	0.14898	NOTE	A5	865.636	1
-185	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	29.5408	29.7347	0.19388	NOTE	G5	774.648	1
-186	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	29.7429	29.9184	0.17551	NOTE	F#5	724.713	1
-187	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	29.9265	30.1143	0.18776	NOTE	G5	774.648	1
-188	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	30.1245	30.2939	0.16939	NOTE	E5	650.341	1
-189	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	30.3102	30.5102	0.2	NOTE	D5	575.555	1
-190	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	30.5204	30.698	0.17755	NOTE	F#5	722.703	1
-191	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	30.702	30.8449	0.14286	NOTE	A5	868.042	1
-192	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	30.851	30.9286	0.077551	ct	B5	972.697	2
-193	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	30.9367	31.0878	0.15102	NOTE	A5	865.636	1
-194	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	31.1041	31.2653	0.16122	NOTE	F5	718.701	1
-195	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	31.2714	31.4449	0.17347	NOTE	E5	648.538	1
-196	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	31.4653	31.6082	0.14286	NOTE	D5	577.156	1
-197	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	31.6735	31.749	0.07551	NOTE	E5	641.375	1
-198	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	31.8592	32.0306	0.17143	NOTE	F5	712.74	1
-199	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	32.0551	32.2122	0.15714	NOTE	E5	641.375	1
-200	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	32.2122	32.3796	0.16735	NOTE	D5	577.156	1
-201	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	32.398	32.5796	0.18163	NOTE	Bb4	479.188	1
-202	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	32.602	32.802	0.2	NOTE	D5	575.555	1
-203	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	32.8082	32.9735	0.16531	NOTE	F5	714.722	1
-204	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	32.9796	33.1367	0.15714	NOTE	A5	865.636	1
-205	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	33.1429	33.2347	0.091837	ct	B5	964.629	2
-206	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	33.2388	33.3143	0.07551	NOTE	A5	865.636	1
-207	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	33.3286	33.5347	0.20612	BREATH	BREATH	0	4
-208	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	33.5592	33.7408	0.18163	NOTE	A5	882.624	1
-209	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	33.7551	33.8367	0.081633	ct	C6	1063.07	2
-210	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	33.849	34.0061	0.15714	NOTE	B5	980.832	1
-211	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	34.0204	34.1633	0.14286	NOTE	A5	870.456	1
-212	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	34.1694	34.3347	0.16531	NOTE	G5	776.802	1
-213	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	34.3653	34.4286	0.063265	ct	G#5	837.271	2
-214	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	34.4388	34.5673	0.12857	NOTE	F#5	728.748	1
-215	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	34.5735	34.7429	0.16939	NOTE	E5	650.341	1
-216	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	34.7592	34.9204	0.16122	NOTE	D5	578.76	1
-217	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	34.9673	35.1265	0.15918	lngRoll_nt	B4	481.857	6
-218	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	35.1388	35.1918	0.053061	lngRoll_ct	C5	522.258	6
-219	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	35.2041	35.2592	0.055102	lngRoll_nt	B4	484.54	6
-220	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	35.2694	35.3143	0.044898	lngRoll_str	Bb4	467.363	6
-221	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	35.3265	35.5184	0.19184	lngRoll_nt	B4	487.238	6
-222	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	35.5265	35.6816	0.1551	NOTE	A4	430.013	1
-223	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	35.7388	35.8367	0.097959	NOTE	F4	352.1	1
-224	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	35.9163	36.0939	0.17755	NOTE	G#4	427.631	1
-225	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	36.0959	36.2878	0.19184	NOTE	D5	586.851	1
-226	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	36.3102	36.3939	0.083673	NOTE	G#4	420.567	1
-227	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	36.4918	36.6714	0.17959	NOTE	F4	357.022	1
-228	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	36.7102	36.8714	0.16122	lngRoll_nt	E4	325.765	6
-229	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	36.8878	36.9531	0.065306	lngRoll_ct	G#4	418.238	6
-230	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	36.9571	37.0143	0.057143	lngRoll_nt	E4	323.961	6
-231	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	37.0245	37.0755	0.05102	lngRoll_str	Eb4	309.026	6
-232	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	37.0857	37.2306	0.1449	lngRoll_nt	E4	323.961	6
-								2
-								1
-								3
-								1
+1	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	0.22422	0.35048	0.12626	crann_nt	D4	288.512
+2	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	0.35483	0.41796	0.063129	crann_ct	E4	325.868
+3	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	0.42014	0.46367	0.043537	crann_nt	D4	290.824
+4	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	0.46367	0.5181	0.054422	crann_ct	F4	350.145
+5	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	0.5181	0.55946	0.041361	crann_nt	D4	290.244
+6	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	0.56381	0.62041	0.056599	crann_ct	E4	325.218
+7	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	0.62259	0.77497	0.15238	crann_nt	D4	289.088
+8	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	0.80689	0.99846	0.19156	NOTE	F#4	360.787
+9	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	1.0072	1.1552	0.14803	NOTE	D4	290.244
+10	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	1.1929	1.3613	0.16834	NOTE	F#4	362.23
+11	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	1.3613	1.428	0.066757	ct	C5	520.896
+12	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	1.428	1.5848	0.15673	NOTE	A4	430.065
+13	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	1.5848	1.7502	0.16544	NOTE	F#4	360.787
+14	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	1.7502	1.9737	0.22349	NOTE	A4	436.987
+15	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	1.9824	2.3655	0.38313	NOTE	D5	579.021
+16	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	2.3829	2.5919	0.20898	NOTE	A4	431.785
+17	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	2.6064	2.7893	0.18286	lngRoll_nt	B4	487.691
+18	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	2.7922	2.8328	0.040635	lngRoll_ct	C5	525.072
+19	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	2.8328	2.9228	0.089977	lngRoll_nt	B4	485.749
+20	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	2.9286	2.9809	0.052245	lngRoll_str	Bb4	468.607
+21	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	2.9809	3.1579	0.17705	lngRoll_nt	B4	492.583
+22	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	3.1579	3.2218	0.063855	ct	C5	526.121
+23	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	3.2508	3.3698	0.119	NOTE	B4	490.621
+24	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	3.3698	3.5643	0.19447	NOTE	A4	430.924
+25	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	3.573	3.7645	0.19156	NOTE	B4	484.78
+26	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	3.7645	3.9503	0.18576	NOTE	D5	581.337
+27	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	3.9619	4.1332	0.17125	NOTE	E5	644.918
+28	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	4.1332	4.2812	0.14803	NOTE	F#5	721.188
+29	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	4.2986	4.3537	0.055147	ct	G5	762.641
+30	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	4.3537	4.5337	0.17995	NOTE	E5	648.791
+31	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	4.5424	4.6991	0.15673	NOTE	D5	579.021
+32	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	4.7137	4.8936	0.17995	NOTE	B4	487.691
+33	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	4.9139	5.1171	0.20317	NOTE	A4	433.512
+34	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	5.1374	5.2593	0.1219	NOTE	D4	288.512
+35	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	5.2854	5.4102	0.12481	NOTE	D4	287.936
+36	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	5.4712	5.6686	0.19737	NOTE	F#4	360.787
+37	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	5.6831	5.8253	0.14222	NOTE	D4	293.156
+38	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	5.8311	5.9966	0.16544	NOTE	F4	359.349
+39	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	5.9966	6.0952	0.098685	ct	C5	519.858
+40	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	6.0952	6.2055	0.11029	NOTE	A4	431.785
+41	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	6.2171	6.3797	0.16254	NOTE	F#4	360.787
+42	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	6.3884	6.6032	0.21478	NOTE	A4	435.246
+43	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	6.6032	6.7309	0.12771	NOTE	D5	587.168
+44	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	6.757	6.9776	0.22059	BREATH	BREATH	0
+45	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	6.9805	7.1953	0.21478	NOTE	A4	437.86
+46	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	7.2185	7.4043	0.18576	lngRoll_nt	B4	488.666
+47	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	7.4072	7.4768	0.06966	lngRoll_ct	C5	516.754
+48	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	7.4884	7.5378	0.049342	lngRoll_nt	B4	488.666
+49	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	7.5436	7.5958	0.052245	lngRoll_str	Bb4	475.2
+50	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	7.619	7.7874	0.16834	lngRoll_nt	B4	493.567
+51	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	7.799	7.9906	0.19156	NOTE	A4	435.246
+52	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	8.008	8.156	0.14803	NOTE	F#4	361.508
+53	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	8.156	8.3534	0.19737	NOTE	A4	436.987
+54	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	8.3534	8.5188	0.16544	NOTE	D5	585.997
+55	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	8.5856	8.7075	0.1219	NOTE	A4	429.207
+56	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	8.7191	8.9426	0.22349	NOTE	F#4	362.23
+57	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	8.9629	9.1051	0.14222	lngRoll_nt	E4	327.825
+58	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.1051	9.1719	0.066757	lngRoll_ct	G#4	420.725
+59	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.1719	9.2473	0.075465	lngRoll_nt	E4	327.825
+60	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.2677	9.3199	0.052245	lngRoll_str	Eb4	316.256
+61	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.3373	9.4795	0.14222	lngRoll_nt	E4	327.171
+62	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.497	9.6624	0.16544	crann_nt	D4	294.328
+63	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.6624	9.7292	0.066757	crann_ct	E4	325.218
+64	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.735	9.764	0.029025	crann_nt	D4	293.741
+65	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.764	9.8249	0.060952	crann_ct	F4	357.204
+66	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.8249	9.854	0.029025	crann_nt	D4	292.571
+67	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.8598	9.9207	0.060952	crann_ct	E4	326.519
+68	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	9.9207	10.0862	0.16544	crann_nt	D4	291.988
+69	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	10.121	10.301	0.17995	NOTE	F#4	360.787
+70	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	10.3126	10.4577	0.14512	NOTE	D4	293.156
+71	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	10.4925	10.658	0.16544	NOTE	F#4	361.508
+72	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	10.658	10.7189	0.060952	NOTE	C5	516.754
+73	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	10.7189	10.8815	0.16254	NOTE	A4	434.378
+74	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	10.8844	11.0469	0.16254	NOTE	F#4	366.594
+75	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	11.0527	11.2559	0.20317	NOTE	A4	436.116
+76	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	11.2617	11.5287	0.26703	NOTE	D5	589.517
+77	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	11.9234	12.1215	0.19805	NOTE	B4	490.621
+78	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	12.1215	12.1959	0.074467	lngRoll_nt	C5	522.98
+79	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	12.1959	12.4227	0.22676	lngRoll_ct	B4	493.567
+80	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	12.4408	12.5279	0.087075	lngRoll_nt	C5	532.46
+81	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	12.5351	12.6658	0.13061	lngRoll_str	B4	494.553
+82	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	12.6766	12.8363	0.15964	lngRoll_nt	A4	439.611
+83	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	12.8363	13.0358	0.19955	NOTE	B4	489.642
+84	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	13.0358	13.239	0.20317	NOTE	D5	580.178
+85	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	13.239	13.395	0.15601	NOTE	E5	651.386
+86	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	13.395	13.5982	0.20317	NOTE	F#5	724.072
+87	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	13.6091	13.8195	0.21043	NOTE	E5	651.386
+88	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	13.8268	13.9719	0.14512	NOTE	D5	584.829
+89	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	13.9719	14.1714	0.19955	NOTE	B4	488.666
+90	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	14.1714	14.3782	0.2068	NOTE	A4	437.86
+91	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	14.3782	14.5125	0.13424	NOTE	D4	289.088
+92	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	14.5887	14.7011	0.11247	NOTE	D4	286.789
+93	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	14.7011	14.7846	0.083447	ct	A4	436.987
+94	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	14.7918	14.9261	0.13424	NOTE	F#4	361.508
+95	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	14.9424	15.102	0.15964	NOTE	D4	291.405
+96	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	15.1256	15.2853	0.15964	NOTE	F#4	360.787
+97	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	15.2853	15.3488	0.063492	ct	C5	515.724
+98	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	15.3651	15.5029	0.13787	NOTE	A4	432.647
+99	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	15.5048	15.6717	0.16689	NOTE	F#4	362.954
+100	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	15.688	15.8785	0.19048	NOTE	A4	436.116
+101	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	15.8803	16.058	0.17778	NOTE	D5	588.341
+102	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	16.0726	16.2739	0.20136	BREATH	BREATH	0
+103	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	16.2866	16.4844	0.19773	NOTE	A4	434.378
+104	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	16.4971	16.6766	0.17959	lngRoll_nt	B4	488.666
+105	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	16.6912	16.7438	0.052608	lngRoll_ct	C5	530.338
+106	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	16.7456	16.7964	0.050794	lngRoll_nt	B4	488.666
+107	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	16.8145	16.8671	0.052608	lngRoll_str	Bb4	477.1
+108	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	16.8816	17.0667	0.18503	lngRoll_nt	B4	486.719
+109	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	17.0739	17.2535	0.17959	NOTE	A4	433.512
+110	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	17.2644	17.424	0.15964	NOTE	F#4	362.954
+111	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	17.4349	17.6036	0.16871	NOTE	G#4	427.497
+112	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	17.6109	17.7923	0.18141	NOTE	D5	588.341
+113	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	17.8431	17.8993	0.056236	NOTE	G#4	423.252
+114	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	17.9991	18.1442	0.14512	NOTE	F4	358.633
+115	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	18.1769	18.2295	0.052608	shRoll_ct	G#4	426.645
+116	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	18.244	18.3492	0.10522	shRoll_nt	E4	329.136
+117	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	18.3728	18.4272	0.054422	shRoll_str	Eb4	316.888
+118	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	18.4454	18.5615	0.1161	shRoll_nt	E4	327.171
+119	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	18.5814	18.7048	0.12336	NOTE	D4	289.666
+120	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	18.741	18.8825	0.1415	NOTE	D5	584.829
+121	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	18.9061	19.1327	0.22653	BREATH	BREATH	0
+122	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	19.1367	19.3204	0.18367	NOTE	A5	880.177
+123	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	19.3388	19.4143	0.07551	ct	B5	980.832
+124	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	19.4224	19.5571	0.13469	NOTE	A5	870.456
+125	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	19.5612	19.7204	0.15918	NOTE	F#5	720.7
+126	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	19.7286	19.8878	0.15918	NOTE	A5	868.042
+127	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	19.8959	19.9694	0.073469	ct	C6	1054.25
+128	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	19.9755	20.1204	0.1449	NOTE	B5	980.832
+129	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	20.1286	20.2755	0.14694	NOTE	A5	865.636
+130	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	20.2816	20.4878	0.20612	NOTE	G5	774.648
+131	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	20.5061	20.6714	0.16531	NOTE	F#5	724.713
+132	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	20.6796	20.851	0.17143	NOTE	G5	776.802
+133	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	20.8531	21.0469	0.19388	NOTE	E5	644.946
+134	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	21.0551	21.2408	0.18571	NOTE	D5	578.76
+135	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	21.2531	21.4347	0.18163	NOTE	F5	716.709
+136	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	21.4367	21.5735	0.13673	NOTE	A5	880.177
+137	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	21.5857	21.6653	0.079592	ct	B5	967.31
+138	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	21.6714	21.8306	0.15918	NOTE	A5	870.456
+139	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	21.8388	22.0061	0.16735	NOTE	F#5	720.7
+140	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	22.0122	22.1918	0.17959	NOTE	E5	646.74
+141	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	22.2061	22.4041	0.19796	NOTE	D5	575.555
+142	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	22.4224	22.5776	0.1551	NOTE	E5	641.375
+143	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	22.598	22.7429	0.1449	NOTE	F5	714.722
+144	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	22.8	22.9776	0.17755	NOTE	E5	648.538
+145	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	22.9796	23.1592	0.17959	NOTE	D5	573.96
+146	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	23.1673	23.3408	0.17347	NOTE	Bb4	479.188
+147	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	23.3571	23.549	0.19184	NOTE	D5	573.96
+148	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	23.5531	23.7327	0.17959	NOTE	F#5	720.7
+149	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	23.7367	23.8898	0.15306	NOTE	A5	872.876
+150	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	23.898	23.9714	0.073469	NOTE	B5	983.559
+151	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	23.9816	24.0653	0.083673	NOTE	A5	870.456
+152	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	24.0816	24.2816	0.2	BREATH	BREATH	0
+153	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	24.3	24.4959	0.19592	NOTE	A5	870.456
+154	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	24.4959	24.5735	0.077551	ct	C6	1039.72
+155	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	24.5857	24.7429	0.15714	NOTE	B5	972.697
+156	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	24.751	24.9184	0.16735	NOTE	A4	433.609
+157	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	24.9327	25.0878	0.1551	NOTE	G4	388.032
+158	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	25.0878	25.1551	0.067347	ct	G#5	821.156
+159	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	25.1694	25.3143	0.1449	NOTE	F#5	724.713
+160	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	25.3184	25.4673	0.14898	NOTE	E5	644.946
+161	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	25.4796	25.6939	0.21429	NOTE	D5	573.96
+162	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	25.7388	25.8959	0.15714	lngRoll_nt	B4	480.521
+163	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	25.8959	25.9551	0.059184	lngRoll_ct	C5	522.258
+164	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	25.9571	26.0184	0.061224	lngRoll_nt	B4	487.238
+165	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	26.0245	26.0673	0.042857	lngRoll_str	Bb4	468.662
+166	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	26.0857	26.2939	0.20816	lngRoll_nt	B4	485.887
+167	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	26.3041	26.4796	0.17551	NOTE	G#4	427.631
+168	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	26.4837	26.6571	0.17347	NOTE	F4	358.014
+169	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	26.6735	26.8592	0.18571	NOTE	A4	432.407
+170	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	26.8735	27.0184	0.1449	NOTE	D5	583.601
+171	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	27.0592	27.1633	0.10408	NOTE	G#4	421.736
+172	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	27.2735	27.402	0.12857	NOTE	F#4	362.012
+173	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	27.4857	27.5816	0.095918	NOTE	E4	324.862
+174	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	27.5898	27.6388	0.04898	ct	E4	335.867
+175	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	27.6429	27.8041	0.16122	NOTE	E4	323.961
+176	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	27.8204	28.002	0.18163	NOTE	D4	291.523
+177	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	28.3633	28.5429	0.17959	NOTE	A5	868.042
+178	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	28.5633	28.6776	0.11429	ct	B5	961.954
+179	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	28.6898	28.7939	0.10408	NOTE	A5	868.042
+180	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	28.8122	28.9388	0.12653	NOTE	F5	716.709
+181	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	28.9592	29.1469	0.18776	NOTE	A5	863.236
+182	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	29.149	29.2327	0.083673	ct	C6	1036.84
+183	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	29.2388	29.3653	0.12653	NOTE	B5	978.113
+184	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	29.3776	29.5265	0.14898	NOTE	A5	865.636
+185	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	29.5408	29.7347	0.19388	NOTE	G5	774.648
+186	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	29.7429	29.9184	0.17551	NOTE	F#5	724.713
+187	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	29.9265	30.1143	0.18776	NOTE	G5	774.648
+188	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	30.1245	30.2939	0.16939	NOTE	E5	650.341
+189	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	30.3102	30.5102	0.2	NOTE	D5	575.555
+190	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	30.5204	30.698	0.17755	NOTE	F#5	722.703
+191	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	30.702	30.8449	0.14286	NOTE	A5	868.042
+192	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	30.851	30.9286	0.077551	ct	B5	972.697
+193	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	30.9367	31.0878	0.15102	NOTE	A5	865.636
+194	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	31.1041	31.2653	0.16122	NOTE	F5	718.701
+195	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	31.2714	31.4449	0.17347	NOTE	E5	648.538
+196	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	31.4653	31.6082	0.14286	NOTE	D5	577.156
+197	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	31.6735	31.749	0.07551	NOTE	E5	641.375
+198	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	31.8592	32.0306	0.17143	NOTE	F5	712.74
+199	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	32.0551	32.2122	0.15714	NOTE	E5	641.375
+200	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	32.2122	32.3796	0.16735	NOTE	D5	577.156
+201	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	32.398	32.5796	0.18163	NOTE	Bb4	479.188
+202	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	32.602	32.802	0.2	NOTE	D5	575.555
+203	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	32.8082	32.9735	0.16531	NOTE	F5	714.722
+204	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	32.9796	33.1367	0.15714	NOTE	A5	865.636
+205	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	33.1429	33.2347	0.091837	ct	B5	964.629
+206	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	33.2388	33.3143	0.07551	NOTE	A5	865.636
+207	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	33.3286	33.5347	0.20612	BREATH	BREATH	0
+208	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	33.5592	33.7408	0.18163	NOTE	A5	882.624
+209	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	33.7551	33.8367	0.081633	ct	C6	1063.07
+210	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	33.849	34.0061	0.15714	NOTE	B5	980.832
+211	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	34.0204	34.1633	0.14286	NOTE	A5	870.456
+212	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	34.1694	34.3347	0.16531	NOTE	G5	776.802
+213	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	34.3653	34.4286	0.063265	ct	G#5	837.271
+214	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	34.4388	34.5673	0.12857	NOTE	F#5	728.748
+215	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	34.5735	34.7429	0.16939	NOTE	E5	650.341
+216	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	34.7592	34.9204	0.16122	NOTE	D5	578.76
+217	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	34.9673	35.1265	0.15918	lngRoll_nt	B4	481.857
+218	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	35.1388	35.1918	0.053061	lngRoll_ct	C5	522.258
+219	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	35.2041	35.2592	0.055102	lngRoll_nt	B4	484.54
+220	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	35.2694	35.3143	0.044898	lngRoll_str	Bb4	467.363
+221	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	35.3265	35.5184	0.19184	lngRoll_nt	B4	487.238
+222	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	35.5265	35.6816	0.1551	NOTE	A4	430.013
+223	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	35.7388	35.8367	0.097959	NOTE	F4	352.1
+224	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	35.9163	36.0939	0.17755	NOTE	G#4	427.631
+225	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	36.0959	36.2878	0.19184	NOTE	D5	586.851
+226	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	36.3102	36.3939	0.083673	NOTE	G#4	420.567
+227	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	36.4918	36.6714	0.17959	NOTE	F4	357.022
+228	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	36.7102	36.8714	0.16122	lngRoll_nt	E4	325.765
+229	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	36.8878	36.9531	0.065306	lngRoll_ct	G#4	418.238
+230	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	36.9571	37.0143	0.057143	lngRoll_nt	E4	323.961
+231	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	37.0245	37.0755	0.05102	lngRoll_str	Eb4	309.026
+232	Lar_EssentialGuideCD2_Tk74Tu1R1_TheScotsmanOverTheBorder.txt	37.0857	37.2306	0.1449	lngRoll_nt	E4	323.961
+							
+							
+							
+							
