@@ -1,0 +1,231 @@
+1	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	0.026667	0.15111	0.12444	lngRoll_nt	G5	801.334	
+2	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	0.16	0.2019	0.041905	lngRoll_ct	B5	1004.34	
+3	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	0.2019	0.29841	0.096508	lngRoll_nt	G#5	807.363	
+4	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	0.30349	0.3454	0.041905	lngRoll_str	G5	773.194	
+5	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	0.34667	0.47365	0.12698	lngRoll_nt	G5	795.304	
+6	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	0.47365	0.51175	0.038095	ct	B5	974.189	2
+7	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	0.54603	0.63873	0.092698	NOTE	G5	787.264	1
+8	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	0.64381	0.75937	0.11556	NOTE	E5	672.697	1
+9	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	0.76317	0.94222	0.17905	NOTE	D5	594.309	1
+10	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	0.95111	1.0667	0.11556	NOTE	B4	491.802	1
+11	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	1.0692	1.2076	0.13841	NOTE	D5	590.289	1
+12	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	1.2076	1.2533	0.045714	ct	F#5	732.995	2
+13	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	1.2584	1.3803	0.1219	NOTE	E5	670.687	1
+14	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	1.3816	1.5365	0.15492	NOTE	D5	590.289	1
+15	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	1.539	1.6622	0.12317	NOTE	B4	491.802	1
+16	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	1.6622	1.8273	0.16508	NOTE	A4	443.564	1
+17	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	1.8349	1.8895	0.054603	ct	C#5	546.071	2
+18	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	1.9022	1.9937	0.091429	NOTE	B4	489.792	1
+19	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	1.9949	2.1257	0.13079	NOTE	A4	443.564	1
+20	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	2.1257	2.2997	0.17397	NOTE	G4	395.325	1
+21	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	2.2997	2.4368	0.13714	NOTE	D5	588.279	1
+22	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	2.447	2.5613	0.11429	NOTE	B4	497.832	1
+23	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	2.5613	2.7352	0.17397	NOTE	G4	391.305	1
+24	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	2.7352	2.8025	0.067302	ct	C#5	546.071	2
+25	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	2.8076	2.894	0.086349	NOTE	B4	497.832	1
+26	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	2.8965	3.0679	0.17143	NOTE	A4	435.524	1
+27	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	3.0743	3.1911	0.11683	NOTE	G4	397.335	1
+28	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	3.1962	3.379	0.18286	NOTE	A4	441.554	1
+29	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	3.3879	3.6584	0.27048	BREATH	BREATH	0	4
+30	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	3.6724	3.7981	0.12571	lngRoll_nt	G5	787.264	
+31	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	3.7981	3.8527	0.054603	lngRoll_ct	B5	978.209	
+32	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	3.8667	3.9619	0.095238	lngRoll_nt	G5	795.304	
+33	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	3.9708	4.0089	0.038095	lngRoll_str	F#5	753.095	
+34	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	4.0127	4.141	0.12825	lngRoll_nt	G5	787.264	
+35	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	4.1435	4.2692	0.12571	NOTE	E5	666.667	1
+36	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	4.2692	4.3314	0.062222	NOTE	G5	783.244	1
+37	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	4.3314	4.4063	0.074921	NOTE	G4	395.325	1
+38	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	4.4063	4.5041	0.097778	NOTE	D4	288.798	1
+39	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	4.5079	4.6019	0.093968	NOTE	D5	592.299	1
+40	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	4.6108	4.7086	0.097778	NOTE	B4	495.822	1
+41	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	4.7124	4.8584	0.14603	NOTE	D5	590.289	1
+42	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	4.8584	4.9092	0.050794	ct	F#5	739.025	2
+43	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	4.913	5.0286	0.11556	NOTE	E5	668.677	1
+44	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	5.0349	5.1835	0.14857	NOTE	D5	586.27	1
+45	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	5.1898	5.3079	0.1181	NOTE	B4	497.832	1
+46	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	5.3079	5.4908	0.18286	NOTE	A4	441.554	1
+47	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	5.4908	5.6673	0.17651	lngRoll_nt	B4	493.812	
+48	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	5.6673	5.7092	0.041905	lngRoll_ct	C#5	546.071	
+49	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	5.7206	5.7702	0.049524	lngRoll_nt	B4	495.822	
+50	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	5.779	5.8083	0.029206	lngRoll_str	Bb4	477.733	
+51	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	5.8171	5.9251	0.10794	lngRoll_nt	B4	499.842	
+52	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	5.9327	6.0914	0.15873	NOTE	D5	596.319	1
+53	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	6.0914	6.1968	0.1054	NOTE	B4	489.792	1
+54	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	6.1968	6.3568	0.16	NOTE	G4	395.325	1
+55	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	6.3606	6.4127	0.052063	ct	B4	495.822	2
+56	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	6.4127	6.5054	0.092698	NOTE	A4	451.603	1
+57	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	6.5105	6.6425	0.13206	NOTE	G4	399.345	1
+58	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	6.6463	6.819	0.1727	NOTE	F#4	367.186	1
+59	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	6.819	7.0006	0.18159	NOTE	G4	399.345	1
+60	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	7.0083	7.3041	0.29587	BREATH	BREATH	0	4
+61	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	7.3168	7.4527	0.13587	lngRoll_nt	G5	785.254	
+62	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	7.4679	7.5035	0.035556	lngRoll_ct	B5	984.239	
+63	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	7.5098	7.5873	0.07746	lngRoll_nt	G5	791.284	
+64	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	7.5962	7.6203	0.024127	lngRoll_str	F#5	755.105	
+65	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	7.6203	7.76	0.13968	lngRoll_nt	G5	789.274	
+66	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	7.7638	7.906	0.14222	NOTE	E5	668.677	1
+67	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	7.9175	8.0584	0.14095	NOTE	G5	785.254	1
+68	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	8.0787	8.2337	0.15492	NOTE	D5	600.339	1
+69	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	8.2387	8.3479	0.10921	NOTE	B4	499.842	1
+70	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	8.3543	8.4863	0.13206	NOTE	D5	586.27	1
+71	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	8.4965	8.5371	0.040635	ct	F#5	728.976	2
+72	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	8.5371	8.6654	0.12825	NOTE	E5	670.687	1
+73	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	8.6705	8.8076	0.13714	NOTE	D5	588.279	1
+74	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	8.8152	8.9486	0.13333	NOTE	B4	499.842	1
+75	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	8.9486	9.1403	0.19175	NOTE	A4	439.544	1
+76	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	9.1403	9.3092	0.16889	lngRoll_nt	B4	495.822	
+77	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	9.3219	9.3575	0.035556	lngRoll_ct	C#5	548.081	
+78	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	9.3625	9.4019	0.039365	lngRoll_nt	B4	503.862	
+79	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	9.4121	9.4438	0.031746	lngRoll_str	Bb4	475.723	
+80	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	9.454	9.5683	0.11429	lngRoll_nt	B4	501.852	
+81	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	9.5733	9.7295	0.15619	NOTE	D5	598.329	1
+82	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	9.7308	9.8514	0.12063	NOTE	B4	497.832	1
+83	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	9.8578	10.019	0.16127	NOTE	G4	395.325	1
+84	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	10.0229	10.1752	0.15238	NOTE	F#4	367.186	1
+85	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	10.1803	10.32	0.13968	NOTE	G4	391.305	1
+86	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	10.32	10.4737	0.15365	NOTE	A4	439.544	1
+87	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	10.4876	10.626	0.13841	NOTE	A4	443.564	1
+88	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	10.6375	10.9219	0.28444	BREATH	BREATH	0	4
+89	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	10.9359	11.0781	0.14222	NOTE	G5	797.314	1
+90	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	11.0806	11.2038	0.12317	NOTE	B5	1004.34	1
+91	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	11.2114	11.3752	0.16381	NOTE	G#5	807.363	1
+92	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	11.3841	11.4286	0.044444	ct	B5	996.298	2
+93	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	11.4565	11.5378	0.08127	NOTE	G5	805.353	1
+94	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	11.5403	11.6546	0.11429	NOTE	E5	672.697	1
+95	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	11.6584	11.8514	0.19302	NOTE	D5	592.299	1
+96	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	11.8565	11.9759	0.11937	NOTE	B4	491.802	1
+97	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	11.9898	12.1054	0.11556	NOTE	D5	594.309	1
+98	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	12.1143	12.1689	0.054603	ct	F#5	751.085	2
+99	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	12.1702	12.2946	0.12444	NOTE	E5	670.687	1
+100	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	12.2971	12.4571	0.16	NOTE	D5	584.26	1
+101	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	12.461	12.579	0.1181	NOTE	B4	495.822	1
+102	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	12.579	12.739	0.16	NOTE	A4	445.573	1
+103	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	12.7505	12.9143	0.16381	lngRoll_nt	B4	493.812	
+104	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	12.9206	12.9676	0.046984	lngRoll_ct	C#5	544.061	
+105	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	12.9816	13.0235	0.041905	lngRoll_nt	B4	499.842	
+106	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	13.0324	13.0552	0.022857	lngRoll_str	Bb4	473.713	
+107	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	13.0692	13.186	0.11683	lngRoll_nt	B4	497.832	
+108	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	13.1911	13.3448	0.15365	NOTE	D5	582.25	1
+109	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	13.3448	13.4489	0.10413	NOTE	B4	485.772	1
+110	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	13.4578	13.6317	0.17397	NOTE	G4	395.325	1
+111	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	13.6317	13.8184	0.18667	NOTE	A4	451.603	1
+112	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	13.8184	13.9378	0.11937	NOTE	G4	403.365	1
+113	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	13.939	14.0914	0.15238	NOTE	F#4	369.196	1
+114	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	14.0952	14.2616	0.16635	NOTE	G4	397.335	1
+115	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	14.2692	14.56	0.29079	NOTE	G4	393.315	1
+116	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	14.5735	14.7061	0.13265	lngRoll_nt	G5	783.244	
+117	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	14.7204	14.7735	0.053061	lngRoll_ct	A5	877.711	
+118	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	14.7816	14.8245	0.042857	lngRoll_nt	G5	797.314	
+119	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	14.8347	14.9	0.065306	lngRoll_str	G5	775.204	
+120	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	14.9122	15.0102	0.097959	lngRoll_nt	G5	789.274	
+121	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	15.0245	15.0714	0.046939	ct	B5	980.219	2
+122	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	15.0714	15.1776	0.10612	NOTE	A5	881.731	1
+123	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	15.1796	15.3306	0.15102	NOTE	F#5	751.085	1
+124	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	15.3347	15.4755	0.14082	NOTE	D5	590.289	1
+125	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	15.4755	15.6245	0.14898	NOTE	G5	789.274	1
+126	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	15.6306	15.7592	0.12857	NOTE	A5	879.721	1
+127	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	15.7592	15.9306	0.17143	NOTE	B5	1004.34	1
+128	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	15.9408	16.0469	0.10612	NOTE	A5	891.781	1
+129	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	16.0551	16.2224	0.16735	NOTE	A5	895.801	1
+130	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	16.2224	16.3796	0.15714	NOTE	F#5	751.085	1
+131	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	16.3796	16.5204	0.14082	NOTE	G5	787.264	1
+132	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	16.5286	16.6571	0.12857	NOTE	A5	877.711	1
+133	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	16.6592	16.802	0.14286	NOTE	B5	1008.36	1
+134	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	16.8041	16.9857	0.18163	NOTE	E5	670.687	1
+135	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	16.9918	17.1	0.10816	NOTE	A5	875.702	1
+136	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	17.1	17.2755	0.17551	NOTE	G5	787.264	1
+137	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	17.2857	17.3163	0.030612	str	G5	771.184	3
+138	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	17.3224	17.4224	0.1	NOTE	G5	787.264	1
+139	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	17.4245	17.5224	0.097959	NOTE	A5	881.731	1
+140	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	17.5469	17.7061	0.15918	NOTE	F#5	751.085	1
+141	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	17.7061	17.8245	0.11837	NOTE	D5	596.319	1
+142	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	17.8388	18.002	0.16327	BREATH	BREATH	0	4
+143	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	18.0122	18.1694	0.15714	NOTE	A5	879.721	1
+144	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	18.1898	18.2306	0.040816	ct	C6	1068.66	2
+145	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	18.2306	18.3265	0.095918	NOTE	C6	1034.49	1
+146	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	18.3265	18.4531	0.12653	NOTE	A5	905.851	1
+147	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	18.4531	18.6204	0.16735	NOTE	G5	789.274	1
+148	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	18.6388	18.7	0.061224	ct	B5	986.248	2
+149	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	18.7143	18.798	0.083673	NOTE	A5	879.721	1
+150	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	18.798	18.9122	0.11429	NOTE	G5	791.284	1
+151	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	18.9204	19.0796	0.15918	NOTE	F#5	732.995	1
+152	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	19.0898	19.2204	0.13061	lngRoll_nt	G5	789.274	
+153	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	19.2286	19.2673	0.038776	lngRoll_ct	B5	978.209	
+154	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	19.2816	19.349	0.067347	lngRoll_nt	G5	793.294	
+155	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	19.3673	19.3959	0.028571	lngRoll_str	G5	773.194	
+156	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	19.4061	19.5245	0.11837	lngRoll_nt	G5	791.284	
+157	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	19.5327	19.5776	0.044898	ct	B5	974.189	2
+158	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	19.5837	19.6898	0.10612	NOTE	G5	787.264	1
+159	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	19.6959	19.8265	0.13061	NOTE	E5	670.687	1
+160	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	19.8265	20.0204	0.19388	NOTE	D5	588.279	1
+161	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	20.0204	20.1224	0.10204	NOTE	B4	499.842	1
+162	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	20.1224	20.2755	0.15306	NOTE	D5	586.27	1
+163	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	20.2857	20.4327	0.14694	NOTE	E5	666.667	1
+164	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	20.4388	20.5939	0.1551	NOTE	D5	588.279	1
+165	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	20.5939	20.7082	0.11429	NOTE	B4	495.822	1
+166	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	20.7184	20.8898	0.17143	NOTE	A4	443.564	1
+167	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	20.8898	20.9755	0.085714	NOTE	B4	497.832	1
+168	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	20.9755	21.0367	0.061224	ct	C#5	544.061	2
+169	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	21.0429	21.1918	0.14898	NOTE	B4	493.812	1
+170	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	21.1939	21.3531	0.15918	NOTE	A4	441.554	1
+171	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	21.3592	21.5408	0.18163	NOTE	G4	389.295	1
+172	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	21.5571	21.7948	0.23769	BREATH	BREATH	0	4
+173	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	21.7948	21.9479	0.15306	lngRoll_nt	G5	804.318	
+174	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	21.9581	21.9989	0.040816	lngRoll_ct	A5	858.297	
+175	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	21.9995	22.0709	0.071429	lngRoll_nt	G5	800.595	
+176	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	22.0776	22.1122	0.034694	lngRoll_str	G5	769.174	
+177	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	22.1192	22.2759	0.15673	NOTE	G5	802.457	1
+178	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	22.2759	22.4065	0.13061	NOTE	A5	895.524	1
+179	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	22.4065	22.5197	0.1132	NOTE	B5	999.378	1
+180	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	22.5437	22.5894	0.045714	ct	B5	969.977	2
+181	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	22.5894	22.7069	0.11755	NOTE	A5	902.969	1
+182	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	22.7069	22.8702	0.16327	lngRoll_nt_sl	G5	793.15	
+183	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	22.8857	22.9224	0.036735	lngRoll_ct	G#5	837.513	
+184	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	22.9224	22.998	0.07551	lngRoll_nt	G5	789.427	
+185	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	23.0082	23.0408	0.032653	lngRoll_str	F#5	759.125	
+186	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	23.0487	23.1712	0.12245	lngRoll_nt	G5	795.011	
+187	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	23.1793	23.2814	0.10204	NOTE	A5	891.801	1
+188	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	23.2969	23.454	0.15714	BREATH	BREATH	0	4
+189	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	23.4592	23.6327	0.17347	NOTE	F#5	753.095	1
+190	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	23.6327	23.7633	0.13061	NOTE	G5	789.274	1
+191	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	23.7735	23.9061	0.13265	NOTE	A5	877.711	1
+192	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	23.9061	24.0408	0.13469	NOTE	B5	1006.35	1
+193	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	24.0592	24.2367	0.17755	NOTE	E5	662.647	1
+194	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	24.251	24.3571	0.10612	NOTE	A5	879.721	1
+195	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	24.3571	24.5204	0.16327	NOTE	G5	787.264	1
+196	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	24.5265	24.5796	0.053061	str	G5	769.174	3
+197	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	24.5857	24.6571	0.071429	NOTE	G5	791.284	1
+198	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	24.6673	24.7673	0.1	NOTE	A5	881.731	1
+199	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	24.7816	24.9571	0.17551	NOTE	F#5	743.045	1
+200	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	24.9592	25.0714	0.11224	NOTE	D5	598.329	1
+201	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	25.0878	25.2633	0.17551	BREATH	BREATH	0	4
+202	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	25.2653	25.4102	0.1449	NOTE	A5	879.721	1
+203	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	25.4102	25.5367	0.12653	NOTE	B5	1008.36	1
+204	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	25.5367	25.6816	0.1449	NOTE	C6	1054.59	1
+205	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	25.6857	25.8551	0.16939	NOTE	B5	1006.35	1
+206	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	25.8612	26.0102	0.14898	NOTE	Bb5	907.861	1
+207	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	26.0122	26.1061	0.093878	NOTE	B5	1004.34	1
+208	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	26.1224	26.2796	0.15714	NOTE	A5	899.821	1
+209	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	26.2857	26.3918	0.10612	NOTE	G5	795.304	1
+210	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	26.4143	26.5878	0.17347	BREATH	BREATH	0	4
+211	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	26.5918	26.7388	0.14694	NOTE	G5	793.294	1
+212	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	26.7449	26.802	0.057143	ct	B5	968.159	2
+213	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	26.8041	26.9143	0.1102	NOTE	G5	781.234	1
+214	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	26.9224	27.0388	0.11633	NOTE	E5	668.677	1
+215	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	27.0408	27.1878	0.14694	NOTE	D5	590.289	1
+216	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	27.2122	27.3367	0.12449	NOTE	B4	499.842	1
+217	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	27.3429	27.4837	0.14082	NOTE	D5	594.309	1
+218	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	27.4837	27.5347	0.05102	ct	F#5	730.986	2
+219	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	27.5408	27.6571	0.11633	NOTE	E5	664.657	1
+220	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	27.6571	27.7918	0.13469	NOTE	D5	592.299	1
+221	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	27.798	27.9204	0.12245	NOTE	B4	495.822	1
+222	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	27.9408	28.1224	0.18163	NOTE	A4	443.564	1
+223	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	28.1224	28.2735	0.15102	NOTE	B4	497.832	1
+224	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	28.2816	28.3143	0.032653	ct	C5	521.951	2
+225	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	28.3143	28.3918	0.077551	NOTE	B4	489.792	1
+226	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	28.3918	28.5224	0.13061	NOTE	A4	443.564	1
+227	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	28.5612	28.6878	0.12653	NOTE	B5	1008.36	1
+228	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	28.6878	28.7347	0.046939	ct	C6	1072.68	2
+229	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	28.7367	28.8327	0.095918	NOTE	B5	1006.35	1
+230	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	28.8408	28.9837	0.14286	NOTE	A5	879.721	1
+231	Wyn_FlutePlayersRoscommonVol1_Tk6Tu3R1_TheMaidOnTheGreen.txt	29	29.149	0.14898	NOTE	G5	795.304	1

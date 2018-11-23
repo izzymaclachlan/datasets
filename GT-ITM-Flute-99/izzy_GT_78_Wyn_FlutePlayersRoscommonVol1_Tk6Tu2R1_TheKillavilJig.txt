@@ -1,0 +1,212 @@
+1	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	0.010884	0.33379	0.3229	NOTE	B4	503.282	1
+2	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	0.33379	0.49705	0.16327	NOTE	E4	330.86	1
+3	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	0.50794	0.6059	0.097959	NOTE	G4	397.385	1
+4	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	0.63129	0.74739	0.1161	NOTE	F#4	369.661	1
+5	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	0.78005	0.93605	0.15601	NOTE	E4	334.066	1
+6	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	0.9542	1.0739	0.11973	NOTE	B4	498.452	1
+7	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	1.0921	1.2553	0.16327	BREATH	BREATH	0	4
+8	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	1.2662	1.4113	0.14512	NOTE	B4	505.714	1
+9	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	1.4295	1.5673	0.13787	NOTE	E5	643.574	1
+10	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	1.5673	1.7197	0.15238	NOTE	D5	587.239	1
+11	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	1.7306	1.8757	0.14512	NOTE	B4	491.294	1
+12	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	1.8939	1.9846	0.090703	NOTE	A4	441.852	1
+13	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	1.9846	2.137	0.15238	NOTE	F#4	366.113	1
+14	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	2.1769	2.322	0.14512	NOTE	F#4	367.883	1
+15	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	2.322	2.5034	0.18141	NOTE	D4	291.879	1
+16	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	2.507	2.6449	0.13787	NOTE	F#4	367.883	1
+17	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	2.6558	2.7864	0.13061	NOTE	F#4	373.242	1
+18	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	2.8009	2.8372	0.036281	ct	Bb4	479.593	2
+19	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	2.8517	2.9351	0.083447	NOTE	A4	446.133	1
+20	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	2.9351	3.0984	0.16327	NOTE	F#4	367.883	1
+21	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	3.1202	3.2544	0.13424	NOTE	A4	446.133	1
+22	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	3.2871	3.4503	0.16327	NOTE	D5	595.795	1
+23	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	3.454	3.5701	0.1161	NOTE	B4	491.294	1
+24	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	3.5737	3.581	0.0072562	NOTE	A4	448.289	1
+25	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	3.7297	3.8712	0.1415	NOTE	B4	498.452	1
+26	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	3.8712	3.9982	0.12698	NOTE	G4	395.474	1
+27	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	4.0054	4.1832	0.17778	NOTE	E4	337.303	1
+28	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	4.1918	4.2463	0.054422	ct	G4	395.474	2
+29	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	4.2776	4.3501	0.072562	NOTE	F#4	371.447	1
+30	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	4.3537	4.4227	0.068934	ct	G4	395.474	2
+31	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	4.4735	4.6163	0.14286	NOTE	E4	332.459	1
+32	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	4.6163	4.7551	0.13878	NOTE	B4	508.158	1
+33	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	4.7673	4.9265	0.15918	BREATH	BREATH	0	4
+34	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	4.9388	5.0939	0.1551	NOTE	B4	503.282	1
+35	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	5.1004	5.2354	0.13497	NOTE	E5	668.88	1
+36	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	5.2354	5.3812	0.14585	NOTE	D5	581.602	1
+37	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	5.3812	5.5336	0.15238	NOTE	B4	500.859	1
+38	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	5.5336	5.7121	0.1785	lngRoll_nt	A4	439.725	
+39	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	5.7143	5.7469	0.032653	lngRoll_ct	B4	481.909	
+40	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	5.7709	5.8384	0.067483	lngRoll_nt	A4	446.132	
+41	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	5.8427	5.8601	0.017415	lngRoll_str	G#4	425.133	
+42	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	5.8688	6.0082	0.13932	lngRoll_nt	A4	446.132	
+43	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	6.0103	6.1562	0.14585	NOTE	D5	598.672	1
+44	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	6.1714	6.2912	0.11973	NOTE	A4	443.986	1
+45	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	6.2977	6.4936	0.19592	NOTE	F#4	367.882	1
+46	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	6.5023	6.6329	0.13061	NOTE	G4	391.677	1
+47	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	6.6395	6.7635	0.12408	NOTE	B4	496.053	1
+48	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	6.7657	6.929	0.16327	NOTE	F#4	369.66	1
+49	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	6.9355	7.1597	0.22422	NOTE	E4	335.679	1
+50	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	7.1728	7.3883	0.21551	BREATH	BREATH	0	4
+51	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	7.4057	7.4536	0.047891	ct	C#5	546.267	2
+52	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	7.4536	7.5494	0.095782	NOTE	B4	500.859	1
+53	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	7.5494	7.7127	0.16327	NOTE	G4	393.57	1
+54	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	7.717	7.8607	0.14367	NOTE	E4	334.065	1
+55	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	7.8737	8.0305	0.15673	lngRoll_nt	G4	397.384	
+56	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	8.037	8.0762	0.039184	lngRoll_ct	A4	437.61	
+57	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	8.0762	8.1502	0.074014	lngRoll_nt	G4	397.384	
+58	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	8.1611	8.185	0.023946	lngRoll_str	F#4	380.509	
+59	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	8.2177	8.3113	0.093605	lngRoll_nt	G4	395.472	
+60	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	8.3309	8.4245	0.093605	NOTE	B4	493.667	1
+61	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	8.4332	8.6204	0.18721	BREATH	BREATH	0	4
+62	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	8.6313	8.7989	0.16762	NOTE	F#5	733.046	1
+63	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	8.8054	8.9273	0.1219	NOTE	E5	672.112	1
+64	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	8.9361	9.0667	0.13061	NOTE	D5	595.792	1
+65	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	9.0776	9.2452	0.16762	NOTE	B4	496.053	1
+66	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	9.2561	9.3954	0.13932	lngRoll_nt	A4	437.61	
+67	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	9.4019	9.452	0.050068	lngRoll_ct	B4	484.238	
+68	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	9.4607	9.5565	0.095782	lngRoll_nt	A4	446.132	
+69	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	9.5565	9.5826	0.026122	lngRoll_str	G#4	421.053	
+70	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	9.6044	9.7284	0.12408	lngRoll_nt	A4	446.132	
+71	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	9.7284	9.8982	0.1698	NOTE	D5	595.792	1
+72	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	9.8982	10.0158	0.11755	NOTE	A4	446.132	1
+73	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	10.0158	10.203	0.18721	NOTE	F#4	360.855	1
+74	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	10.2095	10.3619	0.15238	NOTE	D4	294.707	1
+75	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	10.3771	10.5056	0.12844	NOTE	F#4	371.446	1
+76	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	10.5121	10.6688	0.15673	NOTE	A4	435.506	1
+77	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	10.6841	10.8234	0.13932	NOTE	D5	590.075	1
+78	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	10.8256	10.9344	0.10884	NOTE	B4	496.053	1
+79	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	10.941	11.1325	0.19156	NOTE	A4	443.986	1
+80	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	11.1325	11.2631	0.13061	NOTE	B4	491.293	1
+81	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	11.2631	11.4046	0.1415	NOTE	G4	391.677	1
+82	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	11.4068	11.5657	0.15891	NOTE	E4	335.679	1
+83	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	11.581	11.7333	0.15238	lngRoll_nt	G4	391.677	
+84	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	11.742	11.779	0.037007	lngRoll_ct	A4	439.725	
+85	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	11.7943	11.8639	0.06966	lngRoll_nt	G4	393.57	
+86	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	11.8683	11.8966	0.028299	lngRoll_str	F#4	378.679	
+87	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	11.9075	12.0403	0.13279	lngRoll_nt	G4	393.57	
+88	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	12.0403	12.1535	0.1132	NOTE	B4	503.28	1
+89	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	12.1644	12.332	0.16762	BREATH	BREATH	0	4
+90	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	12.332	12.5105	0.1785	NOTE	F#5	736.589	1
+91	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	12.5214	12.6454	0.12408	NOTE	E5	662.461	1
+92	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	12.652	12.7956	0.14367	NOTE	D5	587.237	1
+93	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	12.8	12.9524	0.15238	NOTE	B4	484.238	1
+94	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	12.9633	13.0046	0.041361	ct	B4	491.293	2
+95	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	13.0199	13.0961	0.07619	NOTE	A4	443.986	1
+96	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	13.0961	13.2441	0.14803	NOTE	F#4	369.66	1
+97	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	13.2637	13.3856	0.1219	NOTE	F#4	371.446	1
+98	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	13.3856	13.575	0.18939	NOTE	D4	293.289	1
+99	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	13.6054	13.6947	0.089252	NOTE	F#4	366.112	1
+100	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	13.7143	13.8971	0.18286	NOTE	F#4	366.112	1
+101	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	13.9059	14.043	0.13714	NOTE	E4	332.458	1
+102	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	14.0561	14.1801	0.12408	NOTE	F#4	369.66	1
+103	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	14.1954	14.3456	0.1502	NOTE	E4	324.54	1
+104	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	14.363	14.5633	0.20027	NOTE	E5	652.948	1
+105	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	14.6003	14.8267	0.22639	BREATH	BREATH	0	4
+106	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	14.8267	14.9682	0.1415	NOTE	B4	500.859	1
+107	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	14.9834	15.1097	0.12626	NOTE	E5	652.948	1
+108	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	15.1227	15.2882	0.16544	NOTE	F#5	733.046	1
+109	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	15.3056	15.4514	0.14585	NOTE	G5	780.462	1
+110	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	15.4754	15.5102	0.03483	NOTE	B5	988.442	1
+111	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	15.5341	15.5668	0.032653	NOTE	G5	788.024	1
+112	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	15.5712	15.5995	0.028299	NOTE	F#5	758.208	1
+113	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	15.6169	15.7671	0.1502	NOTE	G5	780.462	1
+114	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	15.7693	15.8846	0.11537	NOTE	F#5	733.046	1
+115	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	15.8955	16.0435	0.14803	BREATH	BREATH	0	4
+116	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	16.0566	16.246	0.18939	NOTE	F#5	743.726	1
+117	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	16.2525	16.3766	0.12408	NOTE	E5	668.88	1
+118	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	16.381	16.529	0.14803	NOTE	D5	587.237	1
+119	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	16.5333	16.7162	0.18286	NOTE	B4	491.293	1
+120	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	16.7184	16.8207	0.10231	NOTE	A4	443.986	1
+121	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	16.8229	16.9709	0.14803	NOTE	F#4	366.112	1
+122	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	16.9905	17.1581	0.16762	NOTE	F#4	366.112	1
+123	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	17.1581	17.3148	0.15673	NOTE	D4	293.289	1
+124	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	17.3235	17.4302	0.10667	NOTE	F#4	366.112	1
+125	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	17.4433	17.6044	0.16109	NOTE	F#4	367.882	1
+126	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	17.6174	17.661	0.043537	ct	B4	486.578	2
+127	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	17.6631	17.7589	0.095782	NOTE	A4	439.725	1
+128	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	17.7611	17.9091	0.14803	NOTE	F#4	369.66	1
+129	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	17.9156	18.068	0.15238	NOTE	A4	439.725	1
+130	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	18.0724	18.2182	0.14585	NOTE	D5	598.672	1
+131	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	18.2269	18.351	0.12408	NOTE	B4	491.293	1
+132	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	18.3597	18.5382	0.1785	NOTE	A4	437.61	1
+133	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	18.5426	18.671	0.12844	NOTE	B4	500.859	1
+134	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	18.671	18.8147	0.14367	NOTE	E5	665.663	1
+135	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	18.8147	18.9976	0.18286	NOTE	F#5	729.521	1
+136	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	18.9976	19.1521	0.15456	NOTE	G5	807.252	1
+137	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	19.163	19.2392	0.07619	NOTE	B5	998.02	1
+138	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	19.2457	19.4264	0.18068	NOTE	G5	776.708	1
+139	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	19.4395	19.5527	0.1132	NOTE	G5	780.462	1
+140	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	19.5635	19.742	0.1785	BREATH	BREATH	0	4
+141	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	19.7442	19.8857	0.1415	NOTE	A5	880.437	1
+142	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	19.8857	20.0272	0.1415	NOTE	E5	675.36	1
+143	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	20.0272	20.1774	0.1502	NOTE	D5	587.237	1
+144	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	20.197	20.3646	0.16762	NOTE	B4	491.293	1
+145	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	20.3799	20.5192	0.13932	lngRoll_nt	A4	441.85	
+146	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	20.5192	20.5605	0.041361	lngRoll_ct	Bb4	477.284	
+147	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	20.5714	20.6585	0.087075	lngRoll_nt	A4	448.288	
+148	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	20.6607	20.6824	0.021769	lngRoll_str	G#4	423.088	
+149	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	20.6999	20.8261	0.12626	lngRoll_nt	A4	441.85	
+150	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	20.8327	20.9807	0.14803	NOTE	D5	601.565	1
+151	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	20.985	21.1113	0.12626	NOTE	A4	443.986	1
+152	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	21.1113	21.3029	0.19156	NOTE	F#4	371.446	1
+153	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	21.3029	21.4422	0.13932	NOTE	G4	393.57	1
+154	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	21.4531	21.5597	0.10667	NOTE	B4	496.053	1
+155	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	21.5597	21.7273	0.16762	NOTE	F#4	367.882	1
+156	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	21.7317	21.9668	0.2351	NOTE	E4	337.302	1
+157	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	21.9799	22.2106	0.23075	BREATH	BREATH	0	4
+158	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	22.2259	22.3673	0.1415	lngRoll_nt	E5	668.88	
+159	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	22.3848	22.4261	0.041361	lngRoll_ct	F#5	726.012	
+160	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	22.437	22.474	0.037007	lngRoll_nt	E5	662.461	
+161	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	22.4871	22.5088	0.021769	lngRoll_str	Eb5	634.33	
+162	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	22.5393	22.683	0.14367	lngRoll_nt	E5	668.88	
+163	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	22.6917	22.8288	0.13714	lngRoll_nt	G5	784.234	
+164	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	22.8397	22.8702	0.030476	lngRoll_ct	B5	964.899	
+165	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	22.8746	22.9529	0.078367	lngRoll_nt	G5	807.252	
+166	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	22.966	22.9899	0.023946	lngRoll_str	F#5	761.873	
+167	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	23.0008	23.1532	0.15238	lngRoll_nt	G5	795.66	
+168	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	23.1641	23.2512	0.087075	NOTE	F#5	736.589	1
+169	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	23.2729	23.434	0.16109	BREATH	BREATH	0	4
+170	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	23.4427	23.6343	0.19156	NOTE	F#5	726.012	1
+171	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	23.643	23.7497	0.10667	NOTE	E5	665.663	1
+172	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	23.7497	23.8977	0.14803	NOTE	D5	590.075	1
+173	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	23.9042	24.0675	0.16327	NOTE	B4	496.053	1
+174	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	24.0718	24.2264	0.15456	lngRoll_nt	A4	441.85	
+175	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	24.2264	24.2678	0.041361	lngRoll_ct	B4	496.053	
+176	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	24.2786	24.3439	0.065306	lngRoll_nt	A4	443.986	
+177	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	24.3548	24.3831	0.028299	lngRoll_str	A4	433.411	
+178	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	24.4027	24.5399	0.13714	lngRoll_nt	A4	446.132	
+179	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	24.5595	24.7075	0.14803	NOTE	D5	598.672	1
+180	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	24.714	24.8272	0.1132	NOTE	A4	443.986	1
+181	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	24.8272	25.0253	0.1981	NOTE	F#4	369.66	1
+182	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	25.0384	25.1907	0.15238	NOTE	D4	294.707	1
+183	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	25.2038	25.2909	0.087075	NOTE	F#4	369.66	1
+184	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	25.3039	25.4781	0.17415	NOTE	A4	435.506	1
+185	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	25.502	25.6501	0.14803	NOTE	D5	592.927	1
+186	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	25.6588	25.8003	0.1415	NOTE	B4	491.293	1
+187	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	25.8177	25.9461	0.12844	NOTE	A4	446.132	1
+188	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	25.9527	26.0833	0.13061	NOTE	B4	493.667	1
+189	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	26.0963	26.2182	0.1219	NOTE	E5	643.572	1
+190	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	26.2269	26.3946	0.16762	NOTE	F#5	729.521	1
+191	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	26.4098	26.5448	0.13497	lngRoll_nt	G5	784.234	
+192	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	26.5752	26.621	0.045714	lngRoll_ct	B5	960.258	
+193	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	26.634	26.7385	0.10449	lngRoll_nt	G5	788.024	
+194	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	26.745	26.769	0.023946	lngRoll_str	F#5	750.932	
+195	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	26.7951	26.8778	0.082721	lngRoll_nt	G5	780.462	
+196	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	26.8822	26.9693	0.087075	NOTE	F#5	726.012	1
+197	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	26.9888	27.1695	0.18068	NOTE	F#5	736.589	1
+198	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	27.1695	27.2087	0.039184	ct	Bb5	928.391	2
+199	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	27.2109	27.298	0.087075	NOTE	A5	880.437	1
+200	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	27.3088	27.446	0.13714	NOTE	E5	675.36	1
+201	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	27.446	27.6049	0.15891	NOTE	D5	581.602	1
+202	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	27.6158	27.7856	0.1698	NOTE	B4	496.053	1
+203	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	27.7965	27.9445	0.14803	NOTE	A4	439.725	1
+204	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	27.9597	28.0577	0.097959	NOTE	B4	491.293	1
+205	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	28.0599	28.2188	0.15891	NOTE	C#5	546.267	1
+206	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	28.2297	28.3907	0.16109	NOTE	D5	595.792	1
+207	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	28.3995	28.5105	0.11102	NOTE	A4	441.85	1
+208	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	28.5279	28.702	0.17415	NOTE	F#4	366.112	1
+209	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	28.7064	28.8522	0.14585	NOTE	G4	389.794	1
+210	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	28.861	28.9829	0.1219	NOTE	B4	486.578	1
+211	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	29.0024	29.1461	0.14367	NOTE	F#4	371.446	1
+212	Wyn_FlutePlayersRoscommonVol1_Tk6Tu2R1_TheKillavilJig.txt	29.1918	29.3638	0.17197	NOTE	E4	332.458	1

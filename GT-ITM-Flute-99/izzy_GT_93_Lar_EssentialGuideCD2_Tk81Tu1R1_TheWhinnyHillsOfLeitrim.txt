@@ -1,0 +1,187 @@
+1	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	0.20816	0.46122	0.25306	NOTE	F#4	361.324	1
+2	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	0.46122	0.57551	0.11429	NOTE	A4	433.459	1
+3	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	0.65306	0.87755	0.22449	NOTE	B4	494.827	1
+4	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	0.91429	1.102	0.18776	NOTE	F#4	364.554	1
+5	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	1.102	1.2286	0.12653	NOTE	A4	434.535	1
+6	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	1.2974	1.5064	0.20898	NOTE	B4	497.45	1
+7	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	1.5064	1.5935	0.087075	ct	G4	394.209	2
+8	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	1.6544	1.6849	0.030476	NOTE	F#4	367.038	1
+9	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	1.6936	1.7197	0.026122	ct	G4	391.005	2
+10	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	1.7306	1.8449	0.11429	NOTE	F#4	365.63	1
+11	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	1.8515	1.9658	0.11426	NOTE	E4	327.948	1
+12	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	1.9878	2.2041	0.21633	NOTE	D4	290.266	1
+13	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	2.2639	2.4555	0.19156	NOTE	F#4	360.792	1
+14	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	2.4729	2.6122	0.13932	NOTE	A4	430.764	1
+15	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	2.6122	2.8327	0.22041	NOTE	B4	494.827	1
+16	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	2.8691	3.0041	0.13497	NOTE	F#4	362.4	1
+17	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	3.0857	3.2163	0.13061	NOTE	A4	432.382	1
+18	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	3.2612	3.4694	0.20816	NOTE	B4	491.597	1
+19	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	3.483	3.6746	0.19156	crann_nt	D5	586.341	
+20	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	3.6746	3.7079	0.033379	crann_ct	C5	520.289	
+21	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	3.7079	3.7631	0.055147	crann_nt	D5	586.341	
+22	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	3.7732	3.8008	0.027574	crann_ct	C5	517.436	
+23	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	3.8095	3.8444	0.03483	crann_nt	D5	587.418	
+24	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	3.8502	3.8734	0.02322	crann_ct	C5	515.283	
+25	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	3.8734	4.1332	0.25977	crann_nt	D5	582.035	
+26	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	4.1433	4.3552	0.21188	NOTE	F#4	367.493	1
+27	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	4.3552	4.4989	0.14367	NOTE	A4	429.351	1
+28	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	4.5047	4.7441	0.23946	NOTE	B4	501.622	1
+29	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	4.7514	4.9546	0.20317	NOTE	F#4	367.341	1
+30	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	4.9546	5.0736	0.119	NOTE	A4	434.52	1
+31	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	5.1476	5.3304	0.18286	NOTE	B4	501.617	1
+32	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	5.3377	5.3943	0.056599	ct	G4	393.406	2
+33	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	5.4073	5.4378	0.030476	NOTE	F#4	362.572	1
+34	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	5.4596	5.5075	0.047891	ct	G4	391.803	2
+35	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	5.5147	5.6279	0.1132	NOTE	F#4	362.978	1
+36	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	5.6512	5.7716	0.12045	NOTE	E4	327.107	1
+37	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	6.0024	6.043	0.040635	ct	G5	797.418	2
+38	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	6.0836	6.2578	0.17415	NOTE	F#5	726.046	1
+39	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	6.2694	6.4082	0.13878	NOTE	E5	654.674	1
+40	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	6.4204	6.6082	0.18776	NOTE	D5	579.105	1
+41	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	6.6235	6.6699	0.04644	ct	G5	776.426	2
+42	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	6.7048	6.8615	0.15673	NOTE	E5	654.675	1
+43	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	6.8735	7.0245	0.15102	NOTE	D5	584.702	1
+44	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	7.049	7.2204	0.17143	NOTE	C#5	546.917	1
+45	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	7.2694	7.449	0.17959	NOTE	B4	495.138	1
+46	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	7.4612	7.5061	0.044898	ct	C5	534.323	2
+47	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	7.5265	7.6571	0.13061	NOTE	B4	493.739	1
+48	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	7.7102	7.8816	0.17143	NOTE	A4	436.362	1
+49	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	7.8857	8.0816	0.19592	NOTE	F#4	362.191	1
+50	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	8.0898	8.2571	0.16735	NOTE	A4	432.163	1
+51	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	8.2612	8.4857	0.22449	NOTE	B4	490.94	1
+52	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	8.5061	8.6694	0.16327	NOTE	F#4	360.792	1
+53	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	8.6694	8.8776	0.20816	NOTE	A4	434.962	1
+54	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	8.8898	9.0367	0.14694	NOTE	B4	489.54	1
+55	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	9.102	9.1837	0.081633	ct	G4	388.781	2
+56	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	9.2122	9.3306	0.11837	NOTE	F#4	363.591	1
+57	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	9.3469	9.4776	0.13061	NOTE	E4	325.806	1
+58	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	9.498	9.7388	0.24082	NOTE	D4	290.82	1
+59	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	9.7469	9.9878	0.24082	NOTE	F#4	363.591	1
+60	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	9.9878	10.1184	0.13061	NOTE	A4	433.563	1
+61	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	10.1184	10.3265	0.20816	NOTE	B4	489.54	1
+62	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	10.3469	10.551	0.20408	NOTE	F#4	363.591	1
+63	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	10.5918	10.7592	0.16735	NOTE	A4	432.163	1
+64	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	10.7592	10.9306	0.17143	NOTE	B4	486.742	1
+65	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	10.951	11.1347	0.18367	crann_nt	D5	581.903	
+66	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	11.1499	11.1746	0.024671	crann_ct	C5	520.328	
+67	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	11.1862	11.2356	0.049342	crann_nt	D5	584.702	
+68	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	11.237	11.2878	0.050794	crann_ct	C5	517.529	
+69	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	11.2907	11.3197	0.029025	crann_nt	D5	583.303	
+70	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	11.3197	11.3328	0.013061	crann_ct	C5	517.114	
+71	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	11.3488	11.5722	0.22349	crann_nt	D5	577.705	
+72	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	11.6	11.7918	0.19184	NOTE	F#4	362.191	1
+73	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	11.7918	11.9551	0.16327	NOTE	A4	432.163	1
+74	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	11.9592	12.1755	0.21633	NOTE	B4	492.339	1
+75	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	12.2041	12.4163	0.21224	NOTE	F#4	364.99	1
+76	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	12.4227	12.5837	0.161	BREATH	BREATH	0	4
+77	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	12.5837	12.8122	0.22857	NOTE	B4	492.339	1
+78	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	12.8348	12.8813	0.04644	ct	G4	391.803	2
+79	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	12.8929	12.9277	0.03483	NOTE	F#4	361.833	1
+80	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	12.9364	12.9596	0.02322	ct	G4	391.005	2
+81	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	12.9673	13.0816	0.11429	NOTE	F#4	362.191	1
+82	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	13.098	13.2531	0.1551	NOTE	E4	328.605	1
+83	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	13.2694	13.3918	0.12245	NOTE	D4	293.619	1
+84	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	13.4531	13.5102	0.057143	ct	G5	796.018	2
+85	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	13.5347	13.6898	0.1551	NOTE	F#5	726.046	1
+86	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	13.7224	13.8694	0.14694	NOTE	E5	653.275	1
+87	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	13.8797	14.0016	0.1219	NOTE	D5	583.303	1
+88	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	14.0249	14.0816	0.05678	ct	F#5	731.644	2
+89	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	14.0816	14.2857	0.20408	NOTE	E5	653.275	1
+90	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	14.2939	14.4653	0.17143	NOTE	D5	583.303	1
+91	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	14.4816	14.6612	0.17959	NOTE	C#5	546.917	1
+92	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	14.702	14.8612	0.15918	NOTE	B4	490.94	1
+93	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	14.8776	14.9306	0.053061	ct	C5	535.722	2
+94	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	14.9551	15.0776	0.12245	NOTE	B4	489.54	1
+95	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	15.1265	15.2857	0.15918	NOTE	A4	436.362	1
+96	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	15.3397	15.5225	0.18286	lngRoll_nt	F#5	728.845	
+97	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	15.5283	15.5675	0.039184	lngRoll_ct	G#5	840.8	
+98	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	15.5704	15.6952	0.12481	lngRoll_nt	F#5	733.043	
+99	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	15.6952	15.7083	0.013061	lngRoll_str	F5	692.459	
+100	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	15.7185	15.9274	0.20898	lngRoll_nt	F#5	730.244	
+101	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	15.9318	16.1234	0.19156	NOTE	E5	657.473	1
+102	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	16.1292	16.2511	0.1219	NOTE	F#5	726.046	1
+103	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	16.2801	16.3178	0.037732	ct	G5	769.429	2
+104	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	16.3236	16.5413	0.21769	NOTE	E5	657.473	1
+105	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	16.5529	16.7387	0.18576	NOTE	D5	581.903	1
+106	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	16.7459	16.9201	0.17415	BREATH	BREATH	0	4
+107	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	16.9317	17.1987	0.26703	NOTE	E5	657.473	1
+108	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	17.206	17.4048	0.19882	lngRoll_nt	F#5	731.644	
+109	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	17.4179	17.4382	0.020317	lngRoll_ct	G#5	819.808	
+110	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	17.4396	17.5412	0.10159	lngRoll_nt	F#5	735.842	
+111	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	17.5412	17.5659	0.024671	lngRoll_str	F5	706.454	
+112	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	17.5717	17.7734	0.20172	lngRoll_nt	F#5	733.043	
+113	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	17.7908	17.9722	0.18141	NOTE	D5	586.102	1
+114	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	17.994	18.1885	0.19447	NOTE	E5	657.473	1
+115	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	18.1986	18.3641	0.16544	NOTE	F#5	728.845	1
+116	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	18.3728	18.3989	0.026122	ct	G#5	839.401	2
+117	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	18.4047	18.5934	0.18866	NOTE	G5	766.63	1
+118	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	18.6224	18.7878	0.16544	NOTE	F#5	728.845	1
+119	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	18.7907	18.962	0.17125	NOTE	E5	654.674	1
+120	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	18.998	19.0347	0.036735	shRoll_ct	G#5	843.6	5
+121	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	19.0469	19.1327	0.085714	shRoll_nt	F#5	727.446	1
+122	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	19.1434	19.155	0.01161	shRoll_str	F5	691.06	3
+123	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	19.1652	19.3364	0.17125	shRoll_nt	F#5	728.845	1
+124	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	19.3422	19.5628	0.22059	NOTE	D5	583.303	1
+125	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	19.5686	19.7631	0.19447	NOTE	E5	649.077	1
+126	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	19.7834	19.9082	0.12481	NOTE	F#5	721.848	1
+127	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	19.9285	19.9576	0.029025	ct	F#5	758.234	2
+128	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	19.959	20.1491	0.19011	NOTE	E5	653.275	1
+129	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	20.1665	20.3378	0.17125	NOTE	D5	583.303	1
+130	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	20.3523	20.5061	0.15383	NOTE	C#5	544.119	1
+131	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	20.5177	20.6991	0.18141	NOTE	B4	489.54	1
+132	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	20.7195	20.7514	0.031927	ct	C5	514.73	2
+133	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	20.7717	20.9429	0.17125	NOTE	A4	430.764	1
+134	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	20.9459	21.1185	0.1727	NOTE	F#4	364.99	1
+135	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	21.1185	21.3116	0.19302	NOTE	A4	434.962	1
+136	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	21.3159	21.5017	0.18576	NOTE	D5	584.702	1
+137	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	21.5017	21.6903	0.18866	NOTE	F#5	724.646	1
+138	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	21.7034	21.8979	0.19447	NOTE	A5	884.182	1
+139	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	21.9008	21.9211	0.020317	ct	Bb5	945.758	2
+140	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	21.9283	22.1243	0.19592	NOTE	A5	884.182	1
+141	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	22.1373	22.2766	0.13932	NOTE	B5	996.138	1
+142	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	22.2766	22.2984	0.021769	str	A5	902.375	3
+143	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	22.3057	22.339	0.033379	ct	B5	996.138	2
+144	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	22.3521	22.5176	0.16544	NOTE	A5	882.783	1
+145	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	22.5335	22.6961	0.16254	NOTE	F#5	733.043	1
+146	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	22.7062	22.9195	0.21333	BREATH	BREATH	0	4
+147	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	22.921	23.1576	0.23655	NOTE	F#5	728.845	1
+148	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	23.1663	23.3564	0.19011	NOTE	E5	654.674	1
+149	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	23.3607	23.4652	0.10449	ct	F#5	726.046	2
+150	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	23.4754	23.5073	0.031927	NOTE	E5	664.47	1
+151	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	23.5102	23.532	0.021769	ct	F#5	724.108	2
+152	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	23.5349	23.725	0.19011	NOTE	E5	658.873	1
+153	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	23.7424	24.1197	0.37732	NOTE	D5	587.501	1
+154	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	24.1313	24.3316	0.20027	NOTE	E5	653.275	1
+155	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	24.3418	24.5304	0.18866	lngRoll_nt	F#5	723.247	
+156	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	24.5333	24.5725	0.039184	lngRoll_ct	G#5	838.001	
+157	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	24.5812	24.6799	0.098685	lngRoll_nt	F#5	726.046	
+158	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	24.6857	24.6988	0.013061	lngRoll_str	F5	689.66	
+159	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	24.7104	24.9266	0.21624	lngRoll_nt	F#5	728.845	
+160	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	24.9295	25.1182	0.18866	NOTE	D5	584.702	1
+161	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	25.1283	25.2981	0.1698	NOTE	E5	656.074	1
+162	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	25.2996	25.5245	0.22494	NOTE	F#5	728.845	1
+163	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	25.5332	25.7045	0.17125	NOTE	G5	777.825	1
+164	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	25.7163	25.8959	0.17959	BREATH	BREATH	0	4
+165	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	25.899	26.1442	0.24526	NOTE	E5	657.473	1
+166	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	26.1631	26.1921	0.029025	shRoll_ct	G#5	817.009	5
+167	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	26.1979	26.3053	0.10739	shRoll_nt	F#5	728.554	1
+168	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	26.3198	26.3634	0.043537	shRoll_str	F5	716.758	3
+169	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	26.375	26.4969	0.1219	shRoll_nt	F#5	730.042	1
+170	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	26.507	26.7378	0.23075	NOTE	D5	583.303	1
+171	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	26.7566	26.938	0.18141	NOTE	E5	649.077	1
+172	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	26.9511	27.1049	0.15383	NOTE	F#5	727.445	1
+173	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	27.1209	27.3038	0.18286	NOTE	E5	650.476	1
+174	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	27.3183	27.5026	0.18431	NOTE	D5	586.102	1
+175	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	27.5229	27.6898	0.16689	NOTE	C#5	542.719	1
+176	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	27.7145	27.8581	0.14367	NOTE	B4	490.94	1
+177	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	27.8799	27.9162	0.036281	ct	C5	516.13	2
+178	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	27.9351	28.1034	0.16834	NOTE	A4	433.563	1
+179	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	28.1049	28.2805	0.1756	NOTE	F#4	363.591	1
+180	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	28.2921	28.5156	0.22349	NOTE	A4	433.563	1
+181	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	28.5185	28.7028	0.18431	NOTE	D4	290.82	1
+182	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	28.71	28.9059	0.19592	NOTE	F#4	363.591	1
+183	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	28.9176	29.1323	0.21478	NOTE	A4	437.761	1
+184	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	29.1454	29.3442	0.19882	NOTE	B4	493.739	1
+185	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	29.3529	29.3834	0.030476	ct	B4	504.934	2
+186	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	29.4023	29.5735	0.17125	NOTE	B4	489.54	1
+187	Lar_EssentialGuideCD2_Tk81Tu1R1_TheWhinnyHillsOfLeitrim.txt	29.575	29.9291	0.3541	NOTE	A4	430.764	1

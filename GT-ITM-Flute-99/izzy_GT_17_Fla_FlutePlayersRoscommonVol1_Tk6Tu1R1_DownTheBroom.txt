@@ -1,0 +1,292 @@
+1	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	0.1981	0.38095	0.18286	NOTE	E4	337.936	1
+2	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	0.38531	0.53551	0.1502	lngRoll_nt	Bb4	458.422	
+3	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	0.54857	0.60082	0.052245	lngRoll_ct	C5	518.665	
+4	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	0.60299	0.65741	0.054422	lngRoll_nt	Bb4	464.07	
+5	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	0.66612	0.71401	0.047891	lngRoll_str	A4	435.831	
+6	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	0.71619	0.96871	0.25252	lngRoll_nt	Bb4	454.657	
+7	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	0.98177	1.1059	0.12408	lngRoll_ct	BREATH	0	
+8	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	1.1059	1.2778	0.17197	lngRoll_nt	C5	528.078	
+9	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	1.2844	1.4084	0.12408	lngRoll_str	D5	603.382	
+10	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	1.4193	1.5303	0.11102	lngRoll_nt	E5	663.625	
+11	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	1.5303	1.6566	0.12626	NOTE	G5	797.289	1
+12	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	1.661	1.809	0.14803	NOTE	F#5	759.637	1
+13	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	1.8199	1.9374	0.11755	NOTE	G5	799.172	1
+14	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	1.9418	2.0724	0.13061	NOTE	E5	648.564	1
+15	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	2.0767	2.1856	0.10884	NOTE	G5	797.289	1
+16	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	2.1856	2.3184	0.13279	NOTE	D5	595.852	1
+17	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	2.3336	2.4337	0.10014	NOTE	C#5	550.669	1
+18	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	2.4337	2.5839	0.1502	NOTE	B4	501.722	1
+19	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	2.5883	2.7189	0.13061	NOTE	G4	396.297	1
+20	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	2.7189	2.7668	0.047891	ct	B4	499.839	2
+21	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	2.7668	2.8887	0.1219	NOTE	G4	398.179	1
+22	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	2.8952	3.0084	0.1132	NOTE	F#4	377.471	1
+23	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	3.0106	3.1586	0.14803	NOTE	G4	398.179	1
+24	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	3.1586	3.2936	0.13497	NOTE	Bb4	458.422	1
+25	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	3.2936	3.4307	0.13714	NOTE	G4	394.414	1
+26	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	3.4373	3.5352	0.097959	NOTE	E4	334.171	1
+27	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	3.5396	3.6158	0.07619	NOTE	D4	302.167	1
+28	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	3.631	3.8117	0.18068	BREATH	BREATH	0	4
+29	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	3.8117	3.9728	0.16109	NOTE	B4	503.605	1
+30	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	3.975	4.099	0.12408	NOTE	D5	593.969	1
+31	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	4.1143	4.2601	0.14585	NOTE	G4	394.414	1
+32	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	4.2601	4.3842	0.12408	NOTE	A4	445.244	1
+33	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	4.3842	4.5388	0.15456	NOTE	B4	496.074	1
+34	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	4.5453	4.6433	0.097959	NOTE	G4	401.944	1
+35	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	4.652	4.7826	0.13061	NOTE	E4	337.936	1
+36	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	4.7826	4.8936	0.11102	lngRoll_nt	A4	447.127	
+37	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	4.8936	4.9524	0.058776	lngRoll_ct	B4	507.37	
+38	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	4.9589	5.009	0.050068	lngRoll_nt	A4	450.892	
+39	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	5.0242	5.0525	0.028299	lngRoll_str	A4	430.183	
+40	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	5.059	5.1614	0.10231	lngRoll_nt	A4	449.009	
+41	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	5.181	5.3029	0.1219	lngRoll_ct	A4	443.361	
+42	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	5.3159	5.44	0.12408	lngRoll_nt	BREATH	0	
+43	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	5.44	5.6141	0.17415	lngRoll_str	B4	497.957	
+44	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	5.6185	5.7731	0.15456	lngRoll_nt	D5	601.499	
+45	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	5.7731	5.895	0.1219	NOTE	E5	667.39	1
+46	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	5.9124	5.9951	0.082721	lngRoll_nt	G5	797.289	
+47	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	5.9951	6.0321	0.037007	lngRoll_ct	Bb5	940.366	
+48	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	6.0321	6.1235	0.091429	lngRoll_nt	G5	801.054	
+49	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	6.1301	6.1627	0.032653	lngRoll_ct	G5	780.346	
+50	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	6.1758	6.2607	0.084898	lngRoll_nt	G5	804.82	
+51	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	6.2759	6.4327	0.15673	lngRoll_ct	E5	674.921	
+52	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	6.4414	6.548	0.10667	lngRoll_nt	G5	806.702	
+53	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	6.5502	6.6917	0.1415	lngRoll_str	D5	597.734	
+54	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	6.7156	6.8332	0.11755	lngRoll_nt	G5	806.702	
+55	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	6.8332	6.9703	0.13714	NOTE	E5	674.921	1
+56	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	6.9878	7.0814	0.093605	lngRoll_nt	G5	804.82	
+57	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	7.0988	7.1423	0.043537	lngRoll_ct	G5	802.937	
+58	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	7.1423	7.175	0.032653	lngRoll_nt	Bb5	932.836	
+59	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	7.1771	7.2163	0.039184	lngRoll_ct	G5	801.054	
+60	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	7.2185	7.2512	0.032653	lngRoll_nt	G5	785.994	
+61	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	7.2533	7.3469	0.093605	lngRoll_ct	G5	802.937	
+62	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	7.3469	7.4275	0.080544	lngRoll_nt	D5	595.852	
+63	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	7.4427	7.6147	0.17197	lngRoll_str	BREATH	0	
+64	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	7.6278	7.7627	0.13497	lngRoll_nt	B5	1006.26	
+65	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	7.7627	7.8803	0.11755	NOTE	A5	898.949	1
+66	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	7.8803	8.0152	0.13497	NOTE	G5	802.937	1
+67	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	8.0218	8.1502	0.12844	NOTE	E5	646.682	1
+68	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	8.1502	8.3113	0.16109	NOTE	D5	599.617	1
+69	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	8.3222	8.4245	0.10231	NOTE	B4	496.074	1
+70	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	8.4245	8.4833	0.058776	ct	C5	535.609	2
+71	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	8.5029	8.5986	0.095782	NOTE	B4	497.957	1
+72	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	8.6095	8.7075	0.097959	NOTE	A4	449.009	1
+73	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	8.7118	8.7771	0.065306	ct	B4	503.605	2
+74	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	8.7793	8.8642	0.084898	NOTE	A4	449.009	1
+75	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	8.8707	8.9861	0.11537	NOTE	G4	392.531	1
+76	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	8.9861	9.1429	0.15673	NOTE	E4	337.936	1
+77	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	9.1559	9.2582	0.10231	lngRoll_nt	A4	447.127	
+78	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	9.2648	9.3127	0.047891	lngRoll_ct	B4	499.839	
+79	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	9.3192	9.3758	0.056599	lngRoll_nt	Bb4	454.657	
+80	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	9.3801	9.4106	0.030476	lngRoll_ct	A4	437.714	
+81	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	9.4215	9.4824	0.060952	lngRoll_nt	A4	452.774	
+82	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	9.4977	9.6044	0.10667	lngRoll_ct	A4	449.009	
+83	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	9.6218	9.785	0.16327	lngRoll_nt	A4	447.127	
+84	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	9.785	9.9374	0.15238	lngRoll_str	B4	501.722	
+85	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	9.9527	10.0789	0.12626	lngRoll_nt	D5	601.499	
+86	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	10.0876	10.2139	0.12626	NOTE	E5	656.095	1
+87	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	10.2487	10.3641	0.11537	NOTE	G5	802.937	1
+88	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	10.3641	10.4838	0.11973	NOTE	F#5	746.459	1
+89	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	10.5012	10.6122	0.11102	NOTE	G5	804.82	1
+90	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	10.6166	10.7494	0.13279	NOTE	E4	332.288	1
+91	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	10.7537	10.8669	0.1132	NOTE	G4	388.766	1
+92	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	10.8669	11.0041	0.13714	NOTE	D5	601.499	1
+93	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	11.0171	11.1325	0.11537	NOTE	C#5	548.787	1
+94	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	11.1412	11.261	0.11973	NOTE	B4	501.722	1
+95	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	11.2784	11.3916	0.1132	NOTE	G4	396.297	1
+96	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	11.3916	11.4634	0.071837	ct	B4	496.074	2
+97	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	11.4699	11.594	0.12408	NOTE	G4	396.297	1
+98	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	11.594	11.6941	0.10014	NOTE	F#4	369.94	1
+99	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	11.6941	11.8204	0.12626	NOTE	G4	392.531	1
+100	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	11.8248	11.9271	0.10231	NOTE	A4	447.127	1
+101	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	11.9401	11.9771	0.037007	ct	A4	445.244	2
+102	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	11.9902	12.1056	0.11537	NOTE	G4	394.414	1
+103	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	12.1056	12.2144	0.10884	NOTE	E4	330.406	1
+104	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	12.2275	12.3167	0.089252	NOTE	D4	290.871	1
+105	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	12.3363	12.4735	0.13714	BREATH	BREATH	0	4
+106	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	12.4735	12.6193	0.14585	NOTE	B4	503.605	1
+107	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	12.6215	12.7652	0.14367	NOTE	D5	595.852	1
+108	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	12.7761	12.9219	0.14585	NOTE	G4	396.297	1
+109	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	12.9328	13.022	0.089252	NOTE	A4	450.892	1
+110	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	13.0286	13.083	0.054422	ct	C#5	556.317	2
+111	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	13.0873	13.1657	0.078367	NOTE	B4	501.722	1
+112	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	13.1744	13.305	0.13061	NOTE	G4	400.062	1
+113	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	13.3159	13.44	0.12408	NOTE	E4	334.171	1
+114	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	13.44	13.5554	0.11537	NOTE	A4	449.009	1
+115	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	13.5619	13.6185	0.056599	shRoll_ct	B4	497.957	5
+116	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	13.6185	13.6686	0.050068	shRoll_nt	A4	450.892	1
+117	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	13.6816	13.7056	0.023946	shRoll_str	A4	433.949	3
+118	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	13.7252	13.8297	0.10449	shRoll_nt	A4	452.774	1
+119	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	13.8405	13.9233	0.082721	NOTE	A4	452.774	1
+120	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	13.9385	14.1083	0.1698	BREATH	BREATH	0	4
+121	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	14.1083	14.2629	0.15456	NOTE	B4	503.605	1
+122	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	14.2694	14.3978	0.12844	NOTE	D5	601.499	1
+123	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	14.3978	14.5219	0.12408	NOTE	E5	671.155	1
+124	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	14.5306	14.6482	0.11755	NOTE	G5	806.702	1
+125	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	14.659	14.7788	0.11973	NOTE	F#5	727.633	1
+126	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	14.7918	14.9137	0.1219	NOTE	G#5	808.585	1
+127	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	14.9137	15.0487	0.13497	NOTE	E5	669.273	1
+128	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	15.0618	15.1859	0.12408	NOTE	G5	782.228	1
+129	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	15.1859	15.3317	0.14585	NOTE	Eb5	605.265	1
+130	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	15.3448	15.4471	0.10231	NOTE	G5	804.82	1
+131	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	15.4471	15.5995	0.15238	NOTE	E5	671.155	1
+132	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	15.6103	15.7301	0.11973	NOTE	G5	804.82	1
+133	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	15.7497	15.7888	0.039184	shRoll_ct	Bb5	957.31	5
+134	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	15.7888	15.8498	0.060952	shRoll_nt	G#5	808.585	1
+135	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	15.8629	15.8977	0.03483	shRoll_str	G5	784.111	3
+136	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	15.9195	16.0022	0.082721	shRoll_nt	G#5	808.585	1
+137	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	16.0022	16.111	0.10884	NOTE	D5	595.852	1
+138	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	16.1197	16.2482	0.12844	BREATH	BREATH	0	4
+139	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	16.2765	16.3984	0.1219	NOTE	B5	987.431	1
+140	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	16.3984	16.5529	0.15456	NOTE	A5	900.832	1
+141	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	16.5551	16.6444	0.089252	NOTE	G5	797.289	1
+142	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	16.6444	16.7815	0.13714	NOTE	F5	706.925	1
+143	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	16.7815	16.9339	0.15238	NOTE	Eb5	609.03	1
+144	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	16.9339	17.0471	0.1132	NOTE	B4	499.839	1
+145	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	17.0471	17.1059	0.058776	ct	C#5	554.435	2
+146	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	17.1059	17.2038	0.097959	NOTE	B4	499.839	1
+147	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	17.2103	17.3192	0.10884	NOTE	A4	452.774	1
+148	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	17.3214	17.3801	0.058776	ct	B4	497.957	2
+149	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	17.3823	17.7001	0.31782	NOTE	Bb4	454.657	1
+150	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	17.7197	17.8961	0.17633	BREATH	BREATH	0	4
+151	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	17.9265	18.0245	0.097959	NOTE	B5	998.727	1
+152	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	18.031	18.1529	0.1219	NOTE	A5	898.949	1
+153	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	18.1573	18.2161	0.058776	ct	B5	993.079	2
+154	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	18.2182	18.3249	0.10667	NOTE	A5	900.832	1
+155	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	18.3293	18.4468	0.11755	NOTE	G5	804.82	1
+156	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	18.4512	18.5774	0.12626	NOTE	E5	667.39	1
+157	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	18.5883	18.6819	0.093605	NOTE	G#5	808.585	1
+158	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	18.6928	18.7603	0.067483	NOTE	A5	904.597	1
+159	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	18.7733	18.9627	0.18939	BREATH	BREATH	0	4
+160	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	18.9649	19.1064	0.1415	NOTE	B5	993.079	1
+161	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	19.1107	19.2109	0.10014	NOTE	G5	801.054	1
+162	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	19.2196	19.274	0.054422	NOTE	B5	1000.61	1
+163	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	19.2871	19.385	0.097959	NOTE	Bb5	912.127	1
+164	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	19.385	19.5091	0.12408	NOTE	G5	804.82	1
+165	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	19.5113	19.6593	0.14803	NOTE	E5	667.39	1
+166	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	19.6615	19.7725	0.11102	NOTE	F#5	744.576	1
+167	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	19.7834	19.8901	0.10667	NOTE	G5	801.054	1
+168	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	19.8988	19.9336	0.03483	NOTE	G#5	819.88	1
+169	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	19.9336	20.0424	0.10884	NOTE	G5	806.702	1
+170	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	20.0512	20.1818	0.13061	NOTE	D5	599.617	1
+171	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	20.1883	20.2971	0.10884	NOTE	G5	782.228	1
+172	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	20.3015	20.4473	0.14585	NOTE	E5	665.508	1
+173	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	20.4648	20.5649	0.10014	NOTE	G5	785.994	1
+174	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	20.5649	20.7543	0.18939	NOTE	D5	595.852	1
+175	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	20.7652	20.8522	0.087075	NOTE	E5	661.742	1
+176	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	20.8653	20.9807	0.11537	NOTE	G5	802.937	1
+177	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	21.0003	21.1265	0.12626	BREATH	BREATH	0	4
+178	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	21.1331	21.2201	0.087075	NOTE	B5	996.844	1
+179	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	21.2245	21.3355	0.11102	NOTE	G4	400.062	1
+180	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	21.3507	21.4661	0.11537	NOTE	G4	398.179	1
+181	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	21.4835	21.649	0.16544	NOTE	E5	656.095	1
+182	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	21.6577	21.8079	0.1502	NOTE	D5	599.617	1
+183	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	21.821	21.932	0.11102	NOTE	G5	804.82	1
+184	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	21.932	22.0256	0.093605	NOTE	A5	902.714	1
+185	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	22.0343	22.2215	0.18721	BREATH	BREATH	0	4
+186	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	22.2215	22.3347	0.1132	NOTE	B5	1000.61	1
+187	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	22.3434	22.4479	0.10449	NOTE	A5	900.832	1
+188	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	22.474	22.5197	0.045714	ct	B5	974.253	2
+189	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	22.5415	22.6199	0.078367	NOTE	A5	900.832	1
+190	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	22.6199	22.7722	0.15238	NOTE	G5	795.406	1
+191	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	22.7853	22.8985	0.1132	NOTE	E5	646.682	1
+192	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	22.9137	23.0008	0.087075	NOTE	G5	789.759	1
+193	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	23.003	23.1902	0.18721	NOTE	A5	898.949	1
+194	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	23.1902	23.2882	0.097959	NOTE	G5	782.228	1
+195	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	23.2925	23.4122	0.11973	NOTE	B5	972.37	1
+196	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	23.421	23.5102	0.089252	NOTE	G5	782.228	1
+197	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	23.5298	23.5624	0.032653	ct	B5	978.018	2
+198	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	23.5712	23.6691	0.097959	NOTE	Bb5	915.893	1
+199	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	23.6996	23.8171	0.11755	NOTE	G5	785.994	1
+200	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	23.8302	23.9673	0.13714	NOTE	E5	665.508	1
+201	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	23.9782	24.1001	0.1219	NOTE	G#5	808.585	1
+202	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	24.1001	24.2482	0.14803	NOTE	D5	599.617	1
+203	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	24.2569	24.3875	0.13061	NOTE	G#5	808.585	1
+204	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	24.3875	24.4332	0.045714	shRoll_ct	Bb5	957.31	5
+205	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	24.4332	24.5159	0.082721	shRoll_nt	G5	806.702	1
+206	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	24.5203	24.5551	0.03483	shRoll_str	G5	770.933	3
+207	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	24.5638	24.6422	0.078367	shRoll_nt	G5	804.82	1
+208	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	24.6422	24.7597	0.11755	NOTE	D5	601.499	1
+209	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	24.7684	24.9121	0.14367	BREATH	BREATH	0	4
+210	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	24.9273	24.9992	0.071837	NOTE	B5	998.727	1
+211	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	24.9992	25.1712	0.17197	NOTE	A5	898.949	1
+212	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	25.1712	25.3083	0.13714	NOTE	G5	804.82	1
+213	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	25.3083	25.4498	0.1415	NOTE	E5	674.921	1
+214	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	25.4498	25.6196	0.1698	NOTE	D5	586.439	1
+215	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	25.6218	25.7284	0.10667	NOTE	B4	501.722	1
+216	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	25.7284	25.7633	0.03483	ct	C5	533.726	2
+217	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	25.7698	25.8721	0.10231	NOTE	B4	496.074	1
+218	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	25.8721	25.9962	0.12408	NOTE	A4	449.009	1
+219	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	26.0049	26.0506	0.045714	ct	B4	492.309	2
+220	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	26.0789	26.2618	0.18286	NOTE	A4	443.361	1
+221	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	26.2901	26.3445	0.054422	NOTE	A5	891.419	1
+222	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	26.3532	26.5644	0.21116	BREATH	BREATH	0	4
+223	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	26.5644	26.6928	0.12844	NOTE	E5	663.625	1
+224	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	26.6928	26.8234	0.13061	NOTE	A5	897.067	1
+225	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	26.8299	26.8844	0.054422	ct	B5	976.135	2
+226	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	26.8909	26.9845	0.093605	NOTE	A5	902.714	1
+227	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	26.9867	27.0803	0.093605	NOTE	G5	804.82	1
+228	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	27.0846	27.2305	0.14585	NOTE	E5	671.155	1
+229	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	27.2327	27.3371	0.10449	NOTE	G5	799.172	1
+230	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	27.3459	27.4133	0.067483	NOTE	A5	887.654	1
+231	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	27.422	27.6201	0.1981	BREATH	BREATH	0	4
+232	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	27.6201	27.729	0.10884	NOTE	B5	998.727	1
+233	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	27.729	27.8683	0.13932	NOTE	G5	802.937	1
+234	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	27.8727	27.9641	0.091429	NOTE	A5	874.475	1
+235	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	27.9684	28.1295	0.16109	NOTE	G5	806.702	1
+236	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	28.1404	28.3015	0.16109	NOTE	E5	673.038	1
+237	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	28.3059	28.4343	0.12844	NOTE	F#5	748.342	1
+238	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	28.4365	28.5257	0.089252	NOTE	G5	787.876	1
+239	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	28.5257	28.6084	0.082721	NOTE	Bb5	930.953	1
+240	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	28.6084	28.7151	0.10667	NOTE	G5	795.406	1
+241	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	28.7173	28.8479	0.13061	NOTE	D5	597.734	1
+242	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	28.861	28.9676	0.10667	NOTE	G5	806.702	1
+243	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	28.9676	29.083	0.11537	NOTE	E5	661.742	1
+244	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	29.1091	29.231	0.1219	NOTE	G5	787.876	1
+245	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	29.231	29.3725	0.1415	NOTE	D5	597.734	1
+246	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	29.3899	29.4922	0.10231	NOTE	E5	669.273	1
+247	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	29.5053	29.5967	0.091429	NOTE	G5	801.054	1
+248	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	29.6163	29.7687	0.15238	BREATH	BREATH	0	4
+249	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	29.7818	29.8971	0.11537	NOTE	A5	900.832	1
+250	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	29.8971	30.0212	0.12408	NOTE	F#5	746.459	1
+251	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	30.0386	30.1018	0.063129	ct	A5	891.419	2
+252	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	30.1083	30.2193	0.11102	NOTE	G5	802.937	1
+253	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	30.228	30.2955	0.067483	NOTE	E5	667.39	1
+254	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	30.3042	30.4501	0.14585	NOTE	D5	571.378	1
+255	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	30.461	30.5589	0.097959	NOTE	G5	804.82	1
+256	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	30.5589	30.6307	0.071837	NOTE	A5	885.771	1
+257	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	30.6373	30.8724	0.2351	BREATH	BREATH	0	4
+258	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	30.8789	30.9529	0.074014	NOTE	B5	1006.26	1
+259	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	30.9595	31.0944	0.13497	NOTE	A5	900.832	1
+260	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	31.101	31.1445	0.043537	ct	B5	974.253	2
+261	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	31.1576	31.2337	0.07619	NOTE	A5	904.597	1
+262	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	31.2512	31.4101	0.15891	NOTE	G5	793.524	1
+263	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	31.4122	31.5233	0.11102	NOTE	E5	661.742	1
+264	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	31.5276	31.6343	0.10667	NOTE	G5	804.82	1
+265	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	31.6408	31.7061	0.065306	NOTE	A5	893.301	1
+266	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	31.7148	31.902	0.18721	BREATH	BREATH	0	4
+267	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	31.9107	32.0522	0.1415	NOTE	B5	998.727	1
+268	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	32.0566	32.1676	0.11102	NOTE	G5	799.172	1
+269	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	32.172	32.2786	0.10667	NOTE	Bb5	917.775	1
+270	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	32.2895	32.4071	0.11755	NOTE	G5	799.172	1
+271	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	32.4332	32.5573	0.12408	NOTE	E5	661.742	1
+272	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	32.5573	32.677	0.11973	NOTE	G5	804.82	1
+273	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	32.677	32.8381	0.16109	NOTE	D5	595.852	1
+274	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	32.8512	32.9513	0.10014	NOTE	G5	797.289	1
+275	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	32.9752	33.0101	0.03483	shRoll_ct	Bb5	932.836	5
+276	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	33.0275	33.0906	0.063129	shRoll_nt	G#5	808.585	1
+277	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	33.0971	33.1167	0.019592	shRoll_str	G5	784.111	3
+278	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	33.1276	33.1886	0.060952	shRoll_nt	G5	806.702	1
+279	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	33.2016	33.2865	0.084898	NOTE	G5	806.702	1
+280	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	33.2931	33.502	0.20898	BREATH	BREATH	0	4
+281	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	33.5064	33.6109	0.10449	NOTE	B5	991.196	1
+282	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	33.6109	33.7437	0.13279	NOTE	A5	895.184	1
+283	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	33.7524	33.8699	0.11755	NOTE	G5	804.82	1
+284	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	33.8699	34.018	0.14803	NOTE	E5	676.803	1
+285	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	34.018	34.179	0.16109	NOTE	D5	593.969	1
+286	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	34.179	34.2944	0.11537	NOTE	B4	499.839	1
+287	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	34.301	34.3401	0.039184	ct	C5	533.726	2
+288	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	34.3445	34.449	0.10449	NOTE	B4	497.957	1
+289	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	34.449	34.5556	0.10667	NOTE	A4	447.127	1
+290	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	34.5644	34.621	0.056599	ct	B4	503.605	2
+291	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	34.6493	34.7276	0.078367	NOTE	A4	445.244	1
+292	Fla_FlutePlayersRoscommonVol1_Tk6Tu1R1_DownTheBroom.txt	34.7472	34.8582	0.11102	NOTE	G4	396.297	1

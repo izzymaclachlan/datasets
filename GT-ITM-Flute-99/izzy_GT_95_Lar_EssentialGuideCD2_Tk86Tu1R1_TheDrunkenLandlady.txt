@@ -1,0 +1,325 @@
+1	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	0.14803	0.35265	0.20463	NOTE	B4	490.811	1
+2	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	0.38748	0.47673	0.089252	lngRoll_nt	E4	330.073	
+3	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	0.47673	0.56163	0.084898	lngRoll_ct	F#4	364.295	
+4	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	0.56163	0.63565	0.074014	lngRoll_nt	E4	327.957	
+5	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	0.63565	0.71619	0.080544	lngRoll_str	Eb4	304.895	
+6	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	0.71619	0.8098	0.093605	lngRoll_nt	E4	327.957	
+7	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	0.81837	0.88776	0.069388	ct	C#5	541.698	2
+8	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	0.9	1.0429	0.14286	NOTE	B4	493.979	1
+9	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	1.0633	1.2143	0.15102	NOTE	A4	435.269	1
+10	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	1.2224	1.3429	0.12041	NOTE	F#4	364.295	1
+11	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	1.3857	1.4959	0.1102	NOTE	A4	436.203	1
+12	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	1.5245	1.5878	0.063265	ct	C#5	540.537	2
+13	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	1.5959	1.7327	0.13673	NOTE	B4	492.921	1
+14	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	1.7592	1.8714	0.11224	lngRoll_nt	E4	333.632	
+15	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	1.8776	1.951	0.073469	lngRoll_ct	F4	344.539	
+16	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	1.951	2.0245	0.073469	lngRoll_nt	E4	332.204	
+17	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	2.0367	2.0939	0.057143	lngRoll_str	Eb4	318.257	
+18	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	2.1122	2.1857	0.073469	lngRoll_nt	E4	331.492	
+19	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	2.2531	2.4265	0.17347	NOTE	B4	491.865	1
+20	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	2.4388	2.5714	0.13265	NOTE	A4	438.078	1
+21	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	2.5918	2.751	0.15918	NOTE	F#4	365.861	1
+22	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	2.7592	2.9204	0.16122	NOTE	B4	491.865	1
+23	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	2.9347	3.0857	0.15102	NOTE	A4	439.961	1
+24	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	3.1041	3.2306	0.12653	NOTE	B4	492.921	1
+25	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	3.2898	3.4408	0.15102	NOTE	A4	436.203	1
+26	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	3.451	3.6	0.14898	NOTE	F#4	361.959	1
+27	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	3.6286	3.9163	0.28776	NOTE	D4	289.599	1
+28	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	3.9163	3.9898	0.073469	ct	F4	356.566	2
+29	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	3.998	4.1122	0.11429	NOTE	E4	328.661	1
+30	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	4.1408	4.2531	0.11224	NOTE	D4	291.468	1
+31	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	4.2816	4.4469	0.16531	NOTE	F#4	363.515	1
+32	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	4.4612	4.5857	0.12449	lngRoll_nt	A4	439.961	
+33	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	4.5939	4.6571	0.063265	lngRoll_ct	C5	514.522	
+34	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	4.6571	4.7245	0.067347	lngRoll_nt	A4	437.14	
+35	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	4.7408	4.8041	0.063265	lngRoll_str	G#4	425.121	
+36	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	4.8163	4.9327	0.11633	lngRoll_nt	A4	437.14	
+37	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	4.9327	5.002	0.069388	ct	C5	533.627	2
+38	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	5.0082	5.149	0.14082	NOTE	B4	493.979	1
+39	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	5.1735	5.3102	0.13673	NOTE	A4	436.203	1
+40	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	5.3245	5.4449	0.12041	NOTE	F#4	362.736	1
+41	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	5.4755	5.598	0.12245	NOTE	A4	436.203	1
+42	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	5.6204	5.6857	0.065306	ct	C#5	545.194	2
+43	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	5.6857	5.8224	0.13673	NOTE	B4	491.865	1
+44	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	5.8388	5.9571	0.11837	lngRoll_nt	E4	327.254	
+45	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	5.9571	6.0204	0.063265	lngRoll_ct	F#4	377.012	
+46	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	6.0327	6.1429	0.1102	lngRoll_nt	E4	327.254	
+47	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	6.1571	6.2102	0.053061	lngRoll_str	Eb4	312.843	
+48	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	6.2122	6.298	0.085714	lngRoll_nt	E4	326.553	
+49	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	6.302	6.3796	0.077551	ct	C5	530.205	2
+50	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	6.3837	6.498	0.11429	NOTE	B4	492.921	1
+51	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	6.5102	6.6694	0.15918	NOTE	A4	435.269	1
+52	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	6.6776	6.8245	0.14694	NOTE	F#4	362.736	1
+53	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	6.8327	6.9735	0.14082	lngRoll_nt	B4	491.865	
+54	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	6.9939	7.0592	0.065306	lngRoll_ct	C5	531.343	
+55	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	7.0673	7.1143	0.046939	lngRoll_nt	B4	492.921	
+56	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	7.1204	7.1694	0.04898	lngRoll_str	B4	482.462	
+57	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	7.1816	7.3204	0.13878	lngRoll_nt	B4	493.979	
+58	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	7.3388	7.5	0.16122	NOTE	D5	585.176	1
+59	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	7.5163	7.6469	0.13061	NOTE	B4	495.039	1
+60	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	7.6531	7.7388	0.085714	ct	C5	515.627	2
+61	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	7.7449	7.8755	0.13061	NOTE	B4	491.865	1
+62	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	7.902	8.0204	0.11837	NOTE	A4	437.14	1
+63	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	8.0694	8.1837	0.11429	NOTE	F#4	365.078	1
+64	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	8.2143	8.3531	0.13878	lngRoll_nt	A4	437.14	
+65	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	8.3571	8.4367	0.079592	lngRoll_ct	B4	496.102	
+66	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	8.4367	8.4898	0.053061	lngRoll_nt	A4	437.14	
+67	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	8.498	8.5592	0.061224	lngRoll_str	G#4	422.394	
+68	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	8.5714	8.7041	0.13265	lngRoll_nt	A4	435.269	
+69	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	8.7265	8.8633	0.13673	NOTE	B4	490.811	1
+70	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	8.8837	9.0082	0.12449	NOTE	A4	439.018	1
+71	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	9.049	9.1939	0.1449	NOTE	D5	583.923	1
+72	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	9.2082	9.3735	0.16531	NOTE	F#5	734.534	1
+73	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	9.3837	9.5408	0.15714	NOTE	E5	661.264	1
+74	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	9.551	9.7041	0.15306	NOTE	C#5	547.538	1
+75	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	9.7122	9.8653	0.15306	NOTE	D5	586.432	1
+76	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	9.898	10.0163	0.11837	NOTE	B4	487.663	1
+77	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	10.0327	10.1	0.067347	ct	C5	520.069	2
+78	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	10.1	10.2408	0.14082	NOTE	A4	432.477	1
+79	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	10.2612	10.3939	0.13265	NOTE	F#4	361.959	1
+80	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	10.4	10.5592	0.15918	NOTE	E4	332.917	1
+81	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	10.5755	10.7163	0.14082	NOTE	F#4	365.078	1
+82	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	10.7367	10.902	0.16531	NOTE	G4	391.85	1
+83	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	10.9184	11.0776	0.15918	NOTE	A4	436.203	1
+84	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	11.0898	11.2327	0.14286	NOTE	B4	484.536	1
+85	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	11.2551	11.3531	0.097959	lngRoll_nt	E4	328.661	
+86	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	11.3531	11.4204	0.067347	lngRoll_ct	F#4	376.205	
+87	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	11.4265	11.5265	0.1	lngRoll_nt	E4	327.254	
+88	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	11.5388	11.598	0.059184	lngRoll_str	Eb4	316.215	
+89	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	11.598	11.6878	0.089796	lngRoll_nt	E4	325.854	
+90	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	11.702	11.8163	0.11429	NOTE	B4	495.039	1
+91	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	11.8306	12.0184	0.18776	BREATH	BREATH	0	4
+92	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	12.0469	12.1653	0.11837	NOTE	F#5	729.823	1
+93	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	12.2245	12.3041	0.079592	NOTE	A4	431.551	1
+94	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	12.449	12.549	0.1	NOTE	B4	489.76	1
+95	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	12.598	12.6959	0.097959	lngRoll_nt	E4	327.254	
+96	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	12.6959	12.7796	0.083673	lngRoll_ct	G4	392.756	
+97	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	12.7857	12.8429	0.057143	lngRoll_nt	E4	321.377	
+98	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	12.8531	12.9163	0.063265	lngRoll_str	Eb4	312.896	
+99	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	12.9245	13.0224	0.097959	lngRoll_nt	E4	323.533	
+100	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	13.0347	13.102	0.067347	ct	C#5	559.775	2
+101	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	13.1102	13.2408	0.13061	NOTE	B4	492.998	1
+102	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	13.2612	13.4082	0.14694	NOTE	A4	434.187	1
+103	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	13.4265	13.5837	0.15714	NOTE	F#4	366.13	1
+104	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	13.5918	13.7408	0.14898	NOTE	B4	491.353	1
+105	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	13.7531	13.9224	0.16939	NOTE	A4	437.1	1
+106	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	13.9367	14.0347	0.097959	NOTE	B4	488.079	1
+107	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	14.0469	14.1102	0.063265	ct	C5	527.086	2
+108	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	14.1122	14.2694	0.15714	NOTE	A4	437.1	1
+109	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	14.2714	14.398	0.12653	NOTE	F#4	361.267	1
+110	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	14.4143	14.749	0.33469	NOTE	D4	291.684	1
+111	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	14.7551	14.8163	0.061224	ct	F4	354.093	2
+112	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	14.8184	14.9082	0.089796	NOTE	E4	328.986	1
+113	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	14.9306	15.0673	0.13673	NOTE	D4	290.711	1
+114	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	15.0816	15.2143	0.13265	NOTE	F#4	361.267	1
+115	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	15.249	15.3755	0.12653	lngRoll_nt	A4	435.641	
+116	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	15.3918	15.4694	0.077551	lngRoll_ct	A4	448.947	
+117	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	15.4776	15.5408	0.063265	lngRoll_nt	A4	435.641	
+118	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	15.549	15.6122	0.063265	lngRoll_str	G#4	424.145	
+119	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	15.6245	15.7367	0.11224	lngRoll_nt	A4	438.563	
+120	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	15.7408	15.8061	0.065306	ct	C5	527.086	2
+121	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	15.8082	15.9224	0.11429	NOTE	B4	492.998	1
+122	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	15.9551	16.0796	0.12449	NOTE	A4	435.641	1
+123	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	16.098	16.2163	0.11837	NOTE	F#4	364.908	1
+124	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	16.2286	16.4367	0.20816	BREATH	BREATH	0	4
+125	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	16.449	16.6082	0.15918	NOTE	B4	489.713	1
+126	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	16.6469	16.7388	0.091837	lngRoll_nt	E4	327.888	
+127	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	16.7449	16.8184	0.073469	lngRoll_ct	G4	390.139	
+128	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	16.8184	16.902	0.083673	lngRoll_nt	E4	333.415	
+129	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	16.9122	16.9714	0.059184	lngRoll_str	Eb4	317.108	
+130	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	16.9755	17.0878	0.11224	lngRoll_nt	E4	333.415	
+131	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	17.1306	17.298	0.16735	NOTE	B4	492.998	1
+132	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	17.3204	17.4673	0.14694	NOTE	A4	435.641	1
+133	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	17.4673	17.6102	0.14286	NOTE	F#4	364.908	1
+134	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	17.6327	17.7796	0.14694	lngRoll_nt	B4	496.305	
+135	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	17.7796	17.8449	0.065306	lngRoll_ct	C5	535.97	
+136	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	17.851	17.9184	0.067347	lngRoll_nt	B4	494.649	
+137	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	17.9306	17.9878	0.057143	lngRoll_str	B4	484.826	
+138	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	17.998	18.1163	0.11837	lngRoll_nt	B4	497.967	
+139	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	18.1388	18.298	0.15918	NOTE	D5	588.56	1
+140	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	18.3184	18.4633	0.1449	NOTE	B4	491.353	1
+141	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	18.4653	18.5204	0.055102	ct	C5	523.574	2
+142	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	18.5265	18.6551	0.12857	NOTE	B4	491.353	1
+143	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	18.6653	18.8061	0.14082	NOTE	A4	438.563	1
+144	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	18.8245	18.9714	0.14694	NOTE	F#4	364.908	1
+145	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	18.9816	19.1163	0.13469	lngRoll_nt	A4	437.1	
+146	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	19.1224	19.1796	0.057143	lngRoll_ct	B4	501.308	
+147	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	19.1796	19.2612	0.081633	lngRoll_nt	A4	434.187	
+148	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	19.2714	19.351	0.079592	lngRoll_str	G#4	419.913	
+149	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	19.3571	19.4776	0.12041	lngRoll_nt	A4	435.641	
+150	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	19.4959	19.6653	0.16939	NOTE	B4	489.713	1
+151	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	19.6837	19.8102	0.12653	NOTE	A4	437.1	1
+152	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	19.8122	19.9796	0.16735	NOTE	D5	592.508	1
+153	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	19.9796	20.1673	0.18776	NOTE	F#5	728.963	1
+154	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	20.1735	20.3102	0.13673	NOTE	E5	657.204	1
+155	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	20.3265	20.4755	0.14898	NOTE	C#5	546.828	1
+156	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	20.5041	20.6388	0.13469	NOTE	D5	584.638	1
+157	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	20.6551	20.7837	0.12857	NOTE	B4	486.45	1
+158	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	20.802	20.8612	0.059184	ct	C5	518.349	2
+159	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	20.8673	21.0163	0.14898	NOTE	A4	435.641	1
+160	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	21.0265	21.1633	0.13673	NOTE	F#4	364.908	1
+161	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	21.1816	21.2837	0.10204	NOTE	E4	328.986	1
+162	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	21.298	21.4878	0.1898	BREATH	BREATH	0	4
+163	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	21.4878	21.6653	0.17755	NOTE	G4	382.392	1
+164	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	21.6776	21.8061	0.12857	NOTE	A4	434.187	1
+165	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	21.8388	22.0102	0.17143	NOTE	B4	492.998	1
+166	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	22.0102	22.1306	0.12041	NOTE	E5	657.204	1
+167	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	22.1388	22.2122	0.073469	ct	F#5	719.281	2
+168	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	22.2245	22.3429	0.11837	NOTE	E5	657.204	1
+169	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	22.3531	22.4755	0.12245	NOTE	D5	584.638	1
+170	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	22.4918	22.5673	0.07551	shRoll_ct	G5	774.173	5
+171	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	22.5776	22.6367	0.059184	shRoll_nt	E5	652.825	1
+172	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	22.649	22.7367	0.087755	shRoll_str	Eb5	625.062	3
+173	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	22.749	22.8143	0.065306	shRoll_nt	E5	657.204	1
+174	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	22.8306	22.9939	0.16327	NOTE	D5	580.742	1
+175	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	22.9959	23.1531	0.15714	NOTE	E5	650.646	1
+176	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	23.1531	23.2776	0.12449	NOTE	F#5	728.963	1
+177	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	23.2776	23.3531	0.07551	NOTE	G#5	827.702	1
+178	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	23.3673	23.4796	0.11224	NOTE	F#5	724.106	1
+179	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	23.502	23.6612	0.15918	NOTE	D5	580.742	1
+180	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	23.6612	23.8245	0.16327	NOTE	F#5	726.531	1
+181	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	23.8449	24.0122	0.16735	NOTE	E5	650.646	1
+182	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	24.0224	24.1653	0.14286	NOTE	F#5	731.404	1
+183	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	24.1755	24.3245	0.14898	NOTE	D5	586.595	1
+184	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	24.3531	24.4653	0.11224	NOTE	B4	491.353	1
+185	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	24.4735	24.5408	0.067347	ct	C5	530.622	2
+186	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	24.5531	24.6939	0.14082	NOTE	B4	488.079	1
+187	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	24.7224	24.8592	0.13673	NOTE	A4	437.1	1
+188	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	24.8755	25.0388	0.16327	NOTE	F#4	366.13	1
+189	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	25.0592	25.2041	0.1449	NOTE	A4	437.1	1
+190	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	25.2388	25.5306	0.29184	NOTE	D4	290.711	1
+191	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	25.5673	25.7122	0.1449	NOTE	E4	328.986	1
+192	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	25.7408	25.8571	0.11633	NOTE	D4	288.774	1
+193	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	25.9	26.0306	0.13061	NOTE	F#4	361.267	1
+194	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	26.0367	26.1796	0.14286	lngRoll_nt	A4	434.187	
+195	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	26.1898	26.251	0.061224	lngRoll_ct	C5	520.085	
+196	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	26.2571	26.3306	0.073469	lngRoll_nt	A4	438.563	
+197	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	26.3408	26.4	0.059184	lngRoll_str	G#4	422.729	
+198	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	26.4102	26.5612	0.15102	lngRoll_nt	A4	435.641	
+199	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	26.5612	26.6224	0.061224	ct	C5	528.85	2
+200	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	26.6286	26.7367	0.10816	NOTE	B4	489.713	1
+201	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	26.7429	26.8898	0.14694	NOTE	A4	438.563	1
+202	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	26.9061	27.0673	0.16122	NOTE	F#4	363.69	1
+203	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	27.0776	27.2469	0.16939	NOTE	A4	437.1	1
+204	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	27.2633	27.3878	0.12449	NOTE	B4	488.079	1
+205	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	27.402	27.5245	0.12245	NOTE	E5	652.825	1
+206	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	27.5265	27.6102	0.083673	ct	G5	766.448	2
+207	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	27.6224	27.7449	0.12245	NOTE	E5	655.01	1
+208	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	27.7449	27.8673	0.12245	NOTE	D5	580.742	1
+209	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	27.8918	27.9714	0.079592	shRoll_ct	G5	771.59	5
+210	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	27.9857	28.0551	0.069388	shRoll_nt	E5	652.825	1
+211	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	28.0551	28.1245	0.069388	shRoll_str	Eb5	614.701	3
+212	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	28.1245	28.2143	0.089796	shRoll_nt	E5	652.825	1
+213	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	28.2224	28.3714	0.14898	NOTE	D5	578.804	1
+214	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	28.3878	28.5286	0.14082	NOTE	E5	648.474	1
+215	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	28.5449	28.6224	0.077551	shRoll_ct	G#5	816.708	5
+216	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	28.6265	28.6816	0.055102	shRoll_nt	F#5	724.106	1
+217	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	28.6918	28.7673	0.07551	shRoll_str	E5	655.01	3
+218	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	28.7776	28.8755	0.097959	shRoll_nt	F#5	721.689	1
+219	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	28.898	29.0653	0.16735	NOTE	D5	584.638	1
+220	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	29.0755	29.1816	0.10612	NOTE	F#5	724.106	1
+221	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	29.1878	29.2653	0.077551	ct	G5	769.015	2
+222	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	29.2776	29.4	0.12245	NOTE	E5	652.825	1
+223	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	29.4082	29.5551	0.14694	NOTE	F#5	726.531	1
+224	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	29.5694	29.7102	0.14082	NOTE	D5	582.687	1
+225	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	29.7694	29.8755	0.10612	lngRoll_nt	A4	432.738	
+226	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	29.8959	29.9551	0.059184	lngRoll_ct	C5	514.895	
+227	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	29.9673	30.0347	0.067347	lngRoll_nt	A4	434.187	
+228	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	30.0429	30.0959	0.053061	lngRoll_str	G#4	414.335	
+229	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	30.1082	30.2082	0.1	lngRoll_nt	A4	438.563	
+230	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	30.2082	30.2776	0.069388	ct	C5	520.085	2
+231	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	30.2857	30.4041	0.11837	NOTE	B4	488.079	1
+232	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	30.4286	30.5449	0.11633	NOTE	A4	435.641	1
+233	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	30.5449	30.702	0.15714	NOTE	D5	584.638	1
+234	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	30.702	30.8959	0.19388	NOTE	F#5	726.531	1
+235	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	30.9122	31.0531	0.14082	NOTE	E5	652.825	1
+236	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	31.0694	31.198	0.12857	NOTE	C#5	543.185	1
+237	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	31.2102	31.3673	0.15714	NOTE	D5	586.595	1
+238	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	31.3816	31.5061	0.12449	NOTE	B4	484.826	1
+239	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	31.5143	31.5551	0.040816	ct	C5	518.349	2
+240	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	31.5776	31.7224	0.1449	NOTE	A4	432.738	1
+241	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	31.7449	31.8694	0.12449	NOTE	F#4	363.69	1
+242	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	31.8776	31.9755	0.097959	NOTE	E4	330.088	1
+243	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	31.998	32.2286	0.23061	BREATH	BREATH	0	4
+244	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	32.2347	32.3612	0.12653	NOTE	G4	391.445	1
+245	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	32.3755	32.5061	0.13061	NOTE	A4	434.187	1
+246	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	32.5347	32.7061	0.17143	NOTE	B4	489.713	1
+247	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	32.7449	32.8449	0.1	NOTE	E5	655.01	1
+248	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	32.8449	32.9204	0.07551	ct	G5	774.173	2
+249	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	32.9327	33.049	0.11633	NOTE	E5	659.404	1
+250	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	33.051	33.1714	0.12041	NOTE	D5	574.947	1
+251	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	33.1959	33.2755	0.079592	shRoll_ct	G5	781.976	5
+252	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	33.2796	33.3449	0.065306	shRoll_nt	E5	659.404	1
+253	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	33.3469	33.4143	0.067347	shRoll_str	Eb5	625.062	3
+254	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	33.4224	33.5327	0.1102	shRoll_nt	E5	657.204	1
+255	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	33.5449	33.6918	0.14694	NOTE	D5	578.804	1
+256	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	33.7041	33.8367	0.13265	NOTE	E5	648.474	1
+257	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	33.8571	33.9633	0.10612	NOTE	F#5	733.854	1
+258	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	33.9816	34.2041	0.22245	BREATH	BREATH	0	4
+259	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	34.2245	34.3857	0.16122	NOTE	D5	584.638	1
+260	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	34.3918	34.5184	0.12653	NOTE	F#5	726.531	1
+261	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	34.5306	34.702	0.17143	NOTE	E5	655.01	1
+262	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	34.7143	34.851	0.13673	NOTE	F#5	728.963	1
+263	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	34.8653	35.0163	0.15102	NOTE	D5	582.687	1
+264	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	35.0408	35.1837	0.14286	NOTE	B4	489.713	1
+265	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	35.1918	35.2673	0.07551	ct	C5	514.895	2
+266	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	35.2776	35.3735	0.095918	NOTE	B4	489.713	1
+267	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	35.402	35.5286	0.12653	NOTE	A4	438.563	1
+268	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	35.549	35.6898	0.14082	NOTE	F#4	362.476	1
+269	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	35.7041	35.8327	0.12857	NOTE	A4	434.187	1
+270	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	35.8571	36.1694	0.31224	NOTE	D4	291.684	1
+271	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	36.1694	36.2327	0.063265	ct	F#4	360.061	2
+272	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	36.2429	36.3592	0.11633	NOTE	E4	324.616	1
+273	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	36.3837	36.498	0.11429	NOTE	D4	287.81	1
+274	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	36.5224	36.6776	0.1551	NOTE	F#4	361.267	1
+275	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	36.6816	36.8184	0.13673	lngRoll_nt	A4	432.738	
+276	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	36.8327	36.8878	0.055102	lngRoll_ct	B4	506.36	
+277	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	36.8878	36.9571	0.069388	lngRoll_nt	A4	435.641	
+278	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	36.9673	37.0347	0.067347	lngRoll_str	G#4	422.729	
+279	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	37.0449	37.149	0.10408	lngRoll_nt	A4	440.032	
+280	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	37.149	37.2122	0.063265	ct	C5	527.086	2
+281	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	37.2265	37.3306	0.10408	NOTE	B4	488.079	1
+282	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	37.3449	37.5061	0.16122	NOTE	A4	434.187	1
+283	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	37.5204	37.6837	0.16327	NOTE	F#4	364.908	1
+284	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	37.7061	37.8408	0.13469	NOTE	A4	437.1	1
+285	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	37.8531	37.9898	0.13673	NOTE	B4	489.713	1
+286	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	38.0163	38.1388	0.12245	NOTE	E5	650.646	1
+287	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	38.1469	38.202	0.055102	ct	F5	716.881	2
+288	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	38.2122	38.3286	0.11633	NOTE	E5	652.825	1
+289	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	38.349	38.4735	0.12449	NOTE	D5	578.804	1
+290	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	38.4837	38.5347	0.05102	shRoll_ct	F#5	746.222	5
+291	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	38.551	38.6449	0.093878	shRoll_nt	E5	648.474	1
+292	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	38.651	38.7143	0.063265	shRoll_str	Eb5	618.825	3
+293	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	38.7245	38.8306	0.10612	shRoll_nt	E5	650.646	1
+294	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	38.8367	38.9796	0.14286	NOTE	D5	580.742	1
+295	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	38.998	39.1347	0.13673	NOTE	E5	650.646	1
+296	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	39.1388	39.2082	0.069388	shRoll_ct	G#5	844.471	5
+297	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	39.2143	39.2939	0.079592	shRoll_nt	F#5	726.531	1
+298	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	39.3061	39.3776	0.071429	shRoll_str	F5	697.963	3
+299	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	39.3918	39.4837	0.091837	shRoll_nt	F#5	724.106	1
+300	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	39.4959	39.6531	0.15714	NOTE	D5	580.742	1
+301	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	39.6694	39.7796	0.1102	NOTE	F#5	724.106	1
+302	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	39.7918	39.949	0.15714	NOTE	E5	655.01	1
+303	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	39.9633	40.1143	0.15102	NOTE	F#5	724.106	1
+304	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	40.1306	40.2469	0.11633	NOTE	D5	578.804	1
+305	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	40.298	40.4306	0.13265	lngRoll_nt	A4	432.738	
+306	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	40.4469	40.5082	0.061224	lngRoll_ct	B4	486.45	
+307	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	40.5163	40.5633	0.046939	lngRoll_nt	A4	435.641	
+308	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	40.5633	40.6449	0.081633	lngRoll_str	G#4	418.511	
+309	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	40.6551	40.7571	0.10204	lngRoll_nt	A4	432.738	
+310	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	40.7633	40.8327	0.069388	ct	C5	525.327	2
+311	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	40.8429	40.9571	0.11429	NOTE	B4	489.713	1
+312	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	40.9653	41.098	0.13265	NOTE	A4	434.187	1
+313	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	41.098	41.2061	0.10816	NOTE	D5	590.531	1
+314	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	41.2265	41.451	0.22449	BREATH	BREATH	0	4
+315	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	41.4612	41.6245	0.16327	NOTE	E5	655.01	1
+316	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	41.6388	41.7878	0.14898	NOTE	C#5	545.003	1
+317	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	41.802	41.9592	0.15714	NOTE	D5	586.595	1
+318	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	41.9776	42.1082	0.13061	NOTE	B4	486.45	1
+319	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	42.1163	42.1816	0.065306	ct	C5	520.085	2
+320	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	42.1878	42.3143	0.12653	NOTE	A4	431.294	1
+321	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	42.3265	42.498	0.17143	NOTE	F#4	363.69	1
+322	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	42.5122	42.6449	0.13265	NOTE	E4	326.794	1
+323	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	42.6735	42.8265	0.15306	NOTE	F#4	363.69	1
+324	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	42.8408	42.9959	0.1551	NOTE	G4	391.445	1
+325	Lar_EssentialGuideCD2_Tk86Tu1R1_TheDrunkenLandlady.txt	43.0204	43.2347	0.21429	NOTE	A4	435.641	1
